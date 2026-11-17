@@ -23,10 +23,10 @@ tests/regress/_diff/
 tools/three-sets/node_modules/
 
 # Voice environment and models (see voice/SETUP.md)
-voice/.venv/
-voice/.asr-venv/
-voice/kokoro/
-voice/out/
+voice/.venv
+voice/.asr-venv
+voice/kokoro
+voice/out
 
 # Rendered movies
 *.mp4

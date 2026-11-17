@@ -1,4 +1,9 @@
-# Voice pipeline setup (not installed in this copy)
+# Voice pipeline setup
+
+## On this Mac: already working (17 Nov 2026)
+The old Blender voice environment still exists and is used in place, through three links in `voice/` (git ignores them): `.venv`, `.asr-venv` and `kokoro` point at `~/Desktop/Blender/voices/`. Nothing was copied and the old folder is only read. Verified: `voice/.venv/bin/python voice/speak.py job.json outdir` made Riot's line s03_02 identical to his Episode 4 recording (waveform correlation 1.000). It needs the Apple GPU: about 40 s per line alone, 4 minutes while a local LLM was also running. Recreate the links on another machine with `ln -sfn <path>/voices/.venv voice/.venv` (same for `.asr-venv`, `kokoro`), or follow the install below.
+
+## Installing from scratch (other machines)
 
 The scripts and base voices are here; the Python environment and models were left behind (about 2 GB). Existing voiced lines for episodes 1–4 are already in `comparisons/episode0N/assets/vo/`, so nothing needs installing until you voice a new episode or character.
 
