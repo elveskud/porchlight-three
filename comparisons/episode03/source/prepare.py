@@ -5,7 +5,7 @@ import numpy as np
 ROOT=Path(__file__).resolve().parents[3];OUT=ROOT/'comparisons/episode03';ASSETS=OUT/'assets';SOURCE=OUT/'source';SCRIPT=ROOT/'episodes/ep03.json';script=json.loads(SCRIPT.read_text())
 voices={}
 for folder in ['ep03','ep03_tail']:
- for f in sorted(Path('/Users/lazaretchaava/Desktop/Blender/videos',folder,'vo').glob('*.wav')):
+ for f in sorted(Path(__import__('os').environ.get('VO_SOURCE',ROOT/'comparisons/episode03/assets'),folder,'vo') if __import__('os').environ.get('VO_SOURCE') else ROOT/'comparisons/episode03/assets/vo'.glob('*.wav')):
   if '_raw' in f.name:continue
   txt=f.with_suffix('.txt')
   if not txt.exists():continue

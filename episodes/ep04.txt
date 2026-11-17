@@ -15,7 +15,7 @@ MAYOR sits on the bench.
 PRESTON (present): Ladies. Gentlemen. Ducks. Imagine... this. But more.
 MARLO carries a clipboard.
 // Marlo pulls the cloth off an easel. The whole park, covered by one enormous building.
-[fx insert kind=paper head=PRESTON_PAVILION image=/Users/lazaretchaava/Desktop/Porchlight.nosync/art/inserts/pavilion.png at=4 for=4]
+[fx insert kind=paper head=PRESTON_PAVILION image=/Users/lazaretchaava/Desktop/Porchlight Three/art/inserts/pavilion.png at=4 for=4]
 RIOT (shocked): What is that?
 PRESTON (happy): That's the Preston Pavilion. It has a fountain inside a smaller fountain.
 BASH: Where do the ducks go?

@@ -20,3 +20,5 @@ A refresh: the old Porchlight project carried a 2.6 GB git history, a Blender pi
 - Hardcoded absolute paths remain only in historical manifests (`*-render.json`, `voice-manifest.json`, `audio-provenance.json`) and in `DECISIONS.md` entries. `tools/three-sets/verify-refined-player.cjs` has a default output path to adjust.
 - Docs in `docs/` and `comparisons/*/README.md` still mention Blender in places (history).
 - Voice scripts have not been re-run from this location yet.
+- `episodes/ep04.txt`/`.json` use an absolute path for the pavilion insert image; updated to this folder in the `.txt` only (the `.json` still points at the old folder).
+- `comparisons/episode0{2,3,4}/source/prepare.py` read voices from `assets/vo/` (or `VO_SOURCE=`); not re-run here.
