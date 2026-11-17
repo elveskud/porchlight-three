@@ -29,7 +29,7 @@ Read order: `AGENTS.md` → `INDEX.md` → one card in `docs/cards/`. Short deci
 
 ## Next (17 Nov, user)
 1. Friend builds the 11 missing sets and 7 characters in the cloud from `docs/FRIEND_PROMPT_BUILD_ASSETS.md` (branch `assets/cloud-build`; the user reviews `art/review/`).
-2. Then: **staging as data** — the full plan is `docs/STAGING_SPEC.md` (start it in a fresh session; about one long session). Voices are DONE: the old environment is linked in place and verified identical (`voice/SETUP.md`).
+2. **Staging as data** — plan in `docs/STAGING_SPEC.md`; now also given to the friend's cloud agent as PART B of `docs/FRIEND_PROMPT_BUILD_ASSETS.md` (branch `staging/data-driver`, separate PR, placeholder voices because the cloud cannot make voices). Or do it here in a fresh session. Voices are DONE: the old environment is linked in place and verified identical (`voice/SETUP.md`).
 3. Local model test: `tools/local-agent/` (Qwen3 14B in Ollama). Round 1 showed the cards need the first action, the format and the voices inline: `AGENTS.md` was rewritten for that; the checker now names the file on STOPPED.
 
 ## Known loose ends

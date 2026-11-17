@@ -10,7 +10,7 @@ Porchlight = animated series (Riot 🦊, Rocco 🦝, Bash 🐻, Pip 🐰) in Map
 - `docs/VOICE_SHEET.md` the four friends' voices for drafting dialogue
 
 ## Cloud and local agents
-- `docs/FRIEND_PROMPT_BUILD_ASSETS.md` prompt to build the 11 missing sets and 7 missing characters in the cloud · `art/three/sets/v5/index.js` and `art/three/animation/v5/characters/index.js` registries for them
+- `docs/FRIEND_PROMPT_BUILD_ASSETS.md` two cloud prompts: Part A builds the 11 missing sets and 7 characters, Part B builds the staging-as-data system · `art/three/sets/v5/index.js` and `art/three/animation/v5/characters/index.js` registries for them
 - `docs/STAGING_SPEC.md` plan to make episodes buildable from a data file (not built yet)
 - `tools/local-agent/` test a local Ollama model on real tasks (`agent.py`, `run_eval.py`, `tasks.json`, `make_scratch.py`)
 
