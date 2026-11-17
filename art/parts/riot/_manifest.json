@@ -1,0 +1,782 @@
+{
+ "riot_lifeguard_00": {
+  "src": "riot_lifeguard.jpg",
+  "box": [
+   691,
+   22,
+   1015,
+   164
+  ],
+  "size": [
+   324,
+   142
+  ]
+ },
+ "riot_lifeguard_01": {
+  "src": "riot_lifeguard.jpg",
+  "box": [
+   3,
+   34,
+   375,
+   347
+  ],
+  "size": [
+   372,
+   313
+  ]
+ },
+ "riot_lifeguard_02": {
+  "src": "riot_lifeguard.jpg",
+  "box": [
+   383,
+   35,
+   681,
+   411
+  ],
+  "size": [
+   298,
+   376
+  ]
+ },
+ "riot_lifeguard_03": {
+  "src": "riot_lifeguard.jpg",
+  "box": [
+   692,
+   177,
+   1013,
+   405
+  ],
+  "size": [
+   321,
+   228
+  ]
+ },
+ "riot_lifeguard_04": {
+  "src": "riot_lifeguard.jpg",
+  "box": [
+   29,
+   386,
+   191,
+   605
+  ],
+  "size": [
+   162,
+   219
+  ]
+ },
+ "riot_lifeguard_05": {
+  "src": "riot_lifeguard.jpg",
+  "box": [
+   678,
+   421,
+   1006,
+   610
+  ],
+  "size": [
+   328,
+   189
+  ]
+ },
+ "riot_lifeguard_06": {
+  "src": "riot_lifeguard.jpg",
+  "box": [
+   239,
+   460,
+   524,
+   782
+  ],
+  "size": [
+   285,
+   322
+  ]
+ },
+ "riot_lifeguard_07": {
+  "src": "riot_lifeguard.jpg",
+  "box": [
+   27,
+   602,
+   162,
+   884
+  ],
+  "size": [
+   135,
+   282
+  ]
+ },
+ "riot_lifeguard_08": {
+  "src": "riot_lifeguard.jpg",
+  "box": [
+   253,
+   778,
+   519,
+   1021
+  ],
+  "size": [
+   266,
+   243
+  ]
+ },
+ "riot_lifeguard_09": {
+  "src": "riot_lifeguard.jpg",
+  "box": [
+   619,
+   805,
+   972,
+   1008
+  ],
+  "size": [
+   353,
+   203
+  ]
+ },
+ "riot_mouths_talk_00": {
+  "src": "riot_mouths_talk.jpg",
+  "box": [
+   345,
+   446,
+   464,
+   577
+  ],
+  "size": [
+   119,
+   131
+  ]
+ },
+ "riot_mouths_talk_01": {
+  "src": "riot_mouths_talk.jpg",
+  "box": [
+   713,
+   448,
+   853,
+   563
+  ],
+  "size": [
+   140,
+   115
+  ]
+ },
+ "riot_mouths_talk_02": {
+  "src": "riot_mouths_talk.jpg",
+  "box": [
+   190,
+   450,
+   347,
+   566
+  ],
+  "size": [
+   157,
+   116
+  ]
+ },
+ "riot_mouths_talk_03": {
+  "src": "riot_mouths_talk.jpg",
+  "box": [
+   852,
+   452,
+   1018,
+   565
+  ],
+  "size": [
+   166,
+   113
+  ]
+ },
+ "riot_mouths_talk_04": {
+  "src": "riot_mouths_talk.jpg",
+  "box": [
+   6,
+   457,
+   191,
+   551
+  ],
+  "size": [
+   185,
+   94
+  ]
+ },
+ "riot_mouths_talk_05": {
+  "src": "riot_mouths_talk.jpg",
+  "box": [
+   467,
+   462,
+   552,
+   551
+  ],
+  "size": [
+   85,
+   89
+  ]
+ },
+ "riot_mouths_talk_06": {
+  "src": "riot_mouths_talk.jpg",
+  "box": [
+   555,
+   464,
+   714,
+   558
+  ],
+  "size": [
+   159,
+   94
+  ]
+ },
+ "riot_pack_00": {
+  "src": "riot_pack.jpg",
+  "box": [
+   527,
+   3,
+   649,
+   146
+  ],
+  "size": [
+   122,
+   143
+  ]
+ },
+ "riot_pack_01": {
+  "src": "riot_pack.jpg",
+  "box": [
+   390,
+   4,
+   513,
+   146
+  ],
+  "size": [
+   123,
+   142
+  ]
+ },
+ "riot_pack_02": {
+  "src": "riot_pack.jpg",
+  "box": [
+   3,
+   34,
+   375,
+   347
+  ],
+  "size": [
+   372,
+   313
+  ]
+ },
+ "riot_pack_03": {
+  "src": "riot_pack.jpg",
+  "box": [
+   394,
+   139,
+   478,
+   285
+  ],
+  "size": [
+   84,
+   146
+  ]
+ },
+ "riot_pack_04": {
+  "src": "riot_pack.jpg",
+  "box": [
+   479,
+   139,
+   561,
+   213
+  ],
+  "size": [
+   82,
+   74
+  ]
+ },
+ "riot_pack_05": {
+  "src": "riot_pack.jpg",
+  "box": [
+   561,
+   139,
+   646,
+   213
+  ],
+  "size": [
+   85,
+   74
+  ]
+ },
+ "riot_pack_06": {
+  "src": "riot_pack.jpg",
+  "box": [
+   852,
+   141,
+   920,
+   189
+  ],
+  "size": [
+   68,
+   48
+  ]
+ },
+ "riot_pack_07": {
+  "src": "riot_pack.jpg",
+  "box": [
+   780,
+   150,
+   854,
+   196
+  ],
+  "size": [
+   74,
+   46
+  ]
+ },
+ "riot_pack_08": {
+  "src": "riot_pack.jpg",
+  "box": [
+   920,
+   152,
+   992,
+   195
+  ],
+  "size": [
+   72,
+   43
+  ]
+ },
+ "riot_pack_09": {
+  "src": "riot_pack.jpg",
+  "box": [
+   692,
+   157,
+   770,
+   193
+  ],
+  "size": [
+   78,
+   36
+  ]
+ },
+ "riot_pack_10": {
+  "src": "riot_pack.jpg",
+  "box": [
+   774,
+   193,
+   859,
+   245
+  ],
+  "size": [
+   85,
+   52
+  ]
+ },
+ "riot_pack_11": {
+  "src": "riot_pack.jpg",
+  "box": [
+   854,
+   194,
+   918,
+   244
+  ],
+  "size": [
+   64,
+   50
+  ]
+ },
+ "riot_pack_12": {
+  "src": "riot_pack.jpg",
+  "box": [
+   917,
+   201,
+   995,
+   244
+  ],
+  "size": [
+   78,
+   43
+  ]
+ },
+ "riot_pack_13": {
+  "src": "riot_pack.jpg",
+  "box": [
+   690,
+   202,
+   776,
+   243
+  ],
+  "size": [
+   86,
+   41
+  ]
+ },
+ "riot_pack_14": {
+  "src": "riot_pack.jpg",
+  "box": [
+   482,
+   210,
+   558,
+   269
+  ],
+  "size": [
+   76,
+   59
+  ]
+ },
+ "riot_pack_15": {
+  "src": "riot_pack.jpg",
+  "box": [
+   565,
+   232,
+   640,
+   259
+  ],
+  "size": [
+   75,
+   27
+  ]
+ },
+ "riot_pack_16": {
+  "src": "riot_pack.jpg",
+  "box": [
+   916,
+   275,
+   1002,
+   329
+  ],
+  "size": [
+   86,
+   54
+  ]
+ },
+ "riot_pack_17": {
+  "src": "riot_pack.jpg",
+  "box": [
+   715,
+   276,
+   808,
+   356
+  ],
+  "size": [
+   93,
+   80
+  ]
+ },
+ "riot_pack_18": {
+  "src": "riot_pack.jpg",
+  "box": [
+   816,
+   283,
+   903,
+   321
+  ],
+  "size": [
+   87,
+   38
+  ]
+ },
+ "riot_pack_19": {
+  "src": "riot_pack.jpg",
+  "box": [
+   550,
+   290,
+   597,
+   367
+  ],
+  "size": [
+   47,
+   77
+  ]
+ },
+ "riot_pack_20": {
+  "src": "riot_pack.jpg",
+  "box": [
+   453,
+   291,
+   539,
+   366
+  ],
+  "size": [
+   86,
+   75
+  ]
+ },
+ "riot_pack_21": {
+  "src": "riot_pack.jpg",
+  "box": [
+   624,
+   291,
+   671,
+   366
+  ],
+  "size": [
+   47,
+   75
+  ]
+ },
+ "riot_pack_22": {
+  "src": "riot_pack.jpg",
+  "box": [
+   367,
+   293,
+   456,
+   366
+  ],
+  "size": [
+   89,
+   73
+  ]
+ },
+ "riot_pack_23": {
+  "src": "riot_pack.jpg",
+  "box": [
+   912,
+   353,
+   1006,
+   417
+  ],
+  "size": [
+   94,
+   64
+  ]
+ },
+ "riot_pack_24": {
+  "src": "riot_pack.jpg",
+  "box": [
+   713,
+   355,
+   811,
+   403
+  ],
+  "size": [
+   98,
+   48
+  ]
+ },
+ "riot_pack_25": {
+  "src": "riot_pack.jpg",
+  "box": [
+   390,
+   360,
+   433,
+   436
+  ],
+  "size": [
+   43,
+   76
+  ]
+ },
+ "riot_pack_26": {
+  "src": "riot_pack.jpg",
+  "box": [
+   476,
+   360,
+   517,
+   436
+  ],
+  "size": [
+   41,
+   76
+  ]
+ },
+ "riot_pack_27": {
+  "src": "riot_pack.jpg",
+  "box": [
+   549,
+   360,
+   598,
+   436
+  ],
+  "size": [
+   49,
+   76
+  ]
+ },
+ "riot_pack_28": {
+  "src": "riot_pack.jpg",
+  "box": [
+   624,
+   360,
+   669,
+   436
+  ],
+  "size": [
+   45,
+   76
+  ]
+ },
+ "riot_pack_29": {
+  "src": "riot_pack.jpg",
+  "box": [
+   816,
+   364,
+   903,
+   398
+  ],
+  "size": [
+   87,
+   34
+  ]
+ },
+ "riot_pack_30": {
+  "src": "riot_pack.jpg",
+  "box": [
+   29,
+   386,
+   191,
+   605
+  ],
+  "size": [
+   162,
+   219
+  ]
+ },
+ "riot_pack_31": {
+  "src": "riot_pack.jpg",
+  "box": [
+   232,
+   429,
+   524,
+   782
+  ],
+  "size": [
+   292,
+   353
+  ]
+ },
+ "riot_pack_32": {
+  "src": "riot_pack.jpg",
+  "box": [
+   909,
+   429,
+   1009,
+   482
+  ],
+  "size": [
+   100,
+   53
+  ]
+ },
+ "riot_pack_33": {
+  "src": "riot_pack.jpg",
+  "box": [
+   812,
+   430,
+   908,
+   480
+  ],
+  "size": [
+   96,
+   50
+  ]
+ },
+ "riot_pack_34": {
+  "src": "riot_pack.jpg",
+  "box": [
+   713,
+   435,
+   803,
+   483
+  ],
+  "size": [
+   90,
+   48
+  ]
+ },
+ "riot_pack_35": {
+  "src": "riot_pack.jpg",
+  "box": [
+   587,
+   512,
+   739,
+   688
+  ],
+  "size": [
+   152,
+   176
+  ]
+ },
+ "riot_pack_36": {
+  "src": "riot_pack.jpg",
+  "box": [
+   741,
+   514,
+   882,
+   689
+  ],
+  "size": [
+   141,
+   175
+  ]
+ },
+ "riot_pack_37": {
+  "src": "riot_pack.jpg",
+  "box": [
+   24,
+   602,
+   161,
+   884
+  ],
+  "size": [
+   137,
+   282
+  ]
+ },
+ "riot_pack_38": {
+  "src": "riot_pack.jpg",
+  "box": [
+   864,
+   651,
+   1002,
+   796
+  ],
+  "size": [
+   138,
+   145
+  ]
+ },
+ "riot_pack_39": {
+  "src": "riot_pack.jpg",
+  "box": [
+   562,
+   675,
+   684,
+   804
+  ],
+  "size": [
+   122,
+   129
+  ]
+ },
+ "riot_pack_40": {
+  "src": "riot_pack.jpg",
+  "box": [
+   698,
+   687,
+   858,
+   797
+  ],
+  "size": [
+   160,
+   110
+  ]
+ },
+ "riot_pack_41": {
+  "src": "riot_pack.jpg",
+  "box": [
+   253,
+   778,
+   519,
+   1021
+  ],
+  "size": [
+   266,
+   243
+  ]
+ },
+ "riot_pack_42": {
+  "src": "riot_pack.jpg",
+  "box": [
+   619,
+   805,
+   972,
+   1008
+  ],
+  "size": [
+   353,
+   203
+  ]
+ }
+}

@@ -1,0 +1,121 @@
+# Porchlight 2: Dare House
+next: Summer Homework
+thumb: DON'T TOUCH IT
+grade: summer
+
+== Cold open | lake, day | riot (lifeguard), rocco, bash, pip
+ROCCO sits on the sand.
+RIOT carries a phone.
+BASH (cocky): Dare. Obviously dare. I don't do truth. Truth is for people with nothing to prove.
+PIP: You have a lot to prove.
+BASH: Exactly.
+[game td: Pretend to knock on an invisible door and act out being hopelessly lost. | bash | Excuse me! Is this the way to... anywhere?]
+ROCCO (munch): Very lost. Good lost.
+BASH (hips): That's it? That's the dare? An invisible door?
+ROCCO: Could be a real door.
+BASH: Bring me a real door. Bring me the scariest door in Maple Hollow.
+// Everyone slowly turns. Far across the water, up on the hill: the old house.
+PIP (nervous, looks right): You said it. I just want that written down.
+BASH (nervous): Easy.
+// His ears go flat. Hold on the ears.
+[hold: 3]
+
+[intro]
+
+
+== The walk up | hall outside, sunset | riot, rocco, bash, pip
+RIOT enters left.
+BASH enters left.
+PIP enters left.
+ROCCO enters left.
+PIP: Why is it even haunted?
+RIOT (shrug): Depends who you ask.
+BASH (count): A ghost band. They died mid-song. You can hear them tuning up.
+PIP: I heard a cursed bake sale.
+BASH: How is a bake sale cursed?
+PIP (nervous): Nobody came. For a hundred years.
+RIOT: What did you hear, Rocco?
+ROCCO (munch): It's old.
+RIOT: That's it?
+ROCCO: Old is pretty scary.
+BASH: But what was it, before? Who built it?
+// All four stop. Nobody knows. Nobody finds this strange.
+PIP: ...Huh.
+RIOT (nervous, to bash): Listen, dares are optional. Legally. We could go swimming instead.
+BASH (cocky): Are you scared?
+RIOT: I'm a lifeguard. I guard life. Yours, specifically.
+BASH: I'm going round the front.
+RIOT (point): Don't use the front, the back door sticks but the front's got that loose...
+// He stops. Three heads turn.
+ROCCO (stare): ...
+RIOT (embarrassed): Is what I've heard. Legally.
+ROCCO (joke): Busy guy. Lots of legal hearing.
+[hold: 2]
+
+== The door | hall outside, sunset | riot, rocco, bash, pip
+[mood: tense]
+BASH (determined): Friends. If I don't come back, tell my family I won. At anything. Doesn't matter what.
+// He sets off. It's three metres. He takes it one tiny step at a time.
+BASH walks to the door.
+ROCCO (munch): This is the longest three metres of my life.
+PIP (quietly): Should someone go with him?
+ROCCO: He's got a good pace. Very respectful.
+[card: 40 seconds later.]
+BASH (scared, whispers): Touching it. I'm touching it. It's touched.
+[fx door box_px=[494,255,558,350] at=4 hinge=left]
+[sfx: door]
+// The door swings inward on its own, slowly, with a long creak. Black inside.
+BASH (shocked): ...
+PIP (scared, whispers): It's not supposed to do that.
+RIOT (whispers): It's not.
+[hold: 5]
+
+--
+[mood: tense]
+[sfx: tap]
+[fx die path=[[526,348,0.2],[578,362,1.4]]]
+// From the dark: tok. Tok-tok-tok. A small wooden die rolls out over the boards and stops against Bash's foot.
+// Total silence. One cricket stops.
+BASH (take, yelling): AAAAAH!
+PIP (take, yelling): AAAAAH!
+RIOT (take, yelling): AAAAAH!
+// Everyone runs. Rocco chews, swallows, looks into the dark, and then, flatly:
+ROCCO (shocked): Ah.
+ROCCO runs off left.
+[hold: 4]
+
+== Warm landing | lake, night | rocco, bash, pip, riot
+BASH runs in right.
+PIP runs in right.
+RIOT runs in right.
+ROCCO enters right.
+BASH sits on the sand.
+PIP sits on the sand.
+[mood: soft]
+BASH (nervous): I wasn't scared. I was warming up.
+RIOT (laugh): Warming up for what?
+BASH: The screaming. You have to warm up or you pull something.
+ROCCO (joke): You warmed up for a very long time.
+// Everyone laughs, out of breath. Riot looks back at the hill, just for a second. Rocco sees him look.
+RIOT: Come on, Rocco. Let's get you home before you get scared again.
+RIOT exits right.
+ROCCO exits right.
+[hold: 2]
+
+--
+[mood: soft]
+// Bash's paws are shaking. He hides them. Pip doesn't look at them. He just moves a little closer and stays.
+PIP (chin): ...
+BASH (quietly, to pip): Thanks for not saying anything.
+PIP (soft, to bash): Say anything about what?
+[hold: 2]
+
+== Bash's room | bash home, night | bash
+BASH enters left.
+// He empties his pocket on the desk: keys, a mint, and the die. He doesn't remember picking it up.
+[fx die path=[[650,276,0.3],[702,298,1.2]]]
+BASH (scared, whispers): ...No. No no no.
+// Close on the die. Five normal faces. Where the single dot should be: a tiny lantern mark.
+// He opens a drawer, puts it in, closes it, then pushes a sock in front of the drawer for safety.
+BASH (quietly): Warming up.
+[hold: 7]

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Porchlight-work\\Blender\\videos\\ep02\\vo\\s07_01.wav",
+    "duration": 1.55
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "X" },
+    { "start": 0.03, "end": 0.16, "value": "C" },
+    { "start": 0.16, "end": 0.30, "value": "B" },
+    { "start": 0.30, "end": 0.50, "value": "X" },
+    { "start": 0.50, "end": 0.57, "value": "B" },
+    { "start": 0.57, "end": 0.64, "value": "C" },
+    { "start": 0.64, "end": 0.71, "value": "D" },
+    { "start": 0.71, "end": 0.92, "value": "B" },
+    { "start": 0.92, "end": 0.99, "value": "C" },
+    { "start": 0.99, "end": 1.20, "value": "B" },
+    { "start": 1.20, "end": 1.48, "value": "F" },
+    { "start": 1.48, "end": 1.55, "value": "X" }
+  ]
+}

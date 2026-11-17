@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "sets": [
+    {
+      "name": "Old hall",
+      "reference": "art/gemini/sets/hall_outside_sunset.jpg",
+      "episodeReviewIndex": 0,
+      "sha256": "eee98ecf6666ca383b2d84eaecb80eb230bac49a2187697cfe5e75c09cca0f4d",
+      "imageSize": [
+        1024,
+        572
+      ]
+    },
+    {
+      "name": "Classroom",
+      "reference": "art/gemini/first-round/c2_classroom_day.jpg",
+      "episodeReviewIndex": 1,
+      "sha256": "f784b18bb62431c508631e9937b1f165d1954de9d90ed9dcc521dedcf79911e3",
+      "imageSize": [
+        1024,
+        572
+      ]
+    },
+    {
+      "name": "Lake at night",
+      "reference": "art/gemini/sets/lake_night_v2.jpg",
+      "episodeReviewIndex": 3,
+      "sha256": "33ed0b574447f5839f9b2672c9dc77f344cd38b3bf5cdc8b27d35f9e3677ea04",
+      "imageSize": [
+        1024,
+        572
+      ]
+    },
+    {
+      "name": "Stoop at sunset",
+      "reference": "art/gemini/sets/stoop_sunset_v2.jpg",
+      "episodeReviewIndex": 4,
+      "sha256": "ce94a88bb69579b61726c86790149877768e444db3c80e3ac78c66ad8db3709e",
+      "imageSize": [
+        1024,
+        572
+      ]
+    },
+    {
+      "name": "Main Street",
+      "reference": "art/gemini/sets/55_main_street_day_mailbox.jpg",
+      "episodeReviewIndex": 6,
+      "sha256": "18ab81fa7e5d063ac486069bb021b32cfedccb15b0290d0a59b956d797f2f1cc",
+      "imageSize": [
+        1024,
+        572
+      ]
+    },
+    {
+      "name": "Brook\u2019s porch",
+      "reference": "art/gemini/sets/54_brook_porch_summer.jpg",
+      "episodeReviewIndex": 10,
+      "sha256": "fb6cf0e7e5ae66b7846ebf940df2519ae6ca2357e2e24827c4b8928ffbcc7321",
+      "imageSize": [
+        1024,
+        572
+      ]
+    },
+    {
+      "name": "Pip\u2019s bedroom",
+      "reference": "art/gemini/sets/19_pip_room_night.jpg",
+      "episodeReviewIndex": 11,
+      "sha256": "fe0af35567d037afad718ce909f86ce63b2bb3f251d0ffa2771073e34d8a2d30",
+      "imageSize": [
+        1024,
+        572
+      ]
+    },
+    {
+      "name": "Stoop at night",
+      "reference": "art/gemini/sets/stoop_night_v2.jpg",
+      "episodeReviewIndex": 17,
+      "sha256": "1865c5a106623fc7751e656cafb1d54a874ec175d5fcdfd99d2a59d32003b5ba",
+      "imageSize": [
+        1024,
+        572
+      ]
+    },
+    {
+      "name": "Pip\u2019s garage",
+      "reference": "art/gemini/sets/56_pip_garage_one_box.jpg",
+      "episodeReviewIndex": 20,
+      "sha256": "ec4e175eddb21fe8331b29080cf1216a124bd10da2adafdb71de156a09a9cc2c",
+      "imageSize": [
+        1024,
+        572
+      ]
+    }
+  ]
+}

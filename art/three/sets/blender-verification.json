@@ -1,0 +1,132 @@
+{
+  "result": "PASS",
+  "blender": "5.2.2 LTS",
+  "imports": [
+    {
+      "file": "apartment.glb",
+      "meshes": 177,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "bash_home.glb",
+      "meshes": 137,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "brook_porch.glb",
+      "meshes": 246,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "classroom.glb",
+      "meshes": 224,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "hall.glb",
+      "meshes": 225,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "hall_outside.glb",
+      "meshes": 126,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "lake.glb",
+      "meshes": 482,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "lake_night.glb",
+      "meshes": 508,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "lake_storm.glb",
+      "meshes": 472,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "main_street.glb",
+      "meshes": 580,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "park.glb",
+      "meshes": 307,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "pip_garage.glb",
+      "meshes": 55,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "pip_home.glb",
+      "meshes": 121,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "school_gym.glb",
+      "meshes": 416,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "stoop_night.glb",
+      "meshes": 508,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "stoop_sunset.glb",
+      "meshes": 482,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "walt_dining.glb",
+      "meshes": 127,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "walt_dining_storm.glb",
+      "meshes": 127,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "walt_hallway.glb",
+      "meshes": 69,
+      "cameras": 1,
+      "invalidVertices": 0
+    },
+    {
+      "file": "walt_porch.glb",
+      "meshes": 176,
+      "cameras": 1,
+      "invalidVertices": 0
+    }
+  ],
+  "updatedLakeVerification": "lake-world/blender-verification.json",
+  "supersededLakeAssets": [
+    "lake",
+    "lake_night",
+    "lake_storm"
+  ]
+}

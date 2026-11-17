@@ -1,0 +1,16 @@
+ATTACH: art/gemini/characters/06_preston.jpg
+SAVE AS: art/gemini/refs/poses_preston.jpg
+
+PROMPT (copy everything below):
+
+Image 1 shows Preston, a vain, rich peacock developer from a 2D cartoon series. Draw him, keeping his exact design, colours, clothes and proportions, seen from the FRONT like in image 1.
+A pose sheet, 8 poses in two rows, all the same scale, each one separate:
+1) tail feathers fanned out wide, showing off, big confident smile
+2) tail folded down, adjusting his tie
+3) presenting something grand with one wing sweeping out
+4) checking his gold cufflink, bored
+5) a fake, toothy smile
+6) offended, chin up, feathers ruffled
+7) alone and thoughtful, tail down, looking away
+8) pointing at a far-off spot, "picture it"
+Draw ONLY the character. Bold clean black outlines, flat solid colours with ONE darker shadow tone, no texture. Plain white background. NO text, NO labels, NO numbers.

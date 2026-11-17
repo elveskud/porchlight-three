@@ -1,0 +1,10 @@
+import * as THREE from 'three';
+import {ease} from './performance.js';
+const V=(x=0,y=0,z=0)=>new THREE.Vector3(x,y,z),clamp=THREE.MathUtils.clamp;
+export function setCamera(camera,position,target,fov=38){camera.position.fromArray(position);camera.fov=fov;camera.lookAt(...target);camera.updateProjectionMatrix();camera.updateMatrixWorld(true);}
+export function frameActors(camera,rigs,{facing=1,padding=1.15,fov=38,maxDistance=12,offsetX=.12}={}){const box=new THREE.Box3();for(const r of rigs.filter(Boolean)){const root=r.root.position.clone(),head=r.head.localToWorld(V(0,['pip','dot'].includes(r.root.userData.castId)?2.75:r.root.userData.castId==='riot'?2.4:r.root.userData.castId==='gus'?1.85:1.6,.35));box.expandByPoint(root.add(V(-.62,-.1,0)));box.expandByPoint(head.add(V(.62,.12,0)));}if(box.isEmpty())return;const center=box.getCenter(V()),size=box.getSize(V()),distance=clamp(Math.max(size.y*1.65,size.x*.95)*padding,3.7,maxDistance);setCamera(camera,[center.x+offsetX,center.y+.15,center.z+facing*distance],[center.x,center.y+.03,center.z],fov);}
+export function authoredMove(camera,t,{start,end,from,to,targetFrom,targetTo,fov=38}){const u=ease((t-start)/(end-start)),p=V(...from).lerp(V(...to),u),target=V(...targetFrom).lerp(V(...targetTo),u);setCamera(camera,p.toArray(),target.toArray(),fov);}
+export function flatten(camera,target,factor=1.25){const dir=camera.getWorldDirection(V()),d=Math.max(1,target.clone().sub(camera.position).dot(dir));camera.position.addScaledVector(dir,-d*(factor-1));camera.fov=2*Math.atan(Math.tan(THREE.MathUtils.degToRad(camera.fov/2))/factor)*180/Math.PI;camera.updateProjectionMatrix();camera.updateMatrixWorld(true);}
+export function projectedHead(r,camera){const v=r.head.localToWorld(V(0,.65,.43)).project(camera);return {x:(v.x+1)/2,y:(1-v.y)/2,z:v.z};}
+export function cameraSide(camera,a,b){return b.clone().sub(a).cross(camera.position.clone().sub(a)).y;}
+export function onActionCut(previous,current){return {positionError:previous.position.distanceTo(current.position),directionDot:previous.direction.dot(current.direction)};}

@@ -1,0 +1,16 @@
+ATTACH: art/gemini/characters/03_walt.jpg
+SAVE AS: art/gemini/refs/poses_walt.jpg
+
+PROMPT (copy everything below):
+
+Image 1 shows Walt, a warm, stocky father fox from a 2D cartoon series. Draw him, keeping his exact design, colours, clothes and proportions, seen from the FRONT like in image 1.
+A pose sheet, 8 poses in two rows, all the same scale, each one separate:
+1) carrying a big dish of food with both paws, proud
+2) laughing warmly, one paw on his belly
+3) arms open wide, welcoming guests
+4) a quiet, sad look, eyes down, tea towel in his paws
+5) leaning on a doorframe, gentle smile
+6) one paw on someone's shoulder (just the arm reaching out)
+7) pointing to a chair, "sit, sit"
+8) holding up an old framed photo, looking at it fondly
+Draw ONLY the character. Bold clean black outlines, flat solid colours with ONE darker shadow tone, no texture. Plain white background. NO text, NO labels, NO numbers.

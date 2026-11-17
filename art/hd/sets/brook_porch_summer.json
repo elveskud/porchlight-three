@@ -1,0 +1,174 @@
+{
+ "fronts": [
+  {
+   "name": "auto_01",
+   "z": 6.25,
+   "base_px": 526,
+   "bbox": [
+    79,
+    94,
+    279,
+    531
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_02",
+   "z": 6.25,
+   "base_px": 517,
+   "bbox": [
+    64,
+    259,
+    176,
+    503
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_03",
+   "z": 4.75,
+   "base_px": 488,
+   "bbox": [
+    789,
+    0,
+    1023,
+    515
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_04",
+   "z": 4.75,
+   "base_px": 476,
+   "bbox": [
+    12,
+    336,
+    32,
+    477
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_05",
+   "z": 2.0,
+   "base_px": 418,
+   "bbox": [
+    641,
+    351,
+    691,
+    419
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_06",
+   "z": 2.0,
+   "base_px": 404,
+   "bbox": [
+    388,
+    250,
+    410,
+    405
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_07",
+   "z": 2.0,
+   "base_px": 403,
+   "bbox": [
+    609,
+    250,
+    631,
+    405
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_08",
+   "z": 2.0,
+   "base_px": 390,
+   "bbox": [
+    363,
+    304,
+    375,
+    391
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_09",
+   "z": 2.0,
+   "base_px": 388,
+   "bbox": [
+    445,
+    336,
+    574,
+    390
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_10",
+   "z": 2.0,
+   "base_px": 292,
+   "bbox": [
+    639,
+    230,
+    699,
+    292
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_11",
+   "z": 2.0,
+   "base_px": 207,
+   "bbox": [
+    0,
+    0,
+    152,
+    217
+   ],
+   "auto": true
+  }
+ ],
+ "clean": "brook_porch_summer_clean",
+ "walk_lines": [
+  440,
+  490,
+  540
+ ],
+ "spots": {
+  "chair": [
+   172,
+   418,
+   "sit",
+   0.42,
+   7.0,
+   "away"
+  ]
+ },
+ "lamps": [],
+ "life": {
+  "birds": {
+   "area": [
+    300,
+    40,
+    780,
+    200
+   ],
+   "n": 2
+  },
+  "leaves": {
+   "area": [
+    600,
+    80,
+    780,
+    300
+   ],
+   "n": 3,
+   "color": "#4E7A2E"
+  }
+ }
+}

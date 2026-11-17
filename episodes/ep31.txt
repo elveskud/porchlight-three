@@ -1,0 +1,107 @@
+# Porchlight 31: Who Sits Where
+next: Final Offer
+thumb: WHICH ONE ARE YOU?
+grade: summer
+previously: The game is called Lamplight. Four seats. No one plays alone.
+
+== Cold open | hall, night | riot, rocco, bash, pip
+RIOT sits on the edge.
+PIP carries a notebook.
+// The board, in the warm flashlight. The carved corners, shown properly at last: an eye, a key, a footprint, an ear. Four boys stand looking down at them, each with a paw on a chair.
+RIOT (hype): Eye, key, foot, ear. Four seats. Each by its own player. So who's who?
+BASH (determined): I'm the eye. Obviously. I've got great eyes.
+ROCCO (munch): You thought a log was a shark.
+BASH: It was a very shark-like log.
+[hold: 4]
+
+[intro]
+
+
+== Personality test | hall, night | riot, rocco, bash, pip
+BASH (present): We need a system. I've got one. What kind of person are you? Answer quickly.
+BASH (point): Riot! You're at a party. Do you go in by the door, or by the window?
+RIOT: Why would I go in by the window?
+BASH (nod): Key. Doors. Definitely key.
+PIP: Could I just say...
+BASH: Pip! Footprint! You've got big feet, it's a rabbit thing.
+ROCCO (deadpan): That's not how you read a game.
+BASH: Fine. I'm eye, Rocco's ear, because he lies there listening, Riot's key, Pip's foot. Sit down. Go!
+// They all sit down. They all have a go. The pieces move. Everyone's pleased. Bash folds his arms, a bear of systems.
+[hold: 3]
+
+== Morning | hall, night | riot, rocco, bash, pip
+[mood: tense]
+[card: Next night.]
+RIOT (nervous): Okay. Moment of truth.
+// The lid comes up. Every piece, back at the storm. Bash lowers his arms.
+BASH (gloom): The test had flaws.
+[hold: 2]
+
+--
+BASH (determined): New idea! Age order!
+[card: Next night.]
+// The lid comes up. The storm.
+[hold: 1]
+
+--
+BASH (determined): Alphabetical!
+[card: Next night.]
+// The lid comes up. The storm.
+[hold: 1]
+
+--
+BASH (determined): Height!
+ROCCO (deadpan): I've got an idea.
+[card: Next night.]
+// The lid comes up. The storm. Riot closes it again. He looks oddly happy. It's the first time in eight years he's seen it fail and laughed.
+RIOT (laugh): This is the worst we've ever been at anything.
+PIP (quietly): Can I actually say something now?
+[hold: 3]
+
+== Pip | hall, night | riot, rocco, bash, pip
+PIP stands at the table.
+// He stands up. Everyone stops, because that's new. He takes a breath, and he uses his real voice, in front of all of them, for the first time without being asked.
+PIP (soft): It isn't about what you are. It's about what you do that nobody else does.
+PIP (soft, to rocco): You notice patterns. You saw the calendar and the fireflies. That's the eye.
+ROCCO (nod): Okay.
+PIP (soft, to riot): You found the history. Everything we've got, you opened. The door, the box, your dad. That's the key.
+PIP (soft, to bash): You go first. Every time, scared out of your mind. That's the foot. It's not big feet. It's the first step.
+// Bash's mouth is open slightly. He closes it. He looks at the footprint on the corner. He looks at his own paw.
+BASH (quietly): That's me?
+PIP (soft): That's always been you.
+ROCCO (quietly): What's the ear?
+RIOT (soft): The one who listens. To what people say, and what they don't.
+// All three are looking at him. Pip's ears go slowly red. He looks at the last corner. There's only one chair left.
+BASH (happy): Well, obviously. Who else?
+PIP (nervous): I wasn't... I was only saying what was...
+ROCCO (deadpan): Sit down, Ear.
+[hold: 8]
+
+== Their seats | hall, night | riot, rocco, bash, pip
+[mood: soft]
+// They sit. Eye. Key. Foot. Ear. It looks right at once. It looks like a photograph. Nobody says so. Bash puts down the die, and it's warm, and the room feels as if someone has opened a door somewhere.
+RIOT (soft): Here goes.
+// They play. No montage this time. Four paws, four moves, and a piece carried round a painted lake. Each one playing what they see. Rocco points at something on the board, and says it out loud. Pip tells Riot what a card really means. It's quiet, and it's slow, and they play till the windows go grey.
+[hold: 8]
+
+== It stayed | hall, night | riot, rocco, bash, pip
+[mood: tense]
+[card: Next night.]
+RIOT stands at the table.
+// All four stand round the closed box. Nobody wants to do it. Riot's paw is on the lid. Bash reaches out and puts his big paw over it. Pip puts his on top. Rocco, after a moment, adds his, slightly chip-flavoured. Together, they lift.
+// The storm is gone from the board. The pieces are where they left them, every one. The figure with the tiny hat has moved three squares along the painted shore.
+// For the first time in forty years, it has moved.
+[sfx: ting]
+RIOT (soft, whispers): It stayed.
+// He says it very quietly. He says it again, and it breaks in the middle.
+RIOT (shocked): It STAYED!
+BASH (cheer): IT STAYED!
+[mood: party]
+// The hall goes up. Bash has both of them off the floor. Rocco's yelling, actually yelling, something about a piece. Pip's laughing, in his real voice, with his ears flat back. Riot's crying and doesn't care. Somewhere above them the four footsteps have started up, and for the first time, they sound like dancing.
+RIOT hugs PIP.
+[hold: 8]
+
+== Outside | lake, night | 
+[mood: soft]
+// Night at the lake. Calm water. And up in the warm dark, the very first thing we've seen change: one high leaf on the old oak by the water, with one yellow edge. Just the one. Nobody's there to see it.
+[hold: 14]

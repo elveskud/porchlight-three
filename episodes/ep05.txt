@@ -1,0 +1,126 @@
+# Porchlight 5: Storm Night
+next: Town Meeting
+thumb: LIGHTS OUT
+grade: summer
+
+== Cold open | walt dining | walt, riot, rocco, bash, pip
+WALT carries a cup.
+// A table with far too much food on it. Bash is eating as if there's a clock running.
+WALT (happy): Nobody's leaving this table hungry. I've made four kinds of potato.
+BASH (cocky): I've done two. I'm pacing myself.
+RIOT: Dad, you made food for twenty.
+WALT (happy): Your grandpa used to say a summer's only good once it's over.
+WALT (happy): I never knew what he meant, but he also ate a lot of potato.
+RIOT (nervous): Great! Who wants to play a game?
+// Fast. Too fast. Pip looks at him, then at his plate.
+[hold: 4]
+
+[intro]
+
+
+== Mafia | walt dining | walt, riot, rocco, bash, pip
+RIOT carries a phone.
+RIOT (present): Mafia. Everybody's got their role. Dad, don't show anybody your phone.
+WALT (suspicious): That's what the Mafia would say.
+RIOT: I'm the narrator, Dad.
+WALT (suspicious, point): Convenient.
+BASH: We vote out Pip. He's been too quiet.
+PIP (nervous): I've always been this quiet.
+WALT (point): And what's in that teacup, son?
+PIP: Tea.
+WALT (determined): Tea, he says. I've raised a son. I know a guilty teacup when I see one.
+ROCCO (munch, joke): He's enjoying this more than the potatoes.
+
+--
+RIOT: Okay. Night falls. Mafia, open your eyes. Choose someone.
+// Eyes closed round the table. Walt, eyes squeezed shut, is whispering to himself.
+WALT (suspicious, whispers): It's the raccoon. It's always the quiet raccoon.
+ROCCO (deadpan): I can hear you.
+RIOT: Dad, you have to stop talking at night.
+RIOT: Morning! Bash was taken in the night. Bash, you're out.
+BASH (shocked, take): What? I had a plan! I was going to win this!
+PIP (quietly): You were the first one out last time too.
+BASH (yelling): Who did it? I want names! I want a recount!
+WALT (cheer): I love this game! Why do we ever do anything else?
+BASH (gloom): I'll get the tea. I'm dead, I may as well be useful.
+// Pip stands. "I'll help." Bash, the ghost, sits straight back down and goes on eating.
+[hold: 4]
+
+== The wall | walt hallway | pip, riot
+[mood: soft]
+PIP enters left.
+RIOT enters left.
+// Pip goes for more tea. Riot passes down the hallway. Old photos: a fox laughing by the lake, holding up a paper lantern, a crowd behind him.
+// Riot slows at that wall. He always slows at that wall. He doesn't know he does it. Pip watches, and says nothing.
+RIOT exits right.
+PIP: ...
+PIP (quietly, looks right): ...Huh.
+[hold: 6]
+
+== The porch | walt porch | walt, riot
+[mood: soft]
+// The sky over the street has gone a strange colour. Walt has stepped out to look at it. Riot joins him.
+WALT (soft): He'd have liked your friends.
+RIOT (soft): Yeah.
+// Riot doesn't ask if Grandpa's still alive. Walt doesn't say. The wind turns.
+[hold: 4]
+
+== The storm | walt dining | walt, riot, rocco, bash, pip
+[storm]
+[mood: tense]
+RIOT carries a phone.
+[sfx: boom]
+WALT (happy, looks up): There she is. The big summer storm. Twelfth of August, every year.
+ROCCO (suspicious): Same night every year.
+WALT: Is it? Huh.
+// On the wall behind him, the calendar. 12 August. Nobody has circled it.
+[fx insert kind=calendar head=AUGUST big=12 at=4 for=2]
+RIOT: Night falls. Everyone close your eyes.
+// They all close their eyes. The lights go out, for real. Black. Rain.
+[sfx: boom]
+BASH (scared, whispers): Who did that? Was that part of the game?
+PIP (scared, whispers): The game doesn't do that.
+BASH (scared): Something touched me!
+PIP (quietly): That's me. You've got my arm.
+[sfx: door]
+// A door bangs somewhere in the dark. A match scrapes. Walt's face, lit by a candle, enormously pleased.
+WALT (suspicious, joke): Nobody move. The Mafia has struck.
+// Laughter, all at once, out of relief. Candles go down the table. It's warmer than it was with the lights on.
+[hold: 8]
+
+== A candle | lake, night | 
+[storm]
+[fx clouds]
+[mood: soft]
+// Across the lake, a single small light appears in Mrs. Brook's window. It does this every storm night.
+[hold: 6]
+
+== Riot leaves | walt dining | walt, riot, rocco, bash, pip
+[storm]
+RIOT (nervous): I forgot to lock the lifeguard tower. I should go check it.
+BASH: In this?
+RIOT: Back in a bit.
+BASH: Take a coat, at least.
+RIOT (nervous): It's summer!
+WALT (soft): Mind how you go, son.
+RIOT exits right.
+ROCCO walks to the window.
+// From the window, Rocco watches a flashlight go down the road. It doesn't turn toward the lake. It goes up the hill, toward the house.
+// He stays there a moment. He could say something.
+WALT: Rocco! You're up. Who do you accuse?
+ROCCO (deadpan): The teacup.
+// He sits back down as if nothing happened.
+[hold: 5]
+
+== Again | hall, night | riot
+[mood: tense]
+// The storm has passed. Water drips. Riot's flashlight finds the table from the first episode. We don't see what's on it. We see only his face: tired, set, older than twenty.
+RIOT carries a flashlight.
+RIOT (determined, whispers): Again.
+[hold: 4]
+
+== Waiting | apartment | rocco
+[mood: soft]
+ROCCO lies back on the beanbag.
+// Dark apartment. Rocco, wide awake, looking at the door. Waiting for him to come home.
+[hold: 5]

@@ -1,0 +1,84 @@
+# Porchlight 35: Last Turn
+next: Eleven
+thumb: IT WON'T MOVE
+grade: summer
+
+== Cold open | hall, night | riot, rocco, bash, pip
+[mood: soft]
+RIOT sits on the edge.
+// The back room. The box is closed. Four chairs. All four standing round it, the morning after the perfect day. There's a bucket on the floor with four folded pieces of paper in it.
+RIOT (soft, count): One vote each. Play on, or leave it shut. Nobody says what they wrote. Whatever it says, that's it.
+BASH (quietly): I don't want to do this.
+RIOT (soft): I know.
+// Each boy drops in his paper. Riot's paw stays in the bucket a long time. He tips them out onto the table.
+RIOT (soft, quietly): Play. Play. Play.
+// He opens the last one. The handwriting's neat and small. Pip's looking at the wall.
+RIOT (soft, quietly): Play.
+[hold: 8]
+
+[intro]
+
+
+== Round by round | hall, night | riot, rocco, bash, pip
+[mood: party]
+RIOT (soft): Thanks, Pip.
+PIP (soft): Don't. Just play well.
+BASH (determined): You heard the man! Who's got the die? I've got the die!
+ROCCO (deadpan): It's in your paw.
+BASH (hype): That's how good I am.
+// They sit. Eye, key, foot, ear. Montage over many nights. Dawn in the boards. Bash asleep on the table with a card stuck to his face. The figures moving on around the shore, every morning still in place.
+RIOT (hype): Square thirty! That's the park!
+ROCCO (deadpan): Next one's the school. Same owl.
+PIP (soft): That card means wait a turn, not go twice. Read it again.
+BASH (hype): I'm rolling. Lantern! Who's amazing?
+ROCCO (deadpan): It's always a lantern.
+BASH (cheer): And I'm always amazing!
+// Meanwhile the world moves. Quick cuts: festival banners going up on main street. The stage finished, facing the water. Mrs. Brook on her porch, not drinking her tea. High on the old oak, four yellow leaves. A sign: Festival, 5 Days.
+RIOT (determined): Keep going. We're nearly round.
+PIP (soft, to riot): You haven't slept.
+RIOT (happy): I have. Rule seven. Bash walks me home.
+BASH (nod): Two o'clock. He complains the whole way.
+ROCCO (munch): Eight years he did this by himself, and now he's got a curfew.
+RIOT (laugh): It's better. It's so much better.
+[hold: 8]
+
+== The last square | hall, night | riot, rocco, bash, pip
+[mood: tense]
+[card: Four nights to the festival.]
+// The four figures have come all the way round the painted lake. They stand together at the end of the path, on a little painted beach. There's nowhere further to go. The final square. Everyone's stopped breathing.
+BASH (whispers): That's it, isn't it? That's the end.
+RIOT (whispers): Eight years.
+ROCCO (quietly): Roll it.
+// Bash takes the die. He shakes it in both paws. He blows on it. He looks at Pip. Pip nods. He rolls.
+[sfx: tap]
+// It tumbles across the map and stops. The lantern. Of course the lantern. Nobody moves. Nothing happens.
+BASH (whispers): Is it... did it...
+// Riot turns over the last card. He reads it. He frowns, and turns it round so they can read it too.
+RIOT (quietly): "Last turn. All hands."
+PIP: What's that mean?
+RIOT (nervous): I don't know. It means... I don't know. Move the piece.
+// He picks up his little figure and moves it on to the final space. He takes his paw away. Very slowly, by itself, the figure tips backward and lands on the path where it was. He tries again. It tips back.
+RIOT (shocked): No. No, come on.
+// He presses it down. It won't stay. He looks up at them. It's Bash who tries next, then Rocco, gently. Each one tips back.
+BASH (scared): What's wrong with it? We did everything!
+ROCCO (suspicious): Same rules. Same seats.
+RIOT (sad): It stayed. Everything stayed. Why won't it...
+[hold: 8]
+
+== The peg | hall, night | riot, rocco, bash, pip
+[mood: soft]
+PIP (quietly): Riot, look at the lake.
+// Pip's leaned in close. Above the painted lake there's a row of tiny pegs. Eleven paper markers, one on each, each the size of a fingernail, gone brown with age. We've seen these. We've never counted them. Pip touches the last peg with the tip of one claw. There's nothing on it.
+PIP (quietly): There's nothing on this one.
+RIOT (shrug): So what? It's probably just lost.
+ROCCO (quietly): Forty years, and nothing's ever been lost off this board. Every piece comes back. Everything goes back to where it was.
+ROCCO (quietly): Except that.
+// He takes out his notebook, and he looks at it, and at the peg. He looks up at the three of them. He looks more tired than we've ever seen him.
+ROCCO (quietly): Something's missing. It's been missing the whole time.
+BASH (quietly): What is it?
+RIOT (sad): We've got four nights.
+ROCCO (soft): I don't know.
+ROCCO (soft): But I've got a lot of notebooks. And I said I'd say things out loud.
+// He stands, and closes the lid. Outside, far away, too quiet to be sure of, there's a long low roll of thunder.
+[sfx: boom]
+[hold: 8]

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Porchlight-work\\Blender\\videos\\ep02\\vo\\s03_07.wav",
+    "duration": 0.56
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.21, "value": "B" },
+    { "start": 0.21, "end": 0.35, "value": "E" },
+    { "start": 0.35, "end": 0.42, "value": "F" },
+    { "start": 0.42, "end": 0.49, "value": "B" },
+    { "start": 0.49, "end": 0.56, "value": "X" }
+  ]
+}

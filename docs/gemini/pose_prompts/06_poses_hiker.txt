@@ -1,0 +1,16 @@
+ATTACH: art/gemini/characters/14_hiker.jpg
+SAVE AS: art/gemini/refs/poses_hiker.jpg
+
+PROMPT (copy everything below):
+
+Image 1 shows Dave, an ordinary friendly human hiker, the only human in a cartoon town of animals, from a 2D cartoon series. Draw him, keeping his exact design, colours, clothes and proportions, seen from the FRONT like in image 1.
+A pose sheet, 8 poses in two rows, all the same scale, each one separate:
+1) waving hello with a big friendly smile
+2) adjusting the straps of his huge backpack
+3) looking at a paper map, confused
+4) laughing, one gloved hand up
+5) sitting on the ground, tired, backpack beside him
+6) pointing down the road
+7) a polite little bow
+8) shrugging, "I'm just passing through"
+Draw ONLY the character. Bold clean black outlines, flat solid colours with ONE darker shadow tone, no texture. Plain white background. NO text, NO labels, NO numbers.

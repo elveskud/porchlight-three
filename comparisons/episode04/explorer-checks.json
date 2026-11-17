@@ -1,0 +1,42 @@
+{
+  "result": "PASS",
+  "scenes": [
+    {
+      "beat": "s01",
+      "location": "park",
+      "visibleSets": 1
+    },
+    {
+      "beat": "s03",
+      "location": "apartment",
+      "visibleSets": 1
+    },
+    {
+      "beat": "s04",
+      "location": "park",
+      "visibleSets": 1
+    },
+    {
+      "beat": "s05",
+      "location": "park",
+      "visibleSets": 1
+    },
+    {
+      "beat": "s06",
+      "location": "lake",
+      "visibleSets": 1
+    },
+    {
+      "beat": "s07",
+      "location": "stoop_sunset",
+      "visibleSets": 1
+    },
+    {
+      "beat": "s08",
+      "location": "main_street",
+      "visibleSets": 1
+    }
+  ],
+  "orbit": true,
+  "errors": []
+}

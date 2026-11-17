@@ -1,0 +1,12 @@
+{
+  "renderer": "Three.js 0.160.0",
+  "duration": 30,
+  "fps": 24,
+  "frames": 720,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "errors": [],
+  "file": "/Users/lazaretchaava/Desktop/Porchlight.nosync/art/three/sets/lake-world/lake-coverage.mp4"
+}

@@ -1,0 +1,108 @@
+{
+  "files": [
+    {
+      "path": "art/gemini/sets/23_park_day.jpg",
+      "sha256": "6cb3724bcd969121b636bc155f45e775cb489dfe20b1301bc2d631d89a368d1c",
+      "size": [
+        1024,
+        572
+      ]
+    },
+    {
+      "path": "art/gemini/sets/apartment_night_v2.jpg",
+      "sha256": "bca20a81ea3189f6bcd3d61dd4cfd7b2c51d316aa1418aacfa7e2d396e3af2b6",
+      "size": [
+        1024,
+        572
+      ]
+    },
+    {
+      "path": "art/gemini/sets/lake_day_v2.jpg",
+      "sha256": "f8acbf9eedc0b2ff3817353c58e79fe7da1f0f2a523711ada38403fcbc793742",
+      "size": [
+        1024,
+        572
+      ]
+    },
+    {
+      "path": "art/gemini/sets/lake_night_v2.jpg",
+      "sha256": "33ed0b574447f5839f9b2672c9dc77f344cd38b3bf5cdc8b27d35f9e3677ea04",
+      "size": [
+        1024,
+        572
+      ]
+    },
+    {
+      "path": "art/gemini/sets/stoop_sunset_v2.jpg",
+      "sha256": "ce94a88bb69579b61726c86790149877768e444db3c80e3ac78c66ad8db3709e",
+      "size": [
+        1024,
+        572
+      ]
+    },
+    {
+      "path": "art/gemini/sets/stoop_night_v2.jpg",
+      "sha256": "1865c5a106623fc7751e656cafb1d54a874ec175d5fcdfd99d2a59d32003b5ba",
+      "size": [
+        1024,
+        572
+      ]
+    },
+    {
+      "path": "art/gemini/sets/55_main_street_day_mailbox.jpg",
+      "sha256": "18ab81fa7e5d063ac486069bb021b32cfedccb15b0290d0a59b956d797f2f1cc",
+      "size": [
+        1024,
+        572
+      ]
+    },
+    {
+      "path": "art/gemini/characters/06_preston.jpg",
+      "sha256": "03d856f371f1cd3729371b2c2a1222434ad0b47b170869341086458a911bcca2",
+      "size": [
+        1024,
+        559
+      ]
+    },
+    {
+      "path": "art/gemini/characters/07_marlo.jpg",
+      "sha256": "04fbd91753430f390098cd1f108089af1dfa643b8ca8ccd373563e58b7794af5",
+      "size": [
+        1024,
+        559
+      ]
+    },
+    {
+      "path": "art/gemini/characters/05_mayor.jpg",
+      "sha256": "cef83aca1c88c004dbc54909074520bd14fb91fc55e7fecbf21d177136b13317",
+      "size": [
+        1024,
+        559
+      ]
+    },
+    {
+      "path": "art/gemini/characters/12_bashs_mom.jpg",
+      "sha256": "c7beffd585fb470518e6d2271257e8973cbb92e30c08b619f08d19b8907a6919",
+      "size": [
+        1024,
+        559
+      ]
+    },
+    {
+      "path": "art/gemini/characters/14_hiker.jpg",
+      "sha256": "73824e576942a2096c23980fe4840e436d540d76bebd512d2ceb8a18f9ed7548",
+      "size": [
+        1024,
+        559
+      ]
+    },
+    {
+      "path": "art/inserts/pavilion.png",
+      "sha256": "4e59fbb540b6209b9d28f505fd58582a1f03fca3e9c847fba92634c8e09053f6",
+      "size": [
+        1400,
+        780
+      ]
+    }
+  ]
+}

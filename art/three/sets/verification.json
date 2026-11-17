@@ -1,0 +1,1147 @@
+{
+  "checkedAt": "2026-11-13T20:10:12.840Z",
+  "result": "PASS",
+  "sets": [
+    {
+      "id": "lake",
+      "meshes": 487,
+      "vertices": 26451,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "hall_door",
+          "position": [
+            15,
+            5.0835,
+            -27.921
+          ]
+        },
+        {
+          "name": "tower",
+          "position": [
+            -6.2,
+            2.45,
+            -0.8
+          ]
+        },
+        {
+          "name": "sand_rocco",
+          "position": [
+            -2,
+            0,
+            2
+          ]
+        },
+        {
+          "name": "shore_bash",
+          "position": [
+            1,
+            0,
+            2.6
+          ]
+        },
+        {
+          "name": "shore_pip",
+          "position": [
+            3,
+            0,
+            2.2
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        3,
+        4.800000000000001,
+        16
+      ],
+      "glbBytes": 1310932,
+      "exportMeshes": 482
+    },
+    {
+      "id": "lake_night",
+      "meshes": 513,
+      "vertices": 25464,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "hall_door",
+          "position": [
+            15,
+            5.0835,
+            -27.921
+          ]
+        },
+        {
+          "name": "tower",
+          "position": [
+            -6.2,
+            2.45,
+            -0.8
+          ]
+        },
+        {
+          "name": "sand_rocco",
+          "position": [
+            -2,
+            0,
+            2
+          ]
+        },
+        {
+          "name": "shore_bash",
+          "position": [
+            1,
+            0,
+            2.6
+          ]
+        },
+        {
+          "name": "shore_pip",
+          "position": [
+            3,
+            0,
+            2.2
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        3,
+        4.800000000000001,
+        16
+      ],
+      "glbBytes": 1298980,
+      "exportMeshes": 508
+    },
+    {
+      "id": "lake_storm",
+      "meshes": 477,
+      "vertices": 25102,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "hall_door",
+          "position": [
+            15,
+            5.0835,
+            -27.921
+          ]
+        },
+        {
+          "name": "tower",
+          "position": [
+            -6.2,
+            2.45,
+            -0.8
+          ]
+        },
+        {
+          "name": "sand_rocco",
+          "position": [
+            -2,
+            0,
+            2
+          ]
+        },
+        {
+          "name": "shore_bash",
+          "position": [
+            1,
+            0,
+            2.6
+          ]
+        },
+        {
+          "name": "shore_pip",
+          "position": [
+            3,
+            0,
+            2.2
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        3,
+        4.800000000000001,
+        16
+      ],
+      "glbBytes": 1244768,
+      "exportMeshes": 472
+    },
+    {
+      "id": "stoop_sunset",
+      "meshes": 488,
+      "vertices": 21618,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "step_1",
+          "position": [
+            1.05,
+            0.59,
+            0.04
+          ]
+        },
+        {
+          "name": "step_2",
+          "position": [
+            1.7000000000000002,
+            0.59,
+            0.04
+          ]
+        },
+        {
+          "name": "step_3",
+          "position": [
+            2.35,
+            0.59,
+            0.04
+          ]
+        },
+        {
+          "name": "step_4",
+          "position": [
+            3,
+            0.59,
+            0.04
+          ]
+        },
+        {
+          "name": "door_landing",
+          "position": [
+            2,
+            0.65,
+            -0.8
+          ]
+        },
+        {
+          "name": "railing_puddles",
+          "position": [
+            3.53,
+            1.1,
+            0.65
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        -5,
+        3.8000000000000003,
+        10
+      ],
+      "glbBytes": 1168052,
+      "exportMeshes": 482
+    },
+    {
+      "id": "stoop_night",
+      "meshes": 514,
+      "vertices": 20631,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "step_1",
+          "position": [
+            1.05,
+            0.59,
+            0.04
+          ]
+        },
+        {
+          "name": "step_2",
+          "position": [
+            1.7000000000000002,
+            0.59,
+            0.04
+          ]
+        },
+        {
+          "name": "step_3",
+          "position": [
+            2.35,
+            0.59,
+            0.04
+          ]
+        },
+        {
+          "name": "step_4",
+          "position": [
+            3,
+            0.59,
+            0.04
+          ]
+        },
+        {
+          "name": "door_landing",
+          "position": [
+            2,
+            0.65,
+            -0.8
+          ]
+        },
+        {
+          "name": "railing_puddles",
+          "position": [
+            3.53,
+            1.1,
+            0.65
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        -5,
+        3.8000000000000003,
+        10
+      ],
+      "glbBytes": 1155948,
+      "exportMeshes": 508
+    },
+    {
+      "id": "apartment",
+      "meshes": 181,
+      "vertices": 12428,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "sofa_left",
+          "position": [
+            -3.03,
+            0.85,
+            -1.7
+          ]
+        },
+        {
+          "name": "sofa_right",
+          "position": [
+            -1.37,
+            0.85,
+            -1.7
+          ]
+        },
+        {
+          "name": "beanbag",
+          "position": [
+            3.1,
+            0.7,
+            -0.4
+          ]
+        },
+        {
+          "name": "floor",
+          "position": [
+            -0.5,
+            0,
+            2.4
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        6,
+        4.1,
+        10
+      ],
+      "glbBytes": 609900,
+      "exportMeshes": 177
+    },
+    {
+      "id": "hall",
+      "meshes": 228,
+      "vertices": 9645,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "game_table",
+          "position": [
+            0,
+            1.25,
+            -0.4
+          ]
+        },
+        {
+          "name": "stage",
+          "position": [
+            0,
+            0.81,
+            -5
+          ]
+        },
+        {
+          "name": "entrance",
+          "position": [
+            0,
+            0,
+            6.5
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        0,
+        4.200000000000001,
+        14
+      ],
+      "glbBytes": 401164,
+      "exportMeshes": 225
+    },
+    {
+      "id": "hall_outside",
+      "meshes": 130,
+      "vertices": 7064,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "hall_door",
+          "position": [
+            0,
+            0.45,
+            1.2999999999999998
+          ]
+        },
+        {
+          "name": "front_l",
+          "position": [
+            -2,
+            0,
+            5
+          ]
+        },
+        {
+          "name": "front_r",
+          "position": [
+            2,
+            0,
+            5
+          ]
+        },
+        {
+          "name": "door",
+          "position": [
+            0,
+            0.45,
+            1.4
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        9.000000000000004,
+        5,
+        15.000000000000005
+      ],
+      "glbBytes": 340604,
+      "exportMeshes": 126
+    },
+    {
+      "id": "bash_home",
+      "meshes": 140,
+      "vertices": 6819,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "bed",
+          "position": [
+            -2.7,
+            0.93,
+            -1.5
+          ]
+        },
+        {
+          "name": "desk",
+          "position": [
+            1.3,
+            0.55,
+            -1.55
+          ]
+        },
+        {
+          "name": "floor",
+          "position": [
+            0,
+            0,
+            1
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        5.999999999999998,
+        4.199999999999999,
+        10
+      ],
+      "glbBytes": 301048,
+      "exportMeshes": 137
+    },
+    {
+      "id": "classroom",
+      "meshes": 227,
+      "vertices": 10665,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "teacher",
+          "position": [
+            0,
+            0,
+            -2
+          ]
+        },
+        {
+          "name": "bash_desk",
+          "position": [
+            -3,
+            0.6,
+            0.2
+          ]
+        },
+        {
+          "name": "pip_desk",
+          "position": [
+            3,
+            0.6,
+            0.2
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        7,
+        4.999999999999998,
+        11.999999999999996
+      ],
+      "glbBytes": 441748,
+      "exportMeshes": 224
+    },
+    {
+      "id": "main_street",
+      "meshes": 583,
+      "vertices": 25177,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "interview",
+          "position": [
+            -1,
+            0,
+            4
+          ]
+        },
+        {
+          "name": "mailbox",
+          "position": [
+            -3.5,
+            0.3,
+            -3
+          ]
+        },
+        {
+          "name": "notice_board",
+          "position": [
+            -3.2,
+            0.3,
+            5
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        0.9999999999999999,
+        5.000000000000001,
+        19
+      ],
+      "glbBytes": 1304992,
+      "exportMeshes": 580
+    },
+    {
+      "id": "brook_porch",
+      "meshes": 250,
+      "vertices": 14666,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "rocker",
+          "position": [
+            -2.4,
+            1.18,
+            -0.4
+          ]
+        },
+        {
+          "name": "tea_table",
+          "position": [
+            -1,
+            1.35,
+            0.1
+          ]
+        },
+        {
+          "name": "porch_left",
+          "position": [
+            -0.6,
+            0.62,
+            1
+          ]
+        },
+        {
+          "name": "porch_right",
+          "position": [
+            1,
+            0.62,
+            1
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        -9.000000000000002,
+        4.199999999999999,
+        10.999999999999998
+      ],
+      "glbBytes": 737344,
+      "exportMeshes": 246
+    },
+    {
+      "id": "pip_home",
+      "meshes": 124,
+      "vertices": 5187,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "bed",
+          "position": [
+            -2.7,
+            0.93,
+            -1.5
+          ]
+        },
+        {
+          "name": "desk",
+          "position": [
+            1.3,
+            0.55,
+            -1.55
+          ]
+        },
+        {
+          "name": "floor",
+          "position": [
+            0,
+            0,
+            1
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        5.999999999999998,
+        4.199999999999999,
+        10
+      ],
+      "glbBytes": 257668,
+      "exportMeshes": 121
+    },
+    {
+      "id": "pip_garage",
+      "meshes": 57,
+      "vertices": 3111,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "moving_box",
+          "position": [
+            0,
+            0.87,
+            0.6
+          ]
+        },
+        {
+          "name": "pip",
+          "position": [
+            0,
+            0,
+            2.5
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        5.999999999999998,
+        4.199999999999999,
+        10
+      ],
+      "glbBytes": 138316,
+      "exportMeshes": 55
+    },
+    {
+      "id": "park",
+      "meshes": 310,
+      "vertices": 19330,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "oak",
+          "position": [
+            1,
+            0,
+            -1
+          ]
+        },
+        {
+          "name": "park_centre",
+          "position": [
+            -1,
+            0,
+            2
+          ]
+        },
+        {
+          "name": "notice_board",
+          "position": [
+            -6,
+            0,
+            6
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        10.000000000000002,
+        5.599999999999998,
+        16.000000000000004
+      ],
+      "glbBytes": 1012260,
+      "exportMeshes": 307
+    },
+    {
+      "id": "walt_dining",
+      "meshes": 134,
+      "vertices": 6645,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "riot",
+          "position": [
+            -2,
+            0.6,
+            1.65
+          ]
+        },
+        {
+          "name": "rocco",
+          "position": [
+            -0.1,
+            0.6,
+            1.65
+          ]
+        },
+        {
+          "name": "bash",
+          "position": [
+            1.8,
+            0.6,
+            1.65
+          ]
+        },
+        {
+          "name": "pip",
+          "position": [
+            -1.3,
+            0.6,
+            -1.65
+          ]
+        },
+        {
+          "name": "walt",
+          "position": [
+            1.3,
+            0.6,
+            -1.65
+          ]
+        },
+        {
+          "name": "candle",
+          "position": [
+            0.7,
+            1.67,
+            0
+          ]
+        },
+        {
+          "name": "exit",
+          "position": [
+            -4,
+            0,
+            3
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        7.799999999999999,
+        4.8,
+        10.999999999999995
+      ],
+      "glbBytes": 325996,
+      "exportMeshes": 127
+    },
+    {
+      "id": "walt_dining_storm",
+      "meshes": 134,
+      "vertices": 6645,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "riot",
+          "position": [
+            -2,
+            0.6,
+            1.65
+          ]
+        },
+        {
+          "name": "rocco",
+          "position": [
+            -0.1,
+            0.6,
+            1.65
+          ]
+        },
+        {
+          "name": "bash",
+          "position": [
+            1.8,
+            0.6,
+            1.65
+          ]
+        },
+        {
+          "name": "pip",
+          "position": [
+            -1.3,
+            0.6,
+            -1.65
+          ]
+        },
+        {
+          "name": "walt",
+          "position": [
+            1.3,
+            0.6,
+            -1.65
+          ]
+        },
+        {
+          "name": "candle",
+          "position": [
+            0.7,
+            1.67,
+            0
+          ]
+        },
+        {
+          "name": "exit",
+          "position": [
+            -4,
+            0,
+            3
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        7.799999999999999,
+        4.8,
+        10.999999999999995
+      ],
+      "glbBytes": 326024,
+      "exportMeshes": 127
+    },
+    {
+      "id": "walt_hallway",
+      "meshes": 72,
+      "vertices": 2963,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "photo_wall",
+          "position": [
+            1.1,
+            0,
+            -0.4
+          ]
+        },
+        {
+          "name": "entrance",
+          "position": [
+            0,
+            0,
+            5.6
+          ]
+        },
+        {
+          "name": "exit",
+          "position": [
+            0,
+            0,
+            -5.7
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        0,
+        2.7000000000000006,
+        9
+      ],
+      "glbBytes": 9599924,
+      "exportMeshes": 69
+    },
+    {
+      "id": "walt_porch",
+      "meshes": 180,
+      "vertices": 12229,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "rocker",
+          "position": [
+            -2.4,
+            1.18,
+            -0.4
+          ]
+        },
+        {
+          "name": "tea_table",
+          "position": [
+            -1,
+            1.35,
+            0.1
+          ]
+        },
+        {
+          "name": "porch_left",
+          "position": [
+            -0.6,
+            0.62,
+            1
+          ]
+        },
+        {
+          "name": "porch_right",
+          "position": [
+            1,
+            0.62,
+            1
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        9,
+        4.600000000000001,
+        11
+      ],
+      "glbBytes": 571996,
+      "exportMeshes": 176
+    },
+    {
+      "id": "school_gym",
+      "meshes": 426,
+      "vertices": 25270,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "stage",
+          "position": [
+            0,
+            0.91,
+            -9
+          ]
+        },
+        {
+          "name": "floor_1",
+          "position": [
+            -2,
+            0,
+            -5
+          ]
+        },
+        {
+          "name": "floor_2",
+          "position": [
+            0,
+            0,
+            -5
+          ]
+        },
+        {
+          "name": "floor_3",
+          "position": [
+            2,
+            0,
+            -5
+          ]
+        },
+        {
+          "name": "floor_4",
+          "position": [
+            3.8,
+            0,
+            -5
+          ]
+        },
+        {
+          "name": "front_l",
+          "position": [
+            -5,
+            0,
+            -5.5
+          ]
+        },
+        {
+          "name": "front_r",
+          "position": [
+            5,
+            0,
+            -5.5
+          ]
+        },
+        {
+          "name": "side_l",
+          "position": [
+            -7.5,
+            0,
+            -1
+          ]
+        },
+        {
+          "name": "side_r",
+          "position": [
+            7.5,
+            0,
+            -1
+          ]
+        },
+        {
+          "name": "aisle",
+          "position": [
+            0,
+            0,
+            2
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        0,
+        6.5,
+        17
+      ],
+      "glbBytes": 1200812,
+      "exportMeshes": 416
+    }
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Porch Light On",
+      "sets": [
+        "hall",
+        "lake",
+        "stoop_sunset",
+        "apartment",
+        "stoop_night",
+        "lake_night"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Dare House",
+      "sets": [
+        "lake",
+        "hall_outside",
+        "lake_night",
+        "bash_home"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Summer Homework",
+      "sets": [
+        "lake_night",
+        "classroom",
+        "stoop_sunset",
+        "main_street",
+        "brook_porch",
+        "pip_home",
+        "stoop_night",
+        "pip_garage"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Not For Sale",
+      "sets": [
+        "lake_night",
+        "park",
+        "apartment",
+        "lake",
+        "stoop_sunset",
+        "main_street"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Storm Night",
+      "sets": [
+        "walt_dining",
+        "walt_hallway",
+        "walt_porch",
+        "walt_dining_storm",
+        "lake_storm",
+        "hall",
+        "apartment"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Town Meeting",
+      "sets": [
+        "stoop_sunset",
+        "school_gym",
+        "stoop_night"
+      ]
+    }
+  ],
+  "checks": [
+    "20 modeled sets",
+    "finite geometry",
+    "all local assets",
+    "all episode filters",
+    "camera presets",
+    "single garage box",
+    "34 gym chairs",
+    "6 existing grandfather photos",
+    "20 GLB downloads and binary validation",
+    "doors",
+    "stage marks",
+    "practical lights",
+    "PNG download",
+    "orbit interaction",
+    "reference comparison",
+    "mobile layout",
+    "invalid links",
+    "legacy painting links",
+    "responsive camera framing and closed mobile menu"
+  ],
+  "errors": [],
+  "responsiveVerifiedAt": "2026-11-13T20:13:04.395Z",
+  "updatedLakeVerification": "lake-world/verification.json",
+  "supersededLakeAssets": [
+    "lake",
+    "lake_night",
+    "lake_storm"
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "version": 3,
+  "items": [
+    {
+      "id": 1,
+      "improvement": "Stronger key poses",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Authored character poses and phrase envelopes.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 2,
+      "improvement": "Clearer anticipation",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Pre-line negative-time anticipation pulse.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 3,
+      "improvement": "Better weight shifts",
+      "module": "locomotion.js",
+      "entryPoint": "applyGait",
+      "implementation": "Pelvis translation/lean follows the supporting gait phase.",
+      "application": "Dot and Pip walking",
+      "study": "walk"
+    },
+    {
+      "id": 4,
+      "improvement": "Asymmetric resting poses",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Different arm rests, brow offsets and head tilts.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 5,
+      "improvement": "Smoother pose transitions",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Smooth enter/leave envelopes and persistent prior emotions.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 6,
+      "improvement": "Body-led movement",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Eyes lead head movement; hips lead gait; torso leads rises.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 7,
+      "improvement": "Controlled overshoot",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Short anticipation/accent/recovery curves around the key pose.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 8,
+      "improvement": "Better settling",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Diminishing post-line arm and ear recovery.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 9,
+      "improvement": "Clearer silhouettes",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Separated elbow and hand targets keep gestures readable around the body.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 10,
+      "improvement": "Persistent emotions",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Previous emotion fades over 2.2 seconds instead of resetting.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 11,
+      "improvement": "Riot\u2019s movement style",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Riot profile: quick timing and broad gestures.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 12,
+      "improvement": "Rocco\u2019s movement style",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Rocco profile: low amplitude and delayed looks.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 13,
+      "improvement": "Bash\u2019s movement style",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Bash profile: broad confidence, nervous/scared contraction.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 14,
+      "improvement": "Pip\u2019s movement style",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Pip profile: restrained gestures and thoughtful delays.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 15,
+      "improvement": "Mood-dependent movement",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Quiet/soft beats reduce gesture amplitude and alter posture.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 16,
+      "improvement": "Delayed listening reactions",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Per-character processing delay before a listening nod.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 17,
+      "improvement": "Interrupted gestures",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Most-recent active event and interrupted-gesture study.",
+      "application": "Episode 3 dialogue",
+      "study": "interrupt"
+    },
+    {
+      "id": 18,
+      "improvement": "Staggered laughter",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Delayed second-actor laugh pulses in the study.",
+      "application": "Silent motion study",
+      "study": "laugh"
+    },
+    {
+      "id": 19,
+      "improvement": "Purposeful silent acting",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Silent faces, listening and held reactions retain breathing.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 20,
+      "improvement": "Emotional recovery",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Emotion hold and gesture recovery use separate durations.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 21,
+      "improvement": "Sharper eye movements",
+      "module": "performance.js",
+      "entryPoint": "attention / lookAtObject",
+      "implementation": "Eyes move deliberately between actual scene targets.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 22,
+      "improvement": "Eyes before head turns",
+      "module": "performance.js",
+      "entryPoint": "attention / lookAtObject",
+      "implementation": "Eye attention begins 0.10 seconds before the head.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 23,
+      "improvement": "Accurate gaze targets",
+      "module": "performance.js",
+      "entryPoint": "attention / lookAtObject",
+      "implementation": "World-space head-to-head gaze targets.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 24,
+      "improvement": "Close-object focus",
+      "module": "performance.js",
+      "entryPoint": "attention / lookAtObject",
+      "implementation": "Bounded eye convergence toward nearby notebook/props.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 25,
+      "improvement": "Thought-driven blinking",
+      "module": "performance.js",
+      "entryPoint": "blinkAt",
+      "implementation": "Blinks around speech starts/ends and thought changes.",
+      "application": "Episode 3 dialogue",
+      "study": "blink"
+    },
+    {
+      "id": 26,
+      "improvement": "Varied blink timing",
+      "module": "performance.js",
+      "entryPoint": "blinkAt",
+      "implementation": "Character-specific periods plus short/double thought blinks.",
+      "application": "Episode 3 dialogue",
+      "study": "blink"
+    },
+    {
+      "id": 27,
+      "improvement": "More expressive eyelids",
+      "module": "performance.js",
+      "entryPoint": "expression / poseAt",
+      "implementation": "Separate sleepy, suspicious, soft and frightened lid values.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 28,
+      "improvement": "Independent eyebrows",
+      "module": "performance.js",
+      "entryPoint": "expression / poseAt",
+      "implementation": "Independent left/right brow offsets.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 29,
+      "improvement": "Expressive mouth corners",
+      "module": "performance.js",
+      "entryPoint": "expression / poseAt",
+      "implementation": "Smile/frown and asymmetry remain under speech shapes.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 30,
+      "improvement": "Facial tension changes",
+      "module": "cast.js",
+      "entryPoint": "applyActor",
+      "implementation": "Muzzle patches tighten subtly with tense expressions.",
+      "application": "Episode 3 dialogue",
+      "study": "listen"
+    },
+    {
+      "id": 31,
+      "improvement": "More precise speech timing",
+      "module": "performance.js",
+      "entryPoint": "speechShape / applyActor",
+      "implementation": "Local Rhubarb sound cues and a short next-cue anticipation blend.",
+      "application": "Episode 3 dialogue",
+      "study": "speech"
+    },
+    {
+      "id": 32,
+      "improvement": "Word emphasis",
+      "module": "performance.js",
+      "entryPoint": "speechShape / applyActor",
+      "implementation": "Actual WAV RMS energy adjusts syllable mouth/jaw emphasis; phrase gesture accents remain authored.",
+      "application": "Episode 3 dialogue",
+      "study": "speech"
+    },
+    {
+      "id": 33,
+      "improvement": "Clear lip closures",
+      "module": "performance.js",
+      "entryPoint": "speechShape / applyActor",
+      "implementation": "Closed A/X mouth shapes cover bilabial closures.",
+      "application": "Episode 3 dialogue",
+      "study": "speech"
+    },
+    {
+      "id": 34,
+      "improvement": "Better rounded vowels",
+      "module": "performance.js",
+      "entryPoint": "speechShape / applyActor",
+      "implementation": "E/F rounded shapes retain different widths and heights.",
+      "application": "Episode 3 dialogue",
+      "study": "speech"
+    },
+    {
+      "id": 35,
+      "improvement": "Jaw participation",
+      "module": "cast.js",
+      "entryPoint": "speechShape / applyActor",
+      "implementation": "Lower skull vertices, muzzle and mouth move with the jaw value.",
+      "application": "Episode 3 dialogue",
+      "study": "speech"
+    },
+    {
+      "id": 36,
+      "improvement": "Natural speech pauses",
+      "module": "performance.js",
+      "entryPoint": "speechShape / applyActor",
+      "implementation": "Rest shape is selected when no active speech cue exists.",
+      "application": "Episode 3 dialogue",
+      "study": "speech"
+    },
+    {
+      "id": 37,
+      "improvement": "Cleaner sentence endings",
+      "module": "performance.js",
+      "entryPoint": "speechShape / applyActor",
+      "implementation": "Speech stops at the recording end, with a clean rest mouth.",
+      "application": "Episode 3 dialogue",
+      "study": "speech"
+    },
+    {
+      "id": 38,
+      "improvement": "Whisper-specific animation",
+      "module": "performance.js",
+      "entryPoint": "speechShape / applyActor",
+      "implementation": "Quiet dialogue reduces mouth/jaw amplitude and body gestures.",
+      "application": "Episode 3 dialogue",
+      "study": "speech"
+    },
+    {
+      "id": 39,
+      "improvement": "Visible breathing",
+      "module": "performance.js",
+      "entryPoint": "speechShape / applyActor",
+      "implementation": "Small character-specific torso breath cycles.",
+      "application": "Episode 3 dialogue",
+      "study": "speech"
+    },
+    {
+      "id": 40,
+      "improvement": "Laugh synchronization",
+      "module": "performance.js",
+      "entryPoint": "speechShape / applyActor",
+      "implementation": "Recorded speech energy and laugh/chuckle pulses drive facial/body rhythm.",
+      "application": "Episode 3 dialogue",
+      "study": "laugh"
+    },
+    {
+      "id": 41,
+      "improvement": "Progressive finger curls",
+      "module": "interactions.js",
+      "entryPoint": "shapeHand / reachContact",
+      "implementation": "Finger closure uses three delayed curl envelopes.",
+      "application": "Prop interactions and motion studies",
+      "study": "transfer"
+    },
+    {
+      "id": 42,
+      "improvement": "Useful thumb movement",
+      "module": "interactions.js",
+      "entryPoint": "shapeHand / reachContact",
+      "implementation": "Thumb opposition varies by grip type.",
+      "application": "Prop interactions and motion studies",
+      "study": "transfer"
+    },
+    {
+      "id": 43,
+      "improvement": "Better wrist angles",
+      "module": "interactions.js",
+      "entryPoint": "shapeHand / reachContact",
+      "implementation": "Grip-specific wrist angles and bounded pose values.",
+      "application": "Prop interactions and motion studies",
+      "study": "transfer"
+    },
+    {
+      "id": 44,
+      "improvement": "Curved hand paths",
+      "module": "interactions.js",
+      "entryPoint": "shapeHand / reachContact",
+      "implementation": "Pickup/transfer paths include a controlled vertical arc.",
+      "application": "Prop interactions and motion studies",
+      "study": "transfer"
+    },
+    {
+      "id": 45,
+      "improvement": "Speech-driven gestures",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Gesture accents are modulated by actual speech energy.",
+      "application": "Episode 3 dialogue",
+      "study": "point"
+    },
+    {
+      "id": 46,
+      "improvement": "Cleaner gesture endings",
+      "module": "performance.js",
+      "entryPoint": "poseAt",
+      "implementation": "Gesture envelopes leave time to lower and rest the paw.",
+      "application": "Episode 3 dialogue",
+      "study": "point"
+    },
+    {
+      "id": 47,
+      "improvement": "Reliable contact",
+      "module": "interactions.js",
+      "entryPoint": "shapeHand / reachContact",
+      "implementation": "IK follows world-space knob, drawer, switch and notebook targets.",
+      "application": "Prop interactions and motion studies",
+      "study": "transfer"
+    },
+    {
+      "id": 48,
+      "improvement": "Object-specific grips",
+      "module": "interactions.js",
+      "entryPoint": "shapeHand / reachContact",
+      "implementation": "Phone, pencil, cup, notebook, clipboard and knob grip profiles.",
+      "application": "Prop interactions and motion studies",
+      "study": "transfer"
+    },
+    {
+      "id": 49,
+      "improvement": "Two-handed interactions",
+      "module": "interactions.js",
+      "entryPoint": "twoHanded",
+      "implementation": "Both wrists support the notebook at measured edge targets.",
+      "application": "Pip writing and reading",
+      "study": "two-hands"
+    },
+    {
+      "id": 50,
+      "improvement": "Grip adjustments",
+      "module": "interactions.js",
+      "entryPoint": "adjustGrip",
+      "implementation": "Timed loosening/regripping pulse adjusts fingers and thumb.",
+      "application": "Prop interactions and motion studies",
+      "study": "transfer"
+    },
+    {
+      "id": 51,
+      "improvement": "Foot rolls",
+      "module": "locomotion.js",
+      "entryPoint": "gait / applyGait / solveLeg",
+      "implementation": "Heel/toe pitch uses the actual ellipse sole height to keep contact.",
+      "application": "Dot and Pip paths; motion studies",
+      "study": "walk"
+    },
+    {
+      "id": 52,
+      "improvement": "Planted feet",
+      "module": "locomotion.js",
+      "entryPoint": "gait / applyGait / solveLeg",
+      "implementation": "Stance feet use fixed world anchors and analytic two-bone IK.",
+      "application": "Dot and Pip paths; motion studies",
+      "study": "walk"
+    },
+    {
+      "id": 53,
+      "improvement": "Walking hip motion",
+      "module": "locomotion.js",
+      "entryPoint": "gait / applyGait / solveLeg",
+      "implementation": "Pelvis height, lateral translation and lean follow the gait phase.",
+      "application": "Dot and Pip paths; motion studies",
+      "study": "walk"
+    },
+    {
+      "id": 54,
+      "improvement": "Varied stride rhythm",
+      "module": "locomotion.js",
+      "entryPoint": "gait / applyGait / solveLeg",
+      "implementation": "Slow, ordinary, jogging and panic studies have different timing/stride/lift.",
+      "application": "Dot and Pip paths; motion studies",
+      "study": "walk"
+    },
+    {
+      "id": 55,
+      "improvement": "Planted turning pivots",
+      "module": "locomotion.js",
+      "entryPoint": "pivotTurn",
+      "implementation": "The root turns around a fixed left-foot pivot; right foot steps around.",
+      "application": "Pip turns toward his bedroom door",
+      "study": "turn"
+    },
+    {
+      "id": 56,
+      "improvement": "Matched walking speed",
+      "module": "locomotion.js",
+      "entryPoint": "gait / applyGait / solveLeg",
+      "implementation": "Foot phase comes from world travel distance, not elapsed time alone.",
+      "application": "Dot and Pip paths; motion studies",
+      "study": "walk"
+    },
+    {
+      "id": 57,
+      "improvement": "Better starts and stops",
+      "module": "locomotion.js",
+      "entryPoint": "gait / applyGait / solveLeg",
+      "implementation": "Path progress eases into/out of motion; feet keep distance-based timing.",
+      "application": "Dot and Pip paths; motion studies",
+      "study": "walk"
+    },
+    {
+      "id": 58,
+      "improvement": "Terrain-aware stepping",
+      "module": "locomotion.js",
+      "entryPoint": "gait / applyGait / solveLeg",
+      "implementation": "Gait accepts a sampled ground-height function for each foot.",
+      "application": "Ground-sampling API and walking studies",
+      "study": "walk"
+    },
+    {
+      "id": 59,
+      "improvement": "Leg clearance",
+      "module": "locomotion.js",
+      "entryPoint": "gait / applyGait / solveLeg",
+      "implementation": "Separated left/right tracks and knee-forward IK keep legs clear.",
+      "application": "Dot and Pip paths; motion studies",
+      "study": "walk"
+    },
+    {
+      "id": 60,
+      "improvement": "Distinct running styles",
+      "module": "locomotion.js",
+      "entryPoint": "gait / applyGait / solveLeg",
+      "implementation": "Run-specific stance, hip height, lift, arms and frightened acting.",
+      "application": "Dot and Pip paths; motion studies",
+      "study": "panic-run"
+    },
+    {
+      "id": 61,
+      "improvement": "Complete sitting actions",
+      "module": "locomotion.js",
+      "entryPoint": "seatPose / settleSeat / risePose",
+      "implementation": "Body lowers onto a chair while planted feet remain on the floor.",
+      "application": "Episode 3 seating and motion studies",
+      "study": "sit"
+    },
+    {
+      "id": 62,
+      "improvement": "Complete standing actions",
+      "module": "locomotion.js",
+      "entryPoint": "seatPose / settleSeat / risePose",
+      "implementation": "Forward lean and leg extension coordinate with root height.",
+      "application": "Episode 3 seating and motion studies",
+      "study": "stand"
+    },
+    {
+      "id": 63,
+      "improvement": "Seat response",
+      "module": "secondary.js",
+      "entryPoint": "seatResponse",
+      "implementation": "Reusable cushion compression/recovery is driven by seat weight.",
+      "application": "Episode 3 seating and motion studies",
+      "study": "sit"
+    },
+    {
+      "id": 64,
+      "improvement": "Seated foot placement",
+      "module": "locomotion.js",
+      "entryPoint": "seatPose / settleSeat / risePose",
+      "implementation": "Classroom foot rails, Brook\u2019s stool and stoop support; intentional dangle where appropriate.",
+      "application": "Episode 3 seating and motion studies",
+      "study": "sit"
+    },
+    {
+      "id": 65,
+      "improvement": "Seated posture changes",
+      "module": "locomotion.js",
+      "entryPoint": "seatPose / settleSeat / risePose",
+      "implementation": "Seated study changes torso lean/sideways balance without moving the chair.",
+      "application": "Episode 3 seating and motion studies",
+      "study": "seated-shift"
+    },
+    {
+      "id": 66,
+      "improvement": "Floor-level pickups",
+      "module": "locomotion.js",
+      "entryPoint": "crouchPose",
+      "implementation": "Deep hip/knee crouch reaches the top of a floor-level object.",
+      "application": "Silent motion study",
+      "study": "pickup"
+    },
+    {
+      "id": 67,
+      "improvement": "Convincing knocking",
+      "module": "interactions.js",
+      "entryPoint": "knock",
+      "implementation": "World-space knocking target with repeated contact/retraction.",
+      "application": "Silent motion study",
+      "study": "knock"
+    },
+    {
+      "id": 68,
+      "improvement": "Door-following hands",
+      "module": "interactions.js",
+      "entryPoint": "followHinge",
+      "implementation": "The hand follows the moving knob until a timed release.",
+      "application": "Silent motion study",
+      "study": "door"
+    },
+    {
+      "id": 69,
+      "improvement": "Better die rolling",
+      "module": "interactions.js",
+      "entryPoint": "rollingCube",
+      "implementation": "The cube rotates around successive contact edges and settles on a face.",
+      "application": "Silent motion study",
+      "study": "die"
+    },
+    {
+      "id": 70,
+      "improvement": "Drawer coordination",
+      "module": "interactions.js",
+      "entryPoint": "followDrawer",
+      "implementation": "The gripping paw follows the actual moving drawer handle.",
+      "application": "Silent motion study",
+      "study": "drawer"
+    },
+    {
+      "id": 71,
+      "improvement": "Prop inertia",
+      "module": "interactions.js",
+      "entryPoint": "heldLag / transfer / placeOnSurface",
+      "implementation": "Bounded acceleration-derived prop lag with a smaller cup limit.",
+      "application": "Episode 3 props and motion studies",
+      "study": "transfer"
+    },
+    {
+      "id": 72,
+      "improvement": "Seamless object transfers",
+      "module": "interactions.js",
+      "entryPoint": "heldLag / transfer / placeOnSurface",
+      "implementation": "Transfers keep a canonical world size and follow absolute world trajectories.",
+      "application": "Episode 3 props and motion studies",
+      "study": "transfer"
+    },
+    {
+      "id": 73,
+      "improvement": "Object settling",
+      "module": "interactions.js",
+      "entryPoint": "placeOnSurface / settleObject",
+      "implementation": "Short damped landing offsets follow a surface placement.",
+      "application": "Episode 3 props and motion studies",
+      "study": "pickup"
+    },
+    {
+      "id": 74,
+      "improvement": "Careful carrying",
+      "module": "interactions.js",
+      "entryPoint": "carryOrientation / heldLag",
+      "implementation": "Cup orientation cancels wrist rotation and permits only tiny carrying tilt.",
+      "application": "Episode 3 props and motion studies",
+      "study": "carry-cup"
+    },
+    {
+      "id": 75,
+      "improvement": "Visible prop reveals",
+      "module": "episode.js",
+      "entryPoint": "readBook / notebookInsert",
+      "implementation": "A held notebook insert exposes its text before the strikeout.",
+      "application": "Pip\u2019s notebook insert",
+      "study": "two-hands"
+    },
+    {
+      "id": 76,
+      "improvement": "Hoodie follow-through",
+      "module": "secondary.js",
+      "entryPoint": "followThrough",
+      "implementation": "Small deterministic hem deformation responds to movement.",
+      "application": "Episode 3 props and motion studies",
+      "study": "wave"
+    },
+    {
+      "id": 77,
+      "improvement": "Tail follow-through",
+      "module": "secondary.js",
+      "entryPoint": "followThrough",
+      "implementation": "Tail chain response follows speed and authored turn rate.",
+      "application": "Episode 3 props and motion studies",
+      "study": "wave"
+    },
+    {
+      "id": 78,
+      "improvement": "Ear follow-through",
+      "module": "secondary.js",
+      "entryPoint": "followThrough",
+      "implementation": "Ear response lags the turn/body accent.",
+      "application": "Episode 3 props and motion studies",
+      "study": "wave"
+    },
+    {
+      "id": 79,
+      "improvement": "Stable accessories",
+      "module": "cast.js",
+      "entryPoint": "spectacles / attached head geometry",
+      "implementation": "Glasses remain attached to the 3D head at their reference position.",
+      "application": "Episode 3 props and motion studies",
+      "study": "turn"
+    },
+    {
+      "id": 80,
+      "improvement": "Secondary-motion collisions",
+      "module": "secondary.js",
+      "entryPoint": "followThrough",
+      "implementation": "Tail samples test furniture bounds and adjust the chain root.",
+      "application": "Episode 3 props and motion studies",
+      "study": "wave"
+    },
+    {
+      "id": 81,
+      "improvement": "Cleaner action arcs",
+      "module": "interactions.js",
+      "entryPoint": "transfer / pickupArc",
+      "implementation": "Gesture, pickup and transfer paths use controlled curves.",
+      "application": "Episode 3 acting and motion studies",
+      "study": "pickup"
+    },
+    {
+      "id": 82,
+      "improvement": "Stronger speed contrast",
+      "module": "performance.js",
+      "entryPoint": "poseAt / ease",
+      "implementation": "Preparation, accent, hold and recovery use different timing.",
+      "application": "Episode 3 acting and motion studies",
+      "study": "point"
+    },
+    {
+      "id": 83,
+      "improvement": "Selective extra drawings",
+      "module": "performance.js",
+      "entryPoint": "sampleClock",
+      "implementation": "Default whole drawings hold at 12 fps; marked fast windows use 24 fps.",
+      "application": "Episode 3 acting and motion studies",
+      "study": "wave"
+    },
+    {
+      "id": 84,
+      "improvement": "Directional smears",
+      "module": "secondary.js",
+      "entryPoint": "orientSmears",
+      "implementation": "Smears follow wrist action and are rotated by wave/point direction.",
+      "application": "Episode 3 acting and motion studies",
+      "study": "wave"
+    },
+    {
+      "id": 85,
+      "improvement": "Volume-preserving squash",
+      "module": "secondary.js",
+      "entryPoint": "volumeScale",
+      "implementation": "Squash changes transverse scale by the reciprocal square root of height.",
+      "application": "Episode 3 acting and motion studies",
+      "study": "laugh"
+    },
+    {
+      "id": 86,
+      "improvement": "Camera-aware reaches",
+      "module": "interactions.js",
+      "entryPoint": "cameraAwareHands",
+      "implementation": "Small hand-width compensation improves camera-facing reaches.",
+      "application": "Episode 3 acting and motion studies",
+      "study": "point"
+    },
+    {
+      "id": 87,
+      "improvement": "Better three-quarter poses",
+      "module": "performance.js",
+      "entryPoint": "attention",
+      "implementation": "Head-width compensation and shallow volumetric facial shapes remain readable.",
+      "application": "Episode 3 acting and motion studies",
+      "study": "turn"
+    },
+    {
+      "id": 88,
+      "improvement": "Readable extreme turns",
+      "module": "performance.js",
+      "entryPoint": "attention",
+      "implementation": "Head turns are bounded; body turns preserve actual side/back volume.",
+      "application": "Episode 3 acting and motion studies",
+      "study": "turn"
+    },
+    {
+      "id": 89,
+      "improvement": "Varied group reactions",
+      "module": "secondary.js",
+      "entryPoint": "groupReaction",
+      "implementation": "Other characters react with small staggered pulses.",
+      "application": "Episode 3 acting and motion studies",
+      "study": "laugh"
+    },
+    {
+      "id": 90,
+      "improvement": "Coordinated discoveries",
+      "module": "secondary.js",
+      "entryPoint": "stagedDiscovery",
+      "implementation": "Eyes and heads turn toward a shared world target in sequence.",
+      "application": "Silent motion study",
+      "study": "discover"
+    },
+    {
+      "id": 91,
+      "improvement": "Motivated camera movement",
+      "module": "direction.js",
+      "entryPoint": "setCamera / frameActors / authoredMove",
+      "implementation": "Camera moves support Pip\u2019s final essay line and important inserts.",
+      "application": "Episode 3 shot plan",
+      "study": "listen"
+    },
+    {
+      "id": 92,
+      "improvement": "Matched eyelines between shots",
+      "module": "performance.js",
+      "entryPoint": "attention",
+      "implementation": "Eye targets use the actual partner\u2019s world-space face position.",
+      "application": "Episode 3 shot plan",
+      "study": "listen"
+    },
+    {
+      "id": 93,
+      "improvement": "Cuts during actions",
+      "module": "direction.js",
+      "entryPoint": "setCamera / frameActors / authoredMove",
+      "implementation": "Camera cuts sample the same absolute actor/action clock.",
+      "application": "Episode 3 shot plan",
+      "study": "listen"
+    },
+    {
+      "id": 94,
+      "improvement": "Consistent screen direction",
+      "module": "direction.js",
+      "entryPoint": "setCamera / frameActors / authoredMove",
+      "implementation": "Fixed scene coordinates, facing and authored camera sides preserve travel direction.",
+      "application": "Episode 3 shot plan",
+      "study": "listen"
+    },
+    {
+      "id": 95,
+      "improvement": "Better camera easing",
+      "module": "direction.js",
+      "entryPoint": "setCamera / frameActors / authoredMove",
+      "implementation": "Camera moves use a smooth deterministic easing curve.",
+      "application": "Episode 3 shot plan",
+      "study": "listen"
+    },
+    {
+      "id": 96,
+      "improvement": "Breathing room around actions",
+      "module": "prepare.py",
+      "entryPoint": "timing / path contacts / cues",
+      "implementation": "Quiet dialogue and physical actions receive authored pauses and recovery time.",
+      "application": "Episode 3 timeline and soundtrack",
+      "study": "listen"
+    },
+    {
+      "id": 97,
+      "improvement": "Footstep synchronization",
+      "module": "prepare.py",
+      "entryPoint": "timing / path contacts / cues",
+      "implementation": "Footstep audio times come from the same path distance/easing as foot plants.",
+      "application": "Episode 3 timeline and soundtrack",
+      "study": "listen"
+    },
+    {
+      "id": 98,
+      "improvement": "Interaction sound synchronization",
+      "module": "prepare.py",
+      "entryPoint": "timing / path contacts / cues",
+      "implementation": "Click and notebook sounds use the actual interaction clock.",
+      "application": "Episode 3 timeline and soundtrack",
+      "study": "listen"
+    },
+    {
+      "id": 99,
+      "improvement": "Automated motion checks",
+      "module": "verify-episode03.cjs",
+      "entryPoint": "all-frame / visibility / seek / action checks",
+      "implementation": "All-frame transforms, foot anchors, volume, face visibility and seek repeatability are checked.",
+      "application": "Saved verification reports",
+      "study": "listen"
+    },
+    {
+      "id": 100,
+      "improvement": "An approved motion library",
+      "module": "library.js",
+      "entryPoint": "MOTIONS / createMotionLibrary",
+      "implementation": "A curated, tested library of 24 editable examples across eight actors, ready for user review.",
+      "application": "Motion-library viewer",
+      "study": "walk"
+    }
+  ],
+  "artisticReview": "Ready for user review; technical checks are recorded with Episode 3."
+}

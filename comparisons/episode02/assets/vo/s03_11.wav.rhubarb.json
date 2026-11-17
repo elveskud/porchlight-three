@@ -1,0 +1,9 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Porchlight-work\\Blender\\videos\\ep02\\vo\\s03_11.wav",
+    "duration": 0.34
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.34, "value": "X" }
+  ]
+}

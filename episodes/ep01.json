@@ -1,0 +1,643 @@
+{
+  "series": "Porchlight",
+  "episode": 1,
+  "title": "Porch Light On",
+  "thumb_text": "WHO'S UP AT 3AM?",
+  "riot_optional": true,
+  "ending": "porch_light",
+  "beats": [
+    {
+      "id": "cold",
+      "chapter": "Cold open",
+      "text": "Maple Hollow. Late.",
+      "location": "hall",
+      "cast": {
+        "riot": "hoodie"
+      },
+      "mood": "tense",
+      "sfx": [
+        "step_wood0@0.8",
+        "step_wood1@1.3",
+        "step_wood2@1.8",
+        "step_wood3@2.3",
+        "step_wood0@3.6",
+        "step_wood1@4.1",
+        "step_wood2@4.6",
+        "step_wood3@5.1",
+        "click@6.2"
+      ],
+      "hold": 200,
+      "seats": {
+        "riot": "edge"
+      },
+      "fx": [
+        {
+          "type": "flashlight",
+          "from_px": [
+            -80,
+            260
+          ],
+          "on": 0.3,
+          "off": 6.2,
+          "path": [
+            [
+              150,
+              330,
+              0.3
+            ],
+            [
+              300,
+              400,
+              1.6
+            ],
+            [
+              470,
+              360,
+              3.2
+            ],
+            [
+              510,
+              350,
+              4.6
+            ],
+            [
+              515,
+              352,
+              6.2
+            ]
+          ],
+          "soft": true
+        }
+      ],
+      "move": "at:520,330,11.0",
+      "letterbox": true
+    },
+    {
+      "id": "intro",
+      "location": "lake_night",
+      "cast": {},
+      "camera": "at:300,330,11.5",
+      "move": "at:760,260,9.5",
+      "mood": "party",
+      "hold": 290,
+      "sfx": [
+        "theme@0.9"
+      ],
+      "fx": [
+        {
+          "type": "title",
+          "text": "PORCHLIGHT",
+          "at": 1.0,
+          "sub": "Maple Hollow"
+        }
+      ]
+    },
+    {
+      "id": "tower",
+      "chapter": "The tower",
+      "location": "lake",
+      "cast": {
+        "riot": "lifeguard",
+        "rocco": null
+      },
+      "lines": [
+        {
+          "who": "riot",
+          "say": "Sir. Sir. No floating without a buddy.",
+          "do": "point",
+          "face": "suspicious",
+          "look": "right"
+        },
+        {
+          "who": "riot",
+          "say": "He's testing me.",
+          "face": "suspicious",
+          "camera": "close:riot"
+        },
+        {
+          "who": "rocco",
+          "say": "He's a duck.",
+          "do": "munch",
+          "camera": "close:rocco"
+        },
+        {
+          "who": "riot",
+          "say": "A duck who's testing me.",
+          "camera": "two:riot,rocco",
+          "punch": true
+        }
+      ],
+      "seats": {
+        "riot": "tower",
+        "rocco": 3
+      },
+      "fx": [
+        {
+          "type": "critter",
+          "piece": "puddles_and_duck_05",
+          "at_px": [
+            520,
+            398
+          ],
+          "width": 1.3,
+          "bob": 0.05,
+          "rock": 0.04,
+          "ripples": true,
+          "z": 1.5,
+          "poses": [
+            [
+              1.2,
+              "puddles_and_duck_08"
+            ],
+            [
+              5.5,
+              "puddles_and_duck_09"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rematch",
+      "location": "lake",
+      "cast": {
+        "riot": "lifeguard",
+        "rocco": null,
+        "bash": null,
+        "pip": null
+      },
+      "lines": [
+        {
+          "who": "riot",
+          "say": "School's out! How was summer school?",
+          "do": "wave",
+          "face": "hype"
+        },
+        {
+          "who": "pip",
+          "say": "It's not summer school. It's just school. In summer.",
+          "face": "nervous"
+        },
+        {
+          "who": "bash",
+          "say": "Tuesdays and Thursdays. The owl says it builds character."
+        },
+        {
+          "who": "rocco",
+          "say": "Builds character. In July.",
+          "punch": true
+        },
+        {
+          "who": "bash",
+          "say": "Riot. Game night. Tonight. I want a rematch.",
+          "do": "point",
+          "face": "yelling",
+          "camera": "close:bash"
+        },
+        {
+          "who": "riot",
+          "say": "You lost the last three.",
+          "face": "cocky"
+        },
+        {
+          "who": "bash",
+          "say": "Which is why I'm due.",
+          "face": "yelling",
+          "react": "pip"
+        },
+        {
+          "who": "pip",
+          "say": "That's not how it works."
+        },
+        {
+          "who": "rocco",
+          "say": "Let him have this."
+        },
+        {
+          "who": "riot",
+          "say": "Then it's official.",
+          "do": "present",
+          "face": "hype",
+          "camera": "wide"
+        }
+      ],
+      "enter": {
+        "bash": "left",
+        "pip": "left"
+      },
+      "fx": [
+        {
+          "type": "critter",
+          "piece": "puddles_and_duck_05",
+          "at_px": [
+            520,
+            398
+          ],
+          "width": 1.3,
+          "bob": 0.05,
+          "rock": 0.04,
+          "ripples": true,
+          "z": 1.5
+        }
+      ],
+      "face_front": [
+        "riot"
+      ]
+    },
+    {
+      "id": "light",
+      "chapter": "Light's on",
+      "location": "stoop_sunset",
+      "cast": {
+        "riot": "hoodie"
+      },
+      "seats": {
+        "riot": 3
+      },
+      "sfx": [
+        "click@0.6"
+      ],
+      "lines": [
+        {
+          "who": "riot",
+          "say": "Light's on.",
+          "do": "thumbs",
+          "face": "hype",
+          "pause": 30,
+          "look": "up_right"
+        }
+      ],
+      "hold": 70,
+      "fx": [
+        {
+          "type": "lamp_on",
+          "at_px": [
+            958,
+            179
+          ],
+          "at": 0.6,
+          "r": 2.2
+        },
+        {
+          "type": "critter",
+          "piece": "puddles_and_duck_03",
+          "at_px": [
+            905,
+            320
+          ],
+          "width": 1.5,
+          "z": 6.5,
+          "blink": "puddles_and_duck_07"
+        }
+      ],
+      "chat": [
+        [
+          "Riot",
+          "LIGHT'S ON"
+        ],
+        [
+          "Bash",
+          "omw. rematch."
+        ],
+        [
+          "Pip",
+          "bringing snacks"
+        ],
+        [
+          "Rocco",
+          "i live here"
+        ]
+      ]
+    },
+    {
+      "id": "mlt1",
+      "chapter": "Most Likely To",
+      "location": "apartment",
+      "mood": "party",
+      "cast": {
+        "riot": "hoodie",
+        "rocco": null,
+        "bash": null,
+        "pip": null
+      },
+      "lines": [
+        {
+          "who": "bash",
+          "say": "Rules. No mercy. No jokes. Just winning.",
+          "face": "yelling",
+          "camera": "close:bash"
+        },
+        {
+          "who": "riot",
+          "say": "It's Most Likely To. You can't win Most Likely To.",
+          "camera": "wide"
+        },
+        {
+          "who": "bash",
+          "say": "Watch me.",
+          "face": "yelling"
+        }
+      ],
+      "game": {
+        "type": "mlt",
+        "prompt": "Most likely to fall asleep the second they sit down.",
+        "target": "rocco",
+        "after": [
+          {
+            "who": "pip",
+            "say": "He voted for himself!",
+            "do": "laugh",
+            "face": "laughing",
+            "pause": 20
+          },
+          {
+            "who": "bash",
+            "say": "That's a point for Rocco? He's not even awake!",
+            "face": "shocked",
+            "pause": 30
+          },
+          {
+            "who": "rocco",
+            "say": "I'm awake. I'm winning.",
+            "face": "asleep",
+            "pause": 25
+          }
+        ],
+        "point_hold": 40
+      },
+      "seats": {
+        "bash": "sofa_l_out",
+        "pip": "sofa_r_out",
+        "rocco": "beanbag_out",
+        "riot": "floor_mid"
+      }
+    },
+    {
+      "id": "mlt2",
+      "location": "apartment",
+      "cast": {
+        "riot": "hoodie",
+        "rocco": null,
+        "bash": null,
+        "pip": null
+      },
+      "lines": [
+        {
+          "who": "pip",
+          "say": "Why is it so hot?",
+          "do": "fan",
+          "still_hands": true
+        },
+        {
+          "who": "rocco",
+          "say": "Same heat wave as last year. Same week.",
+          "face": "suspicious",
+          "camera": "close:rocco"
+        },
+        {
+          "who": "bash",
+          "say": "Weather does that.",
+          "camera": "wide"
+        },
+        {
+          "who": "rocco",
+          "say": "Sure.",
+          "face": "side_eye_r",
+          "pause": 20,
+          "do": "stare"
+        }
+      ],
+      "game": {
+        "type": "mlt",
+        "prompt": "Most likely to be the only person still up at 3am finishing something great.",
+        "target": "rocco",
+        "laugh": false,
+        "after": [
+          {
+            "who": "rocco",
+            "say": "Hm.",
+            "do": "point",
+            "target": "riot",
+            "face": "suspicious",
+            "camera": "ots:riot,rocco",
+            "react": "riot"
+          },
+          {
+            "who": "riot",
+            "say": "Me? I'm asleep by ten! I'm a lifeguard! I have a... sleep... schedule.",
+            "do": "laugh",
+            "face": "laughing",
+            "camera": "close:riot"
+          },
+          {
+            "who": "bash",
+            "say": "Rocco's never finished anything in his life.",
+            "camera": "wide"
+          },
+          {
+            "who": "rocco",
+            "say": "Rude. Accurate.",
+            "do": "munch",
+            "punch": true
+          }
+        ],
+        "point_straight": [
+          "bash"
+        ]
+      },
+      "seats": {
+        "bash": "sofa_l_out",
+        "pip": "sofa_r_out",
+        "rocco": "beanbag_out",
+        "riot": "floor_mid"
+      }
+    },
+    {
+      "id": "score",
+      "location": "apartment",
+      "mood": "party",
+      "cast": {
+        "riot": "hoodie",
+        "rocco": null,
+        "bash": null,
+        "pip": null
+      },
+      "lines": [
+        {
+          "who": "riot",
+          "say": "Final score! Rocco, two. Pip, one. Me, one. Bash...",
+          "face": "hype"
+        },
+        {
+          "who": "bash",
+          "say": "Don't.",
+          "face": "shocked",
+          "camera": "close:bash"
+        },
+        {
+          "who": "riot",
+          "say": "...zero.",
+          "camera": "wide"
+        },
+        {
+          "who": "bash",
+          "say": "How do you lose Most Likely To?!",
+          "do": "facepalm",
+          "face": "yelling",
+          "camera": "close:bash",
+          "punch": true
+        },
+        {
+          "who": "pip",
+          "say": "You're most likely to keep trying?",
+          "face": "happy",
+          "camera": "two:bash,pip",
+          "still_hands": true
+        },
+        {
+          "who": "bash",
+          "say": "...Thank you, Pip.",
+          "face": "happy",
+          "punch": true
+        }
+      ],
+      "seats": {
+        "bash": "sofa_l_out",
+        "pip": "sofa_r_out",
+        "rocco": "beanbag_out",
+        "riot": "floor_mid"
+      }
+    },
+    {
+      "id": "night",
+      "chapter": "The stoop",
+      "location": "stoop_night",
+      "cast": {
+        "riot": "hoodie",
+        "rocco": null
+      },
+      "seats": {
+        "rocco": 2,
+        "riot": 3
+      },
+      "lines": [
+        {
+          "who": "rocco",
+          "say": "Don't stay up.",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "I won't.",
+          "face": "soft",
+          "quiet": true
+        }
+      ],
+      "exit": {
+        "rocco": "right"
+      },
+      "exit_sfx": "door",
+      "transition": "fade",
+      "fx": [
+        {
+          "type": "card",
+          "text": "Later that night.",
+          "at": 0.3,
+          "for": 1.8
+        }
+      ]
+    },
+    {
+      "id": "alone",
+      "location": "stoop_night",
+      "cast": {
+        "riot": "hoodie"
+      },
+      "seats": {
+        "riot": "step"
+      },
+      "camera": "at:735,285,8.4",
+      "lines": [
+        {
+          "who": "riot",
+          "say": "This light was on every game night my grandpa ever had. Did you know that?",
+          "face": "soft",
+          "pause": 40,
+          "look": "up_right",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "Yeah. Me neither, for a while.",
+          "face": "soft",
+          "pause": 30,
+          "camera": "at:800,250,6.0",
+          "quiet": true
+        }
+      ],
+      "hold": 50,
+      "fx": [
+        {
+          "type": "lamp_on",
+          "at_px": [
+            958,
+            179
+          ],
+          "at": 0.0,
+          "r": 0.7,
+          "color": "#FFE9A8",
+          "room": 0.02
+        },
+        {
+          "type": "critter",
+          "piece": "puddles_and_duck_03",
+          "at_px": [
+            905,
+            320
+          ],
+          "width": 1.5,
+          "z": 6.5,
+          "blink": "puddles_and_duck_07",
+          "poses": [
+            [
+              2.0,
+              "puddles_and_duck_06"
+            ]
+          ]
+        }
+      ],
+      "transition": "fade"
+    },
+    {
+      "id": "hill",
+      "chapter": "The hill",
+      "location": "lake_night",
+      "cast": {},
+      "hold": 120,
+      "camera": "at:500,300,11.5",
+      "move": "at:860,200,9.0"
+    }
+  ],
+  "beds": {
+    "normal": "lofi"
+  },
+  "riot_phone": true,
+  "thumb": {
+    "location": "apartment",
+    "cast": [
+      {
+        "who": "rocco",
+        "expr": "suspicious",
+        "pose": "point"
+      },
+      {
+        "who": "riot",
+        "costume": "hoodie",
+        "expr": "nervous",
+        "pose": "idle"
+      }
+    ]
+  },
+  "centre_mouth": true,
+  "face_front_all": true
+}

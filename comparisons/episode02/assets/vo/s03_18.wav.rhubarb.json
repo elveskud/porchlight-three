@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Porchlight-work\\Blender\\videos\\ep02\\vo\\s03_18.wav",
+    "duration": 1.42
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "X" },
+    { "start": 0.03, "end": 0.10, "value": "B" },
+    { "start": 0.10, "end": 0.17, "value": "F" },
+    { "start": 0.17, "end": 0.24, "value": "B" },
+    { "start": 0.24, "end": 0.31, "value": "C" },
+    { "start": 0.31, "end": 0.38, "value": "G" },
+    { "start": 0.38, "end": 0.52, "value": "E" },
+    { "start": 0.52, "end": 0.66, "value": "B" },
+    { "start": 0.66, "end": 0.92, "value": "X" },
+    { "start": 0.92, "end": 1.38, "value": "B" },
+    { "start": 1.38, "end": 1.42, "value": "X" }
+  ]
+}

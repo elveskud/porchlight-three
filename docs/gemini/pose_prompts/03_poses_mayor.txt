@@ -1,0 +1,16 @@
+ATTACH: art/gemini/characters/05_mayor.jpg
+SAVE AS: art/gemini/refs/poses_mayor.jpg
+
+PROMPT (copy everything below):
+
+Image 1 shows the Mayor, a slightly flustered grey tabby cat lady from a 2D cartoon series. Draw her, keeping her exact design, colours, clothes and proportions, seen from the FRONT like in image 1.
+A pose sheet, 8 poses in two rows, all the same scale, each one separate:
+1) giving a speech, one paw raised, hopeful smile
+2) wringing her paws, worried
+3) clapping politely
+4) holding a sheet of paper, reading it nervously
+5) both paws up, "now, now, everyone"
+6) surprised, ears back, tail puffed
+7) shaking someone's hand (just her arm out)
+8) a tired sigh, shoulders dropped
+Draw ONLY the character. Bold clean black outlines, flat solid colours with ONE darker shadow tone, no texture. Plain white background. NO text, NO labels, NO numbers.

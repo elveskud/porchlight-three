@@ -1,0 +1,492 @@
+{
+  "recordings": [
+    {
+      "id": "s01_00",
+      "who": "preston",
+      "text": "Ladies. Gentlemen. Ducks. Imagine... this. But more.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s01_00.wav",
+      "sha256": "085ce64fb5bc438506a90ba5a03bdbf8d80fd8c38347091a54b19bdb2c40fa1a",
+      "start": 2.5,
+      "duration": 4.818956916099773
+    },
+    {
+      "id": "s01_01",
+      "who": "riot",
+      "text": "What is that?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s01_01.wav",
+      "sha256": "1b18aac58003af52a7dc77c210fdaa5bdf12d2bc53ce377b6a0ebe522efe7f89",
+      "start": 7.678956916099773,
+      "duration": 0.5216326530612245
+    },
+    {
+      "id": "s01_02",
+      "who": "preston",
+      "text": "That's the Preston Pavilion. It has a fountain inside a smaller fountain.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s01_02.wav",
+      "sha256": "9e8931ee9686ae384fd735151183fd218448b3f30929b6f15e593134f77c54a0",
+      "start": 8.560589569160998,
+      "duration": 3.7967573696145123
+    },
+    {
+      "id": "s01_03",
+      "who": "bash",
+      "text": "Where do the ducks go?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s01_03.wav",
+      "sha256": "7bb46e209e08123100245f02428b98174a9786c0f4e477b0994a7eba8b63e843",
+      "start": 12.71734693877551,
+      "duration": 0.9341723356009071
+    },
+    {
+      "id": "s01_04",
+      "who": "preston",
+      "text": "Level two.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s01_04.wav",
+      "sha256": "89c914ba69013b8b3d1b66d34473a05cfceb5d44983095b96e08b5d799952750",
+      "start": 14.011519274376417,
+      "duration": 0.5068707482993198
+    },
+    {
+      "id": "s01_05",
+      "who": "mayor",
+      "text": "Well! Yes. No. Let's form a committee. Yes.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s01_05.wav",
+      "sha256": "8d5ca9d402d5ff9853c960708757894ea9176f461596f5ba79f5d58dfb7e6552",
+      "start": 15.418390022675737,
+      "duration": 5.610294784580499
+    },
+    {
+      "id": "s03_00",
+      "who": "riot",
+      "text": "That's my lake. That's my park. He said level two.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_00.wav",
+      "sha256": "2c604051ba38412ce97a0f34fa97b193b22907e25461af72bed4e48f5de3d626",
+      "start": 33.26666666666667,
+      "duration": 2.400997732426304
+    },
+    {
+      "id": "s03_01",
+      "who": "pip",
+      "text": "There's a town meeting in two weeks.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_01.wav",
+      "sha256": "113e01e06f53eb2f3a0aa4587ccfe0be0cae34c5a7232d35c1eb912182f80b6f",
+      "start": 36.02766439909298,
+      "duration": 2.3731292517006803
+    },
+    {
+      "id": "s03_02",
+      "who": "riot",
+      "text": "We don't have two weeks. We make the park so terrible he gives up. Operation Unbuyable.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_02.wav",
+      "sha256": "8bfd8c204ea8e8634db41f8d0623fa547a1bad97079f00baaf58cec07f7c1adb",
+      "start": 38.76079365079366,
+      "duration": 5.346371882086168
+    },
+    {
+      "id": "s03_03",
+      "who": "rocco",
+      "text": "I'm listening. I'm eating, but I'm listening.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_03.wav",
+      "sha256": "7bb0e0c674de99a98427f754f91fed04f5da5827423f2d88c96c748730bd369a",
+      "start": 44.467165532879825,
+      "duration": 2.313628117913832
+    },
+    {
+      "id": "s03_04",
+      "who": "riot",
+      "text": "One, a swamp smell. Two, rowdy locals. Three, a threatening sign.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_04.wav",
+      "sha256": "e10821f397251a9041c2e2583f747afa19adde07023d2969f365bd061b9b7abf",
+      "start": 47.140793650793654,
+      "duration": 4.19875283446712
+    },
+    {
+      "id": "s03_05",
+      "who": "bash",
+      "text": "My family can be rowdy.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_05.wav",
+      "sha256": "c40d20d2fe549e715d91ba898cea0f2fad70c0af91b63a84ed6a76caf9bc68fc",
+      "start": 51.699546485260775,
+      "duration": 1.4619727891156462
+    },
+    {
+      "id": "s03_06",
+      "who": "pip",
+      "text": "You don't have to ask them to be.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_06.wav",
+      "sha256": "bff60bc515bbf7c1e72ac8b49d926a989fcedb3fece0b661b4ffe1630bd06b1c",
+      "start": 53.52151927437642,
+      "duration": 1.2774603174603174
+    },
+    {
+      "id": "s03_07",
+      "who": "pip",
+      "text": "What's the swamp smell made of?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_07.wav",
+      "sha256": "53835674e5d0b155dc0665eb77250a51f19a7246d4c92aca62e49189572d9b72",
+      "start": 55.15897959183674,
+      "duration": 1.5830839002267574
+    },
+    {
+      "id": "s03_08",
+      "who": "riot",
+      "text": "That's your department.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_08.wav",
+      "sha256": "d7b96070d036589647166c51250a8a618dd40f9ee71035bb1a6e2797adb0a552",
+      "start": 57.10206349206349,
+      "duration": 0.8819954648526077
+    },
+    {
+      "id": "s03_09",
+      "who": "pip",
+      "text": "Why is that my department?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_09.wav",
+      "sha256": "c43f4f934dcd27006538ef79700c4d9f8c583ad6a7238ca6fbff9766588e84fb",
+      "start": 58.3440589569161,
+      "duration": 1.235124716553288
+    },
+    {
+      "id": "s03_10",
+      "who": "riot",
+      "text": "You've got the most sensitive nose.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_10.wav",
+      "sha256": "ab2bcfab92b9358f958a4f913c0f4f6fcbfd2e52039e39e80d86700bc6bc1b74",
+      "start": 59.93918367346939,
+      "duration": 1.2860090702947846
+    },
+    {
+      "id": "s03_11",
+      "who": "pip",
+      "text": "That's a rabbit thing. That's not a qualification.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_11.wav",
+      "sha256": "e667cc1160e54d91524f6ee11e231b55c3b035858d06cfeeba5acdcf462149a3",
+      "start": 61.58519274376417,
+      "duration": 2.425124716553288
+    },
+    {
+      "id": "s03_12",
+      "who": "rocco",
+      "text": "What does the sign say?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_12.wav",
+      "sha256": "57647fe2889ff3d682f6b8f92ea9764c3da3199f2957f08dcd753882e2dff073",
+      "start": 64.37031746031745,
+      "duration": 1.0727210884353742
+    },
+    {
+      "id": "s03_13",
+      "who": "riot",
+      "text": "Something that really frightens a rich guy.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_13.wav",
+      "sha256": "f17b4828d899f81b65f600b129c3a8be0b70117e5e4be818da287bb015879188",
+      "start": 65.80303854875282,
+      "duration": 2.0424716553287983
+    },
+    {
+      "id": "s03_14",
+      "who": "rocco",
+      "text": "Leave it with me.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_14.wav",
+      "sha256": "80bea7da94c91b84f4d94a95aa86235a255f3ad984940f15b279eb6b98817ccf",
+      "start": 68.20551020408162,
+      "duration": 0.645124716553288
+    },
+    {
+      "id": "s03_15",
+      "who": "bash",
+      "text": "I love this one. Who even makes this?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_15.wav",
+      "sha256": "8628ffb5e723937eb22993cef547992bcc05896a9ad0ed66702378027841b451",
+      "start": 69.2106349206349,
+      "duration": 2.4105895691609978
+    },
+    {
+      "id": "s03_16",
+      "who": "rocco",
+      "text": "Some guy.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_16.wav",
+      "sha256": "14132ec8512170748775df1342e2552b83652e22b8e0531d5552c38fb56d3eb9",
+      "start": 71.9812244897959,
+      "duration": 0.5952607709750567
+    },
+    {
+      "id": "s04_00",
+      "who": "bashmom",
+      "text": "BASH! SWEETIE! HAVE YOU EATEN? WHO ELSE HASN'T EATEN?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_00.wav",
+      "sha256": "1a71992b5010e38e76f20e2b4b3e86a909c4dede9e030c21573e7598a22666da",
+      "start": 82.65,
+      "duration": 3.4675963718820864
+    },
+    {
+      "id": "s04_01",
+      "who": "riot",
+      "text": "Rowdy locals, deployed.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_01.wav",
+      "sha256": "3293e8db4f5b14c52e1bb1e574d78d4e7788a11908b2a8b30e2ccd068a5d725e",
+      "start": 86.47759637188209,
+      "duration": 1.2287528344671201
+    },
+    {
+      "id": "s04_03",
+      "who": "preston",
+      "text": "What... is that smell?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_02.wav",
+      "sha256": "4d12b7268f351c6ec9f362fcedaa61c02ccf8fe1ddd6b58564988f6262c2a762",
+      "start": 89.4263492063492,
+      "duration": 1.2457596371882087
+    },
+    {
+      "id": "s04_04",
+      "who": "riot",
+      "text": "Terrible, right? Really puts you off. Bad for business.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_04.wav",
+      "sha256": "0fb82670cc2416ca5a6f72bed229f0baa4d1c2926924324e514ff8c57c5faede",
+      "start": 91.03210884353742,
+      "duration": 3.044761904761905
+    },
+    {
+      "id": "s04_05",
+      "who": "preston",
+      "text": "Authentic.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_05.wav",
+      "sha256": "17c364e8fc63e753544b95413029f219ba5e2e2dfbc107e429ddc8067cb762b5",
+      "start": 95.67687074829931,
+      "duration": 0.7184580498866213
+    },
+    {
+      "id": "s04_06",
+      "who": "riot",
+      "text": "What?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_06.wav",
+      "sha256": "a410cec2babf87c9b1c632543c0a7a5f652bb0cf51e9ee3cb215e7569fa43090",
+      "start": 96.75532879818593,
+      "duration": 0.4768480725623583
+    },
+    {
+      "id": "s04_07",
+      "who": "preston",
+      "text": "The noise. The stench. That sign! You can't buy rustic like this. Marlo, double the offer.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_07.wav",
+      "sha256": "fbc90e74bf95239b27ee39804b8ce3b24cc06c1d3b35e0daf75d818a2e6e2d10",
+      "start": 97.59217687074829,
+      "duration": 5.59124716553288
+    },
+    {
+      "id": "s04_08",
+      "who": "marlo",
+      "text": "Doubled.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_08.wav",
+      "sha256": "e57aa51e19cfb4b8b23cacb16505096f6591b85f22292e232dcafeb2319b30cf",
+      "start": 103.54342403628117,
+      "duration": 0.5168707482993198
+    },
+    {
+      "id": "s04_09",
+      "who": "preston",
+      "text": "And who is responsible for this magnificent sign?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_09.wav",
+      "sha256": "c3fe0440c40bb4b9caf8822e8470500fdc163a037bb5d87e8de63155f2dd7c11",
+      "start": 104.42029478458049,
+      "duration": 2.699546485260771
+    },
+    {
+      "id": "s04_10",
+      "who": "rocco",
+      "text": "Some guy.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s03_16.wav",
+      "sha256": "14132ec8512170748775df1342e2552b83652e22b8e0531d5552c38fb56d3eb9",
+      "start": 107.47984126984126,
+      "duration": 0.5952607709750567
+    },
+    {
+      "id": "s04_11",
+      "who": "preston",
+      "text": "Buy it. Buy the sign. Put it in the lobby.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_11.wav",
+      "sha256": "2816b797fd11615383b0fdaf934b648b1c902812c3cedee759b259d3e6d55d26",
+      "start": 108.43510204081632,
+      "duration": 2.3857142857142857
+    },
+    {
+      "id": "s04_12",
+      "who": "riot",
+      "text": "No. No no no. It's a warning!",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_12.wav",
+      "sha256": "0ba2811a34323c09be24bf635592d0922147219faea1f93181ba7041900fb904",
+      "start": 111.1808163265306,
+      "duration": 2.0937868480725625
+    },
+    {
+      "id": "s04_13",
+      "who": "preston",
+      "text": "It's a brand!",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_13.wav",
+      "sha256": "b90e88defe94abcacc20e420cd5410419ef6a73fd8921ff905abb1c550b21edb",
+      "start": 113.63460317460317,
+      "duration": 0.6648299319727892
+    },
+    {
+      "id": "s04_14",
+      "who": "bash",
+      "text": "Should I get my family to be louder?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_14.wav",
+      "sha256": "df3d9e64f0362110b6cf429728bc77f9238368ee62ffee222f832dc989d88361",
+      "start": 114.65943310657596,
+      "duration": 1.349591836734694
+    },
+    {
+      "id": "s04_15",
+      "who": "riot",
+      "text": "I don't think that helps.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_15.wav",
+      "sha256": "1c421bf0bcde4835577762f74ae432ed24ac0789a8bbe924c37e459955e26250",
+      "start": 116.36902494331065,
+      "duration": 0.8786621315192744
+    },
+    {
+      "id": "s04_16",
+      "who": "bashmom",
+      "text": "BASH! YOUR UNCLE MADE THE GOOD POTATO SALAD!",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_16.wav",
+      "sha256": "7c31afc3e8bffbedd4b53c8029910451f405470fe6a7d276f793f3f602c9cb24",
+      "start": 117.60768707482993,
+      "duration": 2.813582766439909
+    },
+    {
+      "id": "s04_17",
+      "who": "preston",
+      "text": "Listen to that. Marlo, get her number.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_17.wav",
+      "sha256": "5cd2402c5a99c93e4fdd95ad45a3ff82b8af8b639e856505b599b90a12951d44",
+      "start": 120.78126984126983,
+      "duration": 2.3299319727891157
+    },
+    {
+      "id": "s04_18",
+      "who": "pip",
+      "text": "Did we just make it worth more?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_18.wav",
+      "sha256": "ce1d069deec7682e4d1818fcc284b207e951e8c54856a8bf97c5636f3c264885",
+      "start": 123.47120181405894,
+      "duration": 1.0912244897959185
+    },
+    {
+      "id": "s04_19",
+      "who": "rocco",
+      "text": "A little.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_19.wav",
+      "sha256": "539a4987c17e7d11d2d40df99f7221f93ac3b81978f897f9c4923010dbc5867a",
+      "start": 124.92242630385486,
+      "duration": 0.49412698412698414
+    },
+    {
+      "id": "s04_20",
+      "who": "mayor",
+      "text": "Double? Well. Goodness. Yes. No. Let me sit down.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s04_20.wav",
+      "sha256": "39b5ccb7acf459efc684955a568106930b041610961984504674379b099fd447",
+      "start": 125.77655328798184,
+      "duration": 5.763832199546485
+    },
+    {
+      "id": "s05_00",
+      "who": "hiker",
+      "text": "Morning! Chilly for November, huh?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s05_00.wav",
+      "sha256": "2c49791f842623c0ccf38bf938d371f19ce0c0ce0cc0d6f4d76b226d814f9e23",
+      "start": 143.61666666666665,
+      "duration": 1.7737868480725623
+    },
+    {
+      "id": "s05_01",
+      "who": "riot",
+      "text": "Sure is!",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s05_01.wav",
+      "sha256": "cf63d63ed66ab47a90f344f26ec7d5d18db864b39599f553ca1bc04af0074627",
+      "start": 145.75045351473923,
+      "duration": 0.7114739229024943
+    },
+    {
+      "id": "s05_02",
+      "who": "bash",
+      "text": "So chilly!",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s05_02.wav",
+      "sha256": "b8d79865d7e2414a0e8c10e0dea476962c55bb0b772664c8ee2c9b544679178f",
+      "start": 146.82192743764173,
+      "duration": 1.8099319727891157
+    },
+    {
+      "id": "s05_03",
+      "who": "pip",
+      "text": "Is it? I mean, yes.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s05_03.wav",
+      "sha256": "ae6d772aaa7981730854aa93ffc280fee82916b3ceaca1d76c6edca04df6595e",
+      "start": 148.99185941043086,
+      "duration": 1.4745804988662132
+    },
+    {
+      "id": "s05_04",
+      "who": "rocco",
+      "text": "...Is it?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s05_04.wav",
+      "sha256": "178e328f4a9b6d1a998607cdb98dc4dcc1a3fecec7796cb3152359d381e451bc",
+      "start": 154.46643990929707,
+      "duration": 0.3036281179138322
+    },
+    {
+      "id": "s06_00",
+      "who": "preston",
+      "text": "Hm.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s06_00.wav",
+      "sha256": "6ce00b9d9d6bf8b8678772e78ea3d7dc876f5a7b451152097ae41ee611076b7d",
+      "start": 160.68333333333334,
+      "duration": 1.1181632653061224
+    },
+    {
+      "id": "s07_00",
+      "who": "riot",
+      "text": "You know I've never wanted to be anywhere else? That park, this street.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s07_00.wav",
+      "sha256": "8d21a8564fb3a7babd7aca1845add5ace9c2f4790c8b94262927f9d3063ecf8c",
+      "start": 167.51666666666665,
+      "duration": 3.3046258503401362
+    },
+    {
+      "id": "s07_01",
+      "who": "riot",
+      "text": "People always want to leave, and I just never did.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s07_01.wav",
+      "sha256": "350df8fc30b716f701beb6bd07ab525b4cc835ed2e8826149d0e43d4e85ff148",
+      "start": 171.4712925170068,
+      "duration": 2.758503401360544
+    },
+    {
+      "id": "s07_02",
+      "who": "rocco",
+      "text": "Then we keep it.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s07_02.wav",
+      "sha256": "e846de75d208d852438f15929dc66e94c6542a943d1ae8a16e9db4860dc8127c",
+      "start": 174.87979591836734,
+      "duration": 0.8618367346938776
+    },
+    {
+      "id": "s07_03",
+      "who": "riot",
+      "text": "Yeah?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s07_03.wav",
+      "sha256": "cd44fc5a6ec708f41c7ae96b5586bdd1808823e255a7673f022a55ea5058ffb3",
+      "start": 176.3916326530612,
+      "duration": 0.3071201814058957
+    },
+    {
+      "id": "s07_04",
+      "who": "rocco",
+      "text": "Yeah.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep04/vo/s07_04.wav",
+      "sha256": "f27e1148ecf0c1f71ca7e876a78e50d9c71083ec0cf4d07e0545cb46801de588",
+      "start": 177.34875283446712,
+      "duration": 0.3063718820861678
+    }
+  ],
+  "scriptHash": "e306fedaa01e6f43f5ba2f139fa59284847a7e4ed349b692067b73ba21bf6aaa",
+  "noNewVoices": true
+}

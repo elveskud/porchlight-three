@@ -1,0 +1,85 @@
+# Porchlight 36: Eleven
+next: One Small Game
+thumb: WHO HAS IT?
+grade: summer
+previously: The game reached its last turn and stopped. One peg is empty.
+
+== Cold open | apartment | riot, rocco, bash, pip
+RIOT sits on the sofa r.
+BASH sits on the sofa l.
+PIP sits on the floor.
+ROCCO stands at the wall.
+// The apartment wall has disappeared. Every page of every notebook is pinned to it, with string between. Years of it. Rocco stands in front of it in a clean shirt. He's holding a pointer. It's a breadstick. Nobody's ever seen him standing up for this long.
+ROCCO (deadpan, point): Okay. Everything I know. It'll take about four minutes. Please don't interrupt, I've never done this.
+BASH (happy): This is the greatest day of my life.
+ROCCO (deadpan): Bash. No heckling.
+BASH (happy): I'm so proud of you. Is that a breadstick?
+ROCCO (deadpan): It's a learning tool.
+[hold: 6]
+
+[intro]
+
+
+== Everything | apartment | riot, rocco, bash, pip
+ROCCO stands at the wall.
+ROCCO (determined, point): Every summer, the festival. One game. Twelve rounds, twelve lanterns. Each round, one lantern goes up.
+ROCCO (point): Last lantern, last day of summer. We saw the sign.
+ROCCO (quietly): On the board, eleven markers, one empty peg. That's not a missing piece. It's a scoreboard. Eleven went up.
+RIOT: So the last marker's lost.
+ROCCO (shake): It was never there. You don't put the marker on till the real one's gone up. The board's not missing a piece.
+ROCCO (quietly): It's waiting for the real one.
+// He taps the wall with the breadstick. A drawing of a paper lantern. Silence. Bash's eyes are getting bigger.
+BASH (shocked): The real lantern? The actual last lantern? From that night?
+PIP: But the storm. It'd be gone. It's paper.
+RIOT (soft): The frame's in my dad's garage. It's got no paper on it.
+ROCCO (nod): That's the spare. Your dad said it himself: it's for if the first one got wet.
+ROCCO (quietly): It's still in the crate, with no paper on it. So nobody ever got round to using it.
+// He breaks off the end of the pointer and eats it, thinking.
+ROCCO (suspicious): So where'd the first one go? It wasn't burned. It wasn't in the hall. Nothing from that night has ever been lost.
+RIOT (shocked, quietly): Somebody took it.
+ROCCO (quietly): Somebody saved it.
+BASH: Who? Who was there?
+ROCCO (deadpan): The whole town. Who all forgot. There's one thing that was listening that night, though.
+PIP (quietly): The tape.
+[hold: 4]
+
+== The tape | gus garage | gus, rocco, riot, pip
+[mood: soft]
+GUS carries a tape.
+RIOT enters left.
+ROCCO enters left.
+PIP enters left.
+GUS: The old festival reel? It cuts out, son. You heard it. Thunder and then nothing.
+ROCCO (quietly): Can I see your machine?
+// He kneels down by it. He takes off the side panel. He doesn't ask where anything is. He reaches in and tilts one small head by two degrees, then turns three dials and takes a little tin of something out of his own pocket. His paws know this machine better than Gus does. They always have.
+// Gus has stopped talking. He's watching those paws. He's looking at the way the raccoon's head goes down, listening. He looks at the box with the slot in it. He looks at the paws again.
+GUS (soft, quietly): Two degrees.
+// Rocco stops. He doesn't turn round. A long moment. Nobody else in the room understands. The old goat's eyes have filled up. He doesn't say it. He's a man who has talked for forty-one years, and he doesn't say it.
+GUS (soft): That's... that's a good ear you've got, son.
+ROCCO (quietly): Thank you. For playing them.
+// He means the tapes. Gus nods, and wipes his face, and pats him twice on the back of the shoulder.
+GUS (soft): My pleasure.
+[hold: 8]
+
+== Under the thunder | gus garage | gus, rocco, riot, pip
+[mood: tense]
+ROCCO sits on the crate.
+[sfx: crowd_ooh]
+// The tape plays. Crowd. Laughter. The big warm laugh. Then the thunder, huge, and the place where it always cuts out. But Rocco's hands are on the dials, and he's lifted something out from underneath it. Rain. Screaming. Feet. And very far off, through it, a voice.
+[sfx: boom]
+ROCCO (quietly): Again.
+// He plays it again, slower, with his eyes shut. A voice calling out in the rain. Someone running. It's almost words.
+RIOT (whispers, lean): What's it saying?
+// Rocco shakes his head. Everyone's leaning in. It's not enough. He's got nothing else. But Pip has gone very still. His long ears have come up by themselves. The Ear. He closes his eyes.
+PIP (quietly): Play it one more time.
+// The hiss. The rain. And this time we can hear it. A young woman, breathless, calling across the storm, so faint it could be a dream.
+PIP (quietly): "I've got it. Amos. I've got it."
+RIOT (shocked, quietly): Amos?
+PIP (quietly): Someone took it out of the rain. She had it. She told him.
+ROCCO: Who is that?
+// Behind the voice on the tape, very soft, under everything: a small papery sound. Turning. Touching. Turning. Pip's eyes come open. He's heard that sound. He's heard it a hundred times, on a warm afternoon, with a glass of iced tea in his paw.
+// It's the sound of something very old, and very thin, moving in the wind.
+PIP (soft, whispers): Oh.
+RIOT: Pip? Do you know that voice?
+// He doesn't answer. He looks out of the garage door, down the street, to where the road runs by the lake.
+[hold: 8]

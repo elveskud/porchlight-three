@@ -1,0 +1,45 @@
+{
+  "result": "PASS",
+  "maxTerrainHeightError": 1.8207657603852567e-14,
+  "terrainSamples": 60,
+  "wetPaths": [],
+  "cameraClearance": [
+    {
+      "name": "wide",
+      "clearance": 4.129000236988068
+    },
+    {
+      "name": "detail",
+      "clearance": 4.345327396988869
+    },
+    {
+      "name": "reverse",
+      "clearance": 4.674897086620331
+    },
+    {
+      "name": "parkward",
+      "clearance": 4.050000000745058
+    },
+    {
+      "name": "west",
+      "clearance": 4.15928284406662
+    },
+    {
+      "name": "townward",
+      "clearance": 5.494644272327423
+    },
+    {
+      "name": "farshore",
+      "clearance": 4.567237331867218
+    },
+    {
+      "name": "overhead",
+      "clearance": 92.3366849899292
+    }
+  ],
+  "stage": [
+    -0.05000000074505806,
+    -0.05000000074505806,
+    -0.05000000074505806
+  ]
+}

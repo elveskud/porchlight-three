@@ -1,0 +1,97 @@
+# Porchlight 23: Round One
+next: The Quiet One
+thumb: BASH VS BEARS
+grade: summer
+
+== Cold open | park | mayor, hal, riot, rocco, bash, pip, bashmom, bea, walt, owl
+[mood: party]
+[fx crowd row_px=[40,470,980] n=18 mood=cheer]
+MAYOR carries a clipboard.
+MAYOR (hype): Welcome to Round One of the Maple Hollow Championship! Sign in with your team name!
+// Bright day. Long tables on the grass, and half the town. Behind them the wooden frame of a festival stage is going up. Bash stands with his arms folded in a team shirt he's made himself.
+RIOT (hype): Team name?
+BASH (determined): I've thought about it. We're called Team Porchlight.
+ROCCO (munch): I wanted The Four Guys.
+BASH: That's not even a name.
+MAYOR: And your first opponents...
+BASHMOM (yelling, wave): BASH! SWEETIE! WE'RE THE BEAR FAMILY! WE'RE GOING TO DESTROY YOU, HONEY!
+// Forty bears wave at him. Bash's arms slowly unfold.
+[hold: 6]
+
+[intro]
+
+
+== The rules | park | mayor, hal, riot, rocco, bash, pip, bashmom, bea, walt, owl
+HAL carries a clipboard.
+HAL (happy): Same as the old days. Families against families. First to three rounds.
+HAL: Every game's on Friendzy. Your team, your table, your room.
+RIOT carries a phone.
+RIOT (hype): Team Porchlight, here's our code. Everybody in.
+[json: {"game": {"type": "feature", "feature": "rooms", "who": "riot", "say": "Four letters, one room. That's it, we're in."}}]
+WALT (determined): Team Walt! I'm a team of one! I've got a very strong feeling about teacups!
+OWL (happy): Team Faculty. Everyone will be graded.
+ROCCO (deadpan): He's graded the table.
+PIP: What did it get?
+ROCCO: B minus.
+
+== Bash versus bears | park | riot, rocco, bash, pip, bashmom, bea
+[mood: party]
+RIOT carries a phone.
+RIOT (hype): First game, Most Likely To! One phone, on three, everybody points!
+BASHMOM (happy, yelling): BRING IT ON, SWEETIE!
+[game mlt: Most likely to be the person who finishes last in a race but gets the biggest cheer. | bash]
+// Every hand in the park, four boys and forty bears, points straight at Bash. Everyone cheers. It's meant with so much love. Bash smiles with his mouth.
+BASH (hype): Is that a point? Do I get a point for that?
+RIOT (nervous): It's the whole team's point!
+BASH: But did I win it?
+BEA (hype): You win at losing, Bash!
+BASHMOM (happy, yelling): THAT'S MY SON!
+[hold: 3]
+
+== Word by word | park | riot, rocco, bash, pip, bashmom, bea
+[mood: tense]
+BASH sits on the bench.
+BEA sits on the bench.
+RIOT: Tie-breaker. Alias. Captain against captain. It's you, Bash.
+BASH (determined): Who's their captain?
+// Bea climbs up on the bench opposite him. She's four. She has a sticker on her head that says Captain. She looks at him as if he's already gone.
+BEA (cocky): Hi, Bash.
+[json: {"game": {"type": "alias", "word": "Umbrella", "describer": "pip", "guesser": "bash", "clue": "You open it when it rains. It keeps you dry.", "guess": "A roof!"}}]
+BASH (shocked): A small roof! You hold it! That's what I meant!
+[sfx: buzzer]
+BEA (cheer): UMBRELLA! I WIN! I WIN AT BASH!
+// Bash stays sitting. His own match, his own family, the whole park cheering. He looks down at his homemade shirt.
+ROCCO (quietly, to pip): Team's through, though.
+PIP (quietly): Tell him that later.
+[hold: 6]
+
+== Through | park | riot, rocco, bash, pip, hal
+HAL enters left.
+HAL carries a clipboard.
+HAL (happy): Scores are in. Team Porchlight, two rounds to the bears' one. Mr. Pip's game carried you. You're through.
+RIOT (cheer): We're through! Bash, we're through!
+BASH (happy): Great. That's great. Good job, Pip.
+// He means it, and he's doing his best. He goes to fold up a chair. He folds it very neatly. Pip watches him do that.
+PIP: You got us through the first round.
+BASH: Everybody pointed at me for losing.
+PIP (quietly): Everybody pointed at you.
+// Bash stops. He doesn't quite know what to do with that. He puts down the chair.
+[sfx: thud]
+// Behind them, a loud thump of a mallet. Up on the frame of the stage, Big Hal's crew knock in the first post. It goes in sweetly, exactly where the old hole was.
+ROCCO (suspicious): Who told them where to put that?
+HAL (shrug): Nobody. Seemed like the place.
+[hold: 8]
+
+== The stage | lake, day | riot, rocco, brook
+[mood: soft]
+RIOT stands at the tower.
+BROOK enters left.
+BROOK sits on the bench.
+// Late afternoon. Riot's back at his tower. Down the beach the stage has reached the height of its first floor. Mrs. Brook has come along the sand, very slowly. She sits, and looks at it for a long while.
+BROOK (soft): They've got it facing the wrong way.
+RIOT (soft): Sorry?
+BROOK: The stage. It should face the water. So the lanterns are behind you when you...
+// She stops. She pats the bench beside her, for no one.
+BROOK (happy): Or so I'd imagine. I hear they're doing a nice potato salad.
+// She gets up. It takes a long time. Riot watches her go, with his head a little on one side. Then Big Hal's crew, down the beach, quietly turn the stage around.
+[hold: 8]

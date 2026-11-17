@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "soundFile": "/Users/lazaretchaava/Desktop/Blender.nosync/videos/episodes_ep04_h/vo/s04_20.wav",
+    "duration": 5.76
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "B" },
+    { "start": 0.06, "end": 0.11, "value": "C" },
+    { "start": 0.11, "end": 0.20, "value": "A" },
+    { "start": 0.20, "end": 0.64, "value": "B" },
+    { "start": 0.64, "end": 0.83, "value": "C" },
+    { "start": 0.83, "end": 0.88, "value": "E" },
+    { "start": 0.88, "end": 1.13, "value": "F" },
+    { "start": 1.13, "end": 1.27, "value": "C" },
+    { "start": 1.27, "end": 1.41, "value": "H" },
+    { "start": 1.41, "end": 1.83, "value": "B" },
+    { "start": 1.83, "end": 1.95, "value": "X" },
+    { "start": 1.95, "end": 2.07, "value": "B" },
+    { "start": 2.07, "end": 2.26, "value": "F" },
+    { "start": 2.26, "end": 2.31, "value": "E" },
+    { "start": 2.31, "end": 2.49, "value": "C" },
+    { "start": 2.49, "end": 2.77, "value": "B" },
+    { "start": 2.77, "end": 3.25, "value": "X" },
+    { "start": 3.25, "end": 3.51, "value": "C" },
+    { "start": 3.51, "end": 3.97, "value": "B" },
+    { "start": 3.97, "end": 4.12, "value": "C" },
+    { "start": 4.12, "end": 4.26, "value": "E" },
+    { "start": 4.26, "end": 4.40, "value": "F" },
+    { "start": 4.40, "end": 5.01, "value": "X" },
+    { "start": 5.01, "end": 5.07, "value": "H" },
+    { "start": 5.07, "end": 5.12, "value": "B" },
+    { "start": 5.12, "end": 5.20, "value": "A" },
+    { "start": 5.20, "end": 5.44, "value": "B" },
+    { "start": 5.44, "end": 5.65, "value": "C" },
+    { "start": 5.65, "end": 5.72, "value": "E" },
+    { "start": 5.72, "end": 5.76, "value": "X" }
+  ]
+}

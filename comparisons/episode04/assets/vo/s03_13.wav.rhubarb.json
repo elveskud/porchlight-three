@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "soundFile": "/Users/lazaretchaava/Desktop/Blender.nosync/videos/episodes_ep04_h/vo/s03_13.wav",
+    "duration": 2.04
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "X" },
+    { "start": 0.06, "end": 0.10, "value": "C" },
+    { "start": 0.10, "end": 0.18, "value": "A" },
+    { "start": 0.18, "end": 0.74, "value": "B" },
+    { "start": 0.74, "end": 0.88, "value": "C" },
+    { "start": 0.88, "end": 1.02, "value": "B" },
+    { "start": 1.02, "end": 1.09, "value": "G" },
+    { "start": 1.09, "end": 1.16, "value": "B" },
+    { "start": 1.16, "end": 1.23, "value": "C" },
+    { "start": 1.23, "end": 1.44, "value": "B" },
+    { "start": 1.44, "end": 1.58, "value": "C" },
+    { "start": 1.58, "end": 1.72, "value": "B" },
+    { "start": 1.72, "end": 1.93, "value": "C" },
+    { "start": 1.93, "end": 2.00, "value": "B" },
+    { "start": 2.00, "end": 2.04, "value": "X" }
+  ]
+}

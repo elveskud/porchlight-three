@@ -1,0 +1,94 @@
+# Porchlight 38: Leave It Be
+next: Twelfth of August
+thumb: THE LAST LANTERN
+grade: summer
+
+== Cold open | brook porch | brook, pip
+[mood: soft]
+BROOK sits on the bench.
+PIP enters left.
+// Morning, by the lake. The chimes turn. Two glasses of iced tea on the little table. Two. She's already poured them. She doesn't look up as Pip comes up the steps. He isn't doing the nervous walk. He's just walking.
+BROOK (soft): I wondered which one of you it would be.
+BROOK (soft): Sit down, dear. It's a long story, and I've got no intention of telling it.
+[hold: 5]
+
+[intro]
+
+
+== The tea | brook porch | brook, pip
+[mood: soft]
+PIP sits on the bench.
+PIP carries a cup.
+// He sits. He takes a sip. They look at the water. He's in no hurry.
+PIP (soft): That was you on the tape. "I've got it, Amos."
+// Her paw on the glass doesn't move. Nothing about her moves. A long while goes by.
+BROOK (soft): My word. They kept that.
+BROOK (soft): I was thirty-one. He was the funniest man who ever lived, and he couldn't add up.
+PIP (soft): You took it out of the rain.
+// She goes in through the screen door, and comes back out, slowly, with an old round hatbox tied with a ribbon gone grey.
+BROOK sits on the bench.
+BROOK carries a box.
+[hold: 8]
+
+== The hatbox | brook porch | brook, pip
+[mood: soft]
+// She puts it on the table. She unties the ribbon. She's done this before, many times, always alone. She lifts the lid. Here it is.
+// A paper lantern. Folded flat, in tissue. Cream and gold, and untouched by anything. The only clean, bright thing in the whole of Maple Hollow. It looks as though it was made this morning.
+PIP (whispers): Oh.
+BROOK (soft): I ran with it under my coat.
+BROOK (soft): I was going to give it to him in the morning.
+BROOK (soft): We'd do it the next night.
+BROOK (soft): And the next day came up so lovely. Everyone was laughing about the storm.
+BROOK (soft): It was the happiest I'd ever been. And I thought, one more day.
+BROOK (soft): Just one more. And then I looked up, and I was old.
+PIP (quietly, chin): Did he know?
+BROOK (sad): He looked everywhere. He turned that hall upside down. He said he had to finish it.
+BROOK (sad): He said something was wrong with the summer, and he couldn't make anybody hear him.
+BROOK (sad, quietly): And one morning he took his coat and went out past the town line to find someone who could put it right.
+BROOK (sad, quietly): And I had it in a hatbox.
+// She puts her paw on the tissue paper. She doesn't cry. She's had forty years to stop.
+PIP (soft): Did he come back?
+BROOK (sad, quietly): You've a very good ear, dear. Don't ask me that.
+[hold: 8]
+
+== Pip asks | brook porch | brook, pip
+[mood: soft]
+// He takes a breath. He's been quiet his whole life. He's been getting ready for this.
+PIP (soft, stand): The best summer of your life was a long time ago, by the lake.
+BROOK (soft): Yes.
+PIP (soft): This one's mine. I've got three friends. I've got a step. I didn't know you could have that.
+PIP (soft): My family moves when summer ends. If that lantern goes up, I lose all of it.
+PIP (soft): I've known that since the night we saw the storm.
+BROOK (shocked): Oh, my dear.
+// He's looking right at her. No act. His ears are shaking a little.
+PIP (soft): I understand why you did it. I've wanted to do it too.
+PIP (soft): And I'm asking you anyway.
+// All her forty years go across her face. We think she's going to say yes. So does he.
+// Very gently, she closes the lid.
+BROOK (sad): I can't. I'm so sorry. I've tried, you know. Every year, on that night, I light a candle and I try.
+BROOK (soft): Leave it be, dear. Please.
+// He nods, slowly. He doesn't plead. He finishes his tea, because she made it.
+PIP (soft, nod): Thank you for the tea.
+// He leans over and does something on her phone, a little brick of a thing she keeps by the door.
+BROOK (soft): What's that?
+PIP (soft): Friendzy. It's just how we talk. There'll be a room tomorrow. You don't have to do anything.
+PIP (soft): I just don't think anyone should be alone tomorrow night.
+// He pats her paw twice, the way she did to him, and goes down the steps. Her paw stays on the lid.
+[hold: 8]
+
+== The boys | stoop, sunset | riot, rocco, bash, pip
+[mood: soft]
+PIP sits on the step.
+RIOT stands at the step.
+BASH sits on the step.
+RIOT (determined): She said no? Pip, it's right there, in a house that doesn't even lock.
+BASH (determined): I could be there and back in five minutes.
+// Pip doesn't say anything. He just looks at Bash, and Bash stops. He looks down at his big paws.
+BASH (quietly): ...It has to be her. Doesn't it?
+PIP (soft): It's hers. It's the only thing she's got left of him.
+ROCCO (quietly): If you take it, you've kept the moment. Just a different one.
+// Riot sits down heavily. Tomorrow's the twelfth.
+RIOT (soft, quietly): So we go down there, and we sit in our seats, with nothing. And we wait.
+BASH (nod): Yeah.
+RIOT (soft): Okay.
+[hold: 8]

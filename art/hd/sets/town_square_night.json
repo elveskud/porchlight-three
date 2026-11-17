@@ -1,0 +1,106 @@
+{
+ "fronts": [
+  {
+   "name": "auto_01",
+   "z": 6.25,
+   "base_px": 524,
+   "bbox": [
+    687,
+    0,
+    1023,
+    550
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_02",
+   "z": 6.25,
+   "base_px": 504,
+   "bbox": [
+    0,
+    0,
+    326,
+    514
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_03",
+   "z": 4.75,
+   "base_px": 490,
+   "bbox": [
+    792,
+    204,
+    830,
+    491
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_04",
+   "z": 4.75,
+   "base_px": 484,
+   "bbox": [
+    199,
+    194,
+    239,
+    485
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_05",
+   "z": 2.0,
+   "base_px": 272,
+   "bbox": [
+    529,
+    146,
+    696,
+    277
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_06",
+   "z": 2.0,
+   "base_px": 197,
+   "bbox": [
+    338,
+    127,
+    428,
+    200
+   ],
+   "auto": true
+  }
+ ],
+ "clean": "town_square_night_clean",
+ "walk_lines": [
+  462,
+  498,
+  540
+ ],
+ "spots": {
+  "back": [
+   512,
+   462,
+   "stand",
+   0.4,
+   4.0
+  ],
+  "mid": [
+   512,
+   498,
+   "stand",
+   0.44,
+   5.5
+  ],
+  "front": [
+   512,
+   540,
+   "stand",
+   0.48,
+   7.0
+  ]
+ },
+ "light_from": "left"
+}

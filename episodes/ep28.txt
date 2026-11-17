@@ -1,0 +1,100 @@
+# Porchlight 28: The Pool
+next: What Rocco Knew
+thumb: THE ONE HE TURNED DOWN
+grade: autumn
+
+== Cold open | city pool | riot
+[mood: soft]
+[text: 6 a.m.]
+RIOT enters left.
+// A huge indoor pool, empty and lit blue. Lanes stretching away. Riot in the grey coat, in the doorway. He's walked here through the snow, in the dark, and he didn't plan to. The water's so still that it looks solid. The sound of it fills the whole building.
+// He walks along the side. He looks at the lanes. He kneels and puts his paw in, and it's warm.
+RIOT (soft, whispers): Hey.
+[hold: 8]
+
+[intro]
+
+
+== Coach | city pool | riot, coach
+[mood: soft]
+// Warm inside: no snow here.
+RIOT sits on the bench.
+COACH enters right.
+COACH carries a clipboard.
+COACH: Pool's not open till seven, son.
+RIOT (nervous): Sorry. I was just leaving.
+// She stops. She's a grey-muzzled otter with a stopwatch round her neck. She looks at how he walks. She looks at his shoulders. She tilts her head.
+COACH: Say something else.
+RIOT: Ma'am?
+COACH (shocked): Maple Hollow.
+// He stops dead. It's been more than two years. She knows exactly who he is.
+COACH (soft): You're the Vale kid. Fifty free, twenty-two flat, at a county meet in a lake. I drove four hours to see that.
+RIOT (nervous): I think you've got me mixed up.
+COACH: I offered you a full ride. You wrote back one line. "Thank you, I can't." I held your place for a year.
+// He's rubbing his ear. There's no one here to see it.
+RIOT (quietly): You did?
+COACH (soft): I've coached thirty years. You're the one I think about. What happened?
+// He looks at the pool. He hasn't got an answer. Out in the corridor, behind the glass, a small figure in a child's duffel coat has stopped, and is standing very still.
+RIOT (soft): I had people.
+COACH (soft): Good people?
+RIOT (quietly, happy): The best.
+// She looks at him a long time. She nods. She takes a stopwatch out of her pocket, a spare, and holds it up.
+COACH: Well. You came all this way. Pool's empty. Want to know?
+// He looks at the water.
+[hold: 8]
+
+== Twenty-two | city pool | riot, coach, pip
+[mood: soft]
+[sfx: whistle]
+RIOT cannonballs.
+// He's in. The pool opens up for him. No duck, no reeds, just a clean black line. He's so much better than he's ever allowed himself to be. It's almost hard to look at. Pip stands at the glass with his mouth slightly open.
+[sfx: splash]
+// He touches the wall. She looks at the watch. She doesn't show him. She looks at him, hanging on the edge, out of breath, and looking as if he could cry.
+COACH (soft): Twenty-two flat. Same as you were at eighteen.
+COACH (soft): It'd take me six months to get you down. The door isn't closed, Riot. I'm just saying that it isn't.
+// He hangs there. Everything he didn't take is in that building: the lanes, the lights, a life going on just fine without him. He looks at it. He really looks at it, and there's a long breath, and what's on his face isn't what we expected. It's sad, and it's also peaceful.
+RIOT (soft): Thank you. For the year.
+RIOT (soft, quietly): I'd do it again.
+COACH (soft): I know you would.
+[hold: 8]
+
+== Never have I ever | motel | riot, rocco, bash, pip
+[mood: soft]
+RIOT carries a phone.
+RIOT sits on the bed.
+BASH sits on the bed.
+// The motel, morning light, snow outside. Riot's hair is wet. Nobody asks. Bash is eating a very sad breakfast bar. Pip looks at him and looks away.
+ROCCO: What flavour's that?
+BASH (gloom): Beige. It's beige flavour.
+ROCCO (deadpan): Sounds like the sky here.
+BASH: We've got an hour till the archive opens. Game?
+RIOT (nervous): Sure. Yeah. Sure.
+[game nhie: Never have I ever turned down something I now wish I'd said yes to. | pip | Once.]
+// Riot read that out himself. He's still looking at the words on the screen. It's very quiet. He hasn't tapped. Rocco's looking at his wet hair. Pip has looked up.
+BASH: Pip! What did you turn down?
+PIP (quietly): A second dessert. It's haunted me.
+// He says it to Bash, but it's for Riot. He's offering him a way out. Or a way in. Riot looks at him. His paw's on the phone. He opens his mouth.
+RIOT (soft): I...
+BASH: Riot? You tapping or what?
+// A long, long moment. The heater ticks. And he looks at the three of them in their terrible coats.
+RIOT (laugh): Nope! Not me. I've said yes to everything. That's my whole problem.
+BASH (laughing): That's true.
+// The moment closes up. Rocco goes back to his chips. Pip looks down at his paws.
+[hold: 8]
+
+== Alone | motel | riot, pip
+[mood: soft]
+RIOT stands at the window.
+PIP enters left.
+// Later. Riot at the window, coat on. Pip stands next to him and looks at the snow. They both look at the same glass building.
+PIP (soft): How was your walk?
+RIOT (nervous): Fine. Cold. Why?
+PIP (soft): No reason.
+// A long pause. Pip's not nervous. He's not acting at all. He just stands next to him, the way he stood with Bash at the lake.
+PIP (soft): You'd tell us. If there was something.
+RIOT (soft, quietly): Yeah. Course.
+// His paw's on his ear. Pip watches it. He nods.
+PIP (quietly): Okay.
+PIP (soft): Say anything about what?
+// Riot looks round, and he doesn't quite understand, and Pip has already gone to get his coat.
+[hold: 8]

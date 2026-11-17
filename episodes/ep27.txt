@@ -1,0 +1,89 @@
+# Porchlight 27: Weather
+next: The Pool
+thumb: WHAT IS A COAT?
+grade: autumn
+previously: The boys crossed the town line. Nobody brought a jacket.
+
+== Cold open | city street | riot, rocco, bash, pip
+[mood: party]
+[fx breath]
+// Grey city street, tall buildings, wind, a bus going by. Four animals in shorts and T-shirts stand on the pavement in a row, shaking so hard that they blur. Rocco has a chip, and it's vibrating. People in big coats walk round them without looking.
+BASH (shiver): I c-c-can't feel my knees. Is that normal? Is this just what it's like?
+PIP (shiver): I-it's called cold.
+BASH (shiver): Who's d-doing it?
+ROCCO (shiver, joke): Nobody. It j-just happens. To everyone. All at once.
+// Bash stares at a passing coat as if it's the greatest invention in history.
+[hold: 7]
+
+[intro]
+
+
+== Coats | city street | riot, rocco, bash, pip, hiker
+[fx breath]
+// A charity shop rail on the pavement. A little later. Bash in a huge purple coat with a fur collar. Rocco in something that was once a curtain. Pip in a child's duffel coat, delighted. Riot's in a plain grey one and he hasn't said a word for a while.
+BASH (happy): This is the best thing that's ever happened to me. Why did no one tell us about coats?
+RIOT (nervous): Okay. Maker's shop. Let's get in and get out.
+PIP: You keep looking at that road.
+RIOT: I don't.
+HIKER enters right.
+HIKER carries a backpack.
+// A familiar figure comes along the street. But something's different. Hat, gloves, boots. For once in his life, he's dressed for the weather, and no one's staring at him. He's the most normal person on the street.
+HIKER (shocked): Hey! HEY! Bush guys!
+// He drops everything. He runs at them with his arms out. He's so happy.
+HIKER (happy): You're here! In a coat! What are you doing here? Isn't it cold? Is this not so cold?
+BASH (shiver): It's so cold.
+// The hiker stops. His eyes fill with tears. He grabs Bash's sleeve in both hands.
+HIKER (soft): Say that again.
+BASH (shocked): It's cold?
+HIKER (soft): Nobody's ever said that to me, man. Not once. Not in that whole valley.
+ROCCO (deadpan): Happy to help, Dave.
+HIKER (happy): He remembered my name!
+[hold: 8]
+
+== The shop | city street | riot, rocco, bash, pip, hiker
+HIKER carries a backpack.
+// A street corner. The address from the inside of the box lid. Where the shop should be there's a phone repair stall, and a sign, faded on the old brick above it: Lamp, and the rest is gone.
+RIOT (sad): It's gone. Okay. We tried. Let's go home.
+PIP: Wait. There's a card.
+// In the window, a little yellowed notice. Pip reads it through the glass.
+PIP: "Workshop closed. Customer records given to the City Archive, Hall of Records."
+HIKER: Oh, that's on Fifth. It's shut Sundays, though. It'll open up tomorrow at ten.
+RIOT (nervous): Tomorrow? We'd have to stay over.
+BASH (hype): A sleepover in a city!
+RIOT: Dad needs the car.
+ROCCO (deadpan): Your dad's got a canoe.
+PIP (quietly): What's on your mind, Riot? It's only one night.
+// Riot opens his mouth. Across the street behind him, half hidden by a bus, is a tall glass building with steam rising from its roof. We can just read a word on it: Aquatic. His paw is at his ear.
+RIOT (nervous): Nothing. Great. One night.
+[hold: 8]
+
+== The motel | motel | riot, rocco, bash, pip
+[mood: soft]
+BASH sits on the bed.
+RIOT sits on the bed.
+// One room, two beds, a heater that ticks. They've pooled every coin they have. Out of the window, dark at five in the afternoon. Bash is standing right by the glass.
+BASH (shocked, point): It's getting dark. It's not even dinner.
+PIP (quietly): That's what winter does.
+BASH: How does anyone get anything done?
+// Rocco gets out of his curtain. He's looking at the wall. There's a calendar from a pizza shop. It's turned to a month none of them has ever seen on a calendar in Maple Hollow. He goes close to it. He touches the paper.
+ROCCO (quietly): February.
+PIP: Is that real?
+ROCCO (soft): I've read about it.
+// He takes out his notebook, and he writes it down. It's very quiet. Somewhere below, someone's shovelling. A strange, soft scraping sound.
+[hold: 8]
+
+== The window | motel | riot, rocco, bash, pip
+[mood: soft]
+[fx snow]
+BASH (shocked, quietly): Guys. Guys, get up. What's that?
+// All four at the window in the dark. Past the street lamp, something white is coming down, slowly, in silence, and it's all over the cars. Bash's mouth is open. He pushes up the window and puts his paw out. It lands on him. It melts. He looks at the water in his palm, then up.
+BASH (soft, whispers): It's so quiet.
+PIP (soft): It's snow.
+// Nobody says anything for a long time. Four boys from a town where it's always summer stand at a motel window in borrowed coats. They've never seen anything so beautiful. They're all thinking the same thing.
+BASH (quietly, gloom): We've never had this.
+ROCCO (quietly): No.
+BASH (soft): Everyone back home. They've never had this. Forty years.
+// He looks at the snow. It's the first time it's occurred to him that a summer might have cost something.
+RIOT (soft): It's nice.
+// He's the one who's looking away from the window. Over the roofs, there's a tall glass building, lit from inside, with steam going up into the snow.
+[hold: 8]

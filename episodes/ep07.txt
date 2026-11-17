@@ -1,0 +1,96 @@
+# Porchlight 7: Garage Sale
+next: The Archive
+thumb: IT'S JUST JUNK
+grade: summer
+previously: The park can be saved if there really was a festival. Nobody remembers one.
+
+== Cold open | walt garage | walt, riot, rocco, bash, pip
+WALT carries a clipboard.
+WALT (determined, present): Gentlemen. Thirty years of garage. I've hired the four finest movers in Maple Hollow.
+BASH (hips): What's the pay?
+WALT: Sandwiches.
+BASH (determined): I'd have done it for one sandwich.
+WALT (happy): Yes, I know. That's why it's one sandwich.
+// Walt pulls up the garage door. A wall of junk leans out at them. Everyone takes one step back. A single tennis ball rolls out and stops.
+[hold: 3]
+
+[intro]
+
+
+== The clear-out | walt garage | walt, riot, rocco, bash, pip
+ROCCO sits on the crate.
+ROCCO carries a notebook.
+WALT: Keep pile. Sell pile. Nobody touch the canoe.
+BASH (shocked): This canoe has no bottom.
+WALT (soft): She's a good canoe.
+BASH: It's a canoe-shaped hole!
+// Bash is now wearing a fireman's hat, then a fishing hat, then both.
+BASH (hype): Which one says professional mover?
+PIP: Neither.
+BASH: I'll wear both, then.
+RIOT: Rocco, you've been sitting there for an hour. What are you doing?
+ROCCO (deadpan): Crossword. Thirty years old. Somebody got stuck on six across.
+RIOT: You're doing a crossword from thirty years ago?
+ROCCO (munch, joke): It's still due.
+PIP (looks right): What's in this one?
+[hold: 2]
+
+== The crate | walt garage | walt, riot, rocco, bash, pip
+[mood: soft]
+PIP picks up the crate.
+// Dust. Faded bunting. A hand-painted sign: GAME NIGHT BY THE LAKE. And a folded frame of thin bent wood, shaped like a lantern, with no paper on it.
+BASH: Whoa. Whoa! This is it! This is the festival!
+WALT (soft): Well, look at that. The spare frame. Always kept one, in case the first lantern got wet.
+WALT (soft): I haven't seen those in... I don't know how long.
+RIOT (quietly): ...
+WALT sits on the crate.
+WALT (soft): The Lantern Festival. Every summer. The whole town played one big game by the lake, family against family.
+WALT (soft): And after every round, a lantern went up over the water. You've never seen anything like it.
+PIP: What happened to it?
+WALT (soft): Your grandpa hosted the last one, Riot. I was nine.
+WALT (soft): Then the storm came, everyone ran, and... we just never did it again.
+WALT (shrug): Funny, that. Nobody ever decided to stop.
+// Bash and Rocco are staring at the bunting. Riot has been sorting the same box the whole time. He hasn't looked up once, and he isn't surprised.
+// Pip sees that Riot isn't surprised.
+PIP: ...
+[hold: 8]
+
+== The choice | walt garage | walt, riot, rocco, bash, pip
+RIOT (nervous): Okay! Sell pile. It's just junk, right? Old flags. Somebody'd give you a dollar.
+BASH (shocked): Junk? Riot, this is proof! This is the park!
+PIP: Big Hal said if it was a festival ground...
+RIOT: It's a sign and a stick. It's not proof of anything.
+ROCCO (deadpan): Good sign.
+RIOT: It's just old stuff, Rocco.
+BASH: You love this stuff! You took a porch light off a house!
+// A pause. That one landed. Walt looks from one to the other, and picks up the crate himself.
+WALT (soft): Then it's yours.
+// He puts it in Riot's arms.
+RIOT (soft): Dad.
+WALT: Whatever it's for. It's yours.
+[hold: 3]
+
+== I know | walt garage | walt, riot
+[mood: soft]
+// The others have gone with the sell pile. Long evening light through the garage door. Walt lifts out the empty lantern frame and turns it in his paws.
+WALT (soft): He always said he'd finish that night one day.
+WALT (soft): Never did.
+RIOT (soft, quietly): I know.
+// Walt looks at him a beat too long. Riot takes a sudden interest in the bunting.
+WALT (soft): You know.
+RIOT (nervous): I mean... you've told me. You've said.
+WALT (soft): Sure.
+// Walt puts the frame back gently.
+[hold: 6]
+
+== The photo | apartment | riot, rocco
+[mood: tense]
+RIOT carries a photo.
+RIOT sits on the sofa l.
+ROCCO is asleep.
+// At the bottom of the crate, an envelope. The top picture: a crowd at the lake, everyone laughing, the sky behind them starting to turn. It's the storm night.
+[fx insert kind=paper head=THE_STORM_NIGHT lines=["(the photo)"] smudge=[0] at=1 for=3]
+// At the edge of the frame there's a small face, water-damaged, blurred to nothing.
+RIOT (soft, whispers): Who are you?
+// On the beanbag, one of Rocco's eyes is open.
+[hold: 7]

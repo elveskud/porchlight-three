@@ -1,0 +1,402 @@
+{
+  "recordings": [
+    {
+      "id": "recap",
+      "who": "riot",
+      "text": "Previously... Bash touched the door. The door touched back.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/prev.wav",
+      "sha256": "d317e65376b98d50bcd3328864bc3353593baca509537ac81f5291f0aa2ef67d",
+      "start": 0.15,
+      "duration": 3.345328798185941
+    },
+    {
+      "id": "s01_00",
+      "who": "owl",
+      "text": "And so, class, as we break for the summer, one small assignment.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s01_00.wav",
+      "sha256": "031e5134fea0e15fbee42fd2d664012e8c3966c2ee9b9d9c5d265e742fe24eb0",
+      "start": 4.4,
+      "duration": 4.0240136054421765
+    },
+    {
+      "id": "s01_01",
+      "who": "bash",
+      "text": "Mr. Hoot. It is summer. It's been summer.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s01_01.wav",
+      "sha256": "16972bfff671706bfd8b41d7c65d79404340c95b70c89c876c5523eaeb3fdedc",
+      "start": 8.804013605442178,
+      "duration": 2.81437641723356
+    },
+    {
+      "id": "s01_02",
+      "who": "owl",
+      "text": "An essay. My Summer. Two pages.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s01_02.wav",
+      "sha256": "980fa7954e1759a1c2aaeb9e4a477ffdf6d4ec1f6bbb6f4fe7b235b33cd7e297",
+      "start": 11.998390022675737,
+      "duration": 2.6327210884353742
+    },
+    {
+      "id": "s01_03",
+      "who": "bash",
+      "text": "But it's summer now.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s01_03.wav",
+      "sha256": "c1343a328ef3a139b16c26fd2bde87f3d9a389b3646e60e30abade14df469256",
+      "start": 15.011111111111113,
+      "duration": 1.344013605442177
+    },
+    {
+      "id": "s01_04",
+      "who": "owl",
+      "text": "Then you'll have lots to write about.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s01_04.wav",
+      "sha256": "3be149873a251ba1490f7e1ca99d9ea1c3988d16f73e9ec3a29584b1584dddb3",
+      "start": 16.73512471655329,
+      "duration": 1.7329705215419502
+    },
+    {
+      "id": "s01_05",
+      "who": "pip",
+      "text": "Don't argue. Last time he added a bibliography.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s01_05.wav",
+      "sha256": "e599e70f63d308e113b17a1ecf161a466a192fd4c61c3295147fcd628224371c",
+      "start": 19.21809523809524,
+      "duration": 2.3665079365079364
+    },
+    {
+      "id": "s03_00",
+      "who": "bash",
+      "text": "Two pages about my summer. What do I write? I lost a lot and got chased by a door.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s03_00.wav",
+      "sha256": "4f89252b04ebcf2889f41d36241917aff129857e85d1f41db3156caaad29f55e",
+      "start": 32.05,
+      "duration": 4.66328798185941
+    },
+    {
+      "id": "s03_01",
+      "who": "riot",
+      "text": "You don't write an essay. You make an event. We go door to door. We ask the whole street what summer means.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s03_01.wav",
+      "sha256": "ab20854c4a714ddcf7115c53c77216fffc6f959a517bc224fd35d5c35c52c061",
+      "start": 37.09328798185941,
+      "duration": 5.605759637188209
+    },
+    {
+      "id": "s03_02",
+      "who": "pip",
+      "text": "It's one essay.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s03_02.wav",
+      "sha256": "be2e054afa68ca354dea1433886aace96b53073ab5342116a94608aff78cdd52",
+      "start": 43.07904761904762,
+      "duration": 1.069297052154195
+    },
+    {
+      "id": "s03_03",
+      "who": "riot",
+      "text": "It's a people's history of the summer, Pip.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s03_03.wav",
+      "sha256": "2059c70ce118b6bd8ad8234ed1797d95550ff9c1591d766c4c74cfccad31cb95",
+      "start": 44.52834467120182,
+      "duration": 1.9661224489795919
+    },
+    {
+      "id": "s03_04",
+      "who": "rocco",
+      "text": "My Summer.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s03_04.wav",
+      "sha256": "4957d817b329a78a526c0f3c22a24c7190bb5045f10fc9a4e8a2461e74ea2e24",
+      "start": 46.874467120181414,
+      "duration": 1.5675056689342404
+    },
+    {
+      "id": "s03_05",
+      "who": "riot",
+      "text": "What?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s03_05.wav",
+      "sha256": "a410cec2babf87c9b1c632543c0a7a5f652bb0cf51e9ee3cb215e7569fa43090",
+      "start": 48.821972789115655,
+      "duration": 0.4768480725623583
+    },
+    {
+      "id": "s03_06",
+      "who": "rocco",
+      "text": "I wrote this. Same title. Same owl.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s03_06.wav",
+      "sha256": "3279e81760bd793664e182aa00f741c4ba27aebaaa4e98cc5b0b87ba40f97713",
+      "start": 49.67882086167801,
+      "duration": 2.400385487528345
+    },
+    {
+      "id": "s03_07",
+      "who": "riot",
+      "text": "You were in his class?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s03_07.wav",
+      "sha256": "ddcd72f4a149160969cb515ab2be8f0df6dfcdc0c0d81d50311dd76a5a1f58d1",
+      "start": 52.45920634920636,
+      "duration": 0.8286621315192744
+    },
+    {
+      "id": "s03_08",
+      "who": "rocco",
+      "text": "...I think so.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s03_08.wav",
+      "sha256": "cc13e6674447a2fc42214448e95807fcf2d9757692ad4752ab0216916e459706",
+      "start": 53.66786848072564,
+      "duration": 0.6096371882086168
+    },
+    {
+      "id": "s04_00",
+      "who": "riot",
+      "text": "Gus! Town radio! What does summer mean to you?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s04_00.wav",
+      "sha256": "69f54f9ba5426a851a2abc8a6ca72f8d59b4eebc1cc0e881c8a36944af611d3a",
+      "start": 56.666666666666664,
+      "duration": 3.0462585034013605
+    },
+    {
+      "id": "s04_01",
+      "who": "gus",
+      "text": "Well now. That depends on your frequency.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s04_01.wav",
+      "sha256": "add2fbb4019b401f3daa3f2023aa6a955e8c1969d95d1713a9b979233385f27d",
+      "start": 60.09292517006803,
+      "duration": 3.2732879818594105
+    },
+    {
+      "id": "s04_02",
+      "who": "gus",
+      "text": "...and that's why you never trust a medium wave after lunch.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s04_02.wav",
+      "sha256": "0fd83d03782e7daaf73dfcddf7faff196ac76f73b590b5c7d911053a296edc68",
+      "start": 64.86621315192744,
+      "duration": 4.256666666666667
+    },
+    {
+      "id": "s04_03",
+      "who": "bash",
+      "text": "Sir, in your own words. Be honest.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s04_03.wav",
+      "sha256": "cf75d112685930779c08d2fc7b37b615a48f9c249affe1d5ee650ee3dae7c695",
+      "start": 69.5028798185941,
+      "duration": 2.3903854875283446
+    },
+    {
+      "id": "s04_04",
+      "who": "bash",
+      "text": "Powerful.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s04_04.wav",
+      "sha256": "ef24f1e2524834f9a68ce6f609a41e914b4020b29b8c663763dddfbcd1210eb9",
+      "start": 72.27326530612244,
+      "duration": 0.6518820861678004
+    },
+    {
+      "id": "s04_05",
+      "who": "dot",
+      "text": "He gives that essay every summer.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s04_05.wav",
+      "sha256": "8b687d9bc818acf37f06147463d21862ead2cb53e8ecdfc6078269fe6441d37b",
+      "start": 73.30514739229024,
+      "duration": 1.539591836734694
+    },
+    {
+      "id": "s04_06",
+      "who": "pip",
+      "text": "Dot, go home.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s04_06.wav",
+      "sha256": "157064c1a0cc2892a27462f54b12cd106c04786981a9d74cb964cb6ddfd16486",
+      "start": 75.22473922902493,
+      "duration": 1.2519274376417233
+    },
+    {
+      "id": "s04_07",
+      "who": "dot",
+      "text": "Every summer. Same one. I've seen the pile.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s04_07.wav",
+      "sha256": "cc200ec6bc57d1ad8f2dde4cafe40361dc811ca495a9907ea2a4172e58408a50",
+      "start": 76.85666666666665,
+      "duration": 2.5030385487528344
+    },
+    {
+      "id": "s04_08",
+      "who": "pip",
+      "text": "Okay, Dot.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s04_08.wav",
+      "sha256": "6026cdc6038068cc6fe20712ae340a18ae9c07eb0b75f302dacf2d7a830f052d",
+      "start": 79.73970521541949,
+      "duration": 0.39396825396825397
+    },
+    {
+      "id": "s04_09",
+      "who": "riot",
+      "text": "Great stuff. We'll call you.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s04_09.wav",
+      "sha256": "57fc537bcd7c6c55e606cc75f5ca7b54eecb1e6620b4861acba1712fe123962b",
+      "start": 80.51367346938774,
+      "duration": 1.2665986394557822
+    },
+    {
+      "id": "s05_00",
+      "who": "riot",
+      "text": "Mrs. Brook! Best summer of your life. Go.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s05_00.wav",
+      "sha256": "181fcc0ab8fec2579fd07512f004e67430a07f9d7b69cac017791693826a96e1",
+      "start": 85.58333333333333,
+      "duration": 2.473764172335601
+    },
+    {
+      "id": "s05_01",
+      "who": "brook",
+      "text": "That's a rude question to ask a turtle. How long have you got?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s05_01.wav",
+      "sha256": "a33d6e42ba9945209a7cd2e976d64a8c2113e31d3bf6218eb81127e8fcb8aaf5",
+      "start": 88.70709750566894,
+      "duration": 3.8527891156462584
+    },
+    {
+      "id": "s05_02",
+      "who": "pip",
+      "text": "Whatever you'd like to tell us.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s05_02.wav",
+      "sha256": "6fc0babe6804ffabcbc334ec3cd685c18933fcf17e2d0737ef7b0f7c7c8809bf",
+      "start": 93.2098866213152,
+      "duration": 1.65
+    },
+    {
+      "id": "s05_03",
+      "who": "brook",
+      "text": "A long time ago. By the lake. Your grandfather made a very good...",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s05_03.wav",
+      "sha256": "1a21841a019d7f28fe8d6aeaa426fc7b2b975a0fde7bfcc4b4279a94cb236ef4",
+      "start": 95.50988662131522,
+      "duration": 4.032290249433107
+    },
+    {
+      "id": "s05_05",
+      "who": "brook",
+      "text": "Lemonade. He made very good lemonade. Drink your tea, dear.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s05_04.wav",
+      "sha256": "b0b9590835088988c756aae43b0fbcf0a3bf52721311e6c82968117abe16816b",
+      "start": 101.84217687074833,
+      "duration": 4.647414965986394
+    },
+    {
+      "id": "s05_06",
+      "who": "riot",
+      "text": "He did?",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s05_05.wav",
+      "sha256": "1dbc5077779f28587cf570436df52809eed2957c090a5212ed0994e8299114c7",
+      "start": 107.13959183673474,
+      "duration": 0.5232199546485261
+    },
+    {
+      "id": "s05_07",
+      "who": "brook",
+      "text": "Terrible businessman. Lovely lemonade.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s05_06.wav",
+      "sha256": "dc770f25409d63739a3994a40d91fc444f301393004108709e443fda542b2da9",
+      "start": 108.31281179138327,
+      "duration": 2.4482086167800454
+    },
+    {
+      "id": "s05_08",
+      "who": "bash",
+      "text": "I'm putting down lemonade.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s05_07.wav",
+      "sha256": "9f8a7bbd676f378f7ebc1fed4fd8c494c898f05a4c11db4a606892f3195527b8",
+      "start": 111.41102040816332,
+      "duration": 1.6967120181405895
+    },
+    {
+      "id": "s06_00",
+      "who": "pip",
+      "text": "Gus. Frequencies. Dot. The pile.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03_tail/vo/s03_00.wav",
+      "sha256": "c79fa08e3aabda518e16f54864b10d50c81daa2f87a22ec5dafcc9a29844a876",
+      "start": 118.63333333333333,
+      "duration": 2.029591836734694
+    },
+    {
+      "id": "s06_01",
+      "who": "pip",
+      "text": "Mrs. Brook. Lemonade.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03_tail/vo/s03_01.wav",
+      "sha256": "334a4a02c7628bbcefa2f8f9c2560d28a698d4609f556cd1dc357d4f67e7318a",
+      "start": 121.31292517006803,
+      "duration": 1.318344671201814
+    },
+    {
+      "id": "s07_00",
+      "who": "riot",
+      "text": "Come on, read it. Bash's was eleven words and three were lemonade.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s07_00.wav",
+      "sha256": "5155b42f39363d8ad4997f81fc81e13afbdb9793102969a4715d81b8ba20c534",
+      "start": 133.63333333333335,
+      "duration": 3.3989115646258505
+    },
+    {
+      "id": "s07_01",
+      "who": "bash",
+      "text": "It had a strong ending.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s07_01.wav",
+      "sha256": "51afb9b1df7301d160014f567ec6f11db56856c0551bc1e5d1fe8b0c701ec6bb",
+      "start": 137.6822448979592,
+      "duration": 1.2045578231292517
+    },
+    {
+      "id": "s07_02",
+      "who": "pip",
+      "text": "It's not very good.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s07_02.wav",
+      "sha256": "7ffafd9a58ada9f7681158870bf3f14325062fbfe6568f73666ef39d2b6a23e6",
+      "start": 139.53680272108846,
+      "duration": 1.5002947845804988
+    },
+    {
+      "id": "s07_03",
+      "who": "rocco",
+      "text": "Read it anyway.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s07_03.wav",
+      "sha256": "dd56845e95872daea5ab24a8a67f188f3c2241d7e7ab20a118b15d1085223275",
+      "start": 141.68709750566896,
+      "duration": 0.749750566893424
+    },
+    {
+      "id": "s07_04",
+      "who": "pip",
+      "text": "My summer. I don't do much. I sit near people.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s07_04.wav",
+      "sha256": "51bc304b5a2b46426a311ffc0f3c73bf2867003590889e0a0f202d7b82cedfaf",
+      "start": 143.0868480725624,
+      "duration": 2.8537868480725623
+    },
+    {
+      "id": "s07_05",
+      "who": "pip",
+      "text": "Riot talks so nobody has to feel awkward. Rocco pretends to be asleep and never misses anything.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s07_05.wav",
+      "sha256": "3d6a6a36255a6988f469ff8ff8e209326ddf2223e55de28d63972087430cfe39",
+      "start": 146.59063492063495,
+      "duration": 5.303015873015873
+    },
+    {
+      "id": "s07_06",
+      "who": "pip",
+      "text": "Bash loses every week and comes back on Saturday. I think that's the bravest thing on our street.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s07_06.wav",
+      "sha256": "5cc2ccb73295e14eed1986a56a7e50d5cf5ed8563e8f32785137477c8b4b59bd",
+      "start": 152.54365079365084,
+      "duration": 4.534263038548753
+    },
+    {
+      "id": "s07_07",
+      "who": "pip",
+      "text": "If you asked what summer means, I'd say it's four people on a step and nobody checking the time.",
+      "source": "/Users/lazaretchaava/Desktop/Blender/videos/ep03/vo/s07_07.wav",
+      "sha256": "2fea6138a6f927b030215c9eb94b45d8306e5e34403a7960fb98ea600496add7",
+      "start": 157.7279138321996,
+      "duration": 4.313673469387755
+    }
+  ],
+  "scriptHash": "9a298508d4b23e96d5ef4ee48e98dbd3fa4c3888f80677f28787061754ddc450",
+  "noNewVoices": true
+}

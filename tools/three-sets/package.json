@@ -1,0 +1,22 @@
+{
+  "name": "porchlight-three-set-checks",
+  "private": true,
+  "scripts": {
+    "verify": "node verify.cjs",
+    "verify:town": "node verify-town.cjs",
+    "verify:characters": "node verify-characters.cjs",
+    "verify:refinement": "node verify-refinement.cjs",
+    "verify:refined-rig": "node verify-refined-rig.cjs",
+    "verify:refined-player": "node verify-refined-player.cjs",
+    "verify:lake": "node verify-lake-world.cjs",
+    "verify:lake-geometry": "node verify-lake-geometry.cjs",
+    "render:lake-tour": "node render-lake-tour.cjs",
+    "verify:illustrated": "node verify-illustrated.cjs",
+    "verify:illustrated-style": "node verify-illustrated-style.cjs",
+    "verify:episode02": "node verify-episode02.cjs",
+    "verify:episode02-player": "node verify-episode02-player.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.56.1"
+  }
+}

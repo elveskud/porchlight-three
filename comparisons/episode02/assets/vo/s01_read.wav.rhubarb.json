@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Porchlight-work\\Blender\\videos\\ep02\\vo\\s01_read.wav",
+    "duration": 3.87
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.11, "value": "B" },
+    { "start": 0.11, "end": 0.28, "value": "C" },
+    { "start": 0.28, "end": 0.32, "value": "E" },
+    { "start": 0.32, "end": 0.51, "value": "F" },
+    { "start": 0.51, "end": 0.58, "value": "C" },
+    { "start": 0.58, "end": 0.90, "value": "D" },
+    { "start": 0.90, "end": 0.97, "value": "C" },
+    { "start": 0.97, "end": 1.21, "value": "B" },
+    { "start": 1.21, "end": 1.28, "value": "G" },
+    { "start": 1.28, "end": 1.42, "value": "B" },
+    { "start": 1.42, "end": 1.50, "value": "A" },
+    { "start": 1.50, "end": 1.61, "value": "B" },
+    { "start": 1.61, "end": 1.89, "value": "E" },
+    { "start": 1.89, "end": 1.96, "value": "B" },
+    { "start": 1.96, "end": 2.24, "value": "C" },
+    { "start": 2.24, "end": 2.38, "value": "B" },
+    { "start": 2.38, "end": 2.45, "value": "C" },
+    { "start": 2.45, "end": 2.52, "value": "B" },
+    { "start": 2.52, "end": 2.60, "value": "A" },
+    { "start": 2.60, "end": 2.79, "value": "B" },
+    { "start": 2.79, "end": 2.93, "value": "E" },
+    { "start": 2.93, "end": 3.01, "value": "A" },
+    { "start": 3.01, "end": 3.16, "value": "H" },
+    { "start": 3.16, "end": 3.23, "value": "C" },
+    { "start": 3.23, "end": 3.37, "value": "B" },
+    { "start": 3.37, "end": 3.65, "value": "E" },
+    { "start": 3.65, "end": 3.86, "value": "B" },
+    { "start": 3.86, "end": 3.87, "value": "X" }
+  ]
+}

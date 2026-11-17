@@ -1,0 +1,122 @@
+{
+ "fronts": [
+  {
+   "name": "auto_01",
+   "z": 9.2,
+   "base_px": 543,
+   "bbox": [
+    0,
+    271,
+    311,
+    564
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_02",
+   "z": 2.0,
+   "base_px": 398,
+   "bbox": [
+    342,
+    203,
+    447,
+    402
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_03",
+   "z": 2.0,
+   "base_px": 395,
+   "bbox": [
+    824,
+    17,
+    1023,
+    421
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_04",
+   "z": 2.0,
+   "base_px": 359,
+   "bbox": [
+    449,
+    286,
+    497,
+    359
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_05",
+   "z": 2.0,
+   "base_px": 169,
+   "bbox": [
+    6,
+    9,
+    231,
+    175
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_06",
+   "z": 2.0,
+   "base_px": 169,
+   "bbox": [
+    252,
+    94,
+    277,
+    170
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_07",
+   "z": 2.0,
+   "base_px": 160,
+   "bbox": [
+    278,
+    101,
+    311,
+    160
+   ],
+   "auto": true
+  }
+ ],
+ "clean": "main_street_day_clean",
+ "walk_lines": [
+  400,
+  460,
+  530
+ ],
+ "spots": {
+  "mailbox": [
+   520,
+   400,
+   "stand",
+   0.36,
+   4.0
+  ],
+  "bench": [
+   385,
+   368,
+   "sit",
+   0.34,
+   4.0
+  ]
+ },
+ "lamps": [],
+ "life": {
+  "birds": {
+   "area": [
+    -40,
+    20,
+    1000,
+    140
+   ],
+   "n": 3
+  }
+ }
+}

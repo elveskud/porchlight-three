@@ -1,0 +1,774 @@
+{
+  "result": "PASS",
+  "checkedAt": "2026-11-14T08:41:20.252Z",
+  "reports": [
+    {
+      "id": "lake",
+      "invalid": 0,
+      "meshes": 1460,
+      "instances": 7129,
+      "world": {
+        "version": 1,
+        "coverage": {
+          "terrain": [
+            -320,
+            320,
+            -320,
+            320
+          ],
+          "finishedCameraArea": [
+            -90,
+            110,
+            -95,
+            70
+          ],
+          "waterLevel": -0.015,
+          "stageGround": -0.05,
+          "forestSeed": 4917
+        },
+        "stagePreserved": true,
+        "geography": "Painting-led production staging, informed by the proposed town plan; inferred hidden geometry.",
+        "sites": [
+          {
+            "id": "lake_church",
+            "name": "Lake church",
+            "position": [
+              4.8,
+              -24.3
+            ],
+            "source": "art/gemini/sets/lake_day_v2.jpg"
+          },
+          {
+            "id": "snack_shack",
+            "name": "Lake snack shack",
+            "position": [
+              17,
+              11
+            ],
+            "source": "maple hollow tree.js/plan.json"
+          },
+          {
+            "id": "park",
+            "name": "Lakeside park",
+            "position": [
+              27,
+              15
+            ],
+            "source": "BIBLE.md"
+          },
+          {
+            "id": "brook_house",
+            "name": "Mrs. Brook’s house",
+            "position": [
+              -52,
+              -19
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          },
+          {
+            "id": "apartment",
+            "name": "Riot and Rocco’s apartment",
+            "position": [
+              58,
+              -16
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          },
+          {
+            "id": "forest",
+            "name": "West woods",
+            "position": [
+              -64,
+              -1
+            ],
+            "source": "BIBLE.md"
+          },
+          {
+            "id": "main_street",
+            "name": "Town connection",
+            "position": [
+              76,
+              -40
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          }
+        ],
+        "treeCount": 2900,
+        "grassClumps": 548,
+        "stones": 96,
+        "reeds": 317,
+        "groundedBuildings": 23
+      },
+      "anchors": [
+        {
+          "name": "snack_counter",
+          "position": [
+            16.498071866914,
+            0.46238807201385596,
+            13.244564133460393
+          ]
+        },
+        {
+          "name": "park_walk",
+          "position": [
+            27,
+            1.2113924026489247,
+            15
+          ]
+        },
+        {
+          "name": "beach_reverse",
+          "position": [
+            0,
+            -0.05,
+            11
+          ]
+        },
+        {
+          "name": "hall_door",
+          "position": [
+            15,
+            5.0835,
+            -27.921
+          ]
+        },
+        {
+          "name": "tower",
+          "position": [
+            -6.2,
+            2.45,
+            -0.8
+          ]
+        },
+        {
+          "name": "sand_rocco",
+          "position": [
+            -2,
+            0,
+            2
+          ]
+        },
+        {
+          "name": "shore_bash",
+          "position": [
+            1,
+            0,
+            2.6
+          ]
+        },
+        {
+          "name": "shore_pip",
+          "position": [
+            3,
+            0,
+            2.2
+          ]
+        }
+      ],
+      "cameras": {
+        "wide": [
+          3,
+          4.8,
+          16
+        ],
+        "wideTarget": [
+          0,
+          2,
+          -10
+        ],
+        "detail": [
+          -1,
+          4.5,
+          8
+        ],
+        "detailTarget": [
+          -5,
+          2,
+          -1
+        ],
+        "reverse": [
+          1,
+          4,
+          -11
+        ],
+        "reverseTarget": [
+          3,
+          1.7,
+          15
+        ],
+        "parkward": [
+          5,
+          4,
+          2
+        ],
+        "parkwardTarget": [
+          26,
+          1.7,
+          14
+        ],
+        "west": [
+          -19,
+          4,
+          -6
+        ],
+        "westTarget": [
+          -48,
+          2,
+          -17
+        ],
+        "townward": [
+          22,
+          5,
+          -10
+        ],
+        "townwardTarget": [
+          57,
+          3,
+          -26
+        ],
+        "farshore": [
+          12,
+          4,
+          -13
+        ],
+        "farshoreTarget": [
+          14,
+          4,
+          -29
+        ],
+        "overhead": [
+          12,
+          94,
+          30
+        ],
+        "overheadTarget": [
+          0,
+          0,
+          -12
+        ],
+        "target": [
+          0,
+          2,
+          -10
+        ]
+      },
+      "glbBytes": 8431444
+    },
+    {
+      "id": "lake_night",
+      "invalid": 0,
+      "meshes": 1491,
+      "instances": 7129,
+      "world": {
+        "version": 1,
+        "coverage": {
+          "terrain": [
+            -320,
+            320,
+            -320,
+            320
+          ],
+          "finishedCameraArea": [
+            -90,
+            110,
+            -95,
+            70
+          ],
+          "waterLevel": -0.015,
+          "stageGround": -0.05,
+          "forestSeed": 4917
+        },
+        "stagePreserved": true,
+        "geography": "Painting-led production staging, informed by the proposed town plan; inferred hidden geometry.",
+        "sites": [
+          {
+            "id": "lake_church",
+            "name": "Lake church",
+            "position": [
+              4.8,
+              -24.3
+            ],
+            "source": "art/gemini/sets/lake_day_v2.jpg"
+          },
+          {
+            "id": "snack_shack",
+            "name": "Lake snack shack",
+            "position": [
+              17,
+              11
+            ],
+            "source": "maple hollow tree.js/plan.json"
+          },
+          {
+            "id": "park",
+            "name": "Lakeside park",
+            "position": [
+              27,
+              15
+            ],
+            "source": "BIBLE.md"
+          },
+          {
+            "id": "brook_house",
+            "name": "Mrs. Brook’s house",
+            "position": [
+              -52,
+              -19
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          },
+          {
+            "id": "apartment",
+            "name": "Riot and Rocco’s apartment",
+            "position": [
+              58,
+              -16
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          },
+          {
+            "id": "forest",
+            "name": "West woods",
+            "position": [
+              -64,
+              -1
+            ],
+            "source": "BIBLE.md"
+          },
+          {
+            "id": "main_street",
+            "name": "Town connection",
+            "position": [
+              76,
+              -40
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          }
+        ],
+        "treeCount": 2900,
+        "grassClumps": 548,
+        "stones": 96,
+        "reeds": 317,
+        "groundedBuildings": 23
+      },
+      "anchors": [
+        {
+          "name": "snack_counter",
+          "position": [
+            16.498071866914,
+            0.46238807201385596,
+            13.244564133460393
+          ]
+        },
+        {
+          "name": "park_walk",
+          "position": [
+            27,
+            1.2113924026489247,
+            15
+          ]
+        },
+        {
+          "name": "beach_reverse",
+          "position": [
+            0,
+            -0.05,
+            11
+          ]
+        },
+        {
+          "name": "hall_door",
+          "position": [
+            15,
+            5.0835,
+            -27.921
+          ]
+        },
+        {
+          "name": "tower",
+          "position": [
+            -6.2,
+            2.45,
+            -0.8
+          ]
+        },
+        {
+          "name": "sand_rocco",
+          "position": [
+            -2,
+            0,
+            2
+          ]
+        },
+        {
+          "name": "shore_bash",
+          "position": [
+            1,
+            0,
+            2.6
+          ]
+        },
+        {
+          "name": "shore_pip",
+          "position": [
+            3,
+            0,
+            2.2
+          ]
+        }
+      ],
+      "cameras": {
+        "wide": [
+          3,
+          4.8,
+          16
+        ],
+        "wideTarget": [
+          0,
+          2,
+          -10
+        ],
+        "detail": [
+          -1,
+          4.5,
+          8
+        ],
+        "detailTarget": [
+          -5,
+          2,
+          -1
+        ],
+        "reverse": [
+          1,
+          4,
+          -11
+        ],
+        "reverseTarget": [
+          3,
+          1.7,
+          15
+        ],
+        "parkward": [
+          5,
+          4,
+          2
+        ],
+        "parkwardTarget": [
+          26,
+          1.7,
+          14
+        ],
+        "west": [
+          -19,
+          4,
+          -6
+        ],
+        "westTarget": [
+          -48,
+          2,
+          -17
+        ],
+        "townward": [
+          22,
+          5,
+          -10
+        ],
+        "townwardTarget": [
+          57,
+          3,
+          -26
+        ],
+        "farshore": [
+          12,
+          4,
+          -13
+        ],
+        "farshoreTarget": [
+          14,
+          4,
+          -29
+        ],
+        "overhead": [
+          12,
+          94,
+          30
+        ],
+        "overheadTarget": [
+          0,
+          0,
+          -12
+        ],
+        "target": [
+          0,
+          2,
+          -10
+        ]
+      },
+      "glbBytes": 8289100
+    },
+    {
+      "id": "lake_storm",
+      "invalid": 0,
+      "meshes": 1554,
+      "instances": 7129,
+      "world": {
+        "version": 1,
+        "coverage": {
+          "terrain": [
+            -320,
+            320,
+            -320,
+            320
+          ],
+          "finishedCameraArea": [
+            -90,
+            110,
+            -95,
+            70
+          ],
+          "waterLevel": -0.015,
+          "stageGround": -0.05,
+          "forestSeed": 4917
+        },
+        "stagePreserved": true,
+        "geography": "Painting-led production staging, informed by the proposed town plan; inferred hidden geometry.",
+        "sites": [
+          {
+            "id": "lake_church",
+            "name": "Lake church",
+            "position": [
+              4.8,
+              -24.3
+            ],
+            "source": "art/gemini/sets/lake_day_v2.jpg"
+          },
+          {
+            "id": "snack_shack",
+            "name": "Lake snack shack",
+            "position": [
+              17,
+              11
+            ],
+            "source": "maple hollow tree.js/plan.json"
+          },
+          {
+            "id": "park",
+            "name": "Lakeside park",
+            "position": [
+              27,
+              15
+            ],
+            "source": "BIBLE.md"
+          },
+          {
+            "id": "brook_house",
+            "name": "Mrs. Brook’s house",
+            "position": [
+              -52,
+              -19
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          },
+          {
+            "id": "apartment",
+            "name": "Riot and Rocco’s apartment",
+            "position": [
+              58,
+              -16
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          },
+          {
+            "id": "forest",
+            "name": "West woods",
+            "position": [
+              -64,
+              -1
+            ],
+            "source": "BIBLE.md"
+          },
+          {
+            "id": "main_street",
+            "name": "Town connection",
+            "position": [
+              76,
+              -40
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          }
+        ],
+        "treeCount": 2900,
+        "grassClumps": 548,
+        "stones": 96,
+        "reeds": 317,
+        "groundedBuildings": 23
+      },
+      "anchors": [
+        {
+          "name": "snack_counter",
+          "position": [
+            16.498071866914,
+            0.46238807201385596,
+            13.244564133460393
+          ]
+        },
+        {
+          "name": "park_walk",
+          "position": [
+            27,
+            1.2113924026489247,
+            15
+          ]
+        },
+        {
+          "name": "beach_reverse",
+          "position": [
+            0,
+            -0.05,
+            11
+          ]
+        },
+        {
+          "name": "hall_door",
+          "position": [
+            15,
+            5.0835,
+            -27.921
+          ]
+        },
+        {
+          "name": "tower",
+          "position": [
+            -6.2,
+            2.45,
+            -0.8
+          ]
+        },
+        {
+          "name": "sand_rocco",
+          "position": [
+            -2,
+            0,
+            2
+          ]
+        },
+        {
+          "name": "shore_bash",
+          "position": [
+            1,
+            0,
+            2.6
+          ]
+        },
+        {
+          "name": "shore_pip",
+          "position": [
+            3,
+            0,
+            2.2
+          ]
+        }
+      ],
+      "cameras": {
+        "wide": [
+          3,
+          4.8,
+          16
+        ],
+        "wideTarget": [
+          0,
+          2,
+          -10
+        ],
+        "detail": [
+          -1,
+          4.5,
+          8
+        ],
+        "detailTarget": [
+          -5,
+          2,
+          -1
+        ],
+        "reverse": [
+          1,
+          4,
+          -11
+        ],
+        "reverseTarget": [
+          3,
+          1.7,
+          15
+        ],
+        "parkward": [
+          5,
+          4,
+          2
+        ],
+        "parkwardTarget": [
+          26,
+          1.7,
+          14
+        ],
+        "west": [
+          -19,
+          4,
+          -6
+        ],
+        "westTarget": [
+          -48,
+          2,
+          -17
+        ],
+        "townward": [
+          22,
+          5,
+          -10
+        ],
+        "townwardTarget": [
+          57,
+          3,
+          -26
+        ],
+        "farshore": [
+          12,
+          4,
+          -13
+        ],
+        "farshoreTarget": [
+          14,
+          4,
+          -29
+        ],
+        "overhead": [
+          12,
+          94,
+          30
+        ],
+        "overheadTarget": [
+          0,
+          0,
+          -12
+        ],
+        "target": [
+          0,
+          2,
+          -10
+        ]
+      },
+      "glbBytes": 8639200
+    }
+  ],
+  "checks": [
+    "day/night/storm",
+    "8 real camera presets each",
+    "finite terrain and instance transforms",
+    "unchanged tower stage mark",
+    "1000+ volumetric trees",
+    "instanced GLB downloads",
+    "non-lake controls hidden",
+    "mobile no overflow",
+    "offline assets"
+  ],
+  "errors": []
+}

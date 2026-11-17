@@ -1,0 +1,101 @@
+# Porchlight 32: Final Offer
+next: Boxes
+thumb: A VERY LARGE CHEQUE
+grade: summer
+
+== Cold open | main street | mayor, preston, marlo
+PRESTON enters right.
+MARLO enters right.
+MARLO carries a clipboard.
+// A cheque, carried through town by two workmen. It's the size of a door. Preston walks behind it, with his hand on his heart, as if he's following a very rich coffin.
+PRESTON (present): Madam Mayor. My final offer. For the park, the shore and the very nice oak.
+MAYOR (shocked): Goodness. Is that a real number? How many zeroes is that?
+PRESTON (happy): Marlo?
+MARLO: All of them.
+MAYOR (nervous): Yes! No! I need to lie down, and also to form a committee.
+[hold: 4]
+
+[intro]
+
+
+== The town splits | gym | mayor, preston, hal, riot, rocco, bash, pip, bashmom, gus
+HAL carries a clipboard.
+MAYOR (nervous): The vote will be on festival night. If the festival's completed, the park stays.
+MAYOR (nervous): If it's not, the town may accept Mr. Preston's offer.
+BASH: Completed? What's that mean, completed?
+HAL (soft): It's what the old law says. Lantern's up, the games are done, the festival's closed. Otherwise it doesn't count.
+// Riot and Rocco very slowly turn and look at each other. It's the same thing. It's exactly the same thing.
+RIOT (quietly): Lantern's up.
+PRESTON (present): Let's be practical! That money's a new school, a new roof on this gym!
+GUS (determined): I don't want a new roof. I've got an attachment to that drip.
+BASHMOM (yelling): THE GYM'S FINE! WHO'S HUNGRY?
+PRESTON (happy): You see? You're all very sweet. But sweet doesn't fix a roof.
+// It's a real point. People are nodding. People who love the park are nodding. Pip's looking at the faces. The town's going to split down the middle.
+[hold: 6]
+
+== Very polite protest | park | hal, bash, bashmom, rocco, riot, pip, mayor, preston, marlo
+[mood: party]
+HAL sits on the bench.
+BASHMOM carries a crate.
+// The park, the next day. Big Hal sits calmly in a folding chair in front of the old oak. Next to him, a sign: Please Don't. Behind him, in an orderly line, forty bears and a lot of ducks. It's the most polite protest in history.
+PRESTON enters right.
+PRESTON (happy): Ranger. What's all this?
+HAL (soft): Afternoon. Would you like a sandwich?
+PRESTON: I would not.
+HAL (nod): All right.
+// Big Hal does not move. He'll be here till the end of time. He has that kind of patience.
+BASHMOM (happy, yelling): WE'VE GOT A CHANT, SWEETIE! WHAT DO WE WANT?
+BASH (cheer): THE PARK!
+BASHMOM (yelling): WHEN DO WE WANT IT?
+BASH (shrug): ...It's already here?
+BASHMOM (happy, yelling): THAT'S RIGHT!
+ROCCO (deadpan): Beware. Nature.
+PRESTON (shocked): Is that my sign? I bought that sign!
+ROCCO (joke): I made another one. I know the guy.
+RIOT (laughing, laugh): It's a good sign.
+MAYOR enters left.
+MAYOR (nervous): I'm in favour of everyone. Is that allowed?
+[hold: 8]
+
+== Riot's offer | park | riot, preston, pip
+RIOT enters left.
+PRESTON enters right.
+RIOT (determined): Why do you even want it? You could buy anywhere.
+PRESTON: It's a superb location.
+RIOT: There's a lake in every county. You've been up at that house at night. I saw you. What are you doing here?
+// For one moment, Preston has nothing to say. His tail, half open, stays where it is. Then he smiles, and for the first time there's nothing friendly in it.
+PRESTON (smug): Young man. I've wanted this park since before you were born. I always get what I want.
+PRESTON (soft): Everyone's got something they'd pay anything to have back.
+RIOT: Back? What does that mean?
+PRESTON (happy): It means good luck with your little festival.
+PRESTON exits right.
+// He goes. Riot stares after him. In the shade, by himself, Pip's been listening to it all.
+PIP enters left.
+PIP (quietly): He said back.
+RIOT: I heard.
+PIP (quietly): You don't buy something back unless you lost it.
+[hold: 6]
+
+== The post | park | preston
+[mood: soft]
+PRESTON enters right.
+// Sunset. Everyone's gone home. Preston comes down, alone, past the folded chairs, to the new stage. He stops at the first post, the one that went in so sweetly. He looks round. There's nobody there. He takes off one glove. He lays his bare wing on the wood.
+// He stands like that. The great cheque is propped against a tree nearby, starting to curl in the warm air. He looks very small next to it.
+PRESTON (soft, quietly): Almost.
+// A car horn. He puts on the glove. He straightens up. He opens out his tail, feather by feather, and goes off to be Preston.
+PRESTON exits right.
+[hold: 8]
+
+== Game night | apartment | riot, rocco, bash, pip
+RIOT sits on the sofa r.
+PIP sits on the sofa l.
+RIOT: So that's it. Finish the game, it's all done. Park's safe. Town's free. One lantern. Everything's on the same night.
+BASH (hype): The twelfth! That's so close! We're nearly there!
+ROCCO (quietly): One round left. It's only ever been one round left.
+BASH (cheer): We're going to do it! I'm going to see a leaf!
+// He grabs Pip in a headlock of pure joy. Pip laughs. He laughs at the right time and for the right length. Rocco's eyes are on him. Rocco doesn't chew. He looks across the apartment and through the open door, down the street, toward Pip's house. He's seen a removal van's card, stuck on a noticeboard. He's put it in the notebook. He's said he'd say things now.
+ROCCO (quietly): Pip.
+PIP (nervous): Yeah?
+// A long look. Pip knows. He gives the tiniest shake of his head. Please. Rocco looks at him, then at the others, so happy. He made a promise on a bench. He picks up the phone instead.
+ROCCO (quietly): It's your turn.
+[hold: 8]

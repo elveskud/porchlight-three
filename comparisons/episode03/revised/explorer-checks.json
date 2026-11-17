@@ -1,0 +1,37 @@
+{
+  "result": "PASS",
+  "sceneButtons": [
+    {
+      "beat": "s01",
+      "location": "classroom",
+      "objects": 1
+    },
+    {
+      "beat": "s04",
+      "location": "main_street",
+      "objects": 1
+    },
+    {
+      "beat": "s05",
+      "location": "brook_porch",
+      "objects": 1
+    },
+    {
+      "beat": "s06",
+      "location": "pip_home",
+      "objects": 1
+    },
+    {
+      "beat": "s07",
+      "location": "stoop_night",
+      "objects": 1
+    },
+    {
+      "beat": "s08",
+      "location": "pip_garage",
+      "objects": 1
+    }
+  ],
+  "orbit": true,
+  "errors": []
+}

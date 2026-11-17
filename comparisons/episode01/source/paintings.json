@@ -1,0 +1,156 @@
+{
+  "hall": {
+    "image": "art/hd/sets/hall_inside_night_v2.png",
+    "fronts": [],
+    "stem": "hall_inside_night_v2"
+  },
+  "lake": {
+    "image": "art/hd/sets/lake_day_v2_clean.png",
+    "fronts": [
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_01.png",
+        "depth": 9.2
+      },
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_02.png",
+        "depth": 9.2
+      },
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_03.png",
+        "depth": 6.25
+      },
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_04.png",
+        "depth": 6.25
+      },
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_05.png",
+        "depth": 6.25
+      },
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_06.png",
+        "depth": 6.25
+      },
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_07.png",
+        "depth": 4.75
+      },
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_08.png",
+        "depth": 4.75
+      },
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_09.png",
+        "depth": 4.75
+      },
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_10.png",
+        "depth": 4.75
+      },
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_11.png",
+        "depth": 4.75
+      },
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_12.png",
+        "depth": 2.0
+      },
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_13.png",
+        "depth": 2.0
+      },
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_14.png",
+        "depth": 2.0
+      },
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_15.png",
+        "depth": 2.0
+      },
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_16.png",
+        "depth": 2.0
+      },
+      {
+        "path": "art/hd/fronts/lake_day_v2_auto_17.png",
+        "depth": 2.0
+      }
+    ],
+    "stem": "lake_day_v2"
+  },
+  "lake_night": {
+    "image": "art/hd/sets/lake_night_v2.png",
+    "fronts": [
+      {
+        "path": "art/hd/fronts/lake_night_v2_railing.png",
+        "depth": 2.0
+      },
+      {
+        "path": "art/hd/fronts/lake_night_v2_cattails.png",
+        "depth": 9.0
+      },
+      {
+        "path": "art/hd/fronts/lake_night_v2_grass_l.png",
+        "depth": 9.0
+      },
+      {
+        "path": "art/hd/fronts/lake_night_v2_grass_r.png",
+        "depth": 9.0
+      }
+    ],
+    "stem": "lake_night_v2"
+  },
+  "stoop_sunset": {
+    "image": "art/hd/sets/stoop_sunset_v2_clean.png",
+    "fronts": [
+      {
+        "path": "art/hd/fronts/stoop_sunset_v2_auto_01.png",
+        "depth": 6.25
+      },
+      {
+        "path": "art/hd/fronts/stoop_sunset_v2_auto_02.png",
+        "depth": 4.75
+      },
+      {
+        "path": "art/hd/fronts/stoop_sunset_v2_auto_03.png",
+        "depth": 2.0
+      },
+      {
+        "path": "art/hd/fronts/stoop_sunset_v2_auto_04.png",
+        "depth": 2.0
+      },
+      {
+        "path": "art/hd/fronts/stoop_sunset_v2_auto_05.png",
+        "depth": 2.0
+      },
+      {
+        "path": "art/hd/fronts/stoop_sunset_v2_auto_06.png",
+        "depth": 2.0
+      },
+      {
+        "path": "art/hd/fronts/stoop_sunset_v2_auto_07.png",
+        "depth": 2.0
+      }
+    ],
+    "stem": "stoop_sunset_v2"
+  },
+  "stoop_night": {
+    "image": "art/hd/sets/stoop_night_v2.png",
+    "fronts": [],
+    "stem": "stoop_night_v2"
+  },
+  "apartment": {
+    "image": "art/hd/sets/apartment_night_v2.png",
+    "fronts": [
+      {
+        "path": "art/hd/fronts/apartment_night_v2_sofa.png",
+        "depth": 2.0
+      },
+      {
+        "path": "art/hd/fronts/apartment_night_v2_beanbag.png",
+        "depth": 2.0
+      }
+    ],
+    "stem": "apartment_night_v2"
+  }
+}

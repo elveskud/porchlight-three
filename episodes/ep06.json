@@ -1,0 +1,505 @@
+{
+ "series": "Porchlight",
+ "episode": 6,
+ "title": "Town Meeting",
+ "next": "Garage Sale",
+ "beats": [
+  {
+   "id": "s01",
+   "location": "stoop_sunset",
+   "cast": {
+    "riot": null
+   },
+   "lines": [
+    {
+     "who": "riot",
+     "say": "Friends. Neighbours. Mayor. What is a park? A park is a place. A place of... parks.",
+     "face": "hype",
+     "do": "present"
+    },
+    {
+     "who": "riot",
+     "say": "No, stay with me. Think about the grass. Who speaks for the grass?",
+     "face": "determined",
+     "do": "point"
+    },
+    {
+     "who": "riot",
+     "say": "Okay. Tough room.",
+     "face": "shocked",
+     "look": "down"
+    },
+    {
+     "who": "riot",
+     "say": "...",
+     "do": "facepalm"
+    }
+   ],
+   "camera": "at:840,340,8",
+   "chapter": "Cold open",
+   "seats": {
+    "riot": "step"
+   },
+   "fx": [
+    {
+     "type": "hop",
+     "piece": "puddles_and_duck_03",
+     "width": 1.5,
+     "z": 6.5,
+     "path": [
+      [
+       905,
+       320,
+       0
+      ],
+      [
+       905,
+       320,
+       7.9
+      ],
+      [
+       955,
+       322,
+       8.4
+      ],
+      [
+       1000,
+       390,
+       8.9
+      ],
+      [
+       1090,
+       470,
+       9.5
+      ]
+     ]
+    }
+   ],
+   "hold": 60,
+   "text": "Town Meeting",
+   "letterbox": true
+  },
+  {
+   "id": "s02",
+   "location": "lake_night",
+   "cast": {},
+   "lines": [],
+   "camera": "at:300,330,11.5",
+   "hold": 200,
+   "chapter": "Intro",
+   "fx": [
+    {
+     "type": "title",
+     "text": "PORCHLIGHT",
+     "at": 0.3,
+     "sub": "Maple Hollow"
+    },
+    {
+     "type": "card",
+     "text": "Episode 6: Town Meeting",
+     "at": 3.6,
+     "for": 2.4
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "location": "school_gym",
+   "cast": {
+    "riot": null,
+    "rocco": null,
+    "bash": null,
+    "pip": null,
+    "mayor": null,
+    "preston": null,
+    "bashmom": null,
+    "marlo": null
+   },
+   "lines": [
+    {
+     "who": "mayor",
+     "say": "Order, please. Or not. Whichever you prefer. The boys will now present.",
+     "face": "happy"
+    },
+    {
+     "who": "riot",
+     "say": "Why The Park Is Good. Slide one.",
+     "face": "hype",
+     "do": "present"
+    },
+    {
+     "who": "riot",
+     "say": "Slide two.",
+     "do": "nervous"
+    },
+    {
+     "who": "bashmom",
+     "say": "THAT'S MY SON'S SANDWICH!",
+     "face": "yelling"
+    },
+    {
+     "who": "bash",
+     "say": "Mom, not now.",
+     "face": "embarrassed"
+    },
+    {
+     "who": "riot",
+     "say": "Slide three is a duck. I don't know why slide three is a duck.",
+     "do": "nervous"
+    },
+    {
+     "who": "pip",
+     "say": "I thought it would help.",
+     "do": "nervous",
+     "to": "riot"
+    },
+    {
+     "who": "mayor",
+     "say": "Wonderful duck. Moving on.",
+     "face": "happy"
+    },
+    {
+     "who": "preston",
+     "say": "Marlo, are you getting this?",
+     "face": "happy"
+    },
+    {
+     "who": "marlo",
+     "say": "Every word."
+    },
+    {
+     "who": "riot",
+     "say": "Do your bit. Go. The microphone.",
+     "do": "nervous",
+     "to": "bash"
+    },
+    {
+     "who": "bash",
+     "say": "...",
+     "face": "scared"
+    },
+    {
+     "who": "preston",
+     "say": "Take your time, son.",
+     "face": "happy",
+     "do": "chuckle"
+    },
+    {
+     "who": "riot",
+     "say": "...",
+     "do": "nervous",
+     "to": "bash"
+    },
+    {
+     "who": "mayor",
+     "say": "...",
+     "do": "stare"
+    },
+    {
+     "who": "bash",
+     "say": "...",
+     "face": "scared"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "The meeting",
+   "seats": {
+    "riot": "floor_2",
+    "pip": "floor_1",
+    "bash": "floor_3",
+    "rocco": "floor_4",
+    "mayor": "stage",
+    "preston": "front_r",
+    "marlo": "side_r",
+    "bashmom": "front_l"
+   },
+   "carry": {
+    "riot": "phone"
+   },
+   "asleep": [
+    "rocco"
+   ],
+   "hold": 60
+  },
+  {
+   "id": "s04",
+   "location": "school_gym",
+   "cast": {
+    "riot": null,
+    "rocco": null,
+    "bash": null,
+    "pip": null,
+    "mayor": null,
+    "preston": null,
+    "hal": null,
+    "brook": null
+   },
+   "lines": [
+    {
+     "who": "hal",
+     "say": "I've looked after those trees for thirty years. There's an oak by the water that's older than this town.",
+     "face": "soft"
+    },
+    {
+     "who": "hal",
+     "say": "The ducks nest in the reeds on the south side.",
+     "face": "soft"
+    },
+    {
+     "who": "hal",
+     "say": "If you've ever been happy in Maple Hollow, you were probably standing on that grass.",
+     "face": "soft"
+    },
+    {
+     "who": "hal",
+     "say": "That's all I've got.",
+     "face": "soft"
+    },
+    {
+     "who": "mayor",
+     "say": "Beautiful. Let's form a committee.",
+     "face": "soft"
+    },
+    {
+     "who": "preston",
+     "say": "May I? Marlo has the land record.",
+     "do": "present"
+    },
+    {
+     "who": "preston",
+     "say": "This land has no special status. It's an empty field. It was only ever used for some old... festival.",
+     "face": "happy"
+    },
+    {
+     "who": "bash",
+     "say": "We had a festival?"
+    },
+    {
+     "who": "riot",
+     "say": "Did we?",
+     "do": "nervous"
+    },
+    {
+     "who": "rocco",
+     "say": "...",
+     "face": "suspicious"
+    },
+    {
+     "who": "pip",
+     "say": "...",
+     "face": "suspicious"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "Big Hal",
+   "seats": {
+    "riot": "floor_2",
+    "pip": "floor_1",
+    "bash": "floor_3",
+    "rocco": "floor_4",
+    "mayor": "stage",
+    "preston": "front_r",
+    "hal": "aisle",
+    "brook": "side_l"
+   },
+   "carry": {
+    "riot": "phone"
+   },
+   "enter": {
+    "hal": "left"
+   },
+   "exit": {
+    "brook": "left"
+   },
+   "hold": 60
+  },
+  {
+   "id": "s05",
+   "location": "school_gym",
+   "cast": {
+    "pip": null,
+    "pipmom": null,
+    "mayor": null
+   },
+   "lines": [
+    {
+     "who": "pipmom",
+     "say": "Mayor? Do you know how long the vote will take? It's just for... planning reasons.",
+     "face": "happy"
+    },
+    {
+     "who": "mayor",
+     "say": "Oh, it's postponed! Or it's going to be."
+    },
+    {
+     "who": "pip",
+     "say": "...",
+     "quiet": true
+    }
+   ],
+   "camera": "wide",
+   "chapter": "Planning reasons",
+   "seats": {
+    "pip": "floor_1",
+    "pipmom": "front_l",
+    "mayor": "stage"
+   },
+   "enter": {
+    "pipmom": "left"
+   },
+   "hold": 60
+  },
+  {
+   "id": "s06",
+   "location": "school_gym",
+   "cast": {
+    "riot": null,
+    "rocco": null,
+    "bash": null,
+    "pip": null,
+    "hal": null
+   },
+   "lines": [
+    {
+     "who": "hal",
+     "say": "Postponed, then. That gives you some time."
+    },
+    {
+     "who": "riot",
+     "say": "Time for what?"
+    },
+    {
+     "who": "hal",
+     "say": "If the park really was a festival ground, it might count as historic. A historic park can't be sold."
+    },
+    {
+     "who": "bash",
+     "say": "So we find the festival!",
+     "face": "hype"
+    },
+    {
+     "who": "riot",
+     "say": "Sure. We find it.",
+     "do": "nervous"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "A mission",
+   "seats": {
+    "riot": "floor_2",
+    "pip": "floor_1",
+    "bash": "floor_3",
+    "rocco": "front_r",
+    "hal": "floor_4"
+   },
+   "exit": {
+    "riot": "right",
+    "pip": "right",
+    "rocco": "right"
+   }
+  },
+  {
+   "id": "s07",
+   "location": "school_gym",
+   "cast": {
+    "bash": null,
+    "hal": null
+   },
+   "lines": [
+    {
+     "who": "bash",
+     "say": "I froze.",
+     "quiet": true,
+     "look": "down"
+    },
+    {
+     "who": "hal",
+     "say": "You did.",
+     "face": "soft"
+    },
+    {
+     "who": "bash",
+     "say": "The brave one froze in front of the whole town."
+    },
+    {
+     "who": "hal",
+     "say": "Being scared at a microphone is normal. Getting up there anyway is the brave part.",
+     "face": "soft"
+    },
+    {
+     "who": "bash",
+     "say": "...",
+     "do": "nod"
+    },
+    {
+     "who": "hal",
+     "say": "...",
+     "silent": true,
+     "do": "comfort",
+     "target": "bash"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "Stacking chairs",
+   "transition": "fade",
+   "seats": {
+    "bash": "floor_3",
+    "hal": "floor_4"
+   },
+   "mood": "soft",
+   "hold": 60
+  },
+  {
+   "id": "s08",
+   "location": "stoop_night",
+   "cast": {
+    "riot": null,
+    "rocco": null
+   },
+   "lines": [
+    {
+     "who": "rocco",
+     "say": "You okay?",
+     "do": "shrug"
+    },
+    {
+     "who": "riot",
+     "say": "Yeah. Just... a festival. Huh.",
+     "face": "soft"
+    },
+    {
+     "who": "rocco",
+     "say": "Yeah. Huh.",
+     "do": "munch"
+    },
+    {
+     "who": "riot",
+     "say": "...",
+     "face": "soft",
+     "do": "nod"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "A festival",
+   "mood": "soft",
+   "seats": {
+    "riot": "step"
+   },
+   "hold": 60
+  }
+ ],
+ "direct": "auto",
+ "ending": "porch_light",
+ "beds": {
+  "normal": "lofi"
+ },
+ "riot_optional": true,
+ "riot_phone": true,
+ "sit": "auto",
+ "act": "auto",
+ "centre_mouth": true,
+ "face_front_all": true,
+ "thumb_text": "SLIDES UPSIDE DOWN",
+ "grade": "summer",
+ "previously": "A peacock wants to buy the park. Tonight the town votes."
+}

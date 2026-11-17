@@ -1,0 +1,16 @@
+ATTACH: art/gemini/characters/07_marlo.jpg
+SAVE AS: art/gemini/refs/poses_marlo.jpg
+
+PROMPT (copy everything below):
+
+Image 1 shows Marlo, a thin, neat, unsmiling grey mouse assistant from a 2D cartoon series. Draw him, keeping his exact design, colours, clothes and proportions, seen from the FRONT like in image 1.
+A pose sheet, 8 poses in two rows, all the same scale, each one separate:
+1) holding a clipboard against his chest, standing very straight
+2) writing on the clipboard
+3) looking up from the clipboard, one eyebrow raised
+4) pinning a sheet of paper to a board
+5) a tiny polite nod
+6) checking a pocket watch
+7) handing over a sheet of paper
+8) flat and unimpressed, arms at his sides
+Draw ONLY the character (the clipboard and paper as simple flat shapes). Bold clean black outlines, flat solid colours with ONE darker shadow tone, no texture. Plain white background. NO text, NO labels, NO numbers.

@@ -1,0 +1,109 @@
+{
+  "result": "PASS",
+  "cases": 960,
+  "clips": 24,
+  "actors": 8,
+  "invalid": [],
+  "maxFootError": 4.742874840267547e-16,
+  "terrain": {
+    "samples": 101,
+    "maxFootError": 0.009022628207336634,
+    "cushion": {
+      "base": 0.1,
+      "pressed": 0.08800000000000001,
+      "recovered": 0.1
+    }
+  },
+  "semantics": {
+    "roll": [
+      {
+        "n": 0,
+        "x": 0,
+        "y": 0.1,
+        "angle": 0
+      },
+      {
+        "n": 1,
+        "x": 0.20000000000000004,
+        "y": 0.1,
+        "angle": -1.5707963267948966
+      },
+      {
+        "n": 2,
+        "x": 0.4,
+        "y": 0.1,
+        "angle": -3.141592653589793
+      },
+      {
+        "n": 3,
+        "x": 0.6000000000000002,
+        "y": 0.10000000000000007,
+        "angle": -4.712388980384691
+      },
+      {
+        "n": 4,
+        "x": 0.8,
+        "y": 0.1,
+        "angle": -6.283185307179586
+      }
+    ],
+    "fast": 1.0416666666666667,
+    "held": 1,
+    "drawContact": 0.00988218591474078,
+    "doorContact": 0.010109604117632797
+  },
+  "seek": [
+    {
+      "clip": "walk",
+      "time": 1.2,
+      "identical": true
+    },
+    {
+      "clip": "turn",
+      "time": 1.8,
+      "identical": true
+    },
+    {
+      "clip": "sit",
+      "time": 2.1,
+      "identical": true
+    },
+    {
+      "clip": "pickup",
+      "time": 1.8,
+      "identical": true
+    },
+    {
+      "clip": "door",
+      "time": 1.9,
+      "identical": true
+    },
+    {
+      "clip": "drawer",
+      "time": 2,
+      "identical": true
+    },
+    {
+      "clip": "transfer",
+      "time": 2.2,
+      "identical": true
+    },
+    {
+      "clip": "two-hands",
+      "time": 1.5,
+      "identical": true
+    },
+    {
+      "clip": "laugh",
+      "time": 2.2,
+      "identical": true
+    },
+    {
+      "clip": "die",
+      "time": 2.4,
+      "identical": true
+    }
+  ],
+  "errors": [],
+  "sourceHash": "a97826baf83438940d6c566df2b8788d203c749aa0349a6d1cd761e03e589174"
+}

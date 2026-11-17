@@ -1,0 +1,24 @@
+{
+  "result": "PASS",
+  "version": "5.2.2 LTS",
+  "reports": [
+    {
+      "id": "lake",
+      "objects": 8918,
+      "meshObjects": 8570,
+      "invalidVertices": 0
+    },
+    {
+      "id": "lake_night",
+      "objects": 8934,
+      "meshObjects": 8601,
+      "invalidVertices": 0
+    },
+    {
+      "id": "lake_storm",
+      "objects": 9013,
+      "meshObjects": 8664,
+      "invalidVertices": 0
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+# Porchlight 21: Committee
+next: Some Guy
+thumb: IT'S ALWAYS BEEN SUMMER
+grade: summer
+previously: The last lantern never went up. It has been the same summer for forty years.
+
+== Cold open | apartment | riot, rocco, bash, pip
+RIOT stands at the sofa.
+RIOT carries a clipboard.
+RIOT (determined, present): Okay. Nobody slept. We know what we know. So what do we do?
+BASH (hype): Tell everyone! Obviously! It's the biggest news in the history of news!
+PIP (quietly): Do you think they'll believe it?
+BASH: We saw it! We've got proof! We'll say it plain, in simple words. How hard can it be?
+ROCCO (munch, joke): Bash. How much do you remember about Dave?
+BASH: Who's Dave?
+// Rocco nods slowly and takes another chip.
+[hold: 1]
+
+[intro]
+
+
+== Telling Bash's mom | bash home | bash, bashmom
+BASH (determined, count): Mom. I need you to sit down. It has been summer for forty years.
+BASHMOM (happy, yelling): I KNOW, SWEETIE! ISN'T IT LOVELY?
+BASH: No. Mom. The same summer. It never ended. There's been no autumn since before you were born.
+BASHMOM (happy, yelling): THAT'S NICE! WHO WANTS POTATO?
+BASH (shocked): Do you hear what I'm saying?
+// She stops. She looks at him, and for a moment something crosses her face, some tiny lost thing. She blinks. It's gone. Her smile comes back, warm and huge.
+BASHMOM (happy): Long summer! You should wear a hat.
+[hold: 4]
+
+== Telling Gus | gus garage | rocco, gus
+ROCCO (deadpan): Gus. When did you last see a leaf fall?
+GUS (shocked): Why, what did it do?
+[hold: 2]
+
+== Telling Walt | walt porch | walt, riot
+[mood: soft]
+WALT carries a cup.
+RIOT enters left.
+RIOT (soft): Dad. The night of the storm. It's why it's always summer.
+RIOT (soft): You're nine in it, and you never got any older, I mean, you did, but the summer...
+// It all comes out. We can't quite hear it; the sound drops away. It's all there in his paws and his eyes. He finishes, out of breath. Walt has listened to every word, with his whole face.
+WALT (soft): Son.
+RIOT (soft): Yeah?
+WALT (soft): That's the most I've heard you say in years. I'm glad.
+RIOT (soft): But do you...
+WALT (happy): It's been a long summer, hasn't it? Nice, though. Have you eaten?
+// He means it, and he's gone. It's the kindest wall Riot has ever walked into. He stands there for a moment.
+RIOT (sad, quietly): Yeah. I've eaten.
+[hold: 7]
+
+== Debrief | stoop, sunset | riot, rocco, bash, pip
+RIOT sits on the step.
+BASH sits on the step.
+BASH (gloom): My mom told me to wear a hat.
+ROCCO (deadpan): Gus is worried about a tree.
+RIOT: Why do we still remember, then?
+ROCCO: We sat in the chairs.
+// Rocco holds up the notebook. Bash looks at it. It's the first time he's looked straight at anything of Rocco's in a while. Bash looks away.
+BASH (quietly): Some of us were already writing it down.
+ROCCO (quietly): ...Yeah.
+[sfx: bell]
+// From down the street, a handbell. The Mayor comes along with a stack of leaflets, ringing it for all she's worth.
+[hold: 6]
+
+== Committee | main street | riot, rocco, bash, pip, mayor, preston, marlo, hal
+MAYOR (hype): Citizens! The committee has reached a decision! To keep the park historic, it must be used.
+MAYOR (hype): So, by popular demand, or at any rate by demand...
+HAL carries a clipboard.
+HAL (happy): We're bringing back the Lantern Festival.
+BASH (shocked): The what?
+RIOT (shocked): You're doing what?
+MAYOR (cheer): The first in forty years! A town game championship, right down by the lake! Families against families! Final night, the festival!
+// Riot and Rocco look at each other very slowly. A town that doesn't know what it's doing has just reached up and laid its paw on the exact thing.
+PIP (nervous): When? When's the festival?
+MAYOR (happy): We've checked the old records. It'll be on the same date as the last one, for tradition.
+HAL: Twelfth of August.
+ROCCO (deadpan): Storm.
+MAYOR (happy): Hm?
+ROCCO: There's a storm that night. Every year.
+MAYOR: Oh, I'm sure it'll blow over! Let's form a committee!
+PRESTON enters right.
+MARLO enters right.
+PRESTON (present): Wonderful. Marvellous. And I'd be delighted to sponsor it.
+RIOT (shocked): You?
+PRESTON (happy): If you boys are going to lose, I'd like it to be in very good lighting.
+// He tips his hat. He looks a little too long at Riot, and at the house on the hill, and he goes.
+[hold: 6]
+
+== Four of us | stoop, night | riot, rocco, bash, pip
+[mood: soft]
+RIOT sits on the step.
+RIOT (soft): The whole town's going to be standing at that lake, on that night, with no idea.
+BASH (chin): But we do.
+BASH (determined): So we've got until the twelfth to finish that game. Then it's autumn and I can finally see what a leaf does.
+// He laughs. Riot laughs. Rocco nearly does. It feels like the first night of something. Pip laughs last, and a beat too late, and Rocco's eyes go to him, just briefly.
+PIP (happy): Yeah. Autumn.
+[hold: 4]

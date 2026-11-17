@@ -1,0 +1,83 @@
+# Porchlight 22: Some Guy
+next: Round One
+thumb: WHO IS HE?
+grade: summer
+
+== Cold open | gus garage | gus, rocco
+GUS sits on the crate.
+// A red light. Gus leans in to an enormous old microphone, the way he's leaned in to it for forty-one years.
+GUS (soft): This is Gus, on the only station in town. A big announcement, folks. The Lantern Festival wants live music.
+GUS (determined): And I say there's only one act. To the mystery musician, the man on the tapes. Sir. Come forward.
+GUS (happy): Whoever finds him gets a year of free fishing advice.
+// Rocco, on a stool in the corner, fixing Gus's kettle, has gone completely rigid. He stops chewing. A chip falls slowly from his mouth.
+[hold: 6]
+
+[intro]
+
+
+== The hunt | main street | riot, rocco, bash, pip, mayor, dot
+// The town has lost its mind. Posters everywhere: HAVE YOU SEEN THIS MUSICIAN? The drawing shows a sea captain with very large hands.
+BASH (hype): This is it! This is the biggest mystery in town!
+RIOT: It's maybe the second biggest.
+BASH: Rocco, you're smart about small stuff. Help us out.
+ROCCO (nervous): Me? No. I don't... I'm not good at...
+RIOT: Rocco, you've never said "I'm not good at" in your life. You just don't do things.
+ROCCO (deadpan): I'll help.
+// We watch him decide this. He'll be the worst detective in the history of detectives, on purpose, as hard as he can.
+ROCCO (point): It's probably the Mayor.
+MAYOR (shocked): Me? I don't play anything! Do I? Let me check.
+DOT enters left.
+DOT: It's Rocco.
+BASH: Not now, Dot.
+DOT (hips): He hums it. All day. I wrote it down.
+PIP: Okay, Dot.
+// Dot turns slowly and stares straight at Rocco. Rocco stares back. It's the longest eye contact of his life. She lifts one finger to her lips, walks away backward, and vanishes.
+ROCCO (scared, quietly): I'm going to be very nice to that child.
+[hold: 8]
+
+== Bash on the case | apartment | rocco, bash
+[mood: tense]
+BASH enters right.
+BASH carries a notebook.
+BASH (determined): You know what I worked out? Every tape shows up the same night.
+// Rocco's lying on the beanbag. Under it, sticking out by one inch, a physics book. Beside it, the corner of a tape machine. He slowly moves his foot over it.
+ROCCO (munch): Huh.
+BASH: Thursdays. Someone goes to Gus's on Thursdays. Someone who's up late.
+BASH: Someone who knows Gus's garage, and knows how to get in without waking the goat.
+ROCCO (deadpan): Sounds like a bad guy.
+BASH: And another thing. All the tapes have this bit, this hum.
+// He hums it. It's right. It's exactly right. He doesn't know he's been humming it all week. He frowns.
+BASH (suspicious): I've heard somebody doing that. Close by.
+// A very long silence. Bash looks round the room. The sofa. The fan. The beanbag. He looks at Rocco, and at the bag of chips. Rocco doesn't blink.
+BASH (shrug): It'll come to me. You're no use anyway.
+BASH exits right.
+ROCCO (quietly): ...Yeah.
+// He stays where he is, breathing. It wasn't relief on his face. It was something closer to disappointment.
+[hold: 8]
+
+== Gus's chair | gus garage | gus, rocco
+[mood: soft]
+GUS sits on the crate.
+ROCCO enters left.
+GUS (soft): No word, you know. A hundred people have told me it's their cousin.
+ROCCO: Maybe he doesn't want to play.
+GUS (soft): Well, that's his right. Some folk are shy.
+GUS (soft): What I think? I think he's got something he can't say any other way.
+GUS (soft): And he thinks that's the same as saying it.
+// He's only talking. He's looking at the kettle. He doesn't mean anything by it. Rocco stands quite still.
+ROCCO (quietly): Could be.
+GUS (happy): Anyhow. Kettle works. What do I owe you?
+ROCCO (quietly): Nothing. You've paid.
+[hold: 2]
+
+== Humming | main street | rocco, bea
+[mood: soft]
+ROCCO enters left.
+BEA enters right.
+// Evening street. Rocco, walking home. A very small bear goes by on a tricycle, wobbling hard. She's humming. His tune, every note, slightly wrong, entirely happy. She doesn't see him.
+BEA (happy): Mm-mm-mm, mm-mm...
+BEA exits left.
+// He stops. He turns and watches her go. Then there's a window up the street, and someone's whistling it. Someone doing dishes. Somebody's radio. The whole street, softly, has his song in it, and nobody knows he's there.
+// He has no idea what to do with his face. He tries a few things. He looks down and, very slowly, gets out a chip, and doesn't eat it.
+ROCCO (soft, quietly): ...Some guy.
+[hold: 8]

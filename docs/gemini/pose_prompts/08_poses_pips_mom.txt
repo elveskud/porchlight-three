@@ -1,0 +1,16 @@
+ATTACH: art/gemini/characters/10_pips_mom.jpg
+SAVE AS: art/gemini/refs/poses_pips_mom.jpg
+
+PROMPT (copy everything below):
+
+Image 1 shows Pip's mom, a kind, tired bunny mother from a 2D cartoon series. Draw her, keeping her exact design, colours, clothes and proportions, seen from the FRONT like in image 1.
+A pose sheet, 8 poses in two rows, all the same scale, each one separate:
+1) a gentle, worried smile, paws together
+2) holding a cardboard box
+3) one paw on her forehead, tired
+4) listening carefully, head tilted
+5) hugging someone (arms reaching out)
+6) holding a cup of tea in both paws
+7) looking away, sad, ears drooped
+8) waving goodbye softly
+Draw ONLY the character. Bold clean black outlines, flat solid colours with ONE darker shadow tone, no texture. Plain white background. NO text, NO labels, NO numbers.

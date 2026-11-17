@@ -1,0 +1,125 @@
+# Porchlight 10: Following Riot
+next: Totally Normal
+thumb: YOU KNEW?
+grade: summer
+
+== Cold open | apartment | riot, rocco, bash, pip
+RIOT carries a phone.
+RIOT (hype): Never Have I Ever. Tap if you have. No lying, the app can tell.
+PIP: It can't.
+RIOT: It can't, but no lying.
+[game nhie: Never have I ever kept a secret so long it became more awkward to reveal than to keep. | bash | Okay. Yeah. Fine.]
+// Riot tapped first. Then Rocco. Then Pip. Then, after a long look at the floor, Bash.
+// Four phones. Four taps. Nobody says what. Nobody asks.
+RIOT (laugh): Ha! Look at us! Terrible people!
+ROCCO (chuckle): Terrible.
+// They all laugh a bit. The laugh ends at slightly different times.
+[hold: 5]
+
+[intro]
+
+
+== Duck alarm | lake, day | riot (lifeguard), bash, pip
+RIOT sits on the tower.
+RIOT is asleep.
+// Riot is out cold in the lifeguard tower, mouth open. The duck has come ashore, climbed up, and is looking at him. It pecks his whistle.
+[sfx: whistle]
+RIOT (shocked, take): I'M AWAKE! No floating without a buddy!
+BASH enters left.
+PIP enters left.
+BASH: Third time this week. A duck had to wake up the lifeguard.
+RIOT (nervous): He's my supervisor.
+BASH: You look awful.
+RIOT (laugh): I'm fine! Hot! Same heat wave!
+// He's got rings under his eyes. Bash and Pip look at each other.
+[hold: 5]
+
+== The plan | apartment | rocco, bash, pip
+BASH sits on the sofa l.
+PIP sits on the sofa r.
+BASH (determined): We follow him. Tonight. Whatever it is, he's not sleeping and he's not telling us.
+ROCCO (munch): I wouldn't.
+BASH: Why not?
+ROCCO: It's a lot of walking. He's probably fine. Everybody's got stuff. I'd leave it.
+// It's the most Rocco has said in one go all season. Pip has stopped moving. He's looking at Rocco's paws, which have stopped reaching for the chips.
+PIP (quietly): You know where he goes.
+// Silence. Bash turns his head.
+ROCCO (deadpan): ...
+PIP (quietly): You do. You've known a while.
+ROCCO (quietly): ...Yeah.
+BASH (shocked): Where?
+// Rocco puts the bag down. It's the first time we've seen him do that.
+ROCCO (soft): You're not going to like it.
+[hold: 6]
+
+== The house | hall, night | rocco, bash, pip
+[mood: tense]
+ROCCO carries a flashlight.
+ROCCO enters left.
+BASH enters left.
+PIP enters left.
+// Lights out. The boards creak. From the floor above: footsteps. One, two, three, four. Pause.
+[sfx: step_wood0]
+PIP (scared, whispers): Is that him?
+ROCCO (whispers): No. He'd be down here.
+// Footsteps again. One, two, three, four.
+[sfx: step_wood0]
+BASH (scared, whispers): I'm warming up.
+PIP (whispers): Bash, you don't have to go first.
+BASH (determined, whispers): I know.
+// His ears are flat and his paws are shaking. He goes first anyway.
+BASH walks to the door.
+[hold: 4]
+
+== The table | hall, night | riot, rocco, bash, pip
+[mood: tense]
+RIOT carries a flashlight.
+RIOT sits on the edge.
+// A back room. Riot at a table, under his own flashlight. In front of him, a closed wooden box, its lid painted with the lake at dusk.
+RIOT (shocked): ...
+BASH (scared): Riot?
+RIOT (nervous): You can't be in here. How did you...
+// He sees Rocco. He understands. He sits down slowly.
+PIP: What is that?
+RIOT (soft, quietly): It's my grandpa's. The game from the last festival. It never got finished.
+RIOT (soft, quietly): So I've been finishing it. For him. I've been coming here for years.
+BASH: Years?
+RIOT (soft): Every time I think I've got it, I come back and...
+// He stops. His paw is flat on the lid. He doesn't open it.
+BASH (soft): So let us help.
+RIOT (scared): No.
+PIP: Riot...
+RIOT (determined): No. This one's mine. I have to do it.
+// He isn't angry. He's frightened. It's worse.
+[hold: 7]
+
+== You knew | hall, night | riot, rocco, bash, pip
+[mood: soft]
+BASH (quietly, to rocco): Since when?
+ROCCO (quietly): The storm.
+BASH: That's weeks. He's been falling asleep in a tower.
+BASH (sad): You knew, and you just... watched?
+ROCCO (soft): It wasn't mine to tell.
+// Bash looks at him for a long time. He doesn't shout. He'd shout at something small.
+BASH (quietly): Okay.
+BASH exits left.
+[hold: 2]
+
+== The stoop | stoop, night | riot, rocco, bash, pip
+[mood: soft]
+// They walk Riot home without talking. The porch light is on. Riot switched it on this morning. It's game night. Nobody plays anything.
+PIP (soft): You don't have to do everything by yourself, you know.
+RIOT (sad): Yeah, I do.
+// He goes in. Pip's whole body was shaking when he said it. It's the first brave thing he's said all season, and it didn't work.
+[hold: 6]
+
+== Empty | hall, night | 
+[mood: tense]
+// The house, empty now. In the back room the closed box sits alone on the table. Slowly, without a sound, the chairs slide across the floor into a perfect square around the table.
+[hold: 11]
+
+== The drawer | bash home | bash
+[mood: tense]
+BASH is asleep.
+// Bash's room. Moonlight. The drawer is open. The sock is on the floor. The die is not there.
+[hold: 6]

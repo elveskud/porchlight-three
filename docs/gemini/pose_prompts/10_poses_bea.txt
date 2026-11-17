@@ -1,0 +1,16 @@
+ATTACH: art/gemini/characters/13_bea.jpg
+SAVE AS: art/gemini/refs/poses_bea.jpg
+
+PROMPT (copy everything below):
+
+Image 1 shows Bea, a tiny bear girl, age 4, fierce and delighted, from a 2D cartoon series. Draw her, keeping her exact design, colours, clothes and proportions, seen from the FRONT like in image 1.
+A pose sheet, 8 poses in two rows, all the same scale, each one separate:
+1) arms up, cheering
+2) fists clenched, fierce face
+3) hugging someone's leg (just her)
+4) pointing and laughing
+5) sitting on the floor, pouting
+6) jumping with joy
+7) whispering a secret, paw by her mouth
+8) holding a big die in both paws
+Draw ONLY the character. Bold clean black outlines, flat solid colours with ONE darker shadow tone, no texture. Plain white background. NO text, NO labels, NO numbers.

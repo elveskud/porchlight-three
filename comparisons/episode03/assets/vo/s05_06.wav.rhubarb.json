@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "soundFile": "/Users/lazaretchaava/Desktop/Blender.nosync/videos/ep03/vo/s05_05.wav",
+    "duration": 0.52
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.48, "value": "B" },
+    { "start": 0.48, "end": 0.52, "value": "X" }
+  ]
+}

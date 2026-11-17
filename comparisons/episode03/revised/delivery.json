@@ -1,0 +1,25 @@
+{
+  "result": "PASS",
+  "desktopPath": "/Users/lazaretchaava/Desktop/Porchlight Episode 3 - Summer Homework - Revised (Three.js).mp4",
+  "sourcePath": "/Users/lazaretchaava/Desktop/Porchlight.nosync/comparisons/episode03/revised/episode03_3d_illustrated.mp4",
+  "sha256": "2d928e81c800e08612d574b28a33c3f590734619a26b9e51a0f8fa89cd45263b",
+  "sourceHash": "68240e0cfaa9165e9527d304f59f3ad94537848b0b484b58b15b4935203c30d6",
+  "duration": 181.66666666666666,
+  "frames": 4360,
+  "setsReworked": 9,
+  "previousCuts": 77,
+  "revisedCuts": 11,
+  "cutReductionPercent": 85.71428571428572,
+  "audioIdenticalToFirstEdition": true,
+  "firstEditionPreserved": true,
+  "checks": {
+    "browser-checks.json": "PASS",
+    "edit-checks.json": "PASS",
+    "export-checks.json": "PASS",
+    "player-checks.json": "PASS",
+    "explorer-checks.json": "PASS",
+    "picture-checks.json": "PASS",
+    "framing-checks.json": "PASS"
+  },
+  "sceneHashesMatch": true
+}

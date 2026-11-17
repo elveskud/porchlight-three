@@ -1,0 +1,70 @@
+{
+ "fronts": [
+  {
+   "name": "auto_01",
+   "z": 9.2,
+   "base_px": 569,
+   "bbox": [
+    964,
+    440,
+    1023,
+    571
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_02",
+   "z": 6.25,
+   "base_px": 519,
+   "bbox": [
+    107,
+    381,
+    477,
+    524
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_03",
+   "z": 6.25,
+   "base_px": 462,
+   "bbox": [
+    0,
+    0,
+    333,
+    515
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_04",
+   "z": 4.75,
+   "base_px": 413,
+   "bbox": [
+    54,
+    366,
+    183,
+    414
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_05",
+   "z": 2.0,
+   "base_px": 370,
+   "bbox": [
+    919,
+    13,
+    1023,
+    374
+   ],
+   "auto": true
+  }
+ ],
+ "clean": "motel_room_day_clean",
+ "walk_lines": [
+  400,
+  460,
+  530
+ ]
+}

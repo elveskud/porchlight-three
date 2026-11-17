@@ -1,0 +1,102 @@
+# Porchlight 16: House Rules
+next: Open House
+thumb: RULE 1: DON'T TOUCH
+grade: summer
+previously: Riot let his friends into the house. They can watch. They can't touch.
+
+== Cold open | gym | mayor, preston, marlo, hal, riot, rocco, pip, bash
+HAL carries a clipboard.
+MAYOR (nervous): After careful review, and a very nice lunch, the committee finds that the park is historic.
+BASH (cheer): YES!
+MAYOR: However! It says here a historic ground must be in use.
+MAYOR: It can't just have been historic. It has to be doing some history.
+PRESTON (present): Meaning?
+MAYOR: The festival ground must be used again before the end of summer. Or the sale goes ahead.
+// Preston's tail opens slowly, all the way.
+PRESTON (laugh): Before the end of summer! Oh, take your time, Mr. Mayor! Take all the time you like!
+// Everyone laughs. It's a very funny thing to say. It's the end of summer, they'll get it done. Rocco, alone in the room, has stopped chewing.
+ROCCO (suspicious, quietly): ...When's that?
+[hold: 4]
+
+[intro]
+
+
+== House rules | hall, night | riot, rocco, bash, pip
+RIOT carries a clipboard.
+RIOT sits on the edge.
+[card: First night.]
+RIOT (determined, present): Okay. If you're coming in here, there are rules. I've laminated them.
+ROCCO (munch): You laminated them.
+RIOT: Rule one. You don't touch the box. Rule two. You don't touch the table.
+RIOT: Rule three. No flash. Rule four. If you hear footsteps, stay still, they go away.
+BASH (scared): Could we hear more about rule four?
+RIOT: Rule five. Bash, you have to breathe.
+BASH (nervous): I'm breathing! I'm doing it as a choice!
+PIP (nervous): Why are there four chairs?
+RIOT: There's always been four chairs.
+PIP: They were in a line when we came in on the first night. Now they're in a square.
+// Everyone looks at the chairs. The chairs, being chairs, don't look back. Riot looks away first.
+RIOT (nervous): Rule six. No questions on the first night.
+[hold: 2]
+
+== Night two | hall, night | riot, rocco, bash, pip
+[mood: tense]
+[card: Second night.]
+RIOT sits on the edge.
+BASH carries a notebook.
+// Riot sits with his back to them, paw moving over something on the table. Close on a carved piece being set down. We never see where. Three friends on a bench, trying to be quiet. Bash has brought a sandwich and it is the loudest sandwich ever made.
+[sfx: crunch]
+RIOT (determined): Bash.
+BASH (whispers): Sorry. It's got lettuce.
+// A floorboard above them. One. Two. Three. Four. Silence.
+[sfx: step_wood0]
+PIP (whispers): Four.
+ROCCO (whispers): It's always four.
+BASH (scared, whispers): Rule four. Stay still. Staying still.
+// One, two, three, four. It moves across the ceiling, stops, and moves across again.
+[sfx: step_wood0]
+ROCCO (suspicious, whispers): That's not somebody walking around.
+PIP: What is it?
+ROCCO (whispers): They stop. Then the next one goes. Then they stop.
+ROCCO (quietly): That's turns.
+// Riot's paw has stopped moving. He doesn't turn round. Bash very slowly finishes chewing.
+BASH (scared, whispers): Who's playing?
+[hold: 8]
+
+== Morning after | lake, day | rocco, bash, pip
+ROCCO sits on the sand.
+BASH sits on the sand.
+PIP sits on the sand.
+// The three of them, all exhausted, with sunglasses on. The new lifeguard on the tower is the duck. Somebody has given it a small whistle. Nobody asks.
+BASH (sleepy): How has he done this for years? I've done two nights. I can taste time.
+PIP (quietly): He didn't let us see his hands.
+BASH: What?
+PIP: He says he's playing. But every time you moved he covered it with his arm. Like he's embarrassed.
+ROCCO (munch): He is.
+BASH: Of what? It's a board game.
+ROCCO (deadpan): Ask him what it's doing in the morning.
+BASH: What does that mean?
+ROCCO: Don't know. It's what he nearly said. Every time I think I've got it, I come back and...
+PIP (soft): And what?
+// None of them can finish it. A small breeze. The duck blows its whistle at nothing.
+[hold: 5]
+
+== The rule | hall, night | riot, rocco, bash, pip
+[mood: soft]
+[card: Third night.]
+RIOT sits on the edge.
+BASH enters left.
+BASH: I've been thinking about your rules.
+RIOT (sleepy): Yeah?
+BASH (determined): There's one you missed. Rule seven.
+// He takes a marker out of his pocket, walks over, and writes on the laminated sheet. It squeaks. Riot watches him do it.
+RIOT (soft, looks down): Rule seven. Riot goes home by two.
+BASH: You're on a week off. You're going to spend it sleeping. I'll walk you back.
+RIOT (soft): That's not how rules work.
+BASH (cocky): I'm very scared in here and I'm doing it anyway, so I get a rule.
+// A long look. Riot nearly smiles. It's the most tired smile in Maple Hollow. He picks up his flashlight, closes the lid, and stands.
+RIOT (soft): Two o'clock.
+BASH (nod): Two o'clock.
+RIOT exits left.
+BASH exits left.
+[hold: 6]

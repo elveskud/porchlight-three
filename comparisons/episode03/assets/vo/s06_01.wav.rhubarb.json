@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "soundFile": "/Users/lazaretchaava/Desktop/Blender.nosync/videos/ep03_tail/vo/s03_01.wav",
+    "duration": 1.31
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.06, "value": "A" },
+    { "start": 0.06, "end": 0.22, "value": "B" },
+    { "start": 0.22, "end": 0.33, "value": "A" },
+    { "start": 0.33, "end": 0.82, "value": "B" },
+    { "start": 0.82, "end": 0.86, "value": "C" },
+    { "start": 0.86, "end": 0.94, "value": "A" },
+    { "start": 0.94, "end": 1.13, "value": "C" },
+    { "start": 1.13, "end": 1.27, "value": "B" },
+    { "start": 1.27, "end": 1.31, "value": "X" }
+  ]
+}

@@ -1,0 +1,111 @@
+# Porchlight 15: Off Duty
+next: House Rules
+thumb: THE SAVE
+grade: summer
+
+== Cold open | lake, day | riot (lifeguard), bea, bashmom
+RIOT sits on the tower.
+RIOT is asleep.
+// A bright, calm, perfect day. Riot's out cold in the tower. His head nods. Behind him, on the lake, a little red canoe has come loose. In it, Bea, Bash's littlest sister, is paddling with her paws, delighted.
+BEA (hype): I'm the captain!
+// The canoe keeps going. Past the reeds. Past the rope. The breeze picks up. The shore gets small.
+BEA (nervous): ...I'm the captain?
+// The duck comes up the tower, one step at a time. It pecks his whistle. Nothing. It pecks his nose.
+[fx hop piece=puddles_and_duck_02 path=[[640,330,3],[860,190,6]]]
+[sfx: whistle]
+[hold: 8]
+
+[intro]
+
+
+== The save | lake, day | riot (lifeguard), bea, bash, bashmom
+[mood: tense]
+RIOT stands at the tower.
+RIOT (shocked, take): What? Who's...
+// He sees it. All the sleep goes out of his face at once. A long way out, a tiny red shape, tipping.
+[sfx: splash]
+BEA (scared, yelling): BASH!
+// The canoe's over. Riot's already off the top of the tower. He doesn't climb. He goes. We've seen him play at being a lifeguard for fourteen episodes.
+RIOT cannonballs.
+// We've never seen this. He hits the water and he's gone. He swims like he was born for nothing else, long and low and terrifyingly fast. On the shore, people stop and stare.
+BASH runs in left.
+BASHMOM runs in left.
+BASH (scared, yelling): BEA!
+[hold: 8]
+
+--
+[mood: soft]
+RIOT enters right.
+BEA enters right.
+// He walks out of the lake with her on his back, both streaming. She has both arms round his neck. He sets her down. She coughs, then laughs.
+BEA (happy): Again!
+BASHMOM hugs BEA.
+BASHMOM (sad, quietly): Oh, thank you. Oh, thank you.
+BASH (shocked, to riot): Where did you learn to swim like that?
+RIOT (nervous): It's my job.
+// He's shaking. He's looking at the empty tower. He's looking at how far away the canoe is, and he's doing the sum.
+[hold: 6]
+
+== Big Hal | lake, day | riot (lifeguard), hal, walt
+[mood: soft]
+HAL enters left.
+HAL carries a clipboard.
+WALT enters left.
+WALT (soft): Son. I came as fast as I could. Is the little one all right?
+RIOT (quietly): She's fine, Dad. She wants to go again.
+WALT (soft): Your grandpa couldn't swim a stroke. I don't know where you get it.
+WALT exits left.
+HAL (soft): That was the best rescue I ever saw.
+RIOT (quietly): Thanks.
+HAL (soft): How far out was she before you woke up?
+// Riot doesn't answer. He takes off his whistle. Nobody asked him to.
+HAL (soft): A week off, son. Get some sleep. Whatever's keeping you up, I'd let someone help you with it.
+// He holds out his paw. Riot puts the whistle in it. It's very small in Big Hal's paw.
+[hold: 4]
+
+== The apartment | apartment | riot, rocco
+[mood: soft]
+RIOT sits on the sofa r.
+ROCCO lies back on the beanbag.
+// Riot, still wet. His uniform on the back of a chair. Rocco has made a sandwich, and put it near him. He hasn't touched it.
+RIOT (sad): She was four minutes from the deep end.
+ROCCO: I know.
+ROCCO: She's laughing. Bash's mom sent a pie.
+RIOT (sad): She shouldn't have. It's my fault she was out there.
+ROCCO (deadpan): The pie doesn't know that.
+RIOT (sad): I couldn't stay awake for one afternoon.
+RIOT (sad): If I wasn't so... I don't even know how many years it's been, Rocco.
+ROCCO (quietly): Eat your sandwich.
+// Riot looks at it. He looks at the clock. He gets up and takes his flashlight off the shelf. Rocco watches him do it, and doesn't try to stop him.
+RIOT exits right.
+[hold: 7]
+
+== The door | hall outside, night | riot, rocco, bash, pip
+[mood: soft]
+RIOT enters left.
+RIOT carries a flashlight.
+// The path to the house. He stops. Sitting on the steps of the back door, in the dark, are Bash and Pip, with a bag of food. They've been there a while. Rocco comes up behind him, chewing.
+PIP: Hi.
+BASH: You're late. We've been warming up.
+RIOT (soft): How did you...
+ROCCO (deadpan): You've got a very regular schedule.
+RIOT (sad): I told you. It's mine.
+BASH (quietly): Yeah. We're not here to do anything. My sister's alive. I just thought I'd come and sit near you.
+// He's on the steps of the house he's more frightened of than anything in the world. His paws are shaking. He's holding out a sandwich. Riot looks at it a long time.
+// He looks at the house. He looks at the three of them. He breathes out. It's the longest breath he's breathed all season.
+RIOT (soft): You can watch. You don't touch.
+BASH (nod): Okay.
+RIOT (soft): I mean it.
+PIP (quietly): We know.
+[hold: 8]
+
+== The box | hall, night | riot, rocco, bash, pip
+[mood: soft]
+RIOT carries a flashlight.
+RIOT sits on the edge.
+// The back room. Three friends stand by the door, not coming closer. The table, the chairs, the closed box. Riot's paw on the lid.
+// He has never done this with anyone else in the room. He looks back at them once.
+// He opens it. A warm old light moves across his face. We don't see what he sees. We see theirs: Bash, Pip and Rocco, each looking down at something, each with a different face.
+BASH (quietly): Oh.
+ROCCO (quietly): ...There you are.
+[hold: 8]

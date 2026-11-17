@@ -1,0 +1,508 @@
+{
+ "series": "Porchlight",
+ "episode": 3,
+ "title": "Summer Homework",
+ "next": "Not For Sale",
+ "beats": [
+  {
+   "id": "s01",
+   "location": "classroom",
+   "cast": {
+    "owl": null,
+    "bash": null,
+    "pip": null
+   },
+   "lines": [
+    {
+     "who": "owl",
+     "say": "And so, class, as we break for the summer, one small assignment.",
+     "face": "happy"
+    },
+    {
+     "who": "bash",
+     "say": "Mr. Hoot. It is summer. It's been summer.",
+     "face": "shocked"
+    },
+    {
+     "who": "owl",
+     "say": "An essay. My Summer. Two pages."
+    },
+    {
+     "who": "bash",
+     "say": "But it's summer now."
+    },
+    {
+     "who": "owl",
+     "say": "Then you'll have lots to write about.",
+     "face": "happy",
+     "punch": true
+    },
+    {
+     "who": "pip",
+     "say": "Don't argue. Last time he added a bibliography.",
+     "do": "nervous",
+     "to": "bash"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "Cold open",
+   "carry": {
+    "owl": "clipboard"
+   },
+   "seats": {
+    "owl": "front",
+    "bash": "desk"
+   },
+   "hold": 60,
+   "text": "Summer Homework",
+   "letterbox": true
+  },
+  {
+   "id": "s02",
+   "location": "lake_night",
+   "cast": {},
+   "lines": [],
+   "camera": "at:300,330,11.5",
+   "hold": 200,
+   "chapter": "Intro",
+   "fx": [
+    {
+     "type": "title",
+     "text": "PORCHLIGHT",
+     "at": 0.3,
+     "sub": "Maple Hollow"
+    },
+    {
+     "type": "card",
+     "text": "Episode 3: Summer Homework",
+     "at": 3.6,
+     "for": 2.4
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "location": "stoop_sunset",
+   "cast": {
+    "riot": null,
+    "rocco": null,
+    "bash": null,
+    "pip": null
+   },
+   "lines": [
+    {
+     "who": "bash",
+     "say": "Two pages about my summer. What do I write? I lost a lot and got chased by a door.",
+     "do": "gloom"
+    },
+    {
+     "who": "riot",
+     "say": "You don't write an essay. You make an event. We go door to door. We ask the whole street what summer means.",
+     "face": "hype"
+    },
+    {
+     "who": "pip",
+     "say": "It's one essay."
+    },
+    {
+     "who": "riot",
+     "say": "It's a people's history of the summer, Pip.",
+     "face": "hype",
+     "do": "present"
+    },
+    {
+     "who": "rocco",
+     "say": "My Summer.",
+     "look": "down"
+    },
+    {
+     "who": "riot",
+     "say": "What?"
+    },
+    {
+     "who": "rocco",
+     "say": "I wrote this. Same title. Same owl.",
+     "face": "suspicious"
+    },
+    {
+     "who": "riot",
+     "say": "You were in his class?"
+    },
+    {
+     "who": "rocco",
+     "say": "...I think so.",
+     "face": "sleepy"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "The offer",
+   "seats": {
+    "bash": "step"
+   },
+   "pose": {
+    "rocco": "beanbag"
+   },
+   "hold": 30
+  },
+  {
+   "id": "s04",
+   "location": "main_street",
+   "cast": {
+    "riot": null,
+    "rocco": null,
+    "bash": null,
+    "pip": null,
+    "gus": null,
+    "dot": null
+   },
+   "lines": [
+    {
+     "who": "riot",
+     "say": "Gus! Town radio! What does summer mean to you?",
+     "do": "present"
+    },
+    {
+     "who": "gus",
+     "say": "Well now. That depends on your frequency.",
+     "face": "happy"
+    },
+    {
+     "who": "gus",
+     "say": "...and that's why you never trust a medium wave after lunch.",
+     "face": "happy"
+    },
+    {
+     "who": "bash",
+     "say": "Sir, in your own words. Be honest.",
+     "face": "suspicious"
+    },
+    {
+     "who": "bash",
+     "say": "Powerful.",
+     "do": "nod"
+    },
+    {
+     "who": "dot",
+     "say": "He gives that essay every summer."
+    },
+    {
+     "who": "pip",
+     "say": "Dot, go home."
+    },
+    {
+     "who": "dot",
+     "say": "Every summer. Same one. I've seen the pile.",
+     "do": "hips"
+    },
+    {
+     "who": "pip",
+     "say": "Okay, Dot."
+    },
+    {
+     "who": "riot",
+     "say": "Great stuff. We'll call you.",
+     "to": "dot"
+    },
+    {
+     "who": "dot",
+     "say": "...",
+     "face": "deadpan",
+     "do": "stare"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "Interviews",
+   "carry": {
+    "riot": "phone"
+   },
+   "seats": {
+    "rocco": "bench",
+    "bash": "mailbox"
+   },
+   "fx": [
+    {
+     "type": "card",
+     "text": "Four minutes later.",
+     "at": 0.2,
+     "for": 2.0
+    }
+   ],
+   "asleep": [
+    "rocco"
+   ],
+   "enter": {
+    "dot": "right"
+   },
+   "exit": {
+    "dot": "right"
+   },
+   "hold": 30
+  },
+  {
+   "id": "s05",
+   "location": "brook_porch",
+   "cast": {
+    "brook": null,
+    "riot": null,
+    "pip": null,
+    "bash": null
+   },
+   "lines": [
+    {
+     "who": "riot",
+     "say": "Mrs. Brook! Best summer of your life. Go.",
+     "face": "hype"
+    },
+    {
+     "who": "brook",
+     "say": "That's a rude question to ask a turtle. How long have you got?",
+     "face": "happy"
+    },
+    {
+     "who": "pip",
+     "say": "Whatever you'd like to tell us.",
+     "quiet": true
+    },
+    {
+     "who": "brook",
+     "say": "A long time ago. By the lake. Your grandfather made a very good...",
+     "face": "soft",
+     "look": "left"
+    },
+    {
+     "who": "brook",
+     "say": "...",
+     "face": "soft",
+     "do": "stare"
+    },
+    {
+     "who": "brook",
+     "say": "Lemonade. He made very good lemonade. Drink your tea, dear.",
+     "face": "happy"
+    },
+    {
+     "who": "riot",
+     "say": "He did?",
+     "face": "soft"
+    },
+    {
+     "who": "brook",
+     "say": "Terrible businessman. Lovely lemonade."
+    },
+    {
+     "who": "bash",
+     "say": "I'm putting down lemonade.",
+     "do": "nod"
+    },
+    {
+     "who": "brook",
+     "say": "...",
+     "face": "happy",
+     "do": "chuckle"
+    },
+    {
+     "who": "pip",
+     "say": "...",
+     "face": "soft",
+     "do": "nod"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "Mrs. Brook",
+   "mood": "soft",
+   "carry": {
+    "brook": "cup"
+   },
+   "hold": 30
+  },
+  {
+   "id": "s06",
+   "location": "pip_home",
+   "cast": {
+    "pip": null
+   },
+   "lines": [
+    {
+     "who": "pip",
+     "say": "Gus. Frequencies. Dot. The pile.",
+     "face": "soft",
+     "quiet": true
+    },
+    {
+     "who": "pip",
+     "say": "Mrs. Brook. Lemonade.",
+     "face": "soft",
+     "do": "nod"
+    },
+    {
+     "who": "pip",
+     "say": "...",
+     "face": "sad",
+     "look": "right"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "Pip writes",
+   "mood": "soft",
+   "seats": {
+    "pip": "desk"
+   },
+   "carry": {
+    "pip": "notebook"
+   },
+   "fx": [
+    {
+     "type": "insert",
+     "kind": "notebook",
+     "head": "MY SUMMER",
+     "lines": [
+      "I sit near people.",
+      "Four people on a step.",
+      "...before we"
+     ],
+     "faded": [
+      2
+     ],
+     "at": 6,
+     "for": 4
+    }
+   ],
+   "walk_to": {
+    "pip": [
+     "door",
+     4.0
+    ]
+   },
+   "exit": {
+    "pip": "right"
+   },
+   "hold": 30
+  },
+  {
+   "id": "s07",
+   "location": "stoop_night",
+   "cast": {
+    "riot": null,
+    "rocco": null,
+    "bash": null,
+    "pip": null
+   },
+   "lines": [
+    {
+     "who": "riot",
+     "say": "Come on, read it. Bash's was eleven words and three were lemonade."
+    },
+    {
+     "who": "bash",
+     "say": "It had a strong ending."
+    },
+    {
+     "who": "pip",
+     "say": "It's not very good.",
+     "do": "nervous"
+    },
+    {
+     "who": "rocco",
+     "say": "Read it anyway."
+    },
+    {
+     "who": "pip",
+     "say": "My summer. I don't do much. I sit near people.",
+     "face": "soft",
+     "quiet": true
+    },
+    {
+     "who": "pip",
+     "say": "Riot talks so nobody has to feel awkward. Rocco pretends to be asleep and never misses anything.",
+     "face": "soft",
+     "quiet": true
+    },
+    {
+     "who": "pip",
+     "say": "Bash loses every week and comes back on Saturday. I think that's the bravest thing on our street.",
+     "face": "soft",
+     "quiet": true
+    },
+    {
+     "who": "pip",
+     "say": "If you asked what summer means, I'd say it's four people on a step and nobody checking the time.",
+     "face": "soft",
+     "quiet": true
+    },
+    {
+     "who": "bash",
+     "say": "...",
+     "face": "soft",
+     "look": "down"
+    },
+    {
+     "who": "riot",
+     "say": "...",
+     "face": "soft",
+     "do": "nod"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "The essay",
+   "mood": "soft",
+   "seats": {
+    "pip": "step"
+   },
+   "carry": {
+    "pip": "notebook"
+   },
+   "hold": 60
+  },
+  {
+   "id": "s08",
+   "location": "pip_garage",
+   "cast": {
+    "pip": null
+   },
+   "lines": [
+    {
+     "who": "pip",
+     "say": "...",
+     "face": "sad",
+     "do": "stare"
+    },
+    {
+     "who": "pip",
+     "say": "...",
+     "face": "sad",
+     "do": "gloom"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "The garage",
+   "mood": "soft",
+   "enter": {
+    "pip": "left"
+   },
+   "walk_to": {
+    "pip": [
+     "box",
+     0.5
+    ]
+   },
+   "exit": {
+    "pip": "left"
+   },
+   "hold": 30
+  }
+ ],
+ "direct": "auto",
+ "ending": "porch_light",
+ "beds": {
+  "normal": "lofi"
+ },
+ "riot_optional": true,
+ "riot_phone": true,
+ "sit": "auto",
+ "act": "auto",
+ "centre_mouth": true,
+ "face_front_all": true,
+ "thumb_text": "SAME OWL?",
+ "grade": "summer",
+ "previously": "Bash touched the door. The door touched back."
+}

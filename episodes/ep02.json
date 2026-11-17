@@ -1,0 +1,575 @@
+{
+ "series": "Porchlight",
+ "episode": 2,
+ "title": "Dare House",
+ "next": "Summer Homework",
+ "beats": [
+  {
+   "id": "s01",
+   "location": "lake",
+   "cast": {
+    "riot": "lifeguard",
+    "rocco": null,
+    "bash": null,
+    "pip": null
+   },
+   "lines": [
+    {
+     "who": "bash",
+     "say": "Dare. Obviously dare. I don't do truth. Truth is for people with nothing to prove.",
+     "face": "cocky"
+    },
+    {
+     "who": "pip",
+     "say": "You have a lot to prove."
+    },
+    {
+     "who": "bash",
+     "say": "Exactly."
+    }
+   ],
+   "camera": "wide",
+   "chapter": "Cold open",
+   "pose": {
+    "rocco": "ground"
+   },
+   "carry": {
+    "riot": "phone"
+   },
+   "game": {
+    "type": "td",
+    "prompt": "Pretend to knock on an invisible door and act out being hopelessly lost.",
+    "player": "bash",
+    "perform": "Excuse me! Is this the way to... anywhere?",
+    "after": [
+     {
+      "who": "rocco",
+      "say": "Very lost. Good lost.",
+      "do": "munch"
+     },
+     {
+      "who": "bash",
+      "say": "That's it? That's the dare? An invisible door?",
+      "do": "hips"
+     },
+     {
+      "who": "rocco",
+      "say": "Could be a real door."
+     },
+     {
+      "who": "bash",
+      "say": "Bring me a real door. Bring me the scariest door in Maple Hollow."
+     },
+     {
+      "who": "pip",
+      "say": "You said it. I just want that written down.",
+      "do": "nervous",
+      "look": "right"
+     },
+     {
+      "who": "bash",
+      "say": "Easy.",
+      "do": "nervous"
+     },
+     {
+      "who": "riot",
+      "say": "Ha! Ha ha!",
+      "do": "laugh",
+      "face": "laughing",
+      "caption": false,
+      "pause": 14
+     },
+     {
+      "who": "pip",
+      "say": "Hee hee!",
+      "face": "laughing",
+      "caption": false,
+      "pause": -22
+     },
+     {
+      "who": "rocco",
+      "say": "Ha ha ha.",
+      "face": "laughing",
+      "caption": false,
+      "pause": -20
+     }
+    ],
+    "laugh": false
+   },
+   "hold": 60,
+   "text": "Dare House",
+   "letterbox": true
+  },
+  {
+   "id": "s02",
+   "location": "lake_night",
+   "cast": {},
+   "lines": [],
+   "camera": "at:300,330,11.5",
+   "hold": 200,
+   "chapter": "Intro",
+   "fx": [
+    {
+     "type": "title",
+     "text": "PORCHLIGHT",
+     "at": 0.3,
+     "sub": "Maple Hollow"
+    },
+    {
+     "type": "card",
+     "text": "Episode 2: Dare House",
+     "at": 3.6,
+     "for": 2.4
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "location": "hall_outside",
+   "cast": {
+    "riot": null,
+    "rocco": null,
+    "bash": null,
+    "pip": null
+   },
+   "lines": [
+    {
+     "who": "pip",
+     "say": "Why is it even haunted?"
+    },
+    {
+     "who": "riot",
+     "say": "Depends who you ask.",
+     "do": "shrug"
+    },
+    {
+     "who": "bash",
+     "say": "A ghost band. They died mid-song. You can hear them tuning up.",
+     "do": "count"
+    },
+    {
+     "who": "pip",
+     "say": "I heard a cursed bake sale."
+    },
+    {
+     "who": "bash",
+     "say": "How is a bake sale cursed?"
+    },
+    {
+     "who": "pip",
+     "say": "Nobody came. For a hundred years.",
+     "do": "nervous"
+    },
+    {
+     "who": "riot",
+     "say": "What did you hear, Rocco?"
+    },
+    {
+     "who": "rocco",
+     "say": "It's old.",
+     "do": "munch"
+    },
+    {
+     "who": "riot",
+     "say": "That's it?"
+    },
+    {
+     "who": "rocco",
+     "say": "Old is pretty scary."
+    },
+    {
+     "who": "bash",
+     "say": "But what was it, before? Who built it?"
+    },
+    {
+     "who": "pip",
+     "say": "...Huh."
+    },
+    {
+     "who": "riot",
+     "say": "Listen, dares are optional. Legally. We could go swimming instead.",
+     "do": "nervous",
+     "to": "bash"
+    },
+    {
+     "who": "bash",
+     "say": "Are you scared?",
+     "face": "cocky"
+    },
+    {
+     "who": "riot",
+     "say": "I'm a lifeguard. I guard life. Yours, specifically."
+    },
+    {
+     "who": "bash",
+     "say": "I'm going round the front."
+    },
+    {
+     "who": "riot",
+     "say": "Don't use the front, the back door sticks but the front's got that loose...",
+     "do": "point"
+    },
+    {
+     "who": "rocco",
+     "say": "...",
+     "do": "stare"
+    },
+    {
+     "who": "riot",
+     "say": "Is what I've heard. Legally.",
+     "face": "embarrassed"
+    },
+    {
+     "who": "rocco",
+     "say": "Busy guy. Lots of legal hearing.",
+     "punch": true
+    }
+   ],
+   "camera": "wide",
+   "chapter": "The walk up",
+   "transition": "fade",
+   "enter": {
+    "riot": "left",
+    "bash": "left",
+    "pip": "left",
+    "rocco": "left"
+   },
+   "hold": 60
+  },
+  {
+   "id": "s04",
+   "location": "hall_outside",
+   "cast": {
+    "riot": null,
+    "rocco": null,
+    "bash": null,
+    "pip": null
+   },
+   "lines": [
+    {
+     "who": "bash",
+     "say": "Friends. If I don't come back, tell my family I won. At anything. Doesn't matter what.",
+     "face": "determined"
+    },
+    {
+     "who": "rocco",
+     "say": "This is the longest three metres of my life.",
+     "do": "munch"
+    },
+    {
+     "who": "pip",
+     "say": "Should someone go with him?",
+     "quiet": true
+    },
+    {
+     "who": "rocco",
+     "say": "He's got a good pace. Very respectful."
+    }
+   ],
+   "camera": "wide",
+   "chapter": "The door",
+   "mood": "tense",
+   "walk_to": {
+    "bash": [
+     "steps",
+     6.7
+    ]
+   },
+   "fx": [],
+   "hold": 30
+  },
+  {
+   "id": "s04b",
+   "location": "hall_outside",
+   "cast": {
+    "riot": null,
+    "rocco": null,
+    "bash": null,
+    "pip": null
+   },
+   "camera": "wide",
+   "mood": "tense",
+   "hold": 150,
+   "seats": {
+    "bash": "door"
+   },
+   "lines": [
+    {
+     "who": "bash",
+     "say": "Touching it. I'm touching it. It's touched.",
+     "face": "scared",
+     "quiet": true,
+     "pause": 66
+    },
+    {
+     "who": "bash",
+     "say": "...",
+     "face": "shocked"
+    },
+    {
+     "who": "pip",
+     "say": "It's not supposed to do that.",
+     "face": "scared",
+     "quiet": true
+    },
+    {
+     "who": "riot",
+     "say": "It's not.",
+     "quiet": true
+    }
+   ],
+   "fx": [
+    {
+     "type": "card",
+     "text": "40 seconds later.",
+     "at": 0.2,
+     "for": 2.0
+    },
+    {
+     "type": "door",
+     "box_px": [
+      494,
+      255,
+      558,
+      350
+     ],
+     "at": 5.0,
+     "hinge": "left"
+    }
+   ],
+   "sfx": [
+    "door@5.0"
+   ]
+  },
+  {
+   "id": "s05",
+   "location": "hall_outside",
+   "cast": {
+    "riot": null,
+    "rocco": null,
+    "bash": null,
+    "pip": null
+   },
+   "lines": [
+    {
+     "who": "bash",
+     "say": "Whoa! Aah!",
+     "do": "take",
+     "face": "shocked"
+    },
+    {
+     "who": "pip",
+     "say": "Eek! Aah!",
+     "do": "take",
+     "face": "shocked",
+     "pause": -26,
+     "caption": false
+    },
+    {
+     "who": "riot",
+     "say": "Whoa! Aah!",
+     "do": "take",
+     "face": "shocked",
+     "pause": -28,
+     "caption": false
+    },
+    {
+     "who": "rocco",
+     "say": "Ah.",
+     "face": "shocked",
+     "pause": 6
+    }
+   ],
+   "camera": "wide",
+   "mood": "tense",
+   "sfx": [
+    "tap"
+   ],
+   "fx": [
+    {
+     "type": "die",
+     "path": [
+      [
+       526,
+       348,
+       0.2
+      ],
+      [
+       578,
+       362,
+       1.4
+      ]
+     ],
+     "size": 0.14
+    }
+   ],
+   "exit": {
+    "bash": "left run",
+    "pip": "left run",
+    "riot": "left run",
+    "rocco": "left run"
+   },
+   "hold": 24,
+   "seats": {
+    "bash": "door"
+   }
+  },
+  {
+   "id": "s06",
+   "location": "lake_night",
+   "cast": {
+    "rocco": null,
+    "bash": null,
+    "pip": null,
+    "riot": null
+   },
+   "lines": [
+    {
+     "who": "bash",
+     "say": "I wasn't scared. I was warming up.",
+     "do": "nervous"
+    },
+    {
+     "who": "riot",
+     "say": "Warming up for what?",
+     "do": "laugh"
+    },
+    {
+     "who": "bash",
+     "say": "The screaming. You have to warm up or you pull something."
+    },
+    {
+     "who": "rocco",
+     "say": "You warmed up for a very long time.",
+     "punch": true
+    },
+    {
+     "who": "riot",
+     "say": "Come on, Rocco. Let's get you home before you get scared again."
+    }
+   ],
+   "camera": "wide",
+   "chapter": "Warm landing",
+   "transition": "fade",
+   "enter": {
+    "bash": "right run",
+    "pip": "right run",
+    "riot": "right run",
+    "rocco": "right"
+   },
+   "pose": {
+    "bash": "ground",
+    "pip": "ground"
+   },
+   "mood": "soft",
+   "exit": {
+    "riot": "right",
+    "rocco": "right"
+   },
+   "hold": 60,
+   "seats": {
+    "bash": "s0",
+    "pip": "sand_mid",
+    "rocco": "shore_r",
+    "riot": "s3"
+   }
+  },
+  {
+   "id": "s07",
+   "location": "lake_night",
+   "cast": {
+    "bash": null,
+    "pip": null
+   },
+   "lines": [
+    {
+     "who": "pip",
+     "say": "...",
+     "do": "chin"
+    },
+    {
+     "who": "bash",
+     "say": "Thanks for not saying anything.",
+     "quiet": true,
+     "to": "pip"
+    },
+    {
+     "who": "pip",
+     "say": "Say anything about what?",
+     "face": "soft",
+     "to": "bash"
+    }
+   ],
+   "camera": "wide",
+   "mood": "soft",
+   "hold": 60,
+   "seats": {
+    "bash": "s0",
+    "pip": "sand_mid"
+   }
+  },
+  {
+   "id": "s08",
+   "location": "bash_home",
+   "cast": {
+    "bash": null
+   },
+   "lines": [
+    {
+     "who": "bash",
+     "say": "...No. No no no.",
+     "face": "scared",
+     "quiet": true
+    },
+    {
+     "who": "bash",
+     "say": "Warming up.",
+     "quiet": true,
+     "face": "nervous"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "Bash's room",
+   "enter": {
+    "bash": "left"
+   },
+   "fx": [
+    {
+     "type": "die",
+     "path": [
+      [
+       650,
+       276,
+       0.3
+      ],
+      [
+       702,
+       298,
+       1.2
+      ]
+     ],
+     "size": 0.2
+    }
+   ],
+   "hold": 210,
+   "seats": {
+    "bash": "desk"
+   }
+  }
+ ],
+ "direct": "auto",
+ "ending": "porch_light",
+ "beds": {
+  "normal": "lofi"
+ },
+ "riot_optional": true,
+ "riot_phone": true,
+ "sit": "auto",
+ "act": "auto",
+ "thumb_text": "DON'T TOUCH IT",
+ "grade": "summer",
+ "centre_mouth": true,
+ "face_front_all": true,
+ "cu_vignette": false,
+ "colour": "off"
+}

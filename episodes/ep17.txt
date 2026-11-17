@@ -1,0 +1,104 @@
+# Porchlight 17: Open House
+next: Just a Hiker
+thumb: THE REAL GHOST
+grade: summer
+
+== Cold open | hall outside, night | riot, rocco, bash, pip, preston
+[mood: tense]
+RIOT carries a flashlight.
+// The boys are coming up the path at night. Riot stops dead and puts out an arm. Ahead, by the wall of the house, there's a flashlight that isn't theirs.
+BASH (scared, whispers): That's the ghost. That's the ghost band's manager.
+PIP (whispers): It's got a very nice suit.
+// In the beam, a long sweep of bright blue tail. Preston is standing by the old hall, one wing on the wall. Not doing anything. Just standing there, in the dark.
+ROCCO (suspicious, whispers): What's he doing up here?
+PRESTON (soft, quietly): ...
+// He stays a moment more. He brushes off his suit and walks away down the far side of the hill.
+RIOT (determined, whispers): I'll tell you what he's doing.
+[hold: 8]
+
+[intro]
+
+
+== The theory | apartment | riot, rocco, bash, pip
+RIOT stands at the sofa.
+RIOT carries a clipboard.
+RIOT (determined, point): It's him. It's been him the whole time. He wants the park, so he needs the town scared.
+RIOT: The noises, the chairs, the die. What do we know about Preston? Money. What can money buy? Tiny speakers.
+BASH (hype): Tiny speakers!
+PIP: In a house nobody knew anyone was going to?
+RIOT: You're asking questions. That's what he wants.
+ROCCO (munch): I've got a question. How does a speaker make a kid run through Bash?
+BASH: It was a very good speaker.
+RIOT (hype, count): So we out-haunt him. He comes back, we give him the scare of his life. Sheets. Chains. Fog machine.
+PIP: Where do we get a fog machine?
+BASH: My uncle does weddings.
+// Rocco looks at the ceiling. This is going to happen, and there's nothing he can do. He takes out a new bag of chips for strength.
+[hold: 3]
+
+== Fake ghost | hall, night | riot, rocco, bash, pip
+[mood: party]
+ROCCO carries a phone.
+// Montage in the old hall.
+// Riot hangs bedsheets. Bash tests the chains and scares himself. Pip feeds the fog machine, which coughs out a small sad cloud, and then a very large one. Everyone vanishes.
+[fx fog top=-2 at=2]
+BASH (yelling): I can't see my legs! Am I still in the house?
+RIOT (yelling): Stick to the plan!
+PIP (nervous): It smells like a wedding.
+ROCCO (deadpan): Marlo's put his car at the bottom of the hill. Here he comes.
+RIOT (whispers): Places! Rocco, the sound!
+// Rocco holds up his phone and plays a very short, very quiet, very lo-fi "wooOOOooo". He's made it himself. It's actually sort of relaxing.
+RIOT (whispers): What is that?
+ROCCO (deadpan, whispers): It's got a nice groove.
+[hold: 7]
+
+== The haunting | hall, night | riot, rocco, bash, pip, preston
+[mood: party]
+PRESTON enters left.
+[fx fog top=-2]
+PRESTON carries a flashlight.
+// Preston walks in. The fog rolls. Bash rises behind him in a sheet with chains round his neck.
+BASH (yelling): WOOOOO! LEAVE THIS PLACE! THE BAKE SALE IS CURSED!
+// Preston turns round and looks at him for some time. He shines the flashlight on the sheet.
+PRESTON (happy): Good evening, Bash.
+BASH (shocked): ...How did you...
+PRESTON: You've got a sandwich in your paw. That's a very nice fog, boys. Rental?
+RIOT (nervous): Maybe.
+PRESTON (laugh): Honestly, I admire it. This is exactly the kind of energy I want in a lobby.
+RIOT enters right.
+RIOT (determined): We know what you're doing up here. Tiny speakers!
+PRESTON: Tiny what?
+RIOT: You've been sneaking around this house!
+PRESTON (shrug): Young man, I'm a developer. I'm allowed to look at a wall.
+[hold: 4]
+
+== The real one | hall, night | riot, rocco, bash, pip, preston
+[mood: tense]
+[fx fog top=-3]
+// The fog machine sputters and stops. In the quiet, far above them: a footstep. Two. Three. Four.
+[sfx: step_wood0]
+// Nobody in the room is moving. Everyone is here. Bash's chains stop swinging. And the footsteps start again. One. Two. Three. Four.
+[sfx: step_wood0]
+BASH (scared, whispers): That's not us.
+// All the blood goes out of Preston's face. It's astonishing. The suit stays, and the feathers, and everything else in him goes away. He's looking up at the ceiling, and for a second he's very, very small.
+PRESTON (scared, whispers): I know that sound.
+RIOT (shocked): What did you say?
+// He blinks. He looks at them as though he's just woken up. He looks at his flashlight. His wing is shaking, and he puts it behind his back.
+PRESTON (nervous): Marlo. Where's Marlo? This is a very unsafe property.
+PRESTON runs off left.
+// He goes fast. He drops his flashlight and doesn't come back for it. Nobody laughs. A little fog rolls past their ankles.
+[hold: 8]
+
+== What did that mean | hall outside, night | riot, rocco, bash, pip
+[mood: soft]
+BASH (nervous): See! He's guilty! He ran away! That's what guilty people do!
+PIP (quietly): That wasn't guilty.
+RIOT: What was it, then?
+PIP (soft): I don't know. He looked like Dot looks after a bad dream.
+// Bash takes the sheet off his head. Riot looks up at the house. His theory has gone, and he's holding a chain.
+RIOT (gloom): So it isn't tiny speakers.
+ROCCO (deadpan): Hard to say. Could be a tiny guy.
+// Bash laughs. He looks surprised to hear himself laughing at something Rocco said. He stops. Rocco looks at his chips.
+ROCCO picks up the flashlight.
+// Preston's flashlight. Old, heavy, far too plain for him. On the handle, worn nearly away, a child's scratched initials.
+ROCCO (suspicious, quietly): Hm.
+[hold: 8]

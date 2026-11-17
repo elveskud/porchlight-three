@@ -1,0 +1,73 @@
+{
+  "result": "PASS",
+  "metadata": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "157.500000",
+        "nb_frames": "3780",
+        "side_data_list": [
+          {}
+        ]
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0",
+        "duration": "157.500000",
+        "nb_frames": "6784"
+      }
+    ],
+    "format": {
+      "duration": "157.500000",
+      "size": "64285143"
+    }
+  },
+  "fullDecode": "PASS",
+  "voicesReused": 54,
+  "scriptDialogueExact": true,
+  "audioHashes": [
+    "SHA256=b4643045ee4fb60744f9e2ed5bf1eb42ba3994626b37b51783c2fa8176d84f95",
+    "SHA256=b4643045ee4fb60744f9e2ed5bf1eb42ba3994626b37b51783c2fa8176d84f95"
+  ],
+  "audioMeasurement": {
+    "input_i": "-14.09",
+    "input_tp": "-0.86",
+    "input_lra": "13.30",
+    "input_thresh": "-25.67",
+    "output_i": "-14.35",
+    "output_tp": "-1.00",
+    "output_lra": "10.40",
+    "output_thresh": "-25.76",
+    "normalization_type": "dynamic",
+    "target_offset": "0.35"
+  },
+  "sourceHash": "8250cc69c4f6997d80478e61b66a5147f685eb7f21568c83893d6ab6b3251389",
+  "sha256": "e29c583bbceb12824834b553c92722ecff9d43ebaa0bfd202e5cc60598de5209",
+  "sampleTimes": [
+    2,
+    15,
+    31,
+    39.25,
+    47.75,
+    64.75,
+    96.75,
+    104.25,
+    109.35,
+    113.11666666666667,
+    113.91666666666667,
+    118.51666666666667,
+    124.83333333333333,
+    140.83333333333334,
+    146.66666666666666,
+    148.86666666666665,
+    150.36666666666665,
+    152.16666666666666,
+    154.7,
+    155.5
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "result": "PASS",
+  "checks": [
+    "shared cast viewer loads after extraction",
+    "both movie durations",
+    "scene seeking",
+    "both movies play and pause",
+    "playback drift below 250ms",
+    "only one audio stream audible",
+    "individual view modes",
+    "mute",
+    "mobile layout without overflow"
+  ],
+  "playback": [
+    {
+      "time": 55.317644,
+      "paused": false,
+      "muted": false
+    },
+    {
+      "time": 55.347591,
+      "paused": false,
+      "muted": true
+    }
+  ],
+  "errors": []
+}

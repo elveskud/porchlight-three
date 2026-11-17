@@ -1,0 +1,595 @@
+{
+ "series": "Porchlight",
+ "episode": 4,
+ "title": "Not For Sale",
+ "next": "Storm Night",
+ "beats": [
+  {
+   "id": "s01",
+   "location": "park",
+   "cast": {
+    "preston": null,
+    "marlo": null,
+    "mayor": null,
+    "riot": "lifeguard",
+    "bash": null
+   },
+   "lines": [
+    {
+     "who": "preston",
+     "say": "Ladies. Gentlemen. Ducks. Imagine... this. But more.",
+     "do": "present"
+    },
+    {
+     "who": "riot",
+     "say": "What is that?",
+     "face": "shocked"
+    },
+    {
+     "who": "preston",
+     "say": "That's the Preston Pavilion. It has a fountain inside a smaller fountain.",
+     "face": "happy"
+    },
+    {
+     "who": "bash",
+     "say": "Where do the ducks go?"
+    },
+    {
+     "who": "preston",
+     "say": "Level two.",
+     "punch": true
+    },
+    {
+     "who": "mayor",
+     "say": "Well! Yes. No. Let's form a committee. Yes.",
+     "do": "nervous"
+    },
+    {
+     "who": "mayor",
+     "say": "...",
+     "do": "nod"
+    },
+    {
+     "who": "riot",
+     "say": "...",
+     "face": "shocked",
+     "do": "stare"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "Cold open",
+   "enter": {
+    "preston": "right",
+    "marlo": "right"
+   },
+   "seats": {
+    "riot": "lawn_2",
+    "bash": "lawn_1",
+    "preston": "lawn_4",
+    "marlo": "grass_r",
+    "mayor": "bench"
+   },
+   "carry": {
+    "marlo": "clipboard"
+   },
+   "fx": [
+    {
+     "type": "insert",
+     "kind": "paper",
+     "head": "PRESTON PAVILION",
+     "image": "/Users/lazaretchaava/Desktop/Porchlight.nosync/art/inserts/pavilion.png",
+     "at": 4,
+     "for": 4
+    }
+   ],
+   "hold": 30,
+   "text": "Not For Sale",
+   "letterbox": true
+  },
+  {
+   "id": "s02",
+   "location": "lake_night",
+   "cast": {},
+   "lines": [],
+   "camera": "at:300,330,11.5",
+   "hold": 200,
+   "chapter": "Intro",
+   "fx": [
+    {
+     "type": "title",
+     "text": "PORCHLIGHT",
+     "at": 0.3,
+     "sub": "Maple Hollow"
+    },
+    {
+     "type": "card",
+     "text": "Episode 4: Not For Sale",
+     "at": 3.6,
+     "for": 2.4
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "location": "apartment",
+   "cast": {
+    "riot": null,
+    "rocco": null,
+    "bash": null,
+    "pip": null
+   },
+   "lines": [
+    {
+     "who": "riot",
+     "say": "That's my lake. That's my park. He said level two.",
+     "face": "determined"
+    },
+    {
+     "who": "pip",
+     "say": "There's a town meeting in two weeks."
+    },
+    {
+     "who": "riot",
+     "say": "We don't have two weeks. We make the park so terrible he gives up. Operation Unbuyable.",
+     "face": "hype",
+     "do": "count"
+    },
+    {
+     "who": "rocco",
+     "say": "I'm listening. I'm eating, but I'm listening.",
+     "do": "munch"
+    },
+    {
+     "who": "riot",
+     "say": "One, a swamp smell. Two, rowdy locals. Three, a threatening sign."
+    },
+    {
+     "who": "bash",
+     "say": "My family can be rowdy."
+    },
+    {
+     "who": "pip",
+     "say": "You don't have to ask them to be."
+    },
+    {
+     "who": "pip",
+     "say": "What's the swamp smell made of?",
+     "do": "nervous"
+    },
+    {
+     "who": "riot",
+     "say": "That's your department.",
+     "do": "thumbs"
+    },
+    {
+     "who": "pip",
+     "say": "Why is that my department?"
+    },
+    {
+     "who": "riot",
+     "say": "You've got the most sensitive nose."
+    },
+    {
+     "who": "pip",
+     "say": "That's a rabbit thing. That's not a qualification."
+    },
+    {
+     "who": "rocco",
+     "say": "What does the sign say?"
+    },
+    {
+     "who": "riot",
+     "say": "Something that really frightens a rich guy."
+    },
+    {
+     "who": "rocco",
+     "say": "Leave it with me.",
+     "do": "chin"
+    },
+    {
+     "who": "bash",
+     "say": "I love this one. Who even makes this?",
+     "do": "nod"
+    },
+    {
+     "who": "rocco",
+     "say": "Some guy.",
+     "do": "shrug"
+    },
+    {
+     "who": "rocco",
+     "say": "...",
+     "do": "munch"
+    },
+    {
+     "who": "bash",
+     "say": "...",
+     "face": "soft",
+     "do": "nod"
+    },
+    {
+     "who": "pip",
+     "say": "...",
+     "face": "soft",
+     "do": "lean"
+    },
+    {
+     "who": "riot",
+     "say": "...",
+     "do": "slouch"
+    },
+    {
+     "who": "rocco",
+     "say": "...",
+     "do": "chuckle"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "Operation Unbuyable",
+   "seats": {
+    "riot": "floor_mid"
+   },
+   "hold": 30
+  },
+  {
+   "id": "s04",
+   "location": "park",
+   "cast": {
+    "riot": null,
+    "rocco": null,
+    "bash": null,
+    "pip": null,
+    "bashmom": null,
+    "preston": null,
+    "marlo": null,
+    "mayor": null
+   },
+   "lines": [
+    {
+     "who": "bashmom",
+     "say": "BASH! SWEETIE! HAVE YOU EATEN? WHO ELSE HASN'T EATEN?",
+     "face": "yelling",
+     "do": "wave"
+    },
+    {
+     "who": "riot",
+     "say": "Rowdy locals, deployed.",
+     "face": "determined",
+     "quiet": true
+    },
+    {
+     "who": "rocco",
+     "say": "...",
+     "do": "nod"
+    },
+    {
+     "who": "preston",
+     "say": "What... is that smell?",
+     "face": "shocked"
+    },
+    {
+     "who": "riot",
+     "say": "Terrible, right? Really puts you off. Bad for business.",
+     "face": "hype"
+    },
+    {
+     "who": "preston",
+     "say": "Authentic.",
+     "face": "happy"
+    },
+    {
+     "who": "riot",
+     "say": "What?",
+     "face": "shocked"
+    },
+    {
+     "who": "preston",
+     "say": "The noise. The stench. That sign! You can't buy rustic like this. Marlo, double the offer.",
+     "do": "present"
+    },
+    {
+     "who": "marlo",
+     "say": "Doubled."
+    },
+    {
+     "who": "preston",
+     "say": "And who is responsible for this magnificent sign?",
+     "face": "happy"
+    },
+    {
+     "who": "rocco",
+     "say": "Some guy.",
+     "do": "munch"
+    },
+    {
+     "who": "preston",
+     "say": "Buy it. Buy the sign. Put it in the lobby."
+    },
+    {
+     "who": "riot",
+     "say": "No. No no no. It's a warning!",
+     "do": "facepalm"
+    },
+    {
+     "who": "preston",
+     "say": "It's a brand!",
+     "do": "laugh"
+    },
+    {
+     "who": "bash",
+     "say": "Should I get my family to be louder?",
+     "to": "riot"
+    },
+    {
+     "who": "riot",
+     "say": "I don't think that helps.",
+     "do": "gloom"
+    },
+    {
+     "who": "bashmom",
+     "say": "BASH! YOUR UNCLE MADE THE GOOD POTATO SALAD!",
+     "face": "yelling"
+    },
+    {
+     "who": "preston",
+     "say": "Listen to that. Marlo, get her number.",
+     "face": "happy"
+    },
+    {
+     "who": "pip",
+     "say": "Did we just make it worth more?",
+     "to": "rocco"
+    },
+    {
+     "who": "rocco",
+     "say": "A little.",
+     "do": "munch"
+    },
+    {
+     "who": "mayor",
+     "say": "Double? Well. Goodness. Yes. No. Let me sit down.",
+     "face": "happy"
+    },
+    {
+     "who": "mayor",
+     "say": "...",
+     "do": "nod"
+    },
+    {
+     "who": "preston",
+     "say": "...",
+     "do": "laugh"
+    },
+    {
+     "who": "riot",
+     "say": "...",
+     "do": "gloom"
+    },
+    {
+     "who": "bash",
+     "say": "...",
+     "do": "shrug"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "The plan in action",
+   "enter": {
+    "bashmom": "left",
+    "preston": "right",
+    "marlo": "right"
+   },
+   "carry": {
+    "rocco": "clipboard"
+   },
+   "seats": {
+    "rocco": "picnic",
+    "mayor": "bench",
+    "bashmom": "lawn_5",
+    "bash": "lawn_1",
+    "riot": "lawn_2",
+    "pip": "lawn_3",
+    "preston": "lawn_4",
+    "marlo": "grass_r"
+   },
+   "fx": [
+    {
+     "type": "crowd",
+     "row_px": [
+      40,
+      450,
+      420
+     ],
+     "n": 6,
+     "mood": "cheer",
+     "at": 0.5
+    },
+    {
+     "type": "insert",
+     "kind": "sign",
+     "lines": [
+      "BEWARE:",
+      "NATURE"
+     ],
+     "size": 3,
+     "at": 5,
+     "for": 2.5
+    }
+   ],
+   "hold": 30
+  },
+  {
+   "id": "s05",
+   "location": "park",
+   "cast": {
+    "riot": null,
+    "rocco": null,
+    "bash": null,
+    "pip": null,
+    "hiker": null
+   },
+   "lines": [
+    {
+     "who": "hiker",
+     "say": "Morning! Chilly for November, huh?",
+     "face": "happy",
+     "do": "wave"
+    },
+    {
+     "who": "riot",
+     "say": "Sure is!",
+     "face": "happy"
+    },
+    {
+     "who": "bash",
+     "say": "So chilly!",
+     "face": "happy"
+    },
+    {
+     "who": "pip",
+     "say": "Is it? I mean, yes.",
+     "face": "happy"
+    },
+    {
+     "who": "rocco",
+     "say": "...Is it?",
+     "punch": true
+    },
+    {
+     "who": "bash",
+     "say": "...",
+     "do": "munch"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "November",
+   "seats": {
+    "riot": "lawn_2",
+    "bash": "lawn_1",
+    "pip": "lawn_3",
+    "rocco": "lawn_4",
+    "hiker": "grass_r"
+   },
+   "enter": {
+    "hiker": "left"
+   },
+   "exit": {
+    "hiker": "right"
+   },
+   "hold": 30
+  },
+  {
+   "id": "s06",
+   "location": "lake",
+   "cast": {
+    "preston": null
+   },
+   "lines": [
+    {
+     "who": "preston",
+     "say": "Hm.",
+     "face": "soft",
+     "quiet": true
+    }
+   ],
+   "camera": "wide",
+   "chapter": "Preston alone",
+   "mood": "soft",
+   "enter": {
+    "preston": "right"
+   },
+   "exit": {
+    "preston": "right"
+   },
+   "hold": 60
+  },
+  {
+   "id": "s07",
+   "location": "stoop_sunset",
+   "cast": {
+    "riot": null,
+    "rocco": null
+   },
+   "lines": [
+    {
+     "who": "riot",
+     "say": "You know I've never wanted to be anywhere else? That park, this street.",
+     "face": "soft"
+    },
+    {
+     "who": "riot",
+     "say": "People always want to leave, and I just never did.",
+     "face": "soft"
+    },
+    {
+     "who": "rocco",
+     "say": "Then we keep it."
+    },
+    {
+     "who": "riot",
+     "say": "Yeah?",
+     "face": "soft"
+    },
+    {
+     "who": "rocco",
+     "say": "Yeah.",
+     "do": "nod"
+    }
+   ],
+   "camera": "wide",
+   "chapter": "Sunset",
+   "transition": "fade",
+   "mood": "soft",
+   "seats": {
+    "riot": "step",
+    "rocco": "step_l"
+   },
+   "hold": 60
+  },
+  {
+   "id": "s08",
+   "location": "main_street",
+   "cast": {
+    "marlo": null
+   },
+   "lines": [],
+   "camera": "wide",
+   "chapter": "The notice board",
+   "enter": {
+    "marlo": "right"
+   },
+   "sfx": [
+    "tap"
+   ],
+   "fx": [
+    {
+     "type": "insert",
+     "kind": "paper",
+     "head": "PARK SALE VOTE",
+     "lines": [
+      "Town meeting in two weeks."
+     ],
+     "mark": true,
+     "at": 3,
+     "for": 4
+    }
+   ],
+   "exit": {
+    "marlo": "right"
+   },
+   "hold": 60
+  }
+ ],
+ "direct": "auto",
+ "ending": "porch_light",
+ "beds": {
+  "normal": "lofi"
+ },
+ "riot_optional": true,
+ "riot_phone": true,
+ "sit": "auto",
+ "act": "auto",
+ "centre_mouth": true,
+ "face_front_all": true,
+ "thumb_text": "BEWARE: NATURE",
+ "grade": "summer"
+}

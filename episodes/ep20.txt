@@ -1,0 +1,122 @@
+# Porchlight 20: The Twelfth of August
+next: Committee
+thumb: IT NEVER ENDED
+grade: summer
+
+== Cold open | hall outside, sunset | riot, rocco, bash, pip
+[mood: tense]
+RIOT enters left.
+ROCCO enters left.
+PIP enters left.
+// Sunset at the house. Three of them stand on the path. Bash is at the bottom of it, a long way back, with the die in his paw.
+RIOT (soft): You don't have to.
+BASH (scared): I know. Everyone keeps telling me. It's really not helping.
+// He looks at the door he touched for a dare. He takes a breath. He walks. It's three metres. This time he doesn't stop.
+BASH enters left.
+BASH walks to the door.
+BASH (determined, quietly): Warmed up.
+[hold: 6]
+
+[intro]
+
+
+== Four chairs | hall, night | riot, rocco, bash, pip
+[mood: tense]
+RIOT carries a flashlight.
+// The back room. The box on the table. The four chairs in their square. Nobody's ever sat here together. Riot sits first. Then Rocco, opposite. Pip. Bash stands a moment longer behind the chair nearest the dark, and pulls it out, and sits.
+RIOT (soft): Okay.
+// The room's very quiet. Even the old house has stopped creaking. Bash reaches out, and his paw is steady. He sets the die on the table.
+[sfx: tap]
+[hold: 8]
+
+--
+[mood: tense]
+// Nothing. A second. Two. Bash breathes out. Then, by itself, very gently, the die tips over onto the lantern. All round the room the air turns gold.
+[sfx: ting]
+PIP (scared, whispers): Riot...
+[hold: 3]
+
+--
+// The walls go. They just go. Boards and dust and darkness pull away like a curtain, and the wind comes in, warm, smelling of water.
+[hold: 8]
+
+== The night | memory lake | riot, rocco, bash, pip
+[mood: soft]
+[fx crowd row_px=[60,470,960] n=16 mood=cheer]
+[fx crowd row_px=[30,500,1000] n=12]
+[fx echo n=0]
+// The four boys are sitting at their table on the sand by the lake. It's dusk. It's the most beautiful evening we've ever seen. The whole town is here, and everyone is young. String lights. Bunting. Long tables, families in teams, a great painted board in the middle of it all.
+[sfx: crowd_ooh]
+BASH (shocked, point): This is the kid. This is the kid who ran through me!
+// Over the water, in the sky, eleven paper lanterns are hanging, rising slowly, each a warm little sun. A small boy fox hauls on a rope with both paws, as if it's the most important rope in the world.
+RIOT (shocked, quietly): That's my dad.
+PIP (quietly): It's not the house. Look around. We're at the lake.
+ROCCO (quietly): It happened here. All of it. The house just... kept it.
+RIOT (soft, stand): Grandpa.
+// A long way off, on a little stage, a tall fox stands with his back to us and his sleeves rolled up. Riot stands up from the chair. He takes one step toward him. The crowd moves between them, and we never see his face.
+[hold: 8]
+
+--
+[mood: soft]
+// Above the stage: a huge hand-painted banner. Pip reads it out, slowly, as it swings into the light.
+PIP (quietly, looks up): Last lantern, last day of summer.
+RIOT: What?
+PIP: That's what it says. When the last one goes up, that's it. That's how they ended the summer.
+ROCCO (quietly, nod): Every year.
+// Rocco's looking at the eleven lanterns. His mouth has come slightly open. No chips. He has stopped pretending to be anything at all.
+ROCCO (quietly): Riot. What's the date on that sign?
+[hold: 5]
+
+== The storm | memory lake | riot, rocco, bash, pip
+[storm]
+[mood: tense]
+[fx crowd row_px=[60,470,960] n=16 mood=run run_at=0.6]
+[sfx: boom]
+// The sky goes. One flash, and the whole lake is white. Wind tears the banner in half. The crowd screams, laughing at first, then not laughing. Everyone runs. Tables go over. Someone's grabbing up the board, someone's grabbing up the pieces. The rope goes slack in the little fox's paws.
+BASH (scared, yelling): RIOT!
+// And then lightning, and it stops. Everything stops. Every drop of rain hangs in the air.
+[hold: 8]
+
+--
+[fx rain loop=1.8 freeze=10]
+[mood: tense]
+// The same flash. The same scream. The same wave. It goes round again. Same flash. It's stuck. The storm is happening over and over, like a scratched record.
+[sfx: boom]
+ROCCO (shocked, yelling): It's the same storm!
+RIOT (yelling, take): What?
+ROCCO (yelling): Every twelfth of August! It's not a storm that comes back! It's this one! It never stopped!
+// Same flash. Same scream. Rocco has the notebook in his paw. The pages are tearing out in the wind and every one of them says the same thing.
+ROCCO (yelling): The heat wave! The fireflies! The owl! It isn't every year! IT'S THE SAME YEAR!
+// Same flash. And everything goes dark.
+[hold: 8]
+
+== The board | hall, night | riot, rocco, bash, pip
+[mood: soft]
+// Boards. Dust. They're back in their chairs. Nobody's breathing properly. On the table the box stands wide open, and for the first time, we see it. A hand-painted map of Maple Hollow. The lake in the middle. Carved figures. A little symbol at each corner.
+// Riot looks at it as if he's never seen it, though he's looked at nothing else for eight years.
+RIOT (shocked, quietly): It never finished.
+BASH: What?
+RIOT (quietly): The last lantern never went up. The round never ended. So the summer...
+ROCCO (soft): Never ended either.
+BASH (shocked): No. No, it's just a long... it's been a really long...
+// He stops. He can hear himself. And this time it doesn't slide off. It stays. Sitting in those chairs, around that board, all four of them can see it.
+RIOT (soft, quietly): My dad was nine.
+// He does the sum. They all do. Forty years of one summer. A whole town. And it's Riot's grandfather's game.
+RIOT (sad, quietly): I thought I was just finishing something for him.
+// A small sound. Rocco's put a paw on his shoulder. Rocco has never in his life done that.
+ROCCO puts a paw on RIOT's shoulder.
+BASH (quietly): So we finish it. Right? That's all we do. We finish it and it's over and it's autumn.
+RIOT (quietly): Yeah.
+BASH: That's good, isn't it? That's a good thing.
+// Nobody answers. Three of them are looking at the board. The camera moves very slowly across to the fourth, and stops.
+// Pip hasn't said anything for a long time. He's the only one not looking at the board.
+PIP (quietly): When summer ends.
+// He says it so quietly nobody hears. His face has no act on it at all.
+[hold: 8]
+
+== Boxes | pip home | pip
+[mood: soft]
+PIP enters left.
+// Dawn. Bright. Warm. Birds. Pip stands in the door of the garage. Now there are nine boxes. Each one neatly labelled, in his mother's writing. He looks at them for a long time.
+// Outside, it's a beautiful summer day.
+[hold: 13]

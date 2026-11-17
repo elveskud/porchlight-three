@@ -1,0 +1,135 @@
+# Porchlight 6: Town Meeting
+next: Garage Sale
+thumb: SLIDES UPSIDE DOWN
+grade: summer
+previously: A peacock wants to buy the park. Tonight the town votes.
+
+== Cold open | stoop, sunset | riot
+RIOT stands at the step.
+[camera: at:840,340,8]
+[fx hop piece=puddles_and_duck_03 width=1.5 z=6.5 path=[[905,320,0],[905,320,7.9],[955,322,8.4],[1000,390,8.9],[1090,470,9.5]]]
+RIOT (hype, present): Friends. Neighbours. Mayor. What is a park? A park is a place. A place of... parks.
+// Lord Puddles on the railing. Riot is rehearsing to a frog.
+RIOT (determined, point): No, stay with me. Think about the grass. Who speaks for the grass?
+// Lord Puddles turns, hops off the railing and leaves.
+RIOT (shocked, looks down): Okay. Tough room.
+RIOT (facepalm): ...
+[hold: 2]
+
+[intro]
+
+
+== The meeting | gym | riot, rocco, bash, pip, mayor, preston, bashmom, marlo
+RIOT stands at the floor_2.
+PIP stands at the floor_1.
+BASH stands at the floor_3.
+ROCCO stands at the floor_4.
+MAYOR stands at the stage.
+PRESTON stands at the front_r.
+MARLO stands at the side_r.
+BASHMOM stands at the front_l.
+RIOT carries a phone.
+ROCCO is asleep.
+MAYOR (happy): Order, please. Or not. Whichever you prefer. The boys will now present.
+RIOT (hype, present): Why The Park Is Good. Slide one.
+// The slide is upside down. Bash tilts his head to read it.
+RIOT (nervous): Slide two.
+// Also upside down, and now it's a photo of Bash's lunch.
+BASHMOM (yelling): THAT'S MY SON'S SANDWICH!
+BASH (embarrassed): Mom, not now.
+RIOT (nervous): Slide three is a duck. I don't know why slide three is a duck.
+PIP (nervous, to riot): I thought it would help.
+MAYOR (happy): Wonderful duck. Moving on.
+PRESTON (happy): Marlo, are you getting this?
+MARLO: Every word.
+RIOT (nervous, to bash): Do your bit. Go. The microphone.
+// Bash stands at the microphone. Everyone looks at him. His mouth opens. Nothing. The speakers hum.
+BASH (scared): ...
+PRESTON (happy, chuckle): Take your time, son.
+// Rocco's snore comes through the speakers. Then, from the back, a chair creaks.
+RIOT (nervous, to bash): ...
+MAYOR (stare): ...
+BASH (scared): ...
+[hold: 2]
+
+== Big Hal | gym | riot, rocco, bash, pip, mayor, preston, hal, brook
+RIOT stands at the floor_2.
+PIP stands at the floor_1.
+BASH stands at the floor_3.
+ROCCO stands at the floor_4.
+MAYOR stands at the stage.
+PRESTON stands at the front_r.
+HAL stands at the aisle.
+BROOK stands at the side_l.
+RIOT carries a phone.
+HAL enters left.
+// A huge bear in a ranger hat comes slowly up the aisle. He doesn't take the microphone. He doesn't need it.
+HAL (soft): I've looked after those trees for thirty years. There's an oak by the water that's older than this town.
+HAL (soft): The ducks nest in the reeds on the south side.
+HAL (soft): If you've ever been happy in Maple Hollow, you were probably standing on that grass.
+HAL (soft): That's all I've got.
+// The whole room has gone quiet. Even the fan seems to slow down.
+MAYOR (soft): Beautiful. Let's form a committee.
+// Someone drops a pen.
+PRESTON (present): May I? Marlo has the land record.
+PRESTON (happy): This land has no special status. It's an empty field. It was only ever used for some old... festival.
+// The murmur runs through the room.
+BASH: We had a festival?
+RIOT (nervous): Did we?
+// Half the room is asking the same thing. Nobody can say which festival.
+ROCCO (suspicious): ...
+// In the back row, Mrs. Brook puts down her iced tea very carefully. She gets up and leaves. Only Pip sees her go.
+BROOK exits left.
+PIP (suspicious): ...
+[hold: 2]
+
+== Planning reasons | gym | pip, pipmom, mayor
+PIP stands at the floor_1.
+PIPMOM stands at the front_l.
+MAYOR stands at the stage.
+PIPMOM enters left.
+PIPMOM (happy): Mayor? Do you know how long the vote will take? It's just for... planning reasons.
+MAYOR: Oh, it's postponed! Or it's going to be.
+// Pip looks at the floor. His mother squeezes his shoulder and doesn't say anything else.
+PIP (quietly): ...
+[hold: 2]
+
+== A mission | gym | riot, rocco, bash, pip, hal
+RIOT stands at the floor_2.
+PIP stands at the floor_1.
+BASH stands at the floor_3.
+ROCCO stands at the front_r.
+HAL stands at the floor_4.
+HAL: Postponed, then. That gives you some time.
+RIOT: Time for what?
+HAL: If the park really was a festival ground, it might count as historic. A historic park can't be sold.
+BASH (hype): So we find the festival!
+RIOT (nervous): Sure. We find it.
+RIOT exits right.
+PIP exits right.
+ROCCO exits right.
+
+== Stacking chairs | gym | bash, hal
+[fade]
+BASH stands at the floor_3.
+HAL stands at the floor_4.
+[mood: soft]
+// The gym is empty. Bash is stacking chairs by himself. Big Hal stacks two at a time.
+BASH (quietly, looks down): I froze.
+HAL (soft): You did.
+BASH: The brave one froze in front of the whole town.
+HAL (soft): Being scared at a microphone is normal. Getting up there anyway is the brave part.
+BASH (nod): ...
+HAL puts a paw on BASH's shoulder.
+[hold: 2]
+
+== A festival | stoop, night | riot, rocco
+[mood: soft]
+RIOT sits on the step.
+// Riot stares up at the porch light. Rocco comes out with a bag of chips and doesn't open it.
+ROCCO (shrug): You okay?
+RIOT (soft): Yeah. Just... a festival. Huh.
+// He's lying, a little. Rocco can tell. He opens the chips.
+ROCCO (munch): Yeah. Huh.
+RIOT (soft, nod): ...
+[hold: 2]

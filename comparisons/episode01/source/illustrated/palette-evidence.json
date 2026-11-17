@@ -1,0 +1,218 @@
+[
+  {
+    "source": "art/gemini/sets/lake_day_v2.jpg",
+    "method": "14-color Pillow median-cut after thumbnail to 512px; semantic palette chosen from these colors and the approved cast specification",
+    "dominants": [
+      {
+        "pixels": 17517,
+        "hex": "#77cfd5"
+      },
+      {
+        "pixels": 14606,
+        "hex": "#f9a004"
+      },
+      {
+        "pixels": 13045,
+        "hex": "#a4e3fa"
+      },
+      {
+        "pixels": 12567,
+        "hex": "#c4f0fd"
+      },
+      {
+        "pixels": 11878,
+        "hex": "#7f754f"
+      },
+      {
+        "pixels": 11730,
+        "hex": "#faae0e"
+      },
+      {
+        "pixels": 10140,
+        "hex": "#b9ecfe"
+      },
+      {
+        "pixels": 10120,
+        "hex": "#ace7fe"
+      },
+      {
+        "pixels": 9898,
+        "hex": "#253628"
+      },
+      {
+        "pixels": 9520,
+        "hex": "#29714f"
+      },
+      {
+        "pixels": 7493,
+        "hex": "#773f32"
+      },
+      {
+        "pixels": 7166,
+        "hex": "#e8fafd"
+      }
+    ]
+  },
+  {
+    "source": "art/gemini/sets/apartment_night_v2.jpg",
+    "method": "14-color Pillow median-cut after thumbnail to 512px; semantic palette chosen from these colors and the approved cast specification",
+    "dominants": [
+      {
+        "pixels": 21005,
+        "hex": "#ddba97"
+      },
+      {
+        "pixels": 15924,
+        "hex": "#dea86c"
+      },
+      {
+        "pixels": 15170,
+        "hex": "#dcbfa3"
+      },
+      {
+        "pixels": 11904,
+        "hex": "#bea184"
+      },
+      {
+        "pixels": 11374,
+        "hex": "#c46c41"
+      },
+      {
+        "pixels": 11178,
+        "hex": "#4d774e"
+      },
+      {
+        "pixels": 10966,
+        "hex": "#b37d57"
+      },
+      {
+        "pixels": 10097,
+        "hex": "#204462"
+      },
+      {
+        "pixels": 9815,
+        "hex": "#222327"
+      },
+      {
+        "pixels": 7851,
+        "hex": "#7f7060"
+      },
+      {
+        "pixels": 7538,
+        "hex": "#77503d"
+      },
+      {
+        "pixels": 6911,
+        "hex": "#e8cd9f"
+      }
+    ]
+  },
+  {
+    "source": "art/gemini/sets/stoop_night_v2.jpg",
+    "method": "14-color Pillow median-cut after thumbnail to 512px; semantic palette chosen from these colors and the approved cast specification",
+    "dominants": [
+      {
+        "pixels": 23154,
+        "hex": "#626c86"
+      },
+      {
+        "pixels": 17094,
+        "hex": "#151e25"
+      },
+      {
+        "pixels": 17073,
+        "hex": "#17365a"
+      },
+      {
+        "pixels": 12046,
+        "hex": "#4d2d36"
+      },
+      {
+        "pixels": 10585,
+        "hex": "#1b3b49"
+      },
+      {
+        "pixels": 9715,
+        "hex": "#383b45"
+      },
+      {
+        "pixels": 9463,
+        "hex": "#234661"
+      },
+      {
+        "pixels": 8784,
+        "hex": "#635f64"
+      },
+      {
+        "pixels": 8417,
+        "hex": "#2c546d"
+      },
+      {
+        "pixels": 7670,
+        "hex": "#475158"
+      },
+      {
+        "pixels": 7514,
+        "hex": "#3e222a"
+      },
+      {
+        "pixels": 5977,
+        "hex": "#a8a580"
+      }
+    ]
+  },
+  {
+    "source": "art/refs/cast-for-gemini/lineup.png",
+    "method": "14-color Pillow median-cut after thumbnail to 512px; semantic palette chosen from these colors and the approved cast specification",
+    "dominants": [
+      {
+        "pixels": 63248,
+        "hex": "#ffffff"
+      },
+      {
+        "pixels": 8102,
+        "hex": "#191717"
+      },
+      {
+        "pixels": 7063,
+        "hex": "#f2eef2"
+      },
+      {
+        "pixels": 6579,
+        "hex": "#4c79b4"
+      },
+      {
+        "pixels": 5996,
+        "hex": "#725541"
+      },
+      {
+        "pixels": 5365,
+        "hex": "#c71a25"
+      },
+      {
+        "pixels": 5168,
+        "hex": "#a7989a"
+      },
+      {
+        "pixels": 5006,
+        "hex": "#f86e0b"
+      },
+      {
+        "pixels": 3654,
+        "hex": "#343b4f"
+      },
+      {
+        "pixels": 1474,
+        "hex": "#f8de9d"
+      },
+      {
+        "pixels": 1141,
+        "hex": "#a25a2a"
+      },
+      {
+        "pixels": 415,
+        "hex": "#fffffe"
+      }
+    ]
+  }
+]

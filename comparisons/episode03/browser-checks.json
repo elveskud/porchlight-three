@@ -1,0 +1,372 @@
+{
+  "result": "PASS",
+  "frames": {
+    "total": 4360,
+    "invalid": 0,
+    "speaking": 2476,
+    "offscreen": [],
+    "visemes": [
+      "X",
+      "B",
+      "E",
+      "F",
+      "H",
+      "C",
+      "A",
+      "G",
+      "D"
+    ],
+    "maxFootError": 1.9861364153407353e-15,
+    "maxStanceSlide": 2.220446049250313e-15,
+    "maxVolumeError": 3.3306690738754696e-16,
+    "footFailures": []
+  },
+  "visibility": [],
+  "seeks": [
+    {
+      "time": 1.8226643990929705,
+      "identical": true
+    },
+    {
+      "time": 6.412006802721089,
+      "identical": true
+    },
+    {
+      "time": 10.211201814058956,
+      "identical": true
+    },
+    {
+      "time": 13.314750566893425,
+      "identical": true
+    },
+    {
+      "time": 15.683117913832202,
+      "identical": true
+    },
+    {
+      "time": 17.601609977324266,
+      "identical": true
+    },
+    {
+      "time": 20.40134920634921,
+      "identical": true
+    },
+    {
+      "time": 34.3816439909297,
+      "identical": true
+    },
+    {
+      "time": 39.89616780045351,
+      "identical": true
+    },
+    {
+      "time": 43.61369614512472,
+      "identical": true
+    },
+    {
+      "time": 45.51140589569162,
+      "identical": true
+    },
+    {
+      "time": 47.65821995464853,
+      "identical": true
+    },
+    {
+      "time": 49.060396825396836,
+      "identical": true
+    },
+    {
+      "time": 50.87901360544218,
+      "identical": true
+    },
+    {
+      "time": 52.873537414965995,
+      "identical": true
+    },
+    {
+      "time": 53.97268707482995,
+      "identical": true
+    },
+    {
+      "time": 58.189795918367345,
+      "identical": true
+    },
+    {
+      "time": 61.729569160997734,
+      "identical": true
+    },
+    {
+      "time": 66.99454648526077,
+      "identical": true
+    },
+    {
+      "time": 70.69807256235828,
+      "identical": true
+    },
+    {
+      "time": 72.59920634920634,
+      "identical": true
+    },
+    {
+      "time": 74.07494331065759,
+      "identical": true
+    },
+    {
+      "time": 75.8507029478458,
+      "identical": true
+    },
+    {
+      "time": 78.10818594104308,
+      "identical": true
+    },
+    {
+      "time": 79.93668934240361,
+      "identical": true
+    },
+    {
+      "time": 81.14697278911564,
+      "identical": true
+    },
+    {
+      "time": 82.66027210884351,
+      "identical": true
+    },
+    {
+      "time": 86.82021541950112,
+      "identical": true
+    },
+    {
+      "time": 90.63349206349207,
+      "identical": true
+    },
+    {
+      "time": 94.03488662131521,
+      "identical": true
+    },
+    {
+      "time": 97.52603174603178,
+      "identical": true
+    },
+    {
+      "time": 100.69217687074833,
+      "identical": true
+    },
+    {
+      "time": 104.16588435374153,
+      "identical": true
+    },
+    {
+      "time": 107.401201814059,
+      "identical": true
+    },
+    {
+      "time": 109.5369160997733,
+      "identical": true
+    },
+    {
+      "time": 112.25937641723363,
+      "identical": true
+    },
+    {
+      "time": 114.25773242630392,
+      "identical": true
+    },
+    {
+      "time": 115.90773242630392,
+      "identical": true
+    },
+    {
+      "time": 119.64812925170068,
+      "identical": true
+    },
+    {
+      "time": 121.97209750566893,
+      "identical": true
+    },
+    {
+      "time": 123.78126984126985,
+      "identical": true
+    },
+    {
+      "time": 135.33278911564628,
+      "identical": true
+    },
+    {
+      "time": 138.28452380952382,
+      "identical": true
+    },
+    {
+      "time": 140.2869501133787,
+      "identical": true
+    },
+    {
+      "time": 142.06197278911566,
+      "identical": true
+    },
+    {
+      "time": 144.51374149659867,
+      "identical": true
+    },
+    {
+      "time": 149.24214285714288,
+      "identical": true
+    },
+    {
+      "time": 154.8107823129252,
+      "identical": true
+    },
+    {
+      "time": 159.88475056689347,
+      "identical": true
+    },
+    {
+      "time": 163.19158730158736,
+      "identical": true
+    },
+    {
+      "time": 164.84158730158737,
+      "identical": true
+    },
+    {
+      "time": 168.71666666666667,
+      "identical": true
+    },
+    {
+      "time": 170.36666666666667,
+      "identical": true
+    },
+    {
+      "time": 71.90514739229025,
+      "identical": true
+    },
+    {
+      "time": 83.28333333333333,
+      "identical": true
+    },
+    {
+      "time": 129.98333333333332,
+      "identical": true
+    },
+    {
+      "time": 168.36666666666667,
+      "identical": true
+    },
+    {
+      "time": 173.16666666666666,
+      "identical": true
+    },
+    {
+      "time": 175.86666666666667,
+      "identical": true
+    },
+    {
+      "time": 175.26666666666665,
+      "identical": true
+    },
+    {
+      "time": 179.46666666666664,
+      "identical": true
+    }
+  ],
+  "actions": {
+    "seated": [
+      {
+        "who": "riot",
+        "hip": 0
+      },
+      {
+        "who": "rocco",
+        "hip": 0
+      },
+      {
+        "who": "bash",
+        "hip": 0
+      },
+      {
+        "who": "pip",
+        "hip": 0
+      }
+    ],
+    "notebook": true,
+    "pageFirst": "notebook page",
+    "switchContact": {
+      "who": "pip",
+      "kind": "light-switch",
+      "amount": 1,
+      "error": 0.00966225496973021
+    },
+    "garageTint": [
+      0.16,
+      0.22,
+      0.28
+    ],
+    "before": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "after": [
+      0,
+      0,
+      0
+    ],
+    "boxes": 1,
+    "cast": [
+      "riot",
+      "rocco",
+      "bash",
+      "pip",
+      "owl",
+      "gus",
+      "dot",
+      "brook"
+    ],
+    "references": {
+      "owl": "art/gemini/characters/08_mr_hoot.jpg",
+      "gus": "art/gemini/characters/02_gus.jpg",
+      "dot": "art/gemini/characters/09_dot.jpg",
+      "brook": "art/gemini/characters/01_mrs_brook.jpg"
+    }
+  },
+  "samples": [
+    1,
+    6,
+    11,
+    26,
+    33.5,
+    43.5,
+    57.666666666666664,
+    67.66666666666666,
+    76.66666666666666,
+    89.58333333333333,
+    100.58333333333333,
+    120.08333333333333,
+    124.88333333333333,
+    126.78333333333333,
+    129.48333333333332,
+    131.08333333333331,
+    137.08333333333334,
+    148.08333333333334,
+    161.08333333333334,
+    168.66666666666666,
+    170.66666666666666,
+    174.96666666666667,
+    176.16666666666666,
+    178.76666666666665,
+    179.76666666666665
+  ],
+  "errors": [],
+  "art": {
+    "version": 2,
+    "forestGroups": 4068,
+    "forestOpenings": 1756,
+    "shorelineSweeps": 4,
+    "paintedPatches": 14,
+    "foregroundGroups": 8,
+    "plants": 8,
+    "softArchitecture": 206,
+    "apartmentDetails": true
+  },
+  "checkedAt": "2026-11-14T13:01:53.257Z",
+  "sourceHash": "a97826baf83438940d6c566df2b8788d203c749aa0349a6d1cd761e03e589174"
+}

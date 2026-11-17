@@ -1,0 +1,103 @@
+# Porchlight 18: Just a Hiker
+next: Turns
+thumb: WHO IS THIS MAN?
+grade: summer
+
+== Cold open | apartment | riot, rocco, bash, pip
+BASH stands at the sofa.
+BASH carries a clipboard.
+BASH (determined, point): Who comes to town out of nowhere? Who's got a backpack big enough for anything?
+BASH (determined): Who keeps saying the wrong month, as a code?
+RIOT: Okay, I'm going to stop you there. It's not the hiker.
+BASH: It's the hiker.
+PIP (nervous): It might be good to rule him out.
+ROCCO (munch): I'd like to talk to him.
+// Everyone looks at Rocco. He has never in his life said he'd like to talk to someone.
+RIOT (shocked): You would?
+ROCCO (shrug): He seems nice.
+[hold: 2]
+
+[intro]
+
+
+== The trap | town line | riot, rocco, bash, pip, hiker
+// The road out of town. A wooden sign: Maple Hollow, Population, and a number somebody keeps repainting. Three boys are hiding behind a bush that's slightly too small. Bash is a good deal larger than it.
+BASH (whispers): When he gets to the sign, we move in. Pip, you ask the questions.
+PIP (nervous): Why me?
+BASH: You're the least threatening. It's your whole thing.
+HIKER enters right.
+HIKER carries a backpack.
+HIKER (happy): Oh, hey! Hi, guys! Love the bush.
+// All four stand up. Nobody knows what to do with their paws.
+BASH (determined): Sir. We have some questions.
+HIKER: Sure! Have some trail mix.
+ROCCO (munch): Thanks.
+BASH (whispers): Rocco, don't accept evidence!
+[hold: 6]
+
+== Interrogation | town line | riot, rocco, bash, pip, hiker
+PIP (nervous): Who are you, please?
+HIKER (happy): I'm Dave.
+// A silence. Bash was not expecting Dave.
+BASH (suspicious): What's in the backpack, Dave?
+HIKER: Socks, mostly. A stove. You want to see the stove?
+BASH: Why do you keep coming here?
+HIKER: It's on the trail. Twice a year, end to end. I've been walking it since I was twenty-two.
+BASH (suspicious): And what's your connection to the old festival hall?
+HIKER: The what?
+RIOT (facepalm): Thank you for your time, Dave.
+BASH (gloom): He's just a hiker.
+HIKER (happy): I've been saying.
+// Bash sits down on the sign. His theory has now also gone. It's been a hard week for theories. The hiker is packing up. Rocco hasn't moved.
+ROCCO: Dave. What month is it?
+// Everyone goes very polite. Riot smiles very hard. Pip smiles very hard. It happens without them knowing it.
+HIKER (shrug): December. Well, it was. Almost January now.
+RIOT (happy): Sure is!
+BASH (happy): So chilly!
+ROCCO (deadpan): Do you write it down?
+[hold: 6]
+
+== The log | town line | rocco, hiker, riot, bash, pip
+[mood: soft]
+HIKER carries a notebook.
+HIKER: The trail log? Sure. I write down every town. Look.
+// He hands it over. A battered book, years of it. Rocco opens it. He doesn't turn the pages quickly. He hasn't done anything this carefully all season.
+ROCCO (quietly): Read that for me.
+HIKER: Oh, that's Maple Hollow. Let's see. April. Still summer here. Weird.
+HIKER: October. Still summer here. Weird. January, three years back. Still summer here. Weird.
+HIKER (laugh): That's sort of a running joke. I kept meaning to ask somebody about it.
+ROCCO (quietly): Nobody ever said anything?
+HIKER (shrug): Everybody's real nice about it. I figured it was a microclimate.
+// Rocco looks up. Riot, Bash and Pip are all still smiling very hard, and looking just past the hiker at nothing, as if he's a radio playing in another room.
+ROCCO (quietly): Guys?
+RIOT (happy): Hm? Sure is!
+// Rocco's seen this all his life. He's never watched it from this close. He's the only one awake in the room.
+HIKER (soft): You okay, man?
+ROCCO (quietly): Can I keep this page?
+[hold: 8]
+
+== Breakfast | apartment | riot, rocco, bash, pip
+RIOT sits on the sofa r.
+BASH sits on the sofa l.
+RIOT (happy): Great day yesterday. Dumb, but great.
+BASH: What was his name, again?
+PIP: Who?
+BASH: The guy. With the socks.
+RIOT: Oh, him! What did he say, in the end?
+ROCCO (quietly): You don't remember?
+RIOT (laugh): Something about the weather. He's a nice guy. Pass the milk?
+// Nobody's joking. It's gone. It's just gone, as easily as a dream at breakfast. Bash passes the milk. Pip's writing something else in his book.
+// Rocco looks at the three people he likes most in the whole world. He has the torn page in his pocket. He could say it now.
+ROCCO (quietly): ...Yeah. The weather.
+ROCCO exits right.
+[hold: 6]
+
+== The page | stoop, night | rocco
+[mood: soft]
+ROCCO sits on the step.
+ROCCO carries a notebook.
+// Night. The porch light on above him. Lord Puddles on the railing. He tucks the hiker's page into his notebook. It's getting thick in there.
+ROCCO (soft, quietly): It's not just me, then.
+// Lord Puddles blinks. It's not quite comforting. Rocco looks up at the light for a while. Then down the street to the hill.
+ROCCO (quietly): Okay.
+[hold: 6]

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#23392d"><title>Maple Hollow — Town master plan</title>
+<link rel="icon" href="data:,"><link rel="stylesheet" href="./town.css">
+<script type="importmap">{"imports":{"three":"../art/three/vendor/three.module.js","three/addons/":"../art/three/vendor/addons/"}}</script>
+</head>
+<body>
+<aside id="sidebar">
+ <a class="brand" href="./index.html"><span class="seal">M<span>•</span></span> MAPLE HOLLOW</a>
+ <p class="eyebrow">PORCHLIGHT / TOWN MASTER PLAN</p><h1>A whole town.<br>One long summer.</h1>
+ <p class="intro">From the old hall on the hill to the light above the stoop.</p>
+ <label for="district">EXPLORE A NEIGHBOURHOOD</label><select id="district"><option value="all">All of Maple Hollow</option><option value="off-town">Outside town</option></select>
+ <label class="sr-only" for="search">Find a place or room</label><input id="search" type="search" placeholder="Find a place, room, or episode…">
+ <div id="place-list" aria-label="Town locations"></div><p id="count"></p>
+ <footer><span class="status-dot"></span> Proposed geography · ready for review<br><a href="../sets.html">Episode 01–06 set collection ↗</a></footer>
+</aside>
+<main>
+ <header><button id="menu" aria-label="Toggle location list" aria-expanded="false">☰</button><span>THE MAPLE HOLLOW ATLAS <span class="slash">/</span> <span id="scope-count">35 SITES</span></span><a href="./PLAN.md" target="_blank">Read the plan ↗</a></header>
+ <section class="heading"><div><p class="eyebrow">LAKE • FOREST • NEIGHBOURHOODS</p><h2 id="title">Maple Hollow, from above.</h2></div><div class="view-buttons"><button id="view-3d" class="active">3D town</button><button id="view-plan">Plan view</button></div></section>
+ <section id="map" aria-label="Interactive town master plan"><div id="loading" role="status">Building Maple Hollow…</div><div id="labels"></div><div class="map-stamp">N ↑ <span>PROPOSED STAGING PLAN</span></div><div id="scale">100 m <span></span></div><div id="map-tools"><button id="overview">Fit town</button><button id="labels-toggle" aria-pressed="true">Place labels</button><button id="grid" aria-pressed="false">Parcel lines</button><button id="night" aria-pressed="false">Night</button></div></section>
+ <div id="bottom">
+  <article id="detail"><div class="detail-top"><p class="eyebrow" id="district-name">A SMALL TOWN ON THE WATER</p><span id="evidence">PROPOSED LAYOUT</span></div><h3 id="place-name">Choose a place to explore.</h3><p id="description">Select a landmark on the map or find a room in the location list. Every story location has a home in the plan.</p><div id="rooms"></div><div id="set-links"></div><p id="source"></p></article>
+  <section id="planning"><div class="planning-heading"><p class="eyebrow">ROUTES & LAYERS</p><button id="route-toggle" aria-pressed="false">Show route</button></div><div class="route-fields"><label for="from">From<select id="from"></select></label><span>→</span><label for="to">To<select id="to"></select></label></div><p id="distance">Routes follow the roads and walking trails.</p><div class="layer-fields"><label><input id="drafts" type="checkbox"> Claude’s draft additions</label><label><input id="festival" type="checkbox"> Later-season festival stage</label><label><input id="trees" type="checkbox" checked> Forest & trees</label></div><div class="exports"><button id="save-png">Save map PNG ↓</button><button id="save-json">Plan JSON ↓</button><button id="save-glb" class="primary">Town GLB ↓</button></div></section>
+ </div><p id="status" role="status" aria-live="polite">Layout distances and unseen buildings are inferred from the project’s art and scripts.</p>
+</main>
+<script type="module" src="./town.js"></script>
+</body></html>

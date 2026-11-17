@@ -1,0 +1,112 @@
+# Porchlight 13: Firefly Night
+next: Only Bash Saw It
+thumb: TO THE MINUTE
+grade: summer
+
+== Cold open | stoop, sunset | riot, rocco, bash, pip
+RIOT sits on the step.
+BASH sits on the step.
+RIOT: We should do something tonight.
+ROCCO (deadpan, looks up): Firefly night's tonight.
+PIP: How do you know?
+ROCCO: First one over the east dock. Nine twenty-two.
+BASH: You can't know that. They're bugs.
+ROCCO (munch): Nine twenty-two.
+BASH (cocky): Oh yeah? Loser carries the blankets.
+// Bash has already lost this. He just doesn't know yet. He shakes on it, without quite looking at Rocco. It's the first thing they've done together since the house.
+[hold: 4]
+
+[intro]
+
+
+== The town goes down | lake, night | riot, rocco, bash, pip, dot, pipmom, pipdad
+[mood: soft]
+[fx crowd row_px=[60,500,960] n=16]
+DOT enters left.
+PIPMOM enters left.
+PIPDAD enters left.
+PIP sits on the sand.
+BASH carries a crate.
+// The whole town is on the beach with blankets. Nobody organised this. Everyone just knows. Bash staggers past under an enormous pile of blankets.
+PIPDAD (happy): There's my boy. We got you the good spot.
+PIPMOM (soft): We wanted to do this one properly.
+PIP (nervous): You always do it properly.
+PIPMOM (soft, looks left): I know, love.
+// A look between Pip's parents, gone in a moment. Pip sees it. He gets more nervous, visibly and on purpose. They relax and leave him be.
+DOT: They do the same pattern every year. They go round the dock twice and then up by the big rock.
+PIP: Okay, Dot.
+DOT (hips): Round twice, then the rock. I drew it.
+PIP (nervous): Okay, Dot.
+DOT: I drew it last time.
+// She unfolds a crayon drawing. Nobody looks at it.
+[hold: 8]
+
+== Nine twenty-two | lake, night | riot, rocco, bash, pip
+[mood: tense]
+BASH (gloom): Why am I carrying all the blankets? We haven't even finished the bet.
+RIOT: You're warming up.
+BASH (looks right): Nobody here's taking this seriously. Rocco. Hey. What happens if you're wrong?
+ROCCO (deadpan): I carry the blankets.
+BASH: And if you're right?
+ROCCO (quietly): I don't know. I've never thought about it.
+// It's meant as a joke. It doesn't come out like one.
+RIOT carries a phone.
+RIOT (hype): Nine twenty-one! Rocco, you're about to carry a very heavy pile of nothing.
+BASH (cocky): It's bugs. Nobody can schedule bugs.
+// The whole beach has gone quiet. Rocco isn't looking at the phone. He's looking at the end of the east dock.
+RIOT: Nine twenty-two.
+// Nothing. Bash breathes in to speak. Above the east dock: one small gold spark.
+[mood: soft]
+// Then ten.
+// Then a thousand. The whole lake lights up around the dock. It's the most beautiful thing we've seen on this show. Round twice. Then up by the big rock.
+[fx swarm path=[[640,330,0],[760,300,3],[820,320,5],[640,330,8],[520,270,11]] at=0.2]
+BASH (shocked): How?
+ROCCO (quietly): Lucky guess.
+RIOT (soft): That's the best one I've ever seen.
+ROCCO (soft, quietly): It's the same one.
+RIOT: What?
+ROCCO: Nothing. Good bugs.
+// Riot has already turned back to the light. Rocco takes out the notebook and writes down the time.
+[hold: 8]
+
+== Who are you | lake, night | pip, brook
+[mood: soft]
+PIP enters right.
+PIP walks to the dock.
+// A little way along the sand, away from everybody. Pip thinks he's alone. His shoulders come down. His ears come up. The worried look goes out of his face, and what's under it is calm, tired, and much older than seventeen.
+// He stands that way a long moment, and we realise we've never actually seen him before.
+BROOK enters left.
+BROOK sits on the bench.
+BROOK (soft): That's a nice face. I wondered when I'd see it.
+// Pip jumps. His nervous face starts to go back on. She lifts a paw, and it stops halfway.
+PIP (nervous): Mrs. Brook! I was just...
+BROOK (soft): I know what you were just.
+BROOK (soft): I've sat on a porch for a very long time, dear. I know a mask when I see one.
+BROOK (soft): Who are you when nobody's watching?
+// A long silence. Fireflies go past him. He could lie. She'd let him.
+PIP (quietly): Tired.
+// She pats his paw twice. She doesn't ask why.
+BROOK (soft): Yes. That's usually who.
+// She watches the lights go over the water as if each one owes her something. She's holding on to the bench very tightly.
+[hold: 8]
+
+== Dot knows | pip home | pip, dot
+[mood: soft]
+PIP enters left.
+DOT sits on the bed.
+// Pip's hallway, late. Three boxes in the garage now. Dot is sitting on one in her pyjamas.
+DOT (quietly): There's three.
+PIP (nervous): Dot, it's bedtime.
+DOT: You don't have to do the voice. I know about the boxes.
+// The nervous look falls right off him. He sits down beside her. She's eight. She knows.
+PIP (soft): Have you told anyone?
+DOT: Nobody listens to me.
+PIP (soft): I know. I'm sorry.
+DOT (quietly): Will we still go in the summer?
+PIP (soft): When summer ends. That's what Dad says.
+DOT: But when's that?
+// He looks out of the window. Warm night. Fireflies still going by.
+PIP (soft, quietly): I don't know.
+DOT carries a notebook.
+// She leans on his arm. In her lap, the drawing. Round twice, then the rock. Under it she's written this year's number. There's a long column of them.
+[hold: 8]

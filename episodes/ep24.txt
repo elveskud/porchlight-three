@@ -1,0 +1,95 @@
+# Porchlight 24: The Quiet One
+next: All Four
+thumb: PIP DID THAT?!
+grade: summer
+
+== Cold open | park | riot, rocco, bash, pip, mayor, owl, walt
+[mood: party]
+MAYOR (hype): Round Two! Mafia! Ten players, one room, everyone's phone! Last team standing goes through!
+RIOT carries a phone.
+// Ten around one long table. Bash sits forward, already sure of something. Walt rubs his paws. And there's Pip at the end, holding his phone in both paws, looking as if he might be sick.
+PIP (nervous): I'm not very good at this one. I always get found.
+RIOT (soft): You'll be fine. Just try and stay in as long as you can.
+// Pip nods. He looks at his phone. It shows his role. We see his eyes. For a tenth of a second, they're completely calm.
+[hold: 7]
+
+[intro]
+
+
+== Night one | park | riot, rocco, bash, pip, mayor, owl, walt
+[mood: tense]
+RIOT: Night falls. Everyone close your eyes.
+// All eyes closed. The camera moves down the table. It stops at Pip. His eyes open. He looks around the table, slowly, at each of them, like someone reading a page. He taps once. He closes his eyes.
+RIOT (hype): Morning! The owl's been taken in the night!
+OWL (shocked): I have office hours!
+WALT (determined, point): It's the raccoon!
+ROCCO (deadpan): Mr. Vale, I'm begging you.
+BASH (suspicious): Why's everyone looking at the Mayor?
+MAYOR (nervous): Am I guilty? I might be. Give me a minute.
+PIP (nervous): Um. Sorry. It's probably nothing. But, um, the Mayor hasn't once looked at her phone.
+MAYOR: Haven't I?
+PIP (nervous): It's just, I'd think she'd check. If she was innocent. I'm sorry. I don't know.
+// Everyone nods. Poor Pip, so brave, it took him so long to say that. They vote her out. Her card turns over. Innocent.
+BASH (shocked): Oh no!
+PIP (scared): Oh no. Oh no. That's my fault.
+[hold: 8]
+
+== Night two | park | riot, rocco, bash, pip, walt
+[mood: tense]
+RIOT: Night falls.
+// Pip's eyes open. Tap.
+RIOT: Morning! Walt's gone!
+WALT (shocked, take): WHAT? BUT I WAS RIGHT! IT'S THE RACCOON!
+BASH (determined): Okay. Rocco, you've been very quiet.
+ROCCO (deadpan): It's my personality.
+PIP (nervous): You didn't eat anything. For the whole round.
+// Everyone looks. It's true. Rocco's bag is shut. He's looking down the table at Pip. He's the only one who's seen it. His eyes narrow very slightly. It's the most awake we've seen him in a game.
+ROCCO (suspicious): That's a good catch, Pip.
+PIP (nervous): I just noticed. I'm sorry.
+ROCCO (quietly): I know you did.
+[hold: 5]
+
+== The last three | park | riot, rocco, bash, pip
+[mood: tense]
+RIOT: Three left. Bash, Pip, Rocco. Vote someone out. If the Mafia survives this, the town falls.
+// A crowd has gathered. Bash and Pip across the table, Rocco at the end, watching Pip. Pip's holding his phone so hard it shakes. His eyes are wet.
+PIP (nervous): I don't know who it was, Bash. I'm really scared. I think it must have been Rocco.
+BASH (soft): Hey. It's okay. You did great. I got you.
+// He reaches across and pats Pip's paw, this huge kind bear, and votes.
+[sfx: card_flip]
+RIOT (shocked, quietly): ...Rocco's innocent.
+BASH: So who...
+// Silence. Very slowly, Pip puts down his phone. He stops shaking. Not gradually. He just stops, like a machine being switched off. He wipes his eyes, once, with one finger. He looks up. He looks at Bash. There's the smallest, calmest smile we've ever seen.
+PIP (smug, quietly): Hello.
+BASH (shocked, take): AAAAAH!
+[sfx: sting_dun_dun_dunnn]
+// The whole park erupts. Riot falls off his chair. Walt's yelling from the sidelines. The Mayor doesn't know whether she's dead.
+RIOT (laughing, laugh): WHAT?! PIP?!
+ROCCO (chuckle): There he is.
+[hold: 8]
+
+== The act | stoop, sunset | riot, rocco, bash, pip
+RIOT sits on the step.
+BASH sits on the step.
+PIP sits on the step.
+RIOT (laughing): You cried! You did real crying!
+PIP (nervous): Sorry, I don't know what came over...
+ROCCO (deadpan): Don't.
+// Pip stops. He looks at the three of them. It's been years. He takes a breath, and the worry drops off him and goes wherever it goes. His voice comes out lower and calmer. It's the same as the one he used with Dot.
+PIP (soft): ...Okay.
+BASH (shocked): That's your voice? Is that your real voice?
+PIP: Sort of.
+RIOT: How long have you been able to do that?
+PIP (shrug): You look at people's paws. Everyone's telling you things all the time. Riot, you rub your ear when you lie.
+// Riot takes his paw down from his ear.
+PIP: Bash, you get louder. Rocco stops chewing.
+ROCCO (deadpan): That's slightly scary.
+BASH (quietly): Why would you hide all that?
+// A long pause. The light's going. He looks at his paws. He's thinking about whether to tell the truth. He's actually thinking about it, and we can see that now.
+PIP (soft): If people think you're nervous, they stop asking how you are.
+// Nobody laughs. Bash looks at him for a while.
+BASH (soft): How are you?
+// It's the first time anyone's ever asked and meant it. His face moves. For a moment it's all right there, the boxes and the garage and the whole thing. He could say it.
+PIP (nervous): I'm good!
+// The voice goes back up. The worried look's back. He's so good at it. Bash frowns. And Pip's paw is rubbing at his ear, very slightly, the way Riot's did.
+[hold: 8]

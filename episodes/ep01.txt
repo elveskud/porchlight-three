@@ -1,0 +1,113 @@
+# Porchlight 1: Porch Light On
+next: Dare House
+thumb: WHO'S UP AT 3AM?
+grade: summer
+
+== Cold open | hall, night | 
+[text: Maple Hollow. Late.]
+[mood: tense]
+[json: {"camera": "at:860,420,6"}]
+[fx flashlight from_px=[1000,300] path=[[820,420,0],[560,370,3]]]
+[fx paw at=1 to=[1,-2]]
+[fx tail at=3.5]
+// We never see who this is. Only a flashlight, the edge of a fox tail, and a paw setting something small on a covered table.
+[sfx: step_wood0]
+// Footsteps around the table: one, two, three, four. Pause. One, two, three, four.
+// The flashlight clicks off. One beat of dark. Smash to the intro.
+[hold: 16]
+
+[intro]
+
+
+== The tower | lake, day | riot (lifeguard), rocco
+RIOT stands at the tower.
+ROCCO is asleep.
+[sfx: whistle]
+RIOT (suspicious, point): Sir. Sir. No floating without a buddy.
+// The duck slowly turns away.
+RIOT (suspicious): He's testing me.
+ROCCO (munch): He's a duck.
+RIOT: A duck who's testing me.
+[hold: 1]
+
+== Rematch | lake, day | riot (lifeguard), rocco, bash, pip
+RIOT stands at the tower.
+BASH enters left.
+PIP enters left.
+RIOT (hype, wave): School's out! How was summer school?
+PIP (nervous): It's not summer school. It's just school. In summer.
+BASH: Tuesdays and Thursdays. The owl says it builds character.
+ROCCO: Builds character. In July.
+BASH (yelling, point): Riot. Game night. Tonight. I want a rematch.
+RIOT (cocky): You lost the last three.
+BASH (yelling): Which is why I'm due.
+PIP (to rocco): That's not how it works.
+ROCCO: Let him have this.
+RIOT (hype, present): Then it's official.
+
+== Light's on | stoop, sunset | riot
+[json: {"fx": [{"type": "lamp_on", "at_px": [994, 176], "at": 1.0, "r": 2.2}]}]
+RIOT (hype, thumbs): Light's on.
+// Lord Puddles blinks. Down the street two neighbours see the glow and smile. It's just a thing the street knows.
+[hold: 2]
+
+--
+[chat]
+Riot: LIGHT'S ON
+Bash: omw. rematch.
+Pip: bringing snacks
+Rocco: i live here
+
+== Most Likely To | apartment | riot, rocco, bash, pip
+RIOT carries a phone.
+ROCCO lies back on the beanbag.
+BASH (yelling): Rules. No mercy. No jokes. Just winning.
+RIOT: It's Most Likely To. You can't win Most Likely To.
+BASH (yelling): Watch me.
+[game mlt: Most likely to fall asleep the second they sit down. | rocco]
+// Rocco is already asleep, still holding a chip. Still asleep, he slowly raises a paw and points at himself.
+PIP (laughing, laugh): He voted for himself!
+BASH (shocked, take): That's a point for Rocco? He's not even awake!
+ROCCO (asleep): I'm awake. I'm winning.
+[hold: 2]
+
+--
+PIP (fan): Why is it so hot?
+ROCCO (suspicious): Same heat wave as last year. Same week.
+BASH: Weather does that.
+ROCCO (side_eye_r, stare): Sure.
+[game mlt: Most likely to be the only person still up at 3am finishing something great. | rocco]
+// Bash, Pip and Riot all point at Rocco. Rocco slowly turns, looks at Riot, and points at Riot.
+ROCCO (suspicious, point): Hm.
+// Silence. Just the fan.
+RIOT (laughing, laugh): Me? I'm asleep by ten! I'm a lifeguard! I have a... sleep... schedule.
+BASH: Rocco's never finished anything in his life.
+ROCCO (munch): Rude. Accurate.
+[hold: 3]
+
+--
+RIOT (hype): Final score! Rocco, two. Pip, one. Me, one. Bash...
+BASH (shocked): Don't.
+RIOT: ...zero.
+BASH (yelling, facepalm): How do you lose Most Likely To?!
+PIP (happy): You're most likely to keep trying?
+BASH (happy): ...Thank you, Pip.
+
+== The stoop | stoop, night | riot, rocco
+[mood: soft]
+ROCCO exits right.
+ROCCO: Don't stay up.
+RIOT (soft): I won't.
+
+--
+[mood: soft]
+RIOT sits on the step.
+// Bash and Pip are long gone. Riot and Lord Puddles. Crickets. He reaches up and touches the old brass fitting.
+RIOT (soft, quietly, looks up): This light was on every game night my grandpa ever had. Did you know that?
+// Lord Puddles blinks.
+RIOT (soft, quietly): Yeah. Me neither, for a while.
+[hold: 3]
+
+== The hill | lake, night | 
+// Later. The town asleep. Far up on the hill, a tiny flashlight glow moves across one window of the dark house, and goes out.
+[hold: 8]

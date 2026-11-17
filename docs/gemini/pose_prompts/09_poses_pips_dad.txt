@@ -1,0 +1,16 @@
+ATTACH: art/gemini/characters/11_pips_dad.jpg
+SAVE AS: art/gemini/refs/poses_pips_dad.jpg
+
+PROMPT (copy everything below):
+
+Image 1 shows Pip's dad, a kind, busy bunny father with thin round glasses, from a 2D cartoon series. Draw him, keeping his exact design, colours, clothes and proportions, seen from the FRONT like in image 1.
+A pose sheet, 8 poses in two rows, all the same scale, each one separate:
+1) carrying a heavy cardboard box
+2) pushing his glasses up, thinking
+3) one paw on someone's shoulder (just the arm reaching out)
+4) checking a phone, busy
+5) a warm, slightly sad smile
+6) explaining something, both paws open
+7) looking up at the sky
+8) waving
+Draw ONLY the character. Bold clean black outlines, flat solid colours with ONE darker shadow tone, no texture. Plain white background. NO text, NO labels, NO numbers.

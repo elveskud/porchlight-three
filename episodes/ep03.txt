@@ -1,0 +1,121 @@
+# Porchlight 3: Summer Homework
+next: Not For Sale
+thumb: SAME OWL?
+grade: summer
+previously: Bash touched the door. The door touched back.
+
+== Cold open | classroom | owl, bash, pip
+OWL carries a clipboard.
+OWL stands at the front.
+OWL (happy): And so, class, as we break for the summer, one small assignment.
+BASH sits on the desk.
+BASH (shocked): Mr. Hoot. It is summer. It's been summer.
+OWL: An essay. My Summer. Two pages.
+BASH: But it's summer now.
+OWL (happy, joke): Then you'll have lots to write about.
+// He means it. He is completely sincere. Behind him, the window: blazing sun.
+PIP (nervous, to bash): Don't argue. Last time he added a bibliography.
+[hold: 2]
+
+[intro]
+
+
+== The offer | stoop, sunset | riot, rocco, bash, pip
+BASH sits on the step.
+ROCCO lies back on the beanbag.
+BASH (gloom): Two pages about my summer. What do I write? I lost a lot and got chased by a door.
+RIOT (hype): You don't write an essay. You make an event. We go door to door. We ask the whole street what summer means.
+PIP: It's one essay.
+RIOT (hype, present): It's a people's history of the summer, Pip.
+ROCCO (looks down): My Summer.
+RIOT: What?
+ROCCO (suspicious): I wrote this. Same title. Same owl.
+RIOT: You were in his class?
+ROCCO (sleepy): ...I think so.
+// He frowns at a chip as if it might remember.
+[hold: 1]
+
+== Interviews | main street | riot, rocco, bash, pip, gus, dot
+RIOT carries a phone.
+ROCCO sits on the bench.
+BASH stands at the mailbox.
+RIOT (present): Gus! Town radio! What does summer mean to you?
+GUS (happy): Well now. That depends on your frequency.
+[card: Four minutes later.]
+GUS (happy): ...and that's why you never trust a medium wave after lunch.
+ROCCO is asleep.
+// Bash has wandered off and is holding the phone out to a mailbox.
+BASH (suspicious): Sir, in your own words. Be honest.
+// The mailbox has nothing to say. Bash writes this down.
+BASH (nod): Powerful.
+DOT enters right.
+DOT: He gives that essay every summer.
+PIP: Dot, go home.
+DOT (hips): Every summer. Same one. I've seen the pile.
+PIP: Okay, Dot.
+RIOT (to dot): Great stuff. We'll call you.
+DOT (deadpan, stare): ...
+// Dot looks straight at the camera. Nobody ever listens to Dot. Then she leaves.
+DOT exits right.
+[hold: 1]
+
+== Mrs. Brook | brook porch | brook, riot, pip, bash
+[mood: soft]
+// She stands by her chair (the chair faces away from us).
+BROOK carries a cup.
+// Wind chimes turn slowly. They look like they're made of old thin paper, gone brown. Iced tea on a small table.
+RIOT (hype): Mrs. Brook! Best summer of your life. Go.
+BROOK (happy): That's a rude question to ask a turtle. How long have you got?
+PIP (quietly): Whatever you'd like to tell us.
+// She looks at Pip a moment longer than she needs to. Pip is the only one who took out a pencil.
+BROOK (soft, looks left): A long time ago. By the lake. Your grandfather made a very good...
+// She stops. The chimes turn.
+BROOK (soft, stare): ...
+BROOK (happy): Lemonade. He made very good lemonade. Drink your tea, dear.
+RIOT (soft): He did?
+BROOK: Terrible businessman. Lovely lemonade.
+BASH (nod): I'm putting down lemonade.
+BROOK (happy, chuckle): ...
+PIP (soft, nod): ...
+[hold: 1]
+
+== Pip writes | pip home | pip
+[mood: soft]
+PIP stands at the desk.
+PIP carries a notebook.
+// Night. Everyone else's notes, in Pip's neat handwriting. He's the only one who listened to all of it.
+PIP (soft, quietly): Gus. Frequencies. Dot. The pile.
+PIP (soft, nod): Mrs. Brook. Lemonade.
+[fx insert kind=notebook head=MY_SUMMER lines=["I_sit_near_people.","Four_people_on_a_step.","...before_we"] faded=[2] at=4 for=3]
+// He writes one last line, looks at it, scribbles it out. For a moment we can read: ...before we
+PIP (sad, looks right): ...
+// The door in the corner of his room stands half open on the dark garage.
+PIP walks to the door.
+PIP exits right.
+[hold: 1]
+
+== The essay | stoop, night | riot, rocco, bash, pip
+[mood: soft]
+PIP sits on the step.
+PIP carries a notebook.
+RIOT: Come on, read it. Bash's was eleven words and three were lemonade.
+BASH: It had a strong ending.
+PIP (nervous): It's not very good.
+ROCCO: Read it anyway.
+PIP (soft, quietly): My summer. I don't do much. I sit near people.
+PIP (soft, quietly): Riot talks so nobody has to feel awkward. Rocco pretends to be asleep and never misses anything.
+PIP (soft, quietly): Bash loses every week and comes back on Saturday. I think that's the bravest thing on our street.
+PIP (soft, quietly): If you asked what summer means, I'd say it's four people on a step and nobody checking the time.
+// Nobody makes a joke. The porch light hums. Bash looks at his paws.
+BASH (soft, looks down): ...
+RIOT (soft, nod): ...
+[hold: 2]
+
+== The garage | pip garage | pip
+[mood: soft]
+PIP stands at the box.
+// Straight on from his room: one moving box, taped shut, on an empty floor. He has just walked in.
+PIP (sad, stare): ...
+PIP (sad, gloom): ...
+PIP exits left.
+[hold: 1]

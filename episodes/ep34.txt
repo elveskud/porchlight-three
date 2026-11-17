@@ -1,0 +1,100 @@
+# Porchlight 34: The Perfect Day
+next: Last Turn
+thumb: WE COULD JUST STAY
+grade: summer
+
+== Cold open | apartment | riot, rocco
+RIOT enters right.
+// Dawn. Rocco wakes up on the beanbag. Riot's standing right over him, wide awake, in full hat and sunglasses, holding a clipboard, with a big, bright, slightly terrifying smile.
+RIOT (hype): Morning! Get up. Big day.
+ROCCO (sleepy): What are we doing at the house?
+RIOT (hype): Nothing! No house. Forget the house. Today, we're doing the best day of the summer.
+ROCCO (suspicious): Riot.
+RIOT (hype): Every favourite thing. All of it. I've made a list!
+// He holds up the clipboard. It has times on it. It's been laminated.
+[hold: 5]
+
+[intro]
+
+
+== The list | lake, day | riot (lifeguard), rocco, bash, pip
+[mood: party]
+RIOT carries a clipboard.
+RIOT (hype): Item one! Cannonballs! Off the tower! Bash, you're first!
+BASH cannonballs.
+[sfx: splash]
+// And it's wonderful. It really is. Montage. Everything's gold. Bash goes off the tower. The duck is given a formal apology. Rocco's buried up to his neck in sand and allows it. Pip wins at skipping stones, in his real voice, and nobody's surprised any more.
+RIOT (hype): Item two! Walt's four kinds of potato, on a blanket!
+// He hasn't stopped moving since dawn. He hasn't stopped talking. He's taking photos. He keeps looking at the sun as if it's a clock.
+[hold: 8]
+
+== The sun | stoop, sunset | riot, rocco, bash, pip
+[mood: soft]
+// The stoop. Long gold light. Burnt, full and happy, the four of them lie about the steps. The best sunset of the year, right on time. Riot checks his clipboard. He ticks a box. He breathes out, and his smile stays.
+RIOT sits on the step.
+BASH (soft, stretch): That was the best day I've ever had.
+RIOT (soft): Yeah?
+BASH (happy): Easy. Best ever. I wouldn't change a thing.
+RIOT (soft): Then why would we?
+// He says it lightly, with a little laugh. He doesn't look at them. The whole day has been heading to this.
+BASH: What?
+RIOT (soft): I'm just saying. We've got it right here. All of this.
+RIOT (soft): We could have this tomorrow, and the day after. Every day. Forever.
+RIOT (soft): We don't have to finish it. Nobody's making us. We just leave the box closed.
+// Nobody's laughing. He looks up, and the smile has started to go.
+RIOT (soft): Pip stays.
+// A long, long silence. The bugs in the air, gold. It's what everyone's been thinking. Bash looks at Pip. It's what he wants more than anything in the world.
+PIP (quietly): Riot.
+RIOT (sad, shake): Everyone's happy! Who's it hurting?
+ROCCO (quietly): You've seen the snow.
+RIOT (sad): I've seen the snow. I've seen what's out there, Rocco! I've seen all of it! I could have had all of it!
+[hold: 8]
+
+== The letter | stoop, sunset | riot, rocco, bash, pip
+[mood: soft]
+// That came out wrong. It came out too loud. It stops him. His paw goes up to his ear. Bash has sat up.
+BASH: What do you mean, could have?
+RIOT (nervous): Nothing. I mean...
+PIP carries a letter.
+// Pip reaches into his notebook. A folded paper, worn along the creases. He doesn't open it. He just puts it down on the step, gently, with a dry brown leaf on top so it won't blow away.
+PIP (soft): You dropped this. I've been holding on to it.
+// Riot stares at it. He doesn't need to pick it up. All of the air goes out of the day.
+RIOT (quietly): How long?
+PIP (soft): Since we got back. I didn't read it.
+BASH: What is it?
+RIOT sits on the step.
+// A very long time. He's looking at the old brass porch light. It's only just starting to show in the dusk. He takes one breath, and then he says the thing he's never said.
+RIOT (sad, quietly): I got a place in the city. Two and a half years ago. Full swimming scholarship.
+BASH (shocked): You what?
+RIOT (sad): I turned it down. I never told anyone. I told Dad I'd missed the date.
+ROCCO (quietly): You were the fastest kid in the county.
+RIOT (shocked): You knew?
+ROCCO (deadpan): I noticed a letter. Then no letter. I wrote it down. I should've said.
+RIOT (sad): I stayed because of you. All of you. This street.
+RIOT (sad): And Grandpa's game, I thought I had to... I gave it all up, to be here.
+RIOT (sad, quietly): And now if I finish it, this is gone too. Then what did I do it for?
+// There it is. Forty years, eight years, two and a half years. He puts his face in his paws.
+[hold: 8]
+
+== Don't keep it for me | stoop, sunset | riot, rocco, bash, pip
+[mood: soft]
+// Nobody's angry. Bash starts to say something and doesn't. It's Pip who gets up. He goes and sits down on the step right next to him. He doesn't touch him. He uses his real voice.
+PIP (soft, nod): That's the nicest thing anyone's ever done for me.
+PIP (soft): And I don't want it.
+// Riot looks up.
+PIP (soft): My sister's eight, and she's never seen snow. She draws the same fireflies every year.
+PIP (soft): Your dad can't remember the end of the best night of his life.
+PIP (soft): There's a whole town waiting for a thing it doesn't know it's missing.
+PIP (soft): It's not a bad summer, Riot. It's just stuck.
+RIOT (sad): You'd go.
+PIP (soft): I'd go. I'd hate it. I'd miss you so much it'd change how I spent the day.
+// His voice wobbles. It's real, and he lets it.
+PIP (soft): Don't keep it for me.
+// The sun touches the rooftops, right on schedule. Riot looks at the clipboard. He looks at all the little ticks. Slowly, he reaches over and picks up the leaf. It's so light. He holds it up, and the last of the light comes through it.
+RIOT (soft, quietly): It was a really good day, though.
+PIP (soft): It was the best one.
+ROCCO (quietly): Yeah.
+BASH (soft): It's still the best one. Whatever happens.
+// Up above them, with a small click, the light comes on.
+[json: {"fx": [{"type": "lamp_on", "at": 1.0}]}]
+[hold: 8]

@@ -1,0 +1,13 @@
+{
+  "result": "PASS",
+  "duration": 157.5,
+  "seek": 101.75,
+  "playing": {
+    "paused": false,
+    "time": 103.292816,
+    "muted": false
+  },
+  "mobileWithoutOverflow": true,
+  "restart": true,
+  "errors": []
+}

@@ -1,0 +1,678 @@
+{
+ "bash_pack_00": {
+  "src": "bash_pack.jpg",
+  "box": [
+   24,
+   22,
+   423,
+   312
+  ],
+  "size": [
+   399,
+   290
+  ]
+ },
+ "bash_pack_01": {
+  "src": "bash_pack.jpg",
+  "box": [
+   344,
+   70,
+   444,
+   173
+  ],
+  "size": [
+   100,
+   103
+  ]
+ },
+ "bash_pack_02": {
+  "src": "bash_pack.jpg",
+  "box": [
+   472,
+   70,
+   571,
+   173
+  ],
+  "size": [
+   99,
+   103
+  ]
+ },
+ "bash_pack_03": {
+  "src": "bash_pack.jpg",
+  "box": [
+   660,
+   200,
+   796,
+   304
+  ],
+  "size": [
+   136,
+   104
+  ]
+ },
+ "bash_pack_04": {
+  "src": "bash_pack.jpg",
+  "box": [
+   514,
+   221,
+   650,
+   297
+  ],
+  "size": [
+   136,
+   76
+  ]
+ },
+ "bash_pack_05": {
+  "src": "bash_pack.jpg",
+  "box": [
+   809,
+   224,
+   890,
+   287
+  ],
+  "size": [
+   81,
+   63
+  ]
+ },
+ "bash_pack_06": {
+  "src": "bash_pack.jpg",
+  "box": [
+   905,
+   238,
+   991,
+   279
+  ],
+  "size": [
+   86,
+   41
+  ]
+ },
+ "bash_pack_07": {
+  "src": "bash_pack.jpg",
+  "box": [
+   657,
+   299,
+   742,
+   398
+  ],
+  "size": [
+   85,
+   99
+  ]
+ },
+ "bash_pack_08": {
+  "src": "bash_pack.jpg",
+  "box": [
+   560,
+   302,
+   644,
+   400
+  ],
+  "size": [
+   84,
+   98
+  ]
+ },
+ "bash_pack_09": {
+  "src": "bash_pack.jpg",
+  "box": [
+   799,
+   308,
+   892,
+   392
+  ],
+  "size": [
+   93,
+   84
+  ]
+ },
+ "bash_pack_10": {
+  "src": "bash_pack.jpg",
+  "box": [
+   893,
+   308,
+   987,
+   392
+  ],
+  "size": [
+   94,
+   84
+  ]
+ },
+ "bash_pack_11": {
+  "src": "bash_pack.jpg",
+  "box": [
+   76,
+   331,
+   172,
+   378
+  ],
+  "size": [
+   96,
+   47
+  ]
+ },
+ "bash_pack_12": {
+  "src": "bash_pack.jpg",
+  "box": [
+   168,
+   331,
+   264,
+   378
+  ],
+  "size": [
+   96,
+   47
+  ]
+ },
+ "bash_pack_13": {
+  "src": "bash_pack.jpg",
+  "box": [
+   268,
+   396,
+   304,
+   437
+  ],
+  "size": [
+   36,
+   41
+  ]
+ },
+ "bash_pack_14": {
+  "src": "bash_pack.jpg",
+  "box": [
+   691,
+   396,
+   725,
+   437
+  ],
+  "size": [
+   34,
+   41
+  ]
+ },
+ "bash_pack_15": {
+  "src": "bash_pack.jpg",
+  "box": [
+   841,
+   396,
+   876,
+   437
+  ],
+  "size": [
+   35,
+   41
+  ]
+ },
+ "bash_pack_16": {
+  "src": "bash_pack.jpg",
+  "box": [
+   18,
+   397,
+   58,
+   437
+  ],
+  "size": [
+   40,
+   40
+  ]
+ },
+ "bash_pack_17": {
+  "src": "bash_pack.jpg",
+  "box": [
+   143,
+   397,
+   179,
+   437
+  ],
+  "size": [
+   36,
+   40
+  ]
+ },
+ "bash_pack_18": {
+  "src": "bash_pack.jpg",
+  "box": [
+   391,
+   397,
+   427,
+   437
+  ],
+  "size": [
+   36,
+   40
+  ]
+ },
+ "bash_pack_19": {
+  "src": "bash_pack.jpg",
+  "box": [
+   539,
+   397,
+   697,
+   509
+  ],
+  "size": [
+   158,
+   112
+  ]
+ },
+ "bash_pack_20": {
+  "src": "bash_pack.jpg",
+  "box": [
+   401,
+   407,
+   515,
+   538
+  ],
+  "size": [
+   114,
+   131
+  ]
+ },
+ "bash_pack_21": {
+  "src": "bash_pack.jpg",
+  "box": [
+   278,
+   408,
+   392,
+   538
+  ],
+  "size": [
+   114,
+   130
+  ]
+ },
+ "bash_pack_22": {
+  "src": "bash_pack.jpg",
+  "box": [
+   701,
+   411,
+   846,
+   503
+  ],
+  "size": [
+   145,
+   92
+  ]
+ },
+ "bash_pack_23": {
+  "src": "bash_pack.jpg",
+  "box": [
+   853,
+   411,
+   997,
+   503
+  ],
+  "size": [
+   144,
+   92
+  ]
+ },
+ "bash_pack_24": {
+  "src": "bash_pack.jpg",
+  "box": [
+   25,
+   418,
+   149,
+   510
+  ],
+  "size": [
+   124,
+   92
+  ]
+ },
+ "bash_pack_25": {
+  "src": "bash_pack.jpg",
+  "box": [
+   144,
+   418,
+   280,
+   511
+  ],
+  "size": [
+   136,
+   93
+  ]
+ },
+ "bash_pack_26": {
+  "src": "bash_pack.jpg",
+  "box": [
+   691,
+   504,
+   725,
+   545
+  ],
+  "size": [
+   34,
+   41
+  ]
+ },
+ "bash_pack_27": {
+  "src": "bash_pack.jpg",
+  "box": [
+   842,
+   504,
+   998,
+   628
+  ],
+  "size": [
+   156,
+   124
+  ]
+ },
+ "bash_pack_28": {
+  "src": "bash_pack.jpg",
+  "box": [
+   702,
+   507,
+   845,
+   620
+  ],
+  "size": [
+   143,
+   113
+  ]
+ },
+ "bash_pack_29": {
+  "src": "bash_pack.jpg",
+  "box": [
+   565,
+   508,
+   678,
+   623
+  ],
+  "size": [
+   113,
+   115
+  ]
+ },
+ "bash_pack_30": {
+  "src": "bash_pack.jpg",
+  "box": [
+   21,
+   537,
+   54,
+   578
+  ],
+  "size": [
+   33,
+   41
+  ]
+ },
+ "bash_pack_31": {
+  "src": "bash_pack.jpg",
+  "box": [
+   144,
+   537,
+   178,
+   578
+  ],
+  "size": [
+   34,
+   41
+  ]
+ },
+ "bash_pack_32": {
+  "src": "bash_pack.jpg",
+  "box": [
+   268,
+   537,
+   305,
+   578
+  ],
+  "size": [
+   37,
+   41
+  ]
+ },
+ "bash_pack_33": {
+  "src": "bash_pack.jpg",
+  "box": [
+   391,
+   537,
+   428,
+   578
+  ],
+  "size": [
+   37,
+   41
+  ]
+ },
+ "bash_pack_34": {
+  "src": "bash_pack.jpg",
+  "box": [
+   28,
+   551,
+   145,
+   671
+  ],
+  "size": [
+   117,
+   120
+  ]
+ },
+ "bash_pack_35": {
+  "src": "bash_pack.jpg",
+  "box": [
+   397,
+   551,
+   519,
+   678
+  ],
+  "size": [
+   122,
+   127
+  ]
+ },
+ "bash_pack_36": {
+  "src": "bash_pack.jpg",
+  "box": [
+   159,
+   560,
+   265,
+   656
+  ],
+  "size": [
+   106,
+   96
+  ]
+ },
+ "bash_pack_37": {
+  "src": "bash_pack.jpg",
+  "box": [
+   271,
+   562,
+   399,
+   655
+  ],
+  "size": [
+   128,
+   93
+  ]
+ },
+ "bash_pack_38": {
+  "src": "bash_pack.jpg",
+  "box": [
+   691,
+   619,
+   725,
+   660
+  ],
+  "size": [
+   34,
+   41
+  ]
+ },
+ "bash_pack_39": {
+  "src": "bash_pack.jpg",
+  "box": [
+   547,
+   626,
+   696,
+   721
+  ],
+  "size": [
+   149,
+   95
+  ]
+ },
+ "bash_pack_40": {
+  "src": "bash_pack.jpg",
+  "box": [
+   701,
+   627,
+   846,
+   724
+  ],
+  "size": [
+   145,
+   97
+  ]
+ },
+ "bash_pack_41": {
+  "src": "bash_pack.jpg",
+  "box": [
+   852,
+   627,
+   998,
+   724
+  ],
+  "size": [
+   146,
+   97
+  ]
+ },
+ "bash_pack_42": {
+  "src": "bash_pack.jpg",
+  "box": [
+   8,
+   678,
+   390,
+   996
+  ],
+  "size": [
+   382,
+   318
+  ]
+ },
+ "bash_pack_43": {
+  "src": "bash_pack.jpg",
+  "box": [
+   413,
+   703,
+   526,
+   908
+  ],
+  "size": [
+   113,
+   205
+  ]
+ },
+ "bash_pack_44": {
+  "src": "bash_pack.jpg",
+  "box": [
+   628,
+   741,
+   739,
+   854
+  ],
+  "size": [
+   111,
+   113
+  ]
+ },
+ "bash_pack_45": {
+  "src": "bash_pack.jpg",
+  "box": [
+   818,
+   747,
+   1013,
+   853
+  ],
+  "size": [
+   195,
+   106
+  ]
+ },
+ "bash_pack_46": {
+  "src": "bash_pack.jpg",
+  "box": [
+   543,
+   750,
+   638,
+   856
+  ],
+  "size": [
+   95,
+   106
+  ]
+ },
+ "bash_pack_47": {
+  "src": "bash_pack.jpg",
+  "box": [
+   735,
+   764,
+   822,
+   856
+  ],
+  "size": [
+   87,
+   92
+  ]
+ },
+ "bash_pack_48": {
+  "src": "bash_pack.jpg",
+  "box": [
+   572,
+   857,
+   718,
+   1016
+  ],
+  "size": [
+   146,
+   159
+  ]
+ },
+ "bash_pack_49": {
+  "src": "bash_pack.jpg",
+  "box": [
+   732,
+   857,
+   877,
+   1016
+  ],
+  "size": [
+   145,
+   159
+  ]
+ },
+ "bash_pack_50": {
+  "src": "bash_pack.jpg",
+  "box": [
+   886,
+   886,
+   995,
+   993
+  ],
+  "size": [
+   109,
+   107
+  ]
+ },
+ "bash_pack_51": {
+  "src": "bash_pack.jpg",
+  "box": [
+   381,
+   911,
+   524,
+   995
+  ],
+  "size": [
+   143,
+   84
+  ]
+ }
+}

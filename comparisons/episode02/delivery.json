@@ -1,0 +1,27 @@
+{
+  "result": "PASS",
+  "title": "Dare House",
+  "episode": 2,
+  "engine": "Three.js 0.160.0",
+  "duration": 157.5,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "drawingFps": 12,
+  "frames": 3780,
+  "voicesReused": 54,
+  "desktop": "/Users/lazaretchaava/Desktop/Porchlight Episode 2 - Dare House - Illustrated 3D (Three.js).mp4",
+  "player": "http://127.0.0.1:8766/comparisons/episode02/",
+  "reusableArt": "art/three/illustrated/v2",
+  "sourceHash": "8250cc69c4f6997d80478e61b66a5147f685eb7f21568c83893d6ab6b3251389",
+  "sha256": "e29c583bbceb12824834b553c92722ecff9d43ebaa0bfd202e5cc60598de5209",
+  "verifiedAt": "2026-11-14T10:24:03.030098+00:00",
+  "reports": [
+    "browser-checks.json",
+    "export-checks.json",
+    "player-checks.json",
+    "framing-checks.json"
+  ]
+}

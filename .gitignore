@@ -1,0 +1,32 @@
+# Mac / Python junk
+.DS_Store
+__pycache__/
+*.pyc
+*.blend1
+*.log
+
+# Old ideas and backups (kept on this computer only)
+archive/
+
+# Mac-only installed tools and downloads
+tools/realesrgan/
+tools/dl/
+
+# Local outputs
+graphify-out/
+videos/
+
+# Safety-test throwaway output
+tests/regress/_diff/
+
+# Optional Three.js preview verification dependencies
+tools/three-sets/node_modules/
+
+# Voice environment and models (see voice/SETUP.md)
+voice/.venv/
+voice/.asr-venv/
+voice/kokoro/
+voice/out/
+
+# Rendered movies
+*.mp4

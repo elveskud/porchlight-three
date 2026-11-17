@@ -1,0 +1,121 @@
+# Porchlight 9: Training Montage
+next: Following Riot
+thumb: LOSING TO HIMSELF
+grade: summer
+
+== Cold open | bash home | bash
+[text: 2:14 a.m.]
+BASH sits on the bed.
+// A single lamp. Bash is alone, dealing cards to himself on both sides of a table. He plays his left paw against his right. He studies his own cards. He lays one down.
+BASH (suspicious, whispers): Interesting move.
+// He leans across and answers himself.
+BASH (cocky, whispers): Didn't see that coming, did you?
+// Silence. He looks at the cards. He's lost. To himself.
+BASH (gloom, whispers): How?
+// He slams the table, then checks the door in case that woke anyone. He gathers the cards.
+BASH (determined, whispers): Again.
+[hold: 8]
+
+[intro]
+
+
+== Breakfast | bash home | bash, bashmom, bea
+BASHMOM (yelling): WHO WANTS CEREAL? THE RACE IS ON!
+// Bash's enormous family. Bears everywhere. A race for the cereal has clearly been going on for years.
+BEA (hype): I beat you at pouring!
+BASH: Bea, you can't beat someone at pouring.
+BEA (cheer): I did though! I got more in!
+BASH (shocked): That's all over the table.
+BEA (joke): Because I WON.
+BASHMOM (happy, yelling): Don't feel bad, sweetie! You're the best loser in this house!
+// She kisses his head and thunders off. She means it kindly. She really does. Bash looks at his spoon.
+BASH (quietly): Thanks, Mom.
+[hold: 4]
+
+== The coach | lake, day | riot (coach), rocco, bash, pip
+RIOT carries a clipboard.
+BASH (nervous): I need to win something. Saturday. One game. Can you coach me?
+// Riot takes a long, slow breath. Cut. Same spot. He's in a tracksuit and a whistle. Nobody saw him change.
+RIOT (determined, present): Son. I've waited my whole life for you to say that.
+ROCCO (munch): You were just wearing shorts.
+RIOT (yelling): Laps! Reflexes! Heart! Let's go!
+PIP carries a phone.
+PIP (hype): And we're live here at the lake, where a young bear is about to get in the water.
+RIOT (determined): Lesson one. Winners never look at the scoreboard.
+BASH: Why not?
+RIOT: I don't know. It's what you say. Lesson two. Eat something.
+ROCCO (munch): I've been ready for lesson two for years.
+// Montage. Bash swims. Bash swims the wrong way. Rocco throws popcorn at him for reaction drills.
+[sfx: splash]
+ROCCO (deadpan): Reaction drill.
+BASH (shocked): Ow!
+ROCCO: You got it in your mouth.
+RIOT (cheer): That's a reaction!
+PIP (hype): Unbelievable scenes! The crowd of one raccoon is on its feet!
+ROCCO (deadpan): I'm sitting.
+PIP (hype): The crowd remains seated!
+[hold: 4]
+
+== Saturday | apartment | riot (hoodie), rocco, bash, pip
+[mood: party]
+RIOT carries a phone.
+BASH sits on the sofa l.
+PIP sits on the sofa r.
+RIOT (hype): Alias! Bash and Pip against me and Rocco. Last round. Tied. One word.
+BASH (determined): I've trained for this.
+[json: {"game": {"type": "alias", "word": "Thunder", "describer": "bash", "guesser": "pip", "clue": "The noise! After lightning! Boom!", "guess": "Thunder!"}}]
+BASH (hype, cheer): YES! See that? Did you SEE that?
+ROCCO (nod): That was good.
+
+--
+[mood: tense]
+RIOT (hype): That's the tie. Sudden death. Bash, last word. All on you.
+// Bash looks at the card. It's easy. He knows it's easy. We can watch him think about it being easy.
+BASH (nervous): It's... okay. It's like a... no. Wait. If I say that, then...
+PIP (whispers): Just say the first thing.
+BASH (nervous): It's a thing that... when you... hang on...
+[sfx: buzzer]
+BASH (yelling): Wait wait wait! It's the... it's...
+RIOT: That's time.
+// Time. One point. He loses by one point.
+RIOT (soft): Hey. That was the best you've ever played.
+BASH (sad): Yeah.
+PIP (quietly): You were really good.
+BASH (gloom): I lost to a spoon.
+ROCCO (deadpan): It was a tough spoon.
+// Bash laughs, a small one, in spite of himself. He takes his jacket and goes.
+[hold: 5]
+
+== The die | bash home | bash
+[mood: tense]
+BASH sits on the bed.
+// He opens the drawer, moves the sock, and takes out the die. Just for luck.
+BASH carries a die.
+[sfx: tap]
+// He rolls it on the desk. The little lantern, face up.
+[sfx: tap]
+// Again. The lantern.
+[sfx: tap]
+// Again. Again. Six rolls, the lantern every time.
+BASH (scared, whispers): Okay.
+// He puts it back. He closes the drawer very, very gently, as though it might wake up.
+[hold: 7]
+
+== The stoop | stoop, night | bash, pip
+[mood: soft]
+BASH sits on the step.
+PIP sits on the step.
+BASH (chin): Why does it matter so much?
+PIP (quietly): Because you keep trying.
+BASH (sad): That's not the same as winning.
+PIP (soft): Isn't it?
+// Bash doesn't answer. The porch light hums. Pip stays until it's time to go.
+[hold: 3]
+
+== Best Bash | bash home | bash
+[mood: soft]
+BASH enters left.
+// Next morning, on his way to the bathroom half asleep, he stops. On his bedroom door, in crayon, at about the height of a very small bear: BEST BASH.
+// He reads it twice. He looks both ways down the hall. Then he straightens the paper very carefully, and leaves it exactly where it is.
+BASH (happy, quietly): ...Huh.
+[hold: 7]

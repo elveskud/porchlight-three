@@ -1,0 +1,139 @@
+# Porchlight 40: Porch Light Off
+next: Season 2
+thumb: LAST LANTERN
+grade: summer
+ending_leaves: on
+
+== Cold open | festival stage | brook, riot, rocco, bash, pip, preston, walt
+[storm]
+[mood: soft]
+BROOK enters left.
+BROOK carries a box.
+// She comes down the sand, very slowly, through the rain, with a hatbox in her arms. Nobody helps her, because she wouldn't allow it. Preston moves the small light to show her the way. She stops at the table. The four boys stand up.
+BROOK (soft): Well, sit down. You'll catch your death.
+// She puts the box down in front of Riot. Her paws are shaking. She looks at his face, at those eyes.
+BROOK (soft): You look so like him. It's been very hard.
+[hold: 8]
+
+[intro]
+
+
+== Lamplight | festival stage | brook, riot, rocco, bash, pip, preston, walt
+[storm]
+[mood: soft]
+// She unties the ribbon. She lifts the lantern out of its tissue. It opens in her paws, cream and gold, and for the first time in forty years it's whole. Riot takes one side. His paw's over hers.
+RIOT (soft, nod): I'm so sorry. I don't know if I can...
+BROOK (soft): Nor do I, dear.
+BROOK (soft): I thought if I held on tight enough, it would stay. That whole wonderful night.
+BROOK (soft): You can keep a memory. You can't keep a moment.
+BROOK (soft): I've had it the wrong way round for forty years. Let's see if we can't do this properly.
+// Riot breathes in. He looks round the table. Rocco. Pip. He looks last at Bash.
+RIOT (soft): Last turn. All hands.
+// Bash takes out the die. It's warm. He looks at it, this thing that followed him home. He isn't scared. He holds it out over the board, and three other paws come up and hold his.
+BASH (soft): Warmed up.
+[sfx: tap]
+// It rolls across the painted town. It lands. The lantern.
+[hold: 8]
+
+--
+[mood: soft]
+// Walt steps out of the rain, a grey fox with a very old rope. He puts it in the lantern's little ring, and takes up the slack, with both paws, the way he was shown.
+WALT (soft): I've got it, Dad.
+// Riot and Mrs. Brook hold it up. It's the hardest thing she's ever done. Her fingers won't open. Riot doesn't pull. He waits. He's very good at waiting now. One finger. Another.
+BROOK (soft, whispers): There you are.
+// She lets go.
+[hold: 8]
+
+== The last lantern | memory lake | riot, rocco, bash, pip, brook, walt, preston
+[mood: soft]
+[fx rain stop_at=2]
+[fx lantern from_px=[512,420] at=0.5 dur=9]
+[fx lake_fill at=4]
+[fx porch_ring at=0 every=0.01 room=0]
+[fx crowd row_px=[40,520,980] n=18]
+[fx leaves at=12 n=5]
+// It goes up. Small and gold into the black rain. It doesn't go out. It rises over the water and the rain stops, all at once, like a held breath let go. Every drop falls and none follow. The clouds roll back from it. There are stars.
+// On the board, the twelfth marker's there, on its peg. Nobody put it there. The figure moves to the last square, and stays.
+// And the lake fills with light. Eleven lanterns' worth, forty years' worth, every summer that was ever kept, rising up from the water all at once, all round the ring of porch lights. All the town's on the shore, with their faces lifted. People are turning to each other. An old bear's crying. They all remember. For a moment everybody remembers.
+WALT (soft, quietly): That's how it ended. That's how it was supposed to end.
+// A wind comes across the water. It's cool. It's the first cool wind in forty years. It moves the fur on Riot's face. High up on the old oak, one yellow leaf lets go, and it turns, and it falls.
+[hold: 8]
+
+== Morning | lake, day | riot, rocco, bash, pip, hiker, mayor, owl, preston
+[mood: soft]
+[grade: autumn]
+[fx leaves n=14]
+[fx crowd row_px=[40,490,980] n=14]
+HIKER enters left.
+HIKER carries a backpack.
+// A grey, gold, ordinary morning. The whole town's out in cardigans that smell of forty years in a drawer. The trees are on fire with red and yellow. Bash is standing under the oak with a leaf on his nose. He's the happiest bear alive.
+MAYOR (hype): Festival closed! Park stays! No committee!
+PRESTON enters right.
+// The hiker comes up the path in his hat and gloves, not expecting anything. He sees everyone in jumpers. He stops.
+HIKER (happy): Morning! Chilly, huh?
+RIOT (shiver): It is. It's really chilly.
+BASH (shiver): So chilly!
+// The hiker's chin starts to go. He takes off his hat, and he holds it to his chest.
+HIKER (soft): Thank you.
+OWL (happy): Essays, everyone. My Autumn. Two pages.
+PRESTON (present): I still think it needs parking.
+[hold: 8]
+
+== Keeping it | brook porch | brook
+[mood: soft]
+[grade: autumn]
+BROOK sits on the bench.
+// Her porch, in a shawl. The chimes have come down and lie in her lap, soft old paper. In her paw there's a faded photograph: two young people on a stage, laughing so hard they can barely stand. She smiles at it. She's allowed to. She keeps it.
+[hold: 16]
+
+== The van | stoop, sunset | riot, rocco, bash, pip, dot
+[mood: soft]
+[grade: autumn]
+[fx leaves n=10]
+RIOT sits on the step.
+PIP stands at the step.
+DOT enters left.
+// A few days on. The van at the kerb, loaded. Brown leaves blowing along the street. Dot's holding a jar with a coloured leaf in it. Pip stands at the bottom of the steps in a real coat.
+PIP (soft): It's only over the ridge.
+BASH (sad): I know.
+PIP (soft): My essay. The one for Mr. Hoot. I never finished the last line.
+PIP carries a notebook.
+PIP (soft): "I'd say it's four people on a step and nobody checking the time. I'm glad I had it, before we moved."
+// Nobody makes a joke. Bash comes down the steps. He takes something out of his pocket and puts it in Pip's paw. The die.
+BASH (soft): It goes to whoever needs it.
+BASH hugs PIP.
+ROCCO: ...
+RIOT puts a paw on PIP's shoulder.
+// The van pulls out. Pip's ears in the back window, getting smaller. Rocco lifts one paw. Riot stays on the step for a long while.
+[hold: 8]
+
+== Light's on | apartment | riot, rocco, bash
+[mood: soft]
+[grade: autumn]
+RIOT sits on the sofa r.
+RIOT carries a phone.
+BASH sits on the sofa l.
+// Night. Rain on the window, ordinary rain. The apartment. A new blanket. Riot's holding up the phone. A Friendzy room, four names in it. One of them is a long way off now, in a strange bedroom with boxes in it. It still says Pip.
+[chat]
+Riot: LIGHT'S ON
+Pip: i can see it from here
+Bash: you cannot
+Pip: i know
+Rocco: i live here
+
+RIOT (hype): Okay! Most Likely To! Pip, you're up!
+// It's not the same. It's good. It's both. Riot laughs, and looks at the empty space on the floor, and goes on laughing. On the fridge behind him, an envelope with the city's crest, not yet opened.
+[hold: 8]
+
+== The postcard | stoop, night | riot
+[mood: soft]
+[grade: autumn]
+RIOT sits on the step.
+RIOT carries a letter.
+// Late. He's gone out alone. There's something he found in the mailbox and has been saving. Lord Puddles on the rail, in a very small scarf. A postcard. A faded picture of somewhere far away. The stamp's a good one. The postmark's smudged by rain, and nobody could read it.
+// On the back, one line, in a big laughing hand he's seen on a lantern frame, and an old program.
+[fx insert kind=postcard lines=["Saw_the_lantern.","Knew_you'd_manage.","Don't_wait_up."] address=["Riot_Vale","Maple_Hollow"] at=4 for=5]
+// He doesn't move for a long time. He turns it over. He turns it back. He looks up at the old brass light. Very slowly, he starts to smile.
+RIOT (soft, whispers): ...Okay.
+// A red leaf comes down through the light. Then another. He gets up. He reaches for the switch.
+[hold: 8]

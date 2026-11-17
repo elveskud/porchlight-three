@@ -1,0 +1,16 @@
+ATTACH: art/gemini/characters/04_big_hal.jpg
+SAVE AS: art/gemini/refs/poses_big_hal.jpg
+
+PROMPT (copy everything below):
+
+Image 1 shows Big Hal, a huge, calm park-ranger bear from a 2D cartoon series. Draw him, keeping his exact design, colours, clothes and proportions, seen from the FRONT like in image 1.
+A pose sheet, 8 poses in two rows, all the same scale, each one separate:
+1) standing tall, arms crossed, calm and solid
+2) tipping his ranger hat politely
+3) one huge paw raised, gently saying "hold on"
+4) a slow, kind smile, eyes half closed
+5) kneeling down to talk to someone small
+6) thumbs up
+7) scratching the back of his head, a little shy
+8) pointing into the distance
+Draw ONLY the character. Bold clean black outlines, flat solid colours with ONE darker shadow tone, no texture. Plain white background. NO text, NO labels, NO numbers.

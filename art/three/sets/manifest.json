@@ -1,0 +1,1879 @@
+{
+  "version": 1,
+  "units": "metres",
+  "source": "Modeled from existing Gemini paintings; hidden geometry and dimensions inferred.",
+  "sets": [
+    {
+      "id": "lake",
+      "name": "Lake \u00b7 summer day",
+      "build": "lake",
+      "mood": "day",
+      "reference": "art/gemini/sets/lake_day_v2.jpg",
+      "episodes": [
+        1,
+        2,
+        4
+      ],
+      "note": "Raised lifeguard lookout, canoe, dock, reed beds and the old hall across the water.",
+      "glb": "exports/lake.glb",
+      "preview": "previews/lake.png",
+      "meshes": 1460,
+      "vertices": 26451,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "snack_counter",
+          "position": [
+            16.498071866914,
+            0.46238807201385596,
+            13.244564133460393
+          ]
+        },
+        {
+          "name": "park_walk",
+          "position": [
+            27,
+            1.2113924026489247,
+            15
+          ]
+        },
+        {
+          "name": "beach_reverse",
+          "position": [
+            0,
+            -0.05,
+            11
+          ]
+        },
+        {
+          "name": "hall_door",
+          "position": [
+            15,
+            5.0835,
+            -27.921
+          ]
+        },
+        {
+          "name": "tower",
+          "position": [
+            -6.2,
+            2.45,
+            -0.8
+          ]
+        },
+        {
+          "name": "sand_rocco",
+          "position": [
+            -2,
+            0,
+            2
+          ]
+        },
+        {
+          "name": "shore_bash",
+          "position": [
+            1,
+            0,
+            2.6
+          ]
+        },
+        {
+          "name": "shore_pip",
+          "position": [
+            3,
+            0,
+            2.2
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        3,
+        4.800000000000001,
+        16
+      ],
+      "glbBytes": 8431444,
+      "exportMeshes": 482,
+      "meshCount": 1460,
+      "cameras": {
+        "wide": [
+          3,
+          4.8,
+          16
+        ],
+        "wideTarget": [
+          0,
+          2,
+          -10
+        ],
+        "detail": [
+          -1,
+          4.5,
+          8
+        ],
+        "detailTarget": [
+          -5,
+          2,
+          -1
+        ],
+        "reverse": [
+          1,
+          4,
+          -11
+        ],
+        "reverseTarget": [
+          3,
+          1.7,
+          15
+        ],
+        "parkward": [
+          5,
+          4,
+          2
+        ],
+        "parkwardTarget": [
+          26,
+          1.7,
+          14
+        ],
+        "west": [
+          -19,
+          4,
+          -6
+        ],
+        "westTarget": [
+          -48,
+          2,
+          -17
+        ],
+        "townward": [
+          22,
+          5,
+          -10
+        ],
+        "townwardTarget": [
+          57,
+          3,
+          -26
+        ],
+        "farshore": [
+          12,
+          4,
+          -13
+        ],
+        "farshoreTarget": [
+          14,
+          4,
+          -29
+        ],
+        "overhead": [
+          12,
+          94,
+          30
+        ],
+        "overheadTarget": [
+          0,
+          0,
+          -12
+        ],
+        "target": [
+          0,
+          2,
+          -10
+        ]
+      },
+      "lakeWorld": {
+        "version": 1,
+        "coverage": {
+          "terrain": [
+            -320,
+            320,
+            -320,
+            320
+          ],
+          "finishedCameraArea": [
+            -90,
+            110,
+            -95,
+            70
+          ],
+          "waterLevel": -0.015,
+          "stageGround": -0.05,
+          "forestSeed": 4917
+        },
+        "stagePreserved": true,
+        "geography": "Painting-led production staging, informed by the proposed town plan; inferred hidden geometry.",
+        "sites": [
+          {
+            "id": "lake_church",
+            "name": "Lake church",
+            "position": [
+              4.8,
+              -24.3
+            ],
+            "source": "art/gemini/sets/lake_day_v2.jpg"
+          },
+          {
+            "id": "snack_shack",
+            "name": "Lake snack shack",
+            "position": [
+              17,
+              11
+            ],
+            "source": "maple hollow tree.js/plan.json"
+          },
+          {
+            "id": "park",
+            "name": "Lakeside park",
+            "position": [
+              27,
+              15
+            ],
+            "source": "BIBLE.md"
+          },
+          {
+            "id": "brook_house",
+            "name": "Mrs. Brook\u2019s house",
+            "position": [
+              -52,
+              -19
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          },
+          {
+            "id": "apartment",
+            "name": "Riot and Rocco\u2019s apartment",
+            "position": [
+              58,
+              -16
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          },
+          {
+            "id": "forest",
+            "name": "West woods",
+            "position": [
+              -64,
+              -1
+            ],
+            "source": "BIBLE.md"
+          },
+          {
+            "id": "main_street",
+            "name": "Town connection",
+            "position": [
+              76,
+              -40
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          }
+        ],
+        "treeCount": 2900,
+        "grassClumps": 548,
+        "stones": 96,
+        "reeds": 317,
+        "groundedBuildings": 23
+      },
+      "coverageVerification": "lake-world/verification.json"
+    },
+    {
+      "id": "lake_night",
+      "name": "Lake \u00b7 night",
+      "build": "lake",
+      "mood": "night",
+      "reference": "art/gemini/sets/lake_night_v2.jpg",
+      "episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "note": "The same shoreline and lookout, with a moonlit lake and distant town windows.",
+      "glb": "exports/lake_night.glb",
+      "preview": "previews/lake_night.png",
+      "meshes": 1491,
+      "vertices": 25464,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "snack_counter",
+          "position": [
+            16.498071866914,
+            0.46238807201385596,
+            13.244564133460393
+          ]
+        },
+        {
+          "name": "park_walk",
+          "position": [
+            27,
+            1.2113924026489247,
+            15
+          ]
+        },
+        {
+          "name": "beach_reverse",
+          "position": [
+            0,
+            -0.05,
+            11
+          ]
+        },
+        {
+          "name": "hall_door",
+          "position": [
+            15,
+            5.0835,
+            -27.921
+          ]
+        },
+        {
+          "name": "tower",
+          "position": [
+            -6.2,
+            2.45,
+            -0.8
+          ]
+        },
+        {
+          "name": "sand_rocco",
+          "position": [
+            -2,
+            0,
+            2
+          ]
+        },
+        {
+          "name": "shore_bash",
+          "position": [
+            1,
+            0,
+            2.6
+          ]
+        },
+        {
+          "name": "shore_pip",
+          "position": [
+            3,
+            0,
+            2.2
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        3,
+        4.800000000000001,
+        16
+      ],
+      "glbBytes": 8289100,
+      "exportMeshes": 508,
+      "meshCount": 1491,
+      "cameras": {
+        "wide": [
+          3,
+          4.8,
+          16
+        ],
+        "wideTarget": [
+          0,
+          2,
+          -10
+        ],
+        "detail": [
+          -1,
+          4.5,
+          8
+        ],
+        "detailTarget": [
+          -5,
+          2,
+          -1
+        ],
+        "reverse": [
+          1,
+          4,
+          -11
+        ],
+        "reverseTarget": [
+          3,
+          1.7,
+          15
+        ],
+        "parkward": [
+          5,
+          4,
+          2
+        ],
+        "parkwardTarget": [
+          26,
+          1.7,
+          14
+        ],
+        "west": [
+          -19,
+          4,
+          -6
+        ],
+        "westTarget": [
+          -48,
+          2,
+          -17
+        ],
+        "townward": [
+          22,
+          5,
+          -10
+        ],
+        "townwardTarget": [
+          57,
+          3,
+          -26
+        ],
+        "farshore": [
+          12,
+          4,
+          -13
+        ],
+        "farshoreTarget": [
+          14,
+          4,
+          -29
+        ],
+        "overhead": [
+          12,
+          94,
+          30
+        ],
+        "overheadTarget": [
+          0,
+          0,
+          -12
+        ],
+        "target": [
+          0,
+          2,
+          -10
+        ]
+      },
+      "lakeWorld": {
+        "version": 1,
+        "coverage": {
+          "terrain": [
+            -320,
+            320,
+            -320,
+            320
+          ],
+          "finishedCameraArea": [
+            -90,
+            110,
+            -95,
+            70
+          ],
+          "waterLevel": -0.015,
+          "stageGround": -0.05,
+          "forestSeed": 4917
+        },
+        "stagePreserved": true,
+        "geography": "Painting-led production staging, informed by the proposed town plan; inferred hidden geometry.",
+        "sites": [
+          {
+            "id": "lake_church",
+            "name": "Lake church",
+            "position": [
+              4.8,
+              -24.3
+            ],
+            "source": "art/gemini/sets/lake_day_v2.jpg"
+          },
+          {
+            "id": "snack_shack",
+            "name": "Lake snack shack",
+            "position": [
+              17,
+              11
+            ],
+            "source": "maple hollow tree.js/plan.json"
+          },
+          {
+            "id": "park",
+            "name": "Lakeside park",
+            "position": [
+              27,
+              15
+            ],
+            "source": "BIBLE.md"
+          },
+          {
+            "id": "brook_house",
+            "name": "Mrs. Brook\u2019s house",
+            "position": [
+              -52,
+              -19
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          },
+          {
+            "id": "apartment",
+            "name": "Riot and Rocco\u2019s apartment",
+            "position": [
+              58,
+              -16
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          },
+          {
+            "id": "forest",
+            "name": "West woods",
+            "position": [
+              -64,
+              -1
+            ],
+            "source": "BIBLE.md"
+          },
+          {
+            "id": "main_street",
+            "name": "Town connection",
+            "position": [
+              76,
+              -40
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          }
+        ],
+        "treeCount": 2900,
+        "grassClumps": 548,
+        "stones": 96,
+        "reeds": 317,
+        "groundedBuildings": 23
+      },
+      "coverageVerification": "lake-world/verification.json"
+    },
+    {
+      "id": "lake_storm",
+      "name": "Lake \u00b7 storm night",
+      "build": "lake",
+      "mood": "storm",
+      "reference": "art/gemini/sets/lake_night_v2.jpg",
+      "episodes": [
+        5
+      ],
+      "note": "Storm lighting variant of the night painting. Mrs. Brook\u2019s distant window holds a single candle.",
+      "glb": "exports/lake_storm.glb",
+      "preview": "previews/lake_storm.png",
+      "meshes": 1554,
+      "vertices": 25102,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "snack_counter",
+          "position": [
+            16.498071866914,
+            0.46238807201385596,
+            13.244564133460393
+          ]
+        },
+        {
+          "name": "park_walk",
+          "position": [
+            27,
+            1.2113924026489247,
+            15
+          ]
+        },
+        {
+          "name": "beach_reverse",
+          "position": [
+            0,
+            -0.05,
+            11
+          ]
+        },
+        {
+          "name": "hall_door",
+          "position": [
+            15,
+            5.0835,
+            -27.921
+          ]
+        },
+        {
+          "name": "tower",
+          "position": [
+            -6.2,
+            2.45,
+            -0.8
+          ]
+        },
+        {
+          "name": "sand_rocco",
+          "position": [
+            -2,
+            0,
+            2
+          ]
+        },
+        {
+          "name": "shore_bash",
+          "position": [
+            1,
+            0,
+            2.6
+          ]
+        },
+        {
+          "name": "shore_pip",
+          "position": [
+            3,
+            0,
+            2.2
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        3,
+        4.800000000000001,
+        16
+      ],
+      "glbBytes": 8639200,
+      "exportMeshes": 472,
+      "meshCount": 1554,
+      "cameras": {
+        "wide": [
+          3,
+          4.8,
+          16
+        ],
+        "wideTarget": [
+          0,
+          2,
+          -10
+        ],
+        "detail": [
+          -1,
+          4.5,
+          8
+        ],
+        "detailTarget": [
+          -5,
+          2,
+          -1
+        ],
+        "reverse": [
+          1,
+          4,
+          -11
+        ],
+        "reverseTarget": [
+          3,
+          1.7,
+          15
+        ],
+        "parkward": [
+          5,
+          4,
+          2
+        ],
+        "parkwardTarget": [
+          26,
+          1.7,
+          14
+        ],
+        "west": [
+          -19,
+          4,
+          -6
+        ],
+        "westTarget": [
+          -48,
+          2,
+          -17
+        ],
+        "townward": [
+          22,
+          5,
+          -10
+        ],
+        "townwardTarget": [
+          57,
+          3,
+          -26
+        ],
+        "farshore": [
+          12,
+          4,
+          -13
+        ],
+        "farshoreTarget": [
+          14,
+          4,
+          -29
+        ],
+        "overhead": [
+          12,
+          94,
+          30
+        ],
+        "overheadTarget": [
+          0,
+          0,
+          -12
+        ],
+        "target": [
+          0,
+          2,
+          -10
+        ]
+      },
+      "lakeWorld": {
+        "version": 1,
+        "coverage": {
+          "terrain": [
+            -320,
+            320,
+            -320,
+            320
+          ],
+          "finishedCameraArea": [
+            -90,
+            110,
+            -95,
+            70
+          ],
+          "waterLevel": -0.015,
+          "stageGround": -0.05,
+          "forestSeed": 4917
+        },
+        "stagePreserved": true,
+        "geography": "Painting-led production staging, informed by the proposed town plan; inferred hidden geometry.",
+        "sites": [
+          {
+            "id": "lake_church",
+            "name": "Lake church",
+            "position": [
+              4.8,
+              -24.3
+            ],
+            "source": "art/gemini/sets/lake_day_v2.jpg"
+          },
+          {
+            "id": "snack_shack",
+            "name": "Lake snack shack",
+            "position": [
+              17,
+              11
+            ],
+            "source": "maple hollow tree.js/plan.json"
+          },
+          {
+            "id": "park",
+            "name": "Lakeside park",
+            "position": [
+              27,
+              15
+            ],
+            "source": "BIBLE.md"
+          },
+          {
+            "id": "brook_house",
+            "name": "Mrs. Brook\u2019s house",
+            "position": [
+              -52,
+              -19
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          },
+          {
+            "id": "apartment",
+            "name": "Riot and Rocco\u2019s apartment",
+            "position": [
+              58,
+              -16
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          },
+          {
+            "id": "forest",
+            "name": "West woods",
+            "position": [
+              -64,
+              -1
+            ],
+            "source": "BIBLE.md"
+          },
+          {
+            "id": "main_street",
+            "name": "Town connection",
+            "position": [
+              76,
+              -40
+            ],
+            "source": "maple hollow tree.js/PLAN.md"
+          }
+        ],
+        "treeCount": 2900,
+        "grassClumps": 548,
+        "stones": 96,
+        "reeds": 317,
+        "groundedBuildings": 23
+      },
+      "coverageVerification": "lake-world/verification.json"
+    },
+    {
+      "id": "stoop_sunset",
+      "name": "The stoop \u00b7 sunset",
+      "build": "stoop",
+      "mood": "sunset",
+      "reference": "art/gemini/sets/stoop_sunset_v2.jpg",
+      "episodes": [
+        1,
+        3,
+        4,
+        6
+      ],
+      "note": "Blue apartment door, brick facade, black railings, bicycle and three broad sitting steps.",
+      "glb": "exports/stoop_sunset.glb",
+      "preview": "previews/stoop_sunset.png",
+      "meshes": 488,
+      "vertices": 21618,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "step_1",
+          "position": [
+            1.05,
+            0.59,
+            0.04
+          ]
+        },
+        {
+          "name": "step_2",
+          "position": [
+            1.7000000000000002,
+            0.59,
+            0.04
+          ]
+        },
+        {
+          "name": "step_3",
+          "position": [
+            2.35,
+            0.59,
+            0.04
+          ]
+        },
+        {
+          "name": "step_4",
+          "position": [
+            3,
+            0.59,
+            0.04
+          ]
+        },
+        {
+          "name": "door_landing",
+          "position": [
+            2,
+            0.65,
+            -0.8
+          ]
+        },
+        {
+          "name": "railing_puddles",
+          "position": [
+            3.53,
+            1.1,
+            0.65
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        -5,
+        3.8000000000000003,
+        10
+      ],
+      "glbBytes": 1168052,
+      "exportMeshes": 482
+    },
+    {
+      "id": "stoop_night",
+      "name": "The stoop \u00b7 night",
+      "build": "stoop",
+      "mood": "night",
+      "reference": "art/gemini/sets/stoop_night_v2.jpg",
+      "episodes": [
+        1,
+        3,
+        6
+      ],
+      "note": "The same steps under a working porch lantern. Four named sitting positions.",
+      "glb": "exports/stoop_night.glb",
+      "preview": "previews/stoop_night.png",
+      "meshes": 514,
+      "vertices": 20631,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "step_1",
+          "position": [
+            1.05,
+            0.59,
+            0.04
+          ]
+        },
+        {
+          "name": "step_2",
+          "position": [
+            1.7000000000000002,
+            0.59,
+            0.04
+          ]
+        },
+        {
+          "name": "step_3",
+          "position": [
+            2.35,
+            0.59,
+            0.04
+          ]
+        },
+        {
+          "name": "step_4",
+          "position": [
+            3,
+            0.59,
+            0.04
+          ]
+        },
+        {
+          "name": "door_landing",
+          "position": [
+            2,
+            0.65,
+            -0.8
+          ]
+        },
+        {
+          "name": "railing_puddles",
+          "position": [
+            3.53,
+            1.1,
+            0.65
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        -5,
+        3.8000000000000003,
+        10
+      ],
+      "glbBytes": 1155948,
+      "exportMeshes": 508
+    },
+    {
+      "id": "apartment",
+      "name": "Riot & Rocco\u2019s apartment",
+      "build": "apartment",
+      "mood": "night",
+      "reference": "art/gemini/sets/apartment_night_v2.jpg",
+      "episodes": [
+        1,
+        4,
+        5
+      ],
+      "note": "Orange sofa, green beanbag, low game table, string lights and the blue night window.",
+      "glb": "exports/apartment.glb",
+      "preview": "previews/apartment.png",
+      "meshes": 181,
+      "vertices": 12428,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "sofa_left",
+          "position": [
+            -3.03,
+            0.85,
+            -1.7
+          ]
+        },
+        {
+          "name": "sofa_right",
+          "position": [
+            -1.37,
+            0.85,
+            -1.7
+          ]
+        },
+        {
+          "name": "beanbag",
+          "position": [
+            3.1,
+            0.7,
+            -0.4
+          ]
+        },
+        {
+          "name": "floor",
+          "position": [
+            -0.5,
+            0,
+            2.4
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        6,
+        4.1,
+        10
+      ],
+      "glbBytes": 609900,
+      "exportMeshes": 177
+    },
+    {
+      "id": "hall",
+      "name": "Old festival hall \u00b7 inside",
+      "build": "hall",
+      "mood": "night",
+      "reference": "art/gemini/sets/hall_inside_night_v2.jpg",
+      "episodes": [
+        1,
+        5
+      ],
+      "note": "Timber boards, shuttered windows, bunting, red-curtained stage and a cloth-covered game table.",
+      "glb": "exports/hall.glb",
+      "preview": "previews/hall.png",
+      "meshes": 228,
+      "vertices": 9645,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "game_table",
+          "position": [
+            0,
+            1.25,
+            -0.4
+          ]
+        },
+        {
+          "name": "stage",
+          "position": [
+            0,
+            0.81,
+            -5
+          ]
+        },
+        {
+          "name": "entrance",
+          "position": [
+            0,
+            0,
+            6.5
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        0,
+        4.200000000000001,
+        14
+      ],
+      "glbBytes": 401164,
+      "exportMeshes": 225
+    },
+    {
+      "id": "hall_outside",
+      "name": "Old festival hall \u00b7 outside",
+      "build": "hallExterior",
+      "mood": "sunset",
+      "reference": "art/gemini/sets/hall_outside_sunset.jpg",
+      "episodes": [
+        2
+      ],
+      "note": "Weathered timber siding, boarded windows, cupola, front steps and an opening entrance door.",
+      "glb": "exports/hall_outside.glb",
+      "preview": "previews/hall_outside.png",
+      "meshes": 130,
+      "vertices": 7064,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "hall_door",
+          "position": [
+            0,
+            0.45,
+            1.2999999999999998
+          ]
+        },
+        {
+          "name": "front_l",
+          "position": [
+            -2,
+            0,
+            5
+          ]
+        },
+        {
+          "name": "front_r",
+          "position": [
+            2,
+            0,
+            5
+          ]
+        },
+        {
+          "name": "door",
+          "position": [
+            0,
+            0.45,
+            1.4
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        9.000000000000004,
+        5,
+        15.000000000000005
+      ],
+      "glbBytes": 340604,
+      "exportMeshes": 126
+    },
+    {
+      "id": "bash_home",
+      "name": "Bash\u2019s bedroom",
+      "build": "bashRoom",
+      "mood": "night",
+      "reference": "art/gemini/sets/17_bash_room_night.jpg",
+      "episodes": [
+        2
+      ],
+      "note": "Blue bedding, orange blanket, trophy shelf, basketball, study desk and a separate practice-game table.",
+      "glb": "exports/bash_home.glb",
+      "preview": "previews/bash_home.png",
+      "meshes": 140,
+      "vertices": 6819,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "bed",
+          "position": [
+            -2.7,
+            0.93,
+            -1.5
+          ]
+        },
+        {
+          "name": "desk",
+          "position": [
+            1.3,
+            0.55,
+            -1.55
+          ]
+        },
+        {
+          "name": "floor",
+          "position": [
+            0,
+            0,
+            1
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        5.999999999999998,
+        4.199999999999999,
+        10
+      ],
+      "glbBytes": 301048,
+      "exportMeshes": 137
+    },
+    {
+      "id": "classroom",
+      "name": "Summer classroom",
+      "build": "classroom",
+      "mood": "day",
+      "reference": "art/gemini/first-round/c2_classroom_day.jpg",
+      "episodes": [
+        3
+      ],
+      "note": "Six paired desks, large green chalkboard, teacher\u2019s desk, globe and tall left-hand windows.",
+      "glb": "exports/classroom.glb",
+      "preview": "previews/classroom.png",
+      "meshes": 227,
+      "vertices": 10665,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "teacher",
+          "position": [
+            0,
+            0,
+            -2
+          ]
+        },
+        {
+          "name": "bash_desk",
+          "position": [
+            -3,
+            0.6,
+            0.2
+          ]
+        },
+        {
+          "name": "pip_desk",
+          "position": [
+            3,
+            0.6,
+            0.2
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        7,
+        4.999999999999998,
+        11.999999999999996
+      ],
+      "glbBytes": 441748,
+      "exportMeshes": 224
+    },
+    {
+      "id": "main_street",
+      "name": "Main Street",
+      "build": "street",
+      "mood": "day",
+      "reference": "art/gemini/sets/55_main_street_day_mailbox.jpg",
+      "episodes": [
+        3,
+        4
+      ],
+      "note": "Striped shop awnings, stone paving, notice board, bench, blue mailbox and the clock tower.",
+      "glb": "exports/main_street.glb",
+      "preview": "previews/main_street.png",
+      "meshes": 583,
+      "vertices": 25177,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "interview",
+          "position": [
+            -1,
+            0,
+            4
+          ]
+        },
+        {
+          "name": "mailbox",
+          "position": [
+            -3.5,
+            0.3,
+            -3
+          ]
+        },
+        {
+          "name": "notice_board",
+          "position": [
+            -3.2,
+            0.3,
+            5
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        0.9999999999999999,
+        5.000000000000001,
+        19
+      ],
+      "glbBytes": 1304992,
+      "exportMeshes": 580
+    },
+    {
+      "id": "brook_porch",
+      "name": "Mrs. Brook\u2019s porch",
+      "build": "brookPorch",
+      "mood": "day",
+      "reference": "art/gemini/sets/54_brook_porch_summer.jpg",
+      "episodes": [
+        3
+      ],
+      "note": "White porch boards, rocking chair, tea table, flower pots, paper chimes and a view over the lake.",
+      "glb": "exports/brook_porch.glb",
+      "preview": "previews/brook_porch.png",
+      "meshes": 250,
+      "vertices": 14666,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "rocker",
+          "position": [
+            -2.4,
+            1.18,
+            -0.4
+          ]
+        },
+        {
+          "name": "tea_table",
+          "position": [
+            -1,
+            1.35,
+            0.1
+          ]
+        },
+        {
+          "name": "porch_left",
+          "position": [
+            -0.6,
+            0.62,
+            1
+          ]
+        },
+        {
+          "name": "porch_right",
+          "position": [
+            1,
+            0.62,
+            1
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        -9.000000000000002,
+        4.199999999999999,
+        10.999999999999998
+      ],
+      "glbBytes": 737344,
+      "exportMeshes": 246
+    },
+    {
+      "id": "pip_home",
+      "name": "Pip\u2019s bedroom",
+      "build": "pipRoom",
+      "mood": "night",
+      "reference": "art/gemini/sets/19_pip_room_night.jpg",
+      "episodes": [
+        3
+      ],
+      "note": "Checked bedding, writing desk, bookcase, green rug and the open bedroom door.",
+      "glb": "exports/pip_home.glb",
+      "preview": "previews/pip_home.png",
+      "meshes": 124,
+      "vertices": 5187,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "bed",
+          "position": [
+            -2.7,
+            0.93,
+            -1.5
+          ]
+        },
+        {
+          "name": "desk",
+          "position": [
+            1.3,
+            0.55,
+            -1.55
+          ]
+        },
+        {
+          "name": "floor",
+          "position": [
+            0,
+            0,
+            1
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        5.999999999999998,
+        4.199999999999999,
+        10
+      ],
+      "glbBytes": 257668,
+      "exportMeshes": 121
+    },
+    {
+      "id": "pip_garage",
+      "name": "Pip\u2019s garage \u00b7 one box",
+      "build": "garage",
+      "mood": "evening",
+      "reference": "art/gemini/sets/56_pip_garage_one_box.jpg",
+      "episodes": [
+        3
+      ],
+      "note": "Exactly one sealed moving box on an otherwise empty floor; shelves, bicycle and garage door.",
+      "glb": "exports/pip_garage.glb",
+      "preview": "previews/pip_garage.png",
+      "meshes": 57,
+      "vertices": 3111,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "moving_box",
+          "position": [
+            0,
+            0.87,
+            0.6
+          ]
+        },
+        {
+          "name": "pip",
+          "position": [
+            0,
+            0,
+            2.5
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        5.999999999999998,
+        4.199999999999999,
+        10
+      ],
+      "glbBytes": 138316,
+      "exportMeshes": 55
+    },
+    {
+      "id": "park",
+      "name": "Lakeside park",
+      "build": "park",
+      "mood": "day",
+      "reference": "art/gemini/sets/23_park_day.jpg",
+      "episodes": [
+        4
+      ],
+      "note": "The old oak by the water, picnic tables, benches, reeds and the park notice board.",
+      "glb": "exports/park.glb",
+      "preview": "previews/park.png",
+      "meshes": 310,
+      "vertices": 19330,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "oak",
+          "position": [
+            1,
+            0,
+            -1
+          ]
+        },
+        {
+          "name": "park_centre",
+          "position": [
+            -1,
+            0,
+            2
+          ]
+        },
+        {
+          "name": "notice_board",
+          "position": [
+            -6,
+            0,
+            6
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        10.000000000000002,
+        5.599999999999998,
+        16.000000000000004
+      ],
+      "glbBytes": 1012260,
+      "exportMeshes": 307
+    },
+    {
+      "id": "walt_dining",
+      "name": "Walt\u2019s dining room \u00b7 evening",
+      "build": "dining",
+      "mood": "evening",
+      "reference": "art/gemini/sets/57_walt_dining_evening.jpg",
+      "episodes": [
+        5
+      ],
+      "note": "Five places at a generous dinner table, sideboard, framed pictures and an August 12 calendar.",
+      "glb": "exports/walt_dining.glb",
+      "preview": "previews/walt_dining.png",
+      "meshes": 134,
+      "vertices": 6645,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "riot",
+          "position": [
+            -2,
+            0.6,
+            1.65
+          ]
+        },
+        {
+          "name": "rocco",
+          "position": [
+            -0.1,
+            0.6,
+            1.65
+          ]
+        },
+        {
+          "name": "bash",
+          "position": [
+            1.8,
+            0.6,
+            1.65
+          ]
+        },
+        {
+          "name": "pip",
+          "position": [
+            -1.3,
+            0.6,
+            -1.65
+          ]
+        },
+        {
+          "name": "walt",
+          "position": [
+            1.3,
+            0.6,
+            -1.65
+          ]
+        },
+        {
+          "name": "candle",
+          "position": [
+            0.7,
+            1.67,
+            0
+          ]
+        },
+        {
+          "name": "exit",
+          "position": [
+            -4,
+            0,
+            3
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        7.799999999999999,
+        4.8,
+        10.999999999999995
+      ],
+      "glbBytes": 325996,
+      "exportMeshes": 127
+    },
+    {
+      "id": "walt_dining_storm",
+      "name": "Walt\u2019s dining room \u00b7 storm",
+      "build": "dining",
+      "mood": "storm",
+      "reference": "art/gemini/sets/58_walt_dining_storm.jpg",
+      "episodes": [
+        5
+      ],
+      "note": "Same room and furniture; dark windows, candlelit table and switchable overhead light.",
+      "glb": "exports/walt_dining_storm.glb",
+      "preview": "previews/walt_dining_storm.png",
+      "meshes": 134,
+      "vertices": 6645,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "riot",
+          "position": [
+            -2,
+            0.6,
+            1.65
+          ]
+        },
+        {
+          "name": "rocco",
+          "position": [
+            -0.1,
+            0.6,
+            1.65
+          ]
+        },
+        {
+          "name": "bash",
+          "position": [
+            1.8,
+            0.6,
+            1.65
+          ]
+        },
+        {
+          "name": "pip",
+          "position": [
+            -1.3,
+            0.6,
+            -1.65
+          ]
+        },
+        {
+          "name": "walt",
+          "position": [
+            1.3,
+            0.6,
+            -1.65
+          ]
+        },
+        {
+          "name": "candle",
+          "position": [
+            0.7,
+            1.67,
+            0
+          ]
+        },
+        {
+          "name": "exit",
+          "position": [
+            -4,
+            0,
+            3
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        7.799999999999999,
+        4.8,
+        10.999999999999995
+      ],
+      "glbBytes": 326024,
+      "exportMeshes": 127
+    },
+    {
+      "id": "walt_hallway",
+      "name": "Walt\u2019s photo hallway",
+      "build": "hallway",
+      "mood": "evening",
+      "reference": "art/gemini/first-round/c6_walt_hallway.jpg",
+      "episodes": [
+        5
+      ],
+      "note": "Long runner, wall sconces, coat hooks, and framed existing grandfather photographs.",
+      "glb": "exports/walt_hallway.glb",
+      "preview": "previews/walt_hallway.png",
+      "meshes": 72,
+      "vertices": 2963,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "photo_wall",
+          "position": [
+            1.1,
+            0,
+            -0.4
+          ]
+        },
+        {
+          "name": "entrance",
+          "position": [
+            0,
+            0,
+            5.6
+          ]
+        },
+        {
+          "name": "exit",
+          "position": [
+            0,
+            0,
+            -5.7
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        0,
+        2.7000000000000006,
+        9
+      ],
+      "glbBytes": 9599924,
+      "exportMeshes": 69
+    },
+    {
+      "id": "walt_porch",
+      "name": "Walt\u2019s porch",
+      "build": "waltPorch",
+      "mood": "sunset",
+      "reference": "art/gemini/sets/24_walt_porch_evening.jpg",
+      "episodes": [
+        5
+      ],
+      "note": "Timber porch, two chairs, blue shutters, flower pots and steps overlooking the street.",
+      "glb": "exports/walt_porch.glb",
+      "preview": "previews/walt_porch.png",
+      "meshes": 180,
+      "vertices": 12229,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "rocker",
+          "position": [
+            -2.4,
+            1.18,
+            -0.4
+          ]
+        },
+        {
+          "name": "tea_table",
+          "position": [
+            -1,
+            1.35,
+            0.1
+          ]
+        },
+        {
+          "name": "porch_left",
+          "position": [
+            -0.6,
+            0.62,
+            1
+          ]
+        },
+        {
+          "name": "porch_right",
+          "position": [
+            1,
+            0.62,
+            1
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        9,
+        4.600000000000001,
+        11
+      ],
+      "glbBytes": 571996,
+      "exportMeshes": 176
+    },
+    {
+      "id": "school_gym",
+      "name": "School gym \u00b7 town meeting",
+      "build": "gym",
+      "mood": "day",
+      "reference": "art/gemini/sets/25_school_gym.jpg",
+      "episodes": [
+        6
+      ],
+      "note": "Basketball floor, folding-chair rows with a clear centre aisle, stage, projector screen and microphone.",
+      "glb": "exports/school_gym.glb",
+      "preview": "previews/school_gym.png",
+      "meshes": 426,
+      "vertices": 25270,
+      "invalid": 0,
+      "anchors": [
+        {
+          "name": "stage",
+          "position": [
+            0,
+            0.91,
+            -9
+          ]
+        },
+        {
+          "name": "floor_1",
+          "position": [
+            -2,
+            0,
+            -5
+          ]
+        },
+        {
+          "name": "floor_2",
+          "position": [
+            0,
+            0,
+            -5
+          ]
+        },
+        {
+          "name": "floor_3",
+          "position": [
+            2,
+            0,
+            -5
+          ]
+        },
+        {
+          "name": "floor_4",
+          "position": [
+            3.8,
+            0,
+            -5
+          ]
+        },
+        {
+          "name": "front_l",
+          "position": [
+            -5,
+            0,
+            -5.5
+          ]
+        },
+        {
+          "name": "front_r",
+          "position": [
+            5,
+            0,
+            -5.5
+          ]
+        },
+        {
+          "name": "side_l",
+          "position": [
+            -7.5,
+            0,
+            -1
+          ]
+        },
+        {
+          "name": "side_r",
+          "position": [
+            7.5,
+            0,
+            -1
+          ]
+        },
+        {
+          "name": "aisle",
+          "position": [
+            0,
+            0,
+            2
+          ]
+        }
+      ],
+      "assetErrors": [],
+      "camera": [
+        0,
+        6.5,
+        17
+      ],
+      "glbBytes": 1200812,
+      "exportMeshes": 416
+    }
+  ],
+  "lakeWorldRevision": "Extended lake environment; see lake-world/README.md"
+}

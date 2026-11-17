@@ -1,0 +1,782 @@
+{
+ "rocco_pack_00": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   0,
+   4,
+   39,
+   46
+  ],
+  "size": [
+   39,
+   42
+  ]
+ },
+ "rocco_pack_01": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   272,
+   4,
+   312,
+   46
+  ],
+  "size": [
+   40,
+   42
+  ]
+ },
+ "rocco_pack_02": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   11,
+   18,
+   276,
+   222
+  ],
+  "size": [
+   265,
+   204
+  ]
+ },
+ "rocco_pack_03": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   293,
+   39,
+   403,
+   180
+  ],
+  "size": [
+   110,
+   141
+  ]
+ },
+ "rocco_pack_04": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   404,
+   58,
+   530,
+   180
+  ],
+  "size": [
+   126,
+   122
+  ]
+ },
+ "rocco_pack_05": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   0,
+   218,
+   723,
+   321
+  ],
+  "size": [
+   723,
+   103
+  ]
+ },
+ "rocco_pack_06": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   95,
+   237,
+   178,
+   321
+  ],
+  "size": [
+   83,
+   84
+  ]
+ },
+ "rocco_pack_07": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   410,
+   237,
+   494,
+   321
+  ],
+  "size": [
+   84,
+   84
+  ]
+ },
+ "rocco_pack_08": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   303,
+   239,
+   386,
+   319
+  ],
+  "size": [
+   83,
+   80
+  ]
+ },
+ "rocco_pack_09": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   204,
+   244,
+   273,
+   314
+  ],
+  "size": [
+   69,
+   70
+  ]
+ },
+ "rocco_pack_10": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   517,
+   251,
+   588,
+   308
+  ],
+  "size": [
+   71,
+   57
+  ]
+ },
+ "rocco_pack_11": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   619,
+   272,
+   698,
+   299
+  ],
+  "size": [
+   79,
+   27
+  ]
+ },
+ "rocco_pack_12": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   0,
+   316,
+   723,
+   694
+  ],
+  "size": [
+   723,
+   378
+  ]
+ },
+ "rocco_pack_13": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   307,
+   332,
+   411,
+   389
+  ],
+  "size": [
+   104,
+   57
+  ]
+ },
+ "rocco_pack_14": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   153,
+   339,
+   286,
+   394
+  ],
+  "size": [
+   133,
+   55
+  ]
+ },
+ "rocco_pack_15": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   25,
+   342,
+   136,
+   387
+  ],
+  "size": [
+   111,
+   45
+  ]
+ },
+ "rocco_pack_16": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   583,
+   342,
+   732,
+   456
+  ],
+  "size": [
+   149,
+   114
+  ]
+ },
+ "rocco_pack_17": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   722,
+   342,
+   761,
+   385
+  ],
+  "size": [
+   39,
+   43
+  ]
+ },
+ "rocco_pack_18": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   865,
+   342,
+   904,
+   385
+  ],
+  "size": [
+   39,
+   43
+  ]
+ },
+ "rocco_pack_19": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   737,
+   347,
+   869,
+   456
+  ],
+  "size": [
+   132,
+   109
+  ]
+ },
+ "rocco_pack_20": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   880,
+   347,
+   1011,
+   456
+  ],
+  "size": [
+   131,
+   109
+  ]
+ },
+ "rocco_pack_21": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   289,
+   413,
+   420,
+   539
+  ],
+  "size": [
+   131,
+   126
+  ]
+ },
+ "rocco_pack_22": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   428,
+   413,
+   560,
+   540
+  ],
+  "size": [
+   132,
+   127
+  ]
+ },
+ "rocco_pack_23": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   12,
+   415,
+   142,
+   530
+  ],
+  "size": [
+   130,
+   115
+  ]
+ },
+ "rocco_pack_24": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   150,
+   415,
+   281,
+   530
+  ],
+  "size": [
+   131,
+   115
+  ]
+ },
+ "rocco_pack_25": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   581,
+   452,
+   621,
+   495
+  ],
+  "size": [
+   40,
+   43
+  ]
+ },
+ "rocco_pack_26": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   722,
+   452,
+   761,
+   495
+  ],
+  "size": [
+   39,
+   43
+  ]
+ },
+ "rocco_pack_27": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   865,
+   452,
+   904,
+   495
+  ],
+  "size": [
+   39,
+   43
+  ]
+ },
+ "rocco_pack_28": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   596,
+   457,
+   725,
+   575
+  ],
+  "size": [
+   129,
+   118
+  ]
+ },
+ "rocco_pack_29": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   881,
+   457,
+   1011,
+   581
+  ],
+  "size": [
+   130,
+   124
+  ]
+ },
+ "rocco_pack_30": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   739,
+   458,
+   867,
+   578
+  ],
+  "size": [
+   128,
+   120
+  ]
+ },
+ "rocco_pack_31": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   0,
+   536,
+   142,
+   662
+  ],
+  "size": [
+   142,
+   126
+  ]
+ },
+ "rocco_pack_32": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   137,
+   536,
+   176,
+   579
+  ],
+  "size": [
+   39,
+   43
+  ]
+ },
+ "rocco_pack_33": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   274,
+   536,
+   420,
+   662
+  ],
+  "size": [
+   146,
+   126
+  ]
+ },
+ "rocco_pack_34": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   416,
+   536,
+   560,
+   666
+  ],
+  "size": [
+   144,
+   130
+  ]
+ },
+ "rocco_pack_35": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   150,
+   544,
+   281,
+   662
+  ],
+  "size": [
+   131,
+   118
+  ]
+ },
+ "rocco_pack_36": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   582,
+   574,
+   726,
+   689
+  ],
+  "size": [
+   144,
+   115
+  ]
+ },
+ "rocco_pack_37": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   722,
+   575,
+   761,
+   617
+  ],
+  "size": [
+   39,
+   42
+  ]
+ },
+ "rocco_pack_38": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   865,
+   575,
+   904,
+   617
+  ],
+  "size": [
+   39,
+   42
+  ]
+ },
+ "rocco_pack_39": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   738,
+   579,
+   869,
+   689
+  ],
+  "size": [
+   131,
+   110
+  ]
+ },
+ "rocco_pack_40": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   880,
+   579,
+   1011,
+   689
+  ],
+  "size": [
+   131,
+   110
+  ]
+ },
+ "rocco_pack_41": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   4,
+   689,
+   227,
+   888
+  ],
+  "size": [
+   223,
+   199
+  ]
+ },
+ "rocco_pack_42": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   0,
+   690,
+   39,
+   733
+  ],
+  "size": [
+   39,
+   43
+  ]
+ },
+ "rocco_pack_43": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   205,
+   690,
+   244,
+   732
+  ],
+  "size": [
+   39,
+   42
+  ]
+ },
+ "rocco_pack_44": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   318,
+   690,
+   457,
+   880
+  ],
+  "size": [
+   139,
+   190
+  ]
+ },
+ "rocco_pack_45": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   433,
+   690,
+   472,
+   733
+  ],
+  "size": [
+   39,
+   43
+  ]
+ },
+ "rocco_pack_46": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   690,
+   690,
+   729,
+   732
+  ],
+  "size": [
+   39,
+   42
+  ]
+ },
+ "rocco_pack_47": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   812,
+   690,
+   851,
+   732
+  ],
+  "size": [
+   39,
+   42
+  ]
+ },
+ "rocco_pack_48": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   228,
+   693,
+   333,
+   858
+  ],
+  "size": [
+   105,
+   165
+  ]
+ },
+ "rocco_pack_49": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   689,
+   693,
+   808,
+   883
+  ],
+  "size": [
+   119,
+   190
+  ]
+ },
+ "rocco_pack_50": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   459,
+   700,
+   535,
+   796
+  ],
+  "size": [
+   76,
+   96
+  ]
+ },
+ "rocco_pack_51": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   527,
+   701,
+   701,
+   787
+  ],
+  "size": [
+   174,
+   86
+  ]
+ },
+ "rocco_pack_52": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   821,
+   722,
+   1019,
+   863
+  ],
+  "size": [
+   198,
+   141
+  ]
+ },
+ "rocco_pack_53": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   538,
+   780,
+   605,
+   872
+  ],
+  "size": [
+   67,
+   92
+  ]
+ },
+ "rocco_pack_54": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   602,
+   784,
+   683,
+   867
+  ],
+  "size": [
+   81,
+   83
+  ]
+ },
+ "rocco_pack_55": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   461,
+   796,
+   534,
+   869
+  ],
+  "size": [
+   73,
+   73
+  ]
+ },
+ "rocco_pack_56": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   0,
+   884,
+   197,
+   1024
+  ],
+  "size": [
+   197,
+   140
+  ]
+ },
+ "rocco_pack_57": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   222,
+   901,
+   296,
+   959
+  ],
+  "size": [
+   74,
+   58
+  ]
+ },
+ "rocco_pack_58": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   283,
+   925,
+   357,
+   982
+  ],
+  "size": [
+   74,
+   57
+  ]
+ },
+ "rocco_pack_59": {
+  "src": "rocco_pack.jpg",
+  "box": [
+   222,
+   953,
+   296,
+   1010
+  ],
+  "size": [
+   74,
+   57
+  ]
+ }
+}

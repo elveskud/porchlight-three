@@ -1,0 +1,896 @@
+{
+  "result": "PASS",
+  "cutDefinition": "Consecutive 24 fps camera samples: position jump >0.30m, rotation >0.045rad or vertical FOV >1.2 degrees. Continuous smaller movements are excluded.",
+  "previous": {
+    "frames": 4360,
+    "cuts": [
+      {
+        "time": 4,
+        "beat": "s01",
+        "from": "recap",
+        "distance": 12.32071426500915,
+        "angle": 1.1754927923132725,
+        "fovChange": 3
+      },
+      {
+        "time": 4.416666666666667,
+        "beat": "s01",
+        "from": "s01",
+        "distance": 8.92524509467387,
+        "angle": 0.46494776667453047,
+        "fovChange": -7
+      },
+      {
+        "time": 8.5,
+        "beat": "s01",
+        "from": "s01",
+        "distance": 8.92524509467387,
+        "angle": 0.46494776667453047,
+        "fovChange": 7
+      },
+      {
+        "time": 8.833333333333334,
+        "beat": "s01",
+        "from": "s01",
+        "distance": 12.466454989290257,
+        "angle": 2.533866085588394,
+        "fovChange": 3
+      },
+      {
+        "time": 11.666666666666666,
+        "beat": "s01",
+        "from": "s01",
+        "distance": 12.466454989290257,
+        "angle": 2.533866085588394,
+        "fovChange": -3
+      },
+      {
+        "time": 12,
+        "beat": "s01",
+        "from": "s01",
+        "distance": 8.92524509467387,
+        "angle": 0.46494776667453047,
+        "fovChange": -7
+      },
+      {
+        "time": 14.666666666666666,
+        "beat": "s01",
+        "from": "s01",
+        "distance": 8.92524509467387,
+        "angle": 0.46494776667453047,
+        "fovChange": 7
+      },
+      {
+        "time": 15.083333333333334,
+        "beat": "s01",
+        "from": "s01",
+        "distance": 12.466454989290257,
+        "angle": 2.533866085588394,
+        "fovChange": 3
+      },
+      {
+        "time": 16.416666666666668,
+        "beat": "s01",
+        "from": "s01",
+        "distance": 12.466454989290257,
+        "angle": 2.533866085588394,
+        "fovChange": -3
+      },
+      {
+        "time": 16.75,
+        "beat": "s01",
+        "from": "s01",
+        "distance": 8.92524509467387,
+        "angle": 0.46494776667453047,
+        "fovChange": -7
+      },
+      {
+        "time": 18.5,
+        "beat": "s01",
+        "from": "s01",
+        "distance": 8.92524509467387,
+        "angle": 0.46494776667453047,
+        "fovChange": 7
+      },
+      {
+        "time": 19.25,
+        "beat": "s01",
+        "from": "s01",
+        "distance": 12.466454989290257,
+        "angle": 2.533866085588394,
+        "fovChange": 3
+      },
+      {
+        "time": 21.666666666666668,
+        "beat": "s01",
+        "from": "s01",
+        "distance": 12.466454989290257,
+        "angle": 2.533866085588394,
+        "fovChange": -3
+      },
+      {
+        "time": 24,
+        "beat": "s02",
+        "from": "s01",
+        "distance": 13.244244032786469,
+        "angle": 0.7655517060518918,
+        "fovChange": -1
+      },
+      {
+        "time": 31.5,
+        "beat": "s03",
+        "from": "s02",
+        "distance": 9.507207820344606,
+        "angle": 0.5606740258526172,
+        "fovChange": -7.715310923183374
+      },
+      {
+        "time": 37.166666666666664,
+        "beat": "s03",
+        "from": "s03",
+        "distance": 5.565868777953943,
+        "angle": 0.43637230406638033,
+        "fovChange": -1.7498757955685136
+      },
+      {
+        "time": 42.75,
+        "beat": "s03",
+        "from": "s03",
+        "distance": 5.576880355890744,
+        "angle": 0.4364018989677316,
+        "fovChange": 1.7498757955685136
+      },
+      {
+        "time": 43.083333333333336,
+        "beat": "s03",
+        "from": "s03",
+        "distance": 3.2127696936592898,
+        "angle": 0.43567341347782806,
+        "fovChange": -1.7498757955685136
+      },
+      {
+        "time": 44.166666666666664,
+        "beat": "s03",
+        "from": "s03",
+        "distance": 3.2034417875664447,
+        "angle": 0.43569011378733996,
+        "fovChange": 1.7498757955685136
+      },
+      {
+        "time": 44.583333333333336,
+        "beat": "s03",
+        "from": "s03",
+        "distance": 5.569868347458409,
+        "angle": 0.4363784301325632,
+        "fovChange": -1.7498757955685136
+      },
+      {
+        "time": 46.5,
+        "beat": "s03",
+        "from": "s03",
+        "distance": 5.567741276498169,
+        "angle": 0.43639637997794367,
+        "fovChange": 1.7498757955685136
+      },
+      {
+        "time": 48.833333333333336,
+        "beat": "s03",
+        "from": "s03",
+        "distance": 5.573572028529353,
+        "angle": 0.43638011527964077,
+        "fovChange": -1.7498757955685136
+      },
+      {
+        "time": 49.333333333333336,
+        "beat": "s03",
+        "from": "s03",
+        "distance": 5.577592025588778,
+        "angle": 0.4364062125710788,
+        "fovChange": 1.7498757955685136
+      },
+      {
+        "time": 49.75,
+        "beat": "s03",
+        "from": "s03",
+        "distance": 5.567874549558298,
+        "angle": 0.43638007159306025,
+        "fovChange": -1.7498757955685136
+      },
+      {
+        "time": 52.083333333333336,
+        "beat": "s03",
+        "from": "s03",
+        "distance": 5.565063747355989,
+        "angle": 0.43639084590473787,
+        "fovChange": 1.7498757955685136
+      },
+      {
+        "time": 52.5,
+        "beat": "s03",
+        "from": "s03",
+        "distance": 5.567298574121874,
+        "angle": 0.43638527115197945,
+        "fovChange": -1.7498757955685136
+      },
+      {
+        "time": 53.333333333333336,
+        "beat": "s03",
+        "from": "s03",
+        "distance": 5.567763056291404,
+        "angle": 0.4364044873878097,
+        "fovChange": 1.7498757955685136
+      },
+      {
+        "time": 55.666666666666664,
+        "beat": "s04",
+        "from": "s03",
+        "distance": 7.909855540633353,
+        "angle": 0.8358346796979294,
+        "fovChange": 2.635643597965405
+      },
+      {
+        "time": 60.166666666666664,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 7.063553854262442,
+        "angle": 0.4488781882912718,
+        "fovChange": -4.385519393533919
+      },
+      {
+        "time": 63.416666666666664,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 7.069056423294802,
+        "angle": 0.4488828217090426,
+        "fovChange": 4.385519393533919
+      },
+      {
+        "time": 64.91666666666667,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 7.107349423031212,
+        "angle": 0.44889313182514057,
+        "fovChange": -4.385519393533919
+      },
+      {
+        "time": 69.16666666666667,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 7.103934022418297,
+        "angle": 0.4488953164150822,
+        "fovChange": 4.385519393533919
+      },
+      {
+        "time": 69.58333333333333,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 11.589695345963918,
+        "angle": 0.2039386492817558,
+        "fovChange": 0.07966732521796871
+      },
+      {
+        "time": 71.91666666666667,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 11.478304037535466,
+        "angle": 0.2039386492817558,
+        "fovChange": -0.07966732521796871
+      },
+      {
+        "time": 72.33333333333333,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 11.49114157306836,
+        "angle": 0.2039386492817558,
+        "fovChange": 0.07966732521796871
+      },
+      {
+        "time": 73,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 11.51927151755991,
+        "angle": 0.2039386492817558,
+        "fovChange": -0.07966732521796871
+      },
+      {
+        "time": 73.33333333333333,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 5.716087024170525,
+        "angle": 0.45022502040934825,
+        "fovChange": -4.385519393533919
+      },
+      {
+        "time": 74.91666666666667,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 5.707607666680959,
+        "angle": 0.4502073818861384,
+        "fovChange": 4.385519393533919
+      },
+      {
+        "time": 75.25,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 5.707072685099557,
+        "angle": 0.4502144501437603,
+        "fovChange": -4.385519393533919
+      },
+      {
+        "time": 76.5,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 5.707211355934024,
+        "angle": 0.45020786491597514,
+        "fovChange": 4.385519393533919
+      },
+      {
+        "time": 76.91666666666667,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 5.710049420639456,
+        "angle": 0.45022927532158147,
+        "fovChange": -4.385519393533919
+      },
+      {
+        "time": 79.41666666666667,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 5.714076444591639,
+        "angle": 0.4502153620728224,
+        "fovChange": 4.385519393533919
+      },
+      {
+        "time": 80.58333333333333,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 6.688587962612927,
+        "angle": 0.44889530350458684,
+        "fovChange": -4.385519393533919
+      },
+      {
+        "time": 81.83333333333333,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 6.69375227465393,
+        "angle": 0.4488594328153857,
+        "fovChange": 4.385519393533919
+      },
+      {
+        "time": 82.16666666666667,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 5.711313781606122,
+        "angle": 0.45020556308153764,
+        "fovChange": -4.385519393533919
+      },
+      {
+        "time": 83.16666666666667,
+        "beat": "s04",
+        "from": "s04",
+        "distance": 5.580898678044218,
+        "angle": 0.45019884897928314,
+        "fovChange": 4.385519393533919
+      },
+      {
+        "time": 84.58333333333333,
+        "beat": "s05",
+        "from": "s04",
+        "distance": 12.972213546546861,
+        "angle": 1.045059896024972,
+        "fovChange": -2.635643597965405
+      },
+      {
+        "time": 88.75,
+        "beat": "s05",
+        "from": "s05",
+        "distance": 7.208799376808548,
+        "angle": 0.6443454689646589,
+        "fovChange": -1.7498757955685136
+      },
+      {
+        "time": 92.58333333333333,
+        "beat": "s05",
+        "from": "s05",
+        "distance": 7.2085340365980874,
+        "angle": 0.6443644470696382,
+        "fovChange": 1.7498757955685136
+      },
+      {
+        "time": 93.25,
+        "beat": "s05",
+        "from": "s05",
+        "distance": 6.3590228367884345,
+        "angle": 0.6435714731491564,
+        "fovChange": -1.7498757955685136
+      },
+      {
+        "time": 94.91666666666667,
+        "beat": "s05",
+        "from": "s05",
+        "distance": 6.363887000767195,
+        "angle": 0.6435648417002352,
+        "fovChange": 1.7498757955685136
+      },
+      {
+        "time": 95.58333333333333,
+        "beat": "s05",
+        "from": "s05",
+        "distance": 6.363614143039808,
+        "angle": 0.6435607031872225,
+        "fovChange": -1.7498757955685136
+      },
+      {
+        "time": 99.58333333333333,
+        "beat": "s05",
+        "from": "s05",
+        "distance": 6.351326049817963,
+        "angle": 0.6435647285095241,
+        "fovChange": 1.7498757955685136
+      },
+      {
+        "time": 101.91666666666667,
+        "beat": "s05",
+        "from": "s05",
+        "distance": 6.359842436390757,
+        "angle": 0.6435630688260414,
+        "fovChange": -1.7498757955685136
+      },
+      {
+        "time": 106.5,
+        "beat": "s05",
+        "from": "s05",
+        "distance": 6.356643354300206,
+        "angle": 0.6435608291836248,
+        "fovChange": 1.7498757955685136
+      },
+      {
+        "time": 107.16666666666667,
+        "beat": "s05",
+        "from": "s05",
+        "distance": 7.202689616187584,
+        "angle": 0.6443723928363645,
+        "fovChange": -1.7498757955685136
+      },
+      {
+        "time": 107.66666666666667,
+        "beat": "s05",
+        "from": "s05",
+        "distance": 7.200249792442539,
+        "angle": 0.644389894258728,
+        "fovChange": 1.7498757955685136
+      },
+      {
+        "time": 108.33333333333333,
+        "beat": "s05",
+        "from": "s05",
+        "distance": 7.201728458044782,
+        "angle": 0.6443794753735494,
+        "fovChange": -1.7498757955685136
+      },
+      {
+        "time": 110.83333333333333,
+        "beat": "s05",
+        "from": "s05",
+        "distance": 7.207805911295922,
+        "angle": 0.6443740112805936,
+        "fovChange": 1.7498757955685136
+      },
+      {
+        "time": 113.83333333333333,
+        "beat": "s05",
+        "from": "s05",
+        "distance": 7.213010431728691,
+        "angle": 0.6443671283500964,
+        "fovChange": -1.7498757955685136
+      },
+      {
+        "time": 114.83333333333333,
+        "beat": "s05",
+        "from": "s05",
+        "distance": 7.207524390166412,
+        "angle": 0.6443784227021503,
+        "fovChange": 1.7498757955685136
+      },
+      {
+        "time": 115.41666666666667,
+        "beat": "s05",
+        "from": "s05",
+        "distance": 6.35392680562774,
+        "angle": 0.6435729318157992,
+        "fovChange": -1.7498757955685136
+      },
+      {
+        "time": 116.41666666666667,
+        "beat": "s05",
+        "from": "s05",
+        "distance": 6.350532401912235,
+        "angle": 0.6435804001371255,
+        "fovChange": 1.7498757955685136
+      },
+      {
+        "time": 118.08333333333333,
+        "beat": "s06",
+        "from": "s05",
+        "distance": 11.810612679425795,
+        "angle": 1.0616454918422964,
+        "fovChange": 0
+      },
+      {
+        "time": 124.08333333333333,
+        "beat": "s06",
+        "from": "s06",
+        "distance": 6.803134126185522,
+        "angle": 1.0201644690714853,
+        "fovChange": 1.7153109231833739
+      },
+      {
+        "time": 127.41666666666667,
+        "beat": "s06",
+        "from": "s06",
+        "distance": 6.805469073697935,
+        "angle": 1.0201644690714853,
+        "fovChange": -1.7153109231833739
+      },
+      {
+        "time": 132.25,
+        "beat": "s06",
+        "from": "s06",
+        "distance": 1.237333442169018,
+        "angle": 5.960464477539063e-8,
+        "fovChange": 5.715310923183374
+      },
+      {
+        "time": 133.08333333333334,
+        "beat": "s07",
+        "from": "s06",
+        "distance": 5.637054398042022,
+        "angle": 0.7559164768320105,
+        "fovChange": -6.590947828589989
+      },
+      {
+        "time": 137.75,
+        "beat": "s07",
+        "from": "s07",
+        "distance": 2.973145452558653,
+        "angle": 0.34537965727090153,
+        "fovChange": -0.874238890161898
+      },
+      {
+        "time": 138.91666666666666,
+        "beat": "s07",
+        "from": "s07",
+        "distance": 2.97700251290768,
+        "angle": 0.345373363710005,
+        "fovChange": 0.874238890161898
+      },
+      {
+        "time": 141.75,
+        "beat": "s07",
+        "from": "s07",
+        "distance": 4.227008749747584,
+        "angle": 0.3453828520599672,
+        "fovChange": -0.874238890161898
+      },
+      {
+        "time": 142.5,
+        "beat": "s07",
+        "from": "s07",
+        "distance": 4.224395616748079,
+        "angle": 0.3453966440250794,
+        "fovChange": 0.874238890161898
+      },
+      {
+        "time": 162.08333333333334,
+        "beat": "s07",
+        "from": "s07",
+        "distance": 0.6764309347765096,
+        "angle": 0.036826028582953835,
+        "fovChange": 0
+      },
+      {
+        "time": 164.41666666666666,
+        "beat": "s07",
+        "from": "s07",
+        "distance": 3.7870086526169278,
+        "angle": 0.345371455626239,
+        "fovChange": -0.874238890161898
+      },
+      {
+        "time": 165.41666666666666,
+        "beat": "s07",
+        "from": "s07",
+        "distance": 3.7898005294006443,
+        "angle": 0.3453729558018739,
+        "fovChange": 0.874238890161898
+      },
+      {
+        "time": 167.66666666666666,
+        "beat": "s08",
+        "from": "s07",
+        "distance": 5.342529375628855,
+        "angle": 0.9249152543527197,
+        "fovChange": 9.59094782858999
+      },
+      {
+        "time": 178.16666666666666,
+        "beat": "ending",
+        "from": "s08",
+        "distance": 6.754257916307313,
+        "angle": 0.9320421383712693,
+        "fovChange": -6
+      }
+    ],
+    "count": 77
+  },
+  "revised": {
+    "frames": 4360,
+    "cuts": [
+      {
+        "time": 4,
+        "beat": "s01",
+        "from": "recap",
+        "distance": 5.45,
+        "angle": 0.13769966564207153,
+        "fovChange": 8
+      },
+      {
+        "time": 24,
+        "beat": "s02",
+        "from": "s01",
+        "distance": 4.129467277991194,
+        "angle": 0.3621587070813229,
+        "fovChange": -1
+      },
+      {
+        "time": 31.5,
+        "beat": "s03",
+        "from": "s02",
+        "distance": 4.269597971739,
+        "angle": 0.33875000828148066,
+        "fovChange": -7
+      },
+      {
+        "time": 55.666666666666664,
+        "beat": "s04",
+        "from": "s03",
+        "distance": 4.036087214122113,
+        "angle": 0.2013938383848106,
+        "fovChange": 0
+      },
+      {
+        "time": 84.58333333333333,
+        "beat": "s05",
+        "from": "s04",
+        "distance": 4.906373406091306,
+        "angle": 0.05668873327120505,
+        "fovChange": 3
+      },
+      {
+        "time": 118.08333333333333,
+        "beat": "s06",
+        "from": "s05",
+        "distance": 2.1100947846009195,
+        "angle": 0.14093465447416473,
+        "fovChange": 7
+      },
+      {
+        "time": 124.08333333333333,
+        "beat": "s06",
+        "from": "s06",
+        "distance": 6.9873514926810945,
+        "angle": 0.9739313733369783,
+        "fovChange": -17
+      },
+      {
+        "time": 127.41666666666667,
+        "beat": "s06",
+        "from": "s06",
+        "distance": 6.986720812051532,
+        "angle": 0.9739313733369783,
+        "fovChange": 17
+      },
+      {
+        "time": 133.08333333333334,
+        "beat": "s07",
+        "from": "s06",
+        "distance": 3.0033314835362415,
+        "angle": 0.28832346136611187,
+        "fovChange": -10
+      },
+      {
+        "time": 167.66666666666666,
+        "beat": "s08",
+        "from": "s07",
+        "distance": 1.685971530008737,
+        "angle": 0.2487544967300321,
+        "fovChange": 1
+      },
+      {
+        "time": 178.16666666666666,
+        "beat": "ending",
+        "from": "s08",
+        "distance": 8.06225774829855,
+        "angle": 0.3430155464756228,
+        "fovChange": -7
+      }
+    ],
+    "count": 11
+  },
+  "reductionPercent": 85.71428571428572,
+  "sets": [
+    {
+      "id": "classroom",
+      "reference": "art/gemini/first-round/c2_classroom_day.jpg",
+      "matched": true,
+      "meshes": 435,
+      "referenceMeshes": 435,
+      "types": {
+        "BoxGeometry": 362,
+        "PlaneGeometry": 3,
+        "CylinderGeometry": 13,
+        "SphereGeometry": 54,
+        "TorusGeometry": 1,
+        "ShapeGeometry": 2
+      },
+      "features": {
+        "reference paired school desk": 6,
+        "tall classroom window wall": 1,
+        "reference bookcase": 1
+      }
+    },
+    {
+      "id": "pip_home",
+      "reference": "art/gemini/sets/19_pip_room_night.jpg",
+      "matched": true,
+      "meshes": 265,
+      "referenceMeshes": 265,
+      "types": {
+        "BoxGeometry": 235,
+        "PlaneGeometry": 3,
+        "CylinderGeometry": 11,
+        "SphereGeometry": 14,
+        "ConeGeometry": 1,
+        "TorusGeometry": 1
+      },
+      "features": {
+        "reference bookcase": 1
+      }
+    },
+    {
+      "id": "pip_garage",
+      "reference": "art/gemini/sets/56_pip_garage_one_box.jpg",
+      "matched": true,
+      "meshes": 299,
+      "referenceMeshes": 299,
+      "types": {
+        "BoxGeometry": 231,
+        "PlaneGeometry": 3,
+        "CylinderGeometry": 55,
+        "TorusGeometry": 8,
+        "SphereGeometry": 1,
+        "CircleGeometry": 1
+      },
+      "features": {
+        "garage door": 1,
+        "single sealed moving box": 1
+      }
+    },
+    {
+      "id": "stoop_sunset",
+      "reference": "art/gemini/sets/stoop_sunset_v2.jpg",
+      "matched": true,
+      "meshes": 1299,
+      "referenceMeshes": 1298,
+      "types": {
+        "BoxGeometry": 1152,
+        "SphereGeometry": 81,
+        "CylinderGeometry": 61,
+        "TorusGeometry": 4,
+        "ShapeGeometry": 1
+      },
+      "features": {
+        "brick apartment facade": 1
+      }
+    },
+    {
+      "id": "stoop_night",
+      "reference": "art/gemini/sets/stoop_night_v2.jpg",
+      "matched": true,
+      "meshes": 1321,
+      "referenceMeshes": 1320,
+      "types": {
+        "BoxGeometry": 1152,
+        "SphereGeometry": 59,
+        "CylinderGeometry": 61,
+        "TorusGeometry": 4,
+        "CircleGeometry": 3,
+        "ShapeGeometry": 1,
+        "ExtrudeGeometry": 41
+      },
+      "features": {
+        "brick apartment facade": 1
+      }
+    },
+    {
+      "id": "main_street",
+      "reference": "art/gemini/sets/55_main_street_day_mailbox.jpg",
+      "matched": true,
+      "meshes": 1081,
+      "referenceMeshes": 1080,
+      "types": {
+        "BoxGeometry": 834,
+        "SphereGeometry": 39,
+        "ExtrudeGeometry": 171,
+        "CylinderGeometry": 36,
+        "ShapeGeometry": 1
+      },
+      "features": {
+        "reference clock tower": 1,
+        "blue mailbox": 1
+      }
+    },
+    {
+      "id": "brook_porch",
+      "reference": "art/gemini/sets/54_brook_porch_summer.jpg",
+      "matched": true,
+      "meshes": 493,
+      "referenceMeshes": 492,
+      "types": {
+        "BoxGeometry": 154,
+        "SphereGeometry": 257,
+        "CylinderGeometry": 74,
+        "TubeGeometry": 2,
+        "TorusGeometry": 6
+      },
+      "features": {
+        "screen door mesh wire": 26,
+        "rocking chair": 1
+      }
+    },
+    {
+      "id": "hall_outside",
+      "reference": "art/gemini/sets/hall_outside_sunset.jpg",
+      "matched": true,
+      "meshes": 214,
+      "referenceMeshes": 213,
+      "types": {
+        "PlaneGeometry": 1,
+        "BoxGeometry": 107,
+        "ExtrudeGeometry": 58,
+        "CylinderGeometry": 24,
+        "SphereGeometry": 22,
+        "BufferGeometry": 1,
+        "ShapeGeometry": 1
+      },
+      "features": {
+        "old festival hall": 1
+      }
+    },
+    {
+      "id": "lake_night",
+      "reference": "art/gemini/sets/lake_night_v2.jpg",
+      "matched": true,
+      "meshes": 1698,
+      "referenceMeshes": 1697,
+      "types": {
+        "PlaneGeometry": 1,
+        "ShapeGeometry": 8,
+        "BufferGeometry": 12,
+        "BoxGeometry": 1224,
+        "SphereGeometry": 178,
+        "ExtrudeGeometry": 90,
+        "ConeGeometry": 12,
+        "CylinderGeometry": 101,
+        "RingGeometry": 8,
+        "LatheGeometry": 2,
+        "IcosahedronGeometry": 11,
+        "TubeGeometry": 49,
+        "CircleGeometry": 2
+      },
+      "features": {
+        "old festival hall": 1
+      }
+    }
+  ]
+}

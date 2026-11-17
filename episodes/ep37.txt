@@ -1,0 +1,103 @@
+# Porchlight 37: One Small Game
+next: Leave It Be
+thumb: DID I WIN?
+grade: summer
+
+== Cold open | stoop, sunset | riot, rocco, bash, pip
+[mood: soft]
+RIOT sits on the step.
+// Evening. Riot, on a chair, reaches up and switches on the porch light. He's done it a thousand times. Today he takes a moment before he lets go of the switch.
+[json: {"fx": [{"type": "lamp_on", "at": 1.0}]}]
+RIOT (soft): Light's on.
+// Bash and Pip are coming up the street. Nobody's in a hurry. Lord Puddles on the railing. It might be the last one here. Nobody's going to say so.
+[chat]
+Riot: LIGHT'S ON
+Bash: omw
+Pip: bringing snacks
+Rocco: i live here
+[hold: 8]
+
+[intro]
+
+
+== No plan | stoop, sunset | riot, rocco, bash, pip, bea
+BASH sits on the step.
+PIP sits on the step.
+BEA enters left.
+RIOT carries a phone.
+// They've left the apartment. They've brought the beanbag out to the stoop. Rocco's in it on the pavement. Bea's tagged along and she's got a sticker on her head that says Referee.
+RIOT: We've got to talk about tomorrow. We should work out what to do about Pip's...
+PIP (soft): Not tonight.
+RIOT: But the...
+PIP (soft): One night. Just a normal game night. A real one.
+// A pause. Riot looks at him. He puts the phone down, and picks it up, and he's smiling.
+RIOT (hype): Alias! Bash and Pip against me and Rocco! Tonight, nobody's doing any training!
+BASH (shrug): Sure. Whatever.
+ROCCO (suspicious): Whatever? Who are you?
+BASH (munch): I don't know. Pass the chips.
+// He's lying on his back on the step with his feet up on the rail. He isn't even looking at the scoreboard. He's looking at the sky.
+[hold: 8]
+
+== The game | stoop, sunset | riot, rocco, bash, pip, bea
+[mood: party]
+RIOT (cheer): Rocco! What's this one?
+ROCCO (deadpan): It's you. Getting a word wrong.
+RIOT (laugh): That's not a clue!
+BEA (yelling): TEN SECONDS!
+// Everyone's laughing. Nobody's keeping track. Bash has a chip on his nose, balanced there. Pip is crying with laughter at something Rocco said. It's so easy. It's how it was in the first episode, only better, because now everyone knows what it is.
+[json: {"game": {"type": "alias", "word": "Treasure", "describer": "bash", "guesser": "pip", "clue": "You look for it. It's worth everything. Sometimes it's right under your feet.", "guess": "Treasure!"}}]
+BASH (happy): Nice one, Pip.
+RIOT: Okay, my turn. I've got this.
+BASH: Sure you do.
+// He reaches over for the bag, and tips some into Pip's paw. He's telling a story about Bea and the cereal. He's doing the voice. Bea's yelling something from the rail.
+BEA (yelling): TIME!
+// Nobody looks up. The game has moved on. Bea hops down, marches over, and stands on Bash's chest. She holds up the phone in both paws in front of his nose.
+BEA: Bash.
+BASH (happy): Hi, Bea.
+BEA: You won.
+BASH (happy): Yeah? Great. Do you want a chip?
+BEA (hips): No. Bash. You WON. Look. You and Pip. Ten to nine.
+// He looks at her. He looks at the phone. A very slow change comes over his face. He sits up. The chip falls off his nose. Riot has stopped. Rocco has stopped. Pip's got his paws over his mouth.
+[hold: 8]
+
+== Huh | stoop, sunset | riot, rocco, bash, pip, bea
+[mood: soft]
+BASH (quietly): Did I...
+ROCCO (quietly): Ten to nine.
+// All the games. The Saturdays, the 2 a.m.s, the drawer, the sock, the crayon, the spoon. All of it. We wait for the roar. He's going to go through the roof. Everyone waits for it.
+// Bash looks at the score. He looks up at the three of them. He looks at the porch light, and at Pip. There's nothing at all that he needs to do. He breathes out slowly.
+BASH (happy, quietly): ...Huh.
+// He smiles. It's small, it's real, and it's the happiest we've ever seen him. He reaches down and picks up the bag of chips. He holds it out, across the step. To Rocco.
+ROCCO: ...
+// Rocco takes one. He has to look away for a moment.
+RIOT (soft): You okay?
+BASH (happy): Yeah. It was a really good game.
+BEA (cheer): BEST BASH!
+// She flings herself on him. They all go down in a heap, laughing. It's nothing. It was one small game. Pip's still got his paws over his mouth, and now his eyes are wet.
+[hold: 8]
+
+== Two things | stoop, night | rocco, pip
+[mood: tense]
+ROCCO sits on the step.
+PIP sits on the step.
+ROCCO carries a flashlight.
+PIP carries a photo.
+// Late. Everyone's gone or asleep. Rocco's turning over the old heavy flashlight Preston dropped in the house. Pip has the storm-night photo from Walt's crate. He's got his notebook, and a tiny flake of old brown paper that came off one of Mrs. Brook's chimes on the day of the tea.
+PIP (quietly): I took this from the porch. Way back.
+PIP (quietly): Look at it next to the old bunting paper. It's the same. It's lantern paper.
+ROCCO (quietly): The chimes.
+PIP (nod): Off-cuts. She made them from what was left.
+ROCCO (quietly): Mrs. Brook. The second name, on the program.
+PIP (soft): It's her voice on the tape. She's had it for forty years.
+// A silence. They look at the dark street, to the lake. A candle-sized light far away in a window. Rocco looks at the flashlight in his paw, and at the photograph. He holds them closer together.
+ROCCO (suspicious): Pip. That blurry kid. What's he holding?
+// In the corner of the photo: the little ruined face.
+// And below it, quite clear, in a small tight wing, an old heavy flashlight, exactly like this one. Rocco turns the handle to the porch light. The scratched initials. P.
+[fx insert kind=paper head=THE_STORM_NIGHT lines=["(the_blurred_child,_the_flashlight)"] at=1 for=3]
+PIP (shocked, quietly): That's a peacock's tail behind him.
+ROCCO (quietly): He said he knew the sound.
+// They look at each other. Pip puts the photo down. He takes a long breath.
+ROCCO: We'll tell the others. All of us go, in the morning. She's an old lady, we'll be nice.
+PIP (soft): No.
+PIP (soft): Let me go. I'm the Ear. And she's the only person who ever asked me who I was.
+[hold: 8]

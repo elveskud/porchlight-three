@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Porchlight-work\\Blender\\videos\\ep02\\vo\\s01_after06.wav",
+    "duration": 1.02
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.47, "value": "X" },
+    { "start": 0.47, "end": 0.57, "value": "B" },
+    { "start": 0.57, "end": 0.64, "value": "C" },
+    { "start": 0.64, "end": 0.77, "value": "B" },
+    { "start": 0.77, "end": 0.91, "value": "C" },
+    { "start": 0.91, "end": 0.98, "value": "B" },
+    { "start": 0.98, "end": 1.02, "value": "X" }
+  ]
+}

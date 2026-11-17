@@ -1,0 +1,133 @@
+# Porchlight 39: Twelfth of August
+next: Porch Light Off
+thumb: EVERY LIGHT IN TOWN
+grade: summer
+
+== Cold open | festival stage | mayor, gus, walt, riot, rocco, bash, pip, bashmom, owl, hal, preston, marlo
+[mood: party]
+[fx crowd row_px=[40,470,980] n=18]
+GUS carries a tape.
+// Dusk by the lake. It's beautiful. Exactly the way it looked in the memory. String lights. Bunting. Long tables on the sand. The entire town is here. The board's on a table in front of the stage, on loan from the hall. Everyone thinks it's a nice old decoration. Four empty chairs around it.
+MAYOR (hype): Welcome, one and all, to the first Lantern Festival in forty years! Please enjoy the potato salad!
+// On the wall of the stage, a calendar. 12 AUGUST. Behind the crowd, over the hills, the sky's going a colour we know. Rocco looks at it, and then at his watch.
+ROCCO (deadpan): Nine forty-one.
+RIOT (quietly): How long?
+ROCCO (deadpan): Now.
+[hold: 8]
+
+[intro]
+
+
+== The storm | festival stage | mayor, gus, walt, riot, rocco, bash, pip, bashmom, owl, hal, preston, marlo
+[storm]
+[mood: tense]
+[fx crowd row_px=[40,470,980] n=18 mood=run run_at=0.6]
+[sfx: boom]
+// One flash and the whole lake's white. The wind takes the banner. The screaming starts as laughing. Rain comes down like a wall. It's the same storm. We've seen it. The tables go. The whole town turns and starts to run, and it's happening again, all of it, exactly as it did.
+BASHMOM (yelling, yell): EVERYBODY INSIDE! RUN, SWEETIES!
+MAYOR (scared, yelling): I HEREBY POSTPONE! LET'S FORM A COMMITTEE! INDOORS!
+// The four boys stand still, in the middle of it, soaked, the only ones not moving. Riot grabs the edge of the table. They hold the board down with their bodies. He's yelling something nobody can hear.
+RIOT (scared, yelling): STAY! PLEASE! EVERYONE, DON'T RUN! DON'T RUN!
+// Nobody hears. A small boy runs past. A rope slides off the stage. Walt's standing with it in his paws, not knowing why he picked it up. His mouth's open.
+WALT (scared, quietly): I've been here.
+// He's nine. For a moment he's nine. And close by, under a torn awning, there's someone not running. He's dripping, and his great tail's soaked and collapsed behind him. He looks ridiculous, and very old, and very young.
+[hold: 8]
+
+== I ran | festival stage | preston, rocco, pip
+[storm]
+[mood: soft]
+PIP enters left.
+ROCCO enters left.
+ROCCO carries a flashlight.
+// Rocco holds out the old flashlight, handle first. Preston stares at it. He takes it in both wings as though it might break.
+PRESTON (soft): Where did you...
+PIP (soft): You were nine. You were in the photo.
+// The rain runs down his face. There's no Preston left. No suit. No "but more".
+PRESTON (sad, quietly): It was my family's turn. The last round.
+PRESTON (sad, quietly): I had the flashlight, to light the way for the lantern.
+PRESTON (sad, quietly): It was the most important thing that had ever happened to me.
+PRESTON (sad, quietly): And it started to rain, and I ran. I was so scared I just ran.
+PRESTON (sad, quietly): I left them. I've been trying to buy that beach ever since.
+PRESTON (soft, quietly): I ran last time.
+// He looks at the flashlight. He switches it on. It works. It's a very small light. He looks up at the four chairs, and he walks over through the rain, and stands behind them, and he holds it up.
+PRESTON (determined): Well? I'm not paying for all this for nothing.
+[hold: 8]
+
+== Some guy | gus garage | gus, rocco
+[storm]
+[mood: tense]
+// Rocco, streaming wet, comes through the garage door. Gus's old mic. The red light on. Gus is hunched over it, trying to raise anyone. Rocco stands in the doorway. He hasn't got any chips. He's left the notebooks at home. Gus takes one look at him. He gets up, and holds out the chair.
+GUS (soft): Go on, son. Everyone's got a radio on tonight.
+ROCCO sits on the crate.
+// He sits. He looks at the microphone. He's never said anything to anyone in his life. All over town, in cars and kitchens and doorways, wet families turn up a radio.
+ROCCO (quietly, chin): Um. Hi.
+ROCCO (quietly): This is some guy.
+// A kettle stops whistling in a kitchen. Bash's mother turns her head. A kid with a tricycle looks up. They know that voice, somehow. It sounds like the tune.
+ROCCO (soft): I make the tapes. I've been meaning to say.
+ROCCO (soft): I've got something else I should have said a long time ago.
+ROCCO (soft): You're not going to believe it. You'll forget by breakfast.
+ROCCO (soft): So I'll say it quick, and I'll say it out loud.
+[hold: 8]
+
+== The town listens | main street | rocco
+[storm]
+[mood: tense]
+[vo: rocco]
+[radio]
+[camera: wide]
+// The voice carries over the town: a kitchen, a car, a doorway. Nobody on screen is speaking.
+ROCCO (soft): It's been the same summer for forty years.
+ROCCO (soft): There's a storm tonight because there's a storm every night like this one.
+ROCCO (soft): We ran from it, a long time ago. We never finished what we were doing.
+ROCCO (soft): You can feel it. You've been feeling it. You've all got that one word you can't quite think of.
+ROCCO (soft): We can finish it tonight. It needs everyone. So if you can hear this, don't run.
+ROCCO (soft): Stay where you are. Pick up your phone.
+ROCCO (soft, quietly): And if you're in, put your porch light on.
+[hold: 2]
+
+== Silence | gus garage | gus, rocco
+[storm]
+[mood: tense]
+// He stops. It's the longest he's ever spoken. Silence. Just rain on the roof. He looks at Gus. Gus looks at him. Nothing happens. Nothing happens.
+[hold: 9]
+
+== Every light | lake, night | riot, bash, pip
+[storm]
+[fx clouds]
+[mood: soft]
+[fx porch_ring at=2 every=0.2]
+// The four chairs. Black lake, rain, the whole shore dark. Riot lifts his head. On the far side of the water a light comes on. A single small warm porch light.
+// Then one beside it. Bash's house, with forty bears on the steps. Then Walt's. The school. Then all down main street. One by one, up the hill, around the shore, all the way round the lake, every porch light in Maple Hollow comes on in the rain. It's what the street's always known. On means game night.
+BASH (soft, whispers): They heard him.
+// The lake's a ring of small gold lights. It's the most beautiful thing in the entire series. Riot's crying and it doesn't matter, it's raining.
+RIOT (soft): Get to the chairs.
+[hold: 8]
+
+== All hands | festival stage | riot, rocco, bash, pip, preston
+[storm]
+RIOT carries a phone.
+ROCCO enters left.
+// The four sit down in the rain. Eye, key, foot, ear. Preston's flashlight over them. Riot opens a room. Friendzy. It's only what they use, just an app and a code. Gus reads the code out on the radio. The list fills up: Riot, Rocco, Bash, Pip, Walt, Bash's mom, Gus, Big Hal, the Mayor. Nine. Then, without a word, a tenth name joins. All over town, other phones light up in other rooms.
+[json: {"game": {"type": "feature", "feature": "rooms", "who": "riot", "say": "Room's open. It holds ten. One seat for every street."}}]
+RIOT (hype): Everybody else, get your own room and play along! One question! Last turn, all hands!
+// He's holding the phone in both paws to keep the rain off. It's only a card. It's the next one in the deck. He reads it out, and his voice goes round the whole lake on Gus's radio.
+RIOT (soft): Most likely to be the last to realise how important they are to people.
+[text: Most likely to be the last to realise how important they are to people.]
+// It takes a second. The votes come in. Riot stares at the screen. Walt. Bash's mother. Big Hal. The Mayor, who has voted with total certainty for the first time in her life. Gus. Every phone in the room. Nine votes, one name. Out of the dark, from porch after porch, people are calling it across the water.
+PIP (soft): Who is it?
+RIOT (soft, quietly): It's her.
+[hold: 8]
+
+== The porch | brook porch | brook
+[storm]
+[mood: soft]
+BROOK sits on the bench.
+BROOK carries a phone.
+// Her porch. The candle in the window, the same as every year. The chimes are wild in the wind. She's sitting with a little old phone in her lap. It's buzzing. She picks it up and puts on her glasses. A room. Ten names. Nine votes, and all of them for her.
+// She looks up. Right round the black lake, every porch light in town is on. She hasn't seen this in forty years. She puts one paw flat on her chest.
+BROOK (sad, whispers): Oh, you silly people.
+// A very long moment. The candle moves. Next to her, the hatbox. She looks at it. She looks at the lake.
+BROOK (soft, whispers): All right, Amos.
+// She blows out the candle.
+[sfx: door]
+[hold: 8]

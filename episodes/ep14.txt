@@ -1,0 +1,102 @@
+# Porchlight 14: Only Bash Saw It
+next: Off Duty
+thumb: HE SAW SOMETHING
+grade: summer
+
+== Cold open | hall, night | bash
+[mood: tense]
+BASH enters left.
+BASH carries a flashlight.
+BASH (scared, whispers): This is fine. It's a house. Houses are just big boxes for chairs.
+// He's alone. Nobody dared him. There's no one to see it. That's the point.
+BASH (determined, whispers): Five minutes. I stand here five minutes. Then I'm never scared again.
+[sfx: door]
+BASH (scared, whispers): Warming up. I'm warming up.
+[fx door box_px=[290,175,385,322] at=1 hinge=right]
+// The flashlight flickers. Dies. From somewhere nearby, very faintly: a crowd, laughing.
+[sfx: crowd_ooh]
+[hold: 4]
+
+[intro]
+
+
+== The echo | hall, night | bash
+[mood: tense]
+[fx echo at=0 run=4 flash=9]
+// The dark room starts to glow, gold and thin, like old film. String lights where there are none. Bunting. Shapes of people going by, all laughing, with no faces he can catch.
+BASH (scared): Hello?
+// A little kid runs straight at him, laughing, and goes right through him. The cold of it makes him shiver. For one second, he can smell lake water.
+BASH (shiver): ...
+// The whole room flashes white. Thunder, huge, without any sound. And it's gone. Dark. An empty room. His flashlight comes back on.
+BASH (scared): No thank you.
+BASH runs off left.
+[hold: 8]
+
+== Nobody believes it | lake, day | riot (lifeguard), rocco, bash, pip
+RIOT stands at the tower.
+ROCCO sits on the sand.
+PIP sits on the sand.
+BASH enters left.
+BASH (yelling): There were lights! And people! A kid ran through me! Through me!
+RIOT (suspicious): You went in there? Alone?
+BASH: Yes! I'm very brave and I need everyone to hear about the kid!
+PIP: What kind of kid?
+ROCCO (munch): Was this after dinner?
+BASH (shocked): What?
+ROCCO: I'm only asking. You had a lot of potato.
+BASH (yelling): I know what I saw!
+RIOT (nervous): It's an old building. It's dark. Your eyes play tricks.
+BASH: You've been in there for years! You're telling me nothing weird ever happened?
+// Riot looks away toward the water. It's only for a moment.
+RIOT (nervous): It's just a house, Bash. Don't go in there alone.
+BASH (sad): That's it? That's what you've got?
+// Nobody says anything. Bash looks at each of them. He's the one who's always loud, always exaggerating, always warming up. He knows what this looks like.
+BASH (gloom): Forget it.
+BASH exits right.
+[hold: 5]
+
+== Pip | stoop, sunset | bash, pip
+[mood: soft]
+BASH sits on the step.
+PIP enters left.
+PIP sits on the step.
+BASH (gloom): You don't have to come and be nice. I know how it sounds.
+PIP (quietly): I believe you.
+BASH (looks left): You do not.
+PIP: When you make things up, you get louder at the end. You did it about the shark.
+BASH: There was a shark.
+PIP (quietly): It was a log. But just now, when you got to the kid, you went quiet.
+PIP (soft): You said he went through you. And you stopped, and looked at your arm. Nobody makes that up.
+// Bash looks at his arm. He'd forgotten he'd been doing that. His paws aren't quite steady.
+BASH (quietly): I was so scared.
+// It's the first time he's ever said it out loud. Pip doesn't react. He just stays where he is.
+BASH (quietly): I'm scared of that house. I've been scared since the first day. I'm scared every time. It's not warming up.
+PIP (soft): I know.
+BASH (shocked): You KNOW?
+PIP (quietly): Say anything about what?
+// Bash laughs. It comes out wet. He wipes his nose on his arm.
+[hold: 6]
+
+== Mrs. Brook's groceries | brook porch | brook, riot
+RIOT enters left.
+RIOT carries a crate.
+BROOK sits on the bench.
+BROOK (happy): Just there, dear. You look terrible.
+RIOT (laugh): Everyone keeps saying.
+BROOK: Your grandfather used to get that look. Before a festival, he'd be up all night with...
+// She stops. The paper chimes turn over her head. She picks her words up one by one.
+BROOK (soft): All those lists. Some things you can love without having to carry them, you know.
+RIOT (soft): What do you mean?
+BROOK (soft): Leave the old things be, dear. You're young. It's a lovely summer.
+// She pats his paw. She's very kind. Riot looks at her a moment. He picks up the empty crate, and doesn't answer.
+[hold: 5]
+
+== Same room | hall, night | riot
+[mood: tense]
+RIOT carries a flashlight.
+// Late. The back room. Riot's at the table with the box. He hasn't opened it. In the doorway the room glows gold and thin for one moment. A child's laugh crosses the floor.
+RIOT (soft, whispers): Yeah. I know. I've seen you too.
+// He doesn't turn around. He's seen this a hundred times.
+RIOT (sad, whispers): Sorry, Bash.
+// He opens the box. We stay on his face.
+[hold: 6]

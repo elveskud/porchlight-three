@@ -1,0 +1,12 @@
+{
+  "result": "PASS",
+  "blackIntervals": [
+    {
+      "start": 192.5,
+      "end": 194.291667,
+      "duration": 1.791667
+    }
+  ],
+  "unexpectedBlackGaps": [],
+  "expected": "Authored closing fade and Friendzy mark only"
+}

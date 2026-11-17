@@ -1,0 +1,111 @@
+# Porchlight 19: Turns
+next: The Twelfth of August
+thumb: FOUR CHAIRS
+grade: summer
+
+== Cold open | apartment | riot, rocco
+[text: Two o'clock.]
+ROCCO sits on the sofa l.
+ROCCO carries a notebook.
+RIOT enters right.
+RIOT (sleepy): You're up.
+ROCCO: Sit down.
+RIOT: Rule seven says I go to bed.
+ROCCO (quietly): Riot. Sit down.
+// Riot has never heard him use that voice. He sits. Rocco puts the notebook on the table, and for the first time in his life, pushes something he knows across to someone else.
+[hold: 4]
+
+[intro]
+
+
+== The notebook | apartment | riot, rocco
+[mood: tense]
+RIOT sits on the sofa r.
+RIOT carries a notebook.
+RIOT (shocked, quietly): What is all this?
+ROCCO: Heat wave, same week. Firefly night, nine twenty-two. Storm on the twelfth. The owl's essay.
+ROCCO (quietly): The calendar goes from August to June. I've been writing it down.
+RIOT: For how long?
+ROCCO (deadpan): That's the thing. Some of it's in my writing and I don't remember doing it.
+// Riot turns a page. Hiker's torn page falls out. He reads it. A small frown comes and goes across his face like a cloud shadow.
+RIOT (shrug): Huh. That's funny. Long summer.
+ROCCO (quietly): Yeah. That's what everyone says.
+// He watches him. It slides right off. He'd hoped. He takes a breath, and goes round another way.
+ROCCO: How many years have you been going up there?
+// A very long silence. Riot looks at his paws.
+RIOT (sad, quietly): I started when I was twelve.
+ROCCO (quietly): Eight years.
+RIOT (sad): Every night I can. I get to the end. I go home. I come back, and it's all...
+// He stops, and this time he goes on.
+RIOT (sad, quietly): It's all back where it was. Every piece. Every time. I've never told anybody that.
+ROCCO (nod): ...
+RIOT (soft): Why didn't you tell me about the notebook?
+ROCCO (quietly): Why didn't you tell me about the eight years?
+[hold: 8]
+
+== Mrs. Brook again | brook porch | brook, riot
+[mood: soft]
+BROOK sits on the bench.
+RIOT enters left.
+RIOT: Mrs. Brook? Can I ask you something? You knew my grandpa.
+BROOK (happy): Everybody knew your grandfather, dear. Most of them still owe him money.
+RIOT: He told my dad he'd finish that night.
+// The chimes turn. For one moment she looks like she's going to fall from a very high place. Then she picks up her glass, and it's gone.
+BROOK (soft): Leave that old game be, dear.
+RIOT (shocked): I didn't say anything about a game.
+// Silence. She drinks her tea, and takes a long time about it.
+BROOK (happy): Didn't you? Well. At my age you hear all sorts. More tea?
+[hold: 5]
+
+== Why four | hall, night | riot, rocco, bash, pip
+[mood: tense]
+RIOT carries a flashlight.
+RIOT sits on the edge.
+PIP carries a notebook.
+PIP: Four chairs. Four footsteps, then a stop. Rocco says that's turns.
+PIP (quietly): You've been playing all four, haven't you? Going round the table. Sitting in each chair.
+RIOT (soft): ...Yeah.
+BASH (shocked): You've been playing against yourself?
+// Something goes across Bash's face. He knows a lot about this, and doesn't say so.
+ROCCO (suspicious): There's one more thing. Bash, show him.
+BASH carries a die.
+// Bash takes the die out of his pocket. Riot goes still. He reaches into his jacket and brings out his empty paw. He's patting himself down.
+RIOT (shocked): That was on the table. I had that an hour ago. I always find it on the table.
+BASH: It's in my drawer. Every morning. I put a sock on it.
+RIOT: Where did you get that?
+BASH (nervous): It came out of here. It rolled right to me.
+// Riot stares. In eight years, this is the first thing that has ever been new.
+PIP (quietly): It came to you.
+ROCCO (quietly): What happens if everyone's here? All four chairs. The die on the table. Everybody at once.
+RIOT: I don't know. I've never... there's never been anyone else.
+// All of them look at Bash. He's holding the die. He's looking at the fourth chair, which is the one nearest the dark.
+[hold: 8]
+
+== Walt | walt porch | walt, riot
+[mood: soft]
+WALT carries a cup.
+RIOT enters left.
+RIOT: Dad? What was it like, that night? The storm.
+WALT (soft): I told you. Everybody ran.
+RIOT: But before. What was he like, before?
+WALT (soft): Happy. He had his sleeves rolled up. He'd given me a job, holding a rope.
+WALT (soft): Said I was the most important man in Maple Hollow.
+// He frowns, gently, as though he's lost his place.
+WALT (soft): You know, it's funny, I can't think what came after. It's like the end's been cut off. Why do you ask?
+RIOT (quietly): No reason.
+// He almost says it. All of it. Walt looks at him, and waits, as he's been waiting for years. A dog barks somewhere.
+RIOT (soft): Night, Dad.
+WALT (soft): Night, son.
+[hold: 5]
+
+== Warming up | bash home | bash, bea
+[mood: soft]
+BASH sits on the bed.
+BASH carries a die.
+BEA enters left.
+BEA: Is your thing tomorrow scary?
+BASH (quietly, looks down): ...Yeah. It is.
+BEA (hips): You yell really loud, though.
+// She pats his paw and goes. He closes his paw round the die.
+BASH (determined, quietly): Warming up.
+[hold: 6]

@@ -1,0 +1,18 @@
+{
+  "mode": "Shared local generated mixer executed read-only with project-local horn and hum additions",
+  "files": [
+    {
+      "path": "/Users/lazaretchaava/Desktop/Blender/templates/mix.py",
+      "sha256": "a9d30ca30cd315fd0efef1838eab0a85bd194181d8042e023162ad211260418b"
+    },
+    {
+      "path": "/Users/lazaretchaava/Desktop/Blender/audio/sfxkit.py",
+      "sha256": "325c21f394dffd1d58af46e81a5f888be7ba835c5b126a2a10be93709d6f3949"
+    },
+    {
+      "path": "comparisons/episode04/source/audio.py",
+      "sha256": "57204a61ccc974a753b0c2f60fce7e7f1e958ff7444423d6a88ba9dce329c7f5"
+    }
+  ],
+  "masterWavSHA256": "b73337e5584e0d6dd0b30d1179f07ac83f33a63f1bd85b139c797c89faeb72bc"
+}

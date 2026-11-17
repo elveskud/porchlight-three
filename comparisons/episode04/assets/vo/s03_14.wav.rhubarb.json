@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/lazaretchaava/Desktop/Blender.nosync/videos/episodes_ep04_h/vo/s03_14.wav",
+    "duration": 0.64
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "X" },
+    { "start": 0.03, "end": 0.30, "value": "B" },
+    { "start": 0.30, "end": 0.37, "value": "F" },
+    { "start": 0.37, "end": 0.44, "value": "B" },
+    { "start": 0.44, "end": 0.52, "value": "A" },
+    { "start": 0.52, "end": 0.60, "value": "B" },
+    { "start": 0.60, "end": 0.64, "value": "X" }
+  ]
+}

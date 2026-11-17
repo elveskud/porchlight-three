@@ -1,0 +1,89 @@
+# Porchlight 26: Road Trip Mode
+next: Weather
+thumb: SUMMER STOPS HERE
+grade: summer
+previously: The game was made in the city. Riot would rather go anywhere else.
+
+== Cold open | walt garage | walt, riot, rocco, bash, pip
+// A station wagon from another age, with wood on the sides and a roof rack that's mostly rope. Bash is trying to put a whole cooler in through the window.
+WALT carries a clipboard.
+WALT (soft): She pulls to the left. Don't take her over forty.
+WALT (soft): If she makes a noise like a duck, stop. If she stops making it, also stop.
+RIOT (nervous): Dad, are you sure? We could just write them a letter.
+WALT (happy): Go on. Do you good. See a bit of the world.
+RIOT: I've seen the world. It's fine. It's mostly here.
+ROCCO (deadpan): He's a great salesman.
+// Walt holds up the keys. Riot takes a long time to reach for them. Pip watches him do it.
+[hold: 6]
+
+[intro]
+
+
+== Road trip | car | riot, rocco, bash, pip
+RIOT sits on the seat.
+RIOT carries a phone.
+// Riot driving. Rocco next to him with his feet up. Bash and Pip in the back with the cooler between them. Green fields go by. Lo-fi on the radio, fading to static as they go.
+BASH (hype): Okay, Friendzy, Road Trip mode! It's made for this! Most games you can play in a car!
+[json: {"game": {"type": "feature", "feature": "roadtrip", "who": "bash", "say": "Look at that. Car-friendly games. Pip, you pick."}}]
+PIP (happy): Would You Rather?
+BASH: Would you rather have hiccups forever, or feel like you need to sneeze forever?
+ROCCO (deadpan): That's just Tuesday.
+RIOT (laugh): Hiccups. I could work with hiccups.
+BASH: You can't lifeguard with hiccups.
+RIOT: Hic! No floating! Hic!
+// All four of them laughing. For a minute it's just a road trip. It really is. Rocco opens a snack, and Bash, without thinking about it, reaches over and takes one. He stops, looks at the chip, and eats it anyway.
+[hold: 8]
+
+== The noise | town line | riot, rocco, bash, pip
+[sfx: slap]
+// A loud bang. The wagon sags to the left. It's stopped by the side of the road, in the long golden grass, just short of the town sign. They all get out. Flat tyre.
+BASH (determined): I've got this. I've been training.
+RIOT (yelling): You've been training for Alias!
+BASH: Same muscles.
+// Bash picks up the whole corner of the car by himself. He holds it. Veins stand out on his forehead. Rocco, looking at a jack in his paw, watches him for a moment.
+ROCCO (deadpan): Or you could use this.
+BASH (scared): Do it fast.
+ROCCO: It's a good jack.
+RIOT: We could call a tow truck.
+ROCCO (deadpan): From where? The fog?
+BASH (scared): Talking's great. Maybe less talking.
+// Rocco works the jack, slowly, with one paw, eating with the other.
+PIP (nervous): Is it me, or is there a breeze?
+// Nobody's listening. It's nothing. It's a small cool breath of air, and it's coming from just past the sign. Pip's ears move. He walks a few steps along the road, to where the shadow of the sign falls on the ground.
+[hold: 8]
+
+== The line | town line | riot, rocco, bash, pip
+[mood: soft]
+[fx breath who=["pip"]]
+PIP walks to the sign.
+// He stops. The camera stays low. On this side of the sign the grass is long and gold. On that side it's short and brown. Exactly at the sign. As if someone had drawn it with a ruler. He puts one paw over the line. His breath comes out in a small white cloud.
+PIP (shocked, quietly): Guys.
+RIOT enters left.
+ROCCO enters left.
+BASH enters left.
+// They come up beside him, one at a time. Nobody says anything. In front of them the road runs on through grey trees, with almost nothing on them. The sky's a colour they've never seen. It's the most ordinary afternoon in the world.
+BASH (quietly): What happened to all the green?
+ROCCO (quietly): That's just what it looks like.
+BASH: What, all the time?
+ROCCO (soft): No. That's the thing. Only some of the time.
+// Bash puts one big paw across the line. He pulls it back. He does it again. Summer. Not summer. Summer. He's smiling, and then he's not sure.
+BASH (quietly): It's real.
+RIOT (soft): It's been out here this whole time.
+[hold: 8]
+
+== The leaf | town line | riot, rocco, bash, pip
+[mood: soft]
+[fx leaves n=6]
+[fx breath]
+// Something falls out of a bare tree, slowly, turning over, and settles on the road. Pip crosses the line. He's the first one. He picks it up. It's brown, curled and dry, and so light it's hardly there.
+PIP (soft, quietly): It's already over. It's over, and it's still here.
+BASH: What is?
+PIP (nervous): Nothing. It's just a leaf.
+// He puts it in his notebook, between two pages, and closes it very carefully. Rocco sees. Riot's looking down the road toward the city, and he doesn't see anything at all.
+RIOT (quietly): Everyone get a jacket.
+BASH: I didn't bring a jacket.
+RIOT: Who brought a jacket?
+// Nobody brought a jacket. They've never needed one. They all look at each other.
+ROCCO (deadpan, joke): Great. So we're the first people to run out of summer.
+// They get in. The wagon pulls out with a noise like a duck. It crosses the line. In the rear window the green goes on getting smaller, one bright block of it in a grey world, and then there's a bend in the road.
+[hold: 8]

@@ -1,0 +1,23 @@
+{
+  "result": "PASS",
+  "metadata": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "nb_frames": "720",
+        "side_data_list": [
+          {}
+        ]
+      }
+    ],
+    "format": {
+      "duration": "30.000000"
+    }
+  },
+  "fullDecode": "PASS",
+  "sha256": "dbba645c47a5fe0779292bb123ad964b77332bf34e556e8335ca76d1544ccd3e"
+}

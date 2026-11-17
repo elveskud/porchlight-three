@@ -1,0 +1,58 @@
+{
+ "fronts": [
+  {
+   "name": "auto_01",
+   "z": 4.75,
+   "base_px": 413,
+   "bbox": [
+    25,
+    200,
+    235,
+    420
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_02",
+   "z": 4.75,
+   "base_px": 413,
+   "bbox": [
+    362,
+    199,
+    566,
+    420
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_03",
+   "z": 2.0,
+   "base_px": 384,
+   "bbox": [
+    971,
+    287,
+    991,
+    385
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_04",
+   "z": 2.0,
+   "base_px": 302,
+   "bbox": [
+    231,
+    201,
+    365,
+    304
+   ],
+   "auto": true
+  }
+ ],
+ "clean": "apartment_couch_front_clean",
+ "walk_lines": [
+  400,
+  460,
+  530
+ ]
+}

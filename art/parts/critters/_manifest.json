@@ -1,0 +1,158 @@
+{
+ "puddles_and_duck_00": {
+  "src": "puddles_and_duck.jpg",
+  "box": [
+   524,
+   0,
+   766,
+   1024
+  ],
+  "size": [
+   242,
+   1024
+  ]
+ },
+ "puddles_and_duck_01": {
+  "src": "puddles_and_duck.jpg",
+  "box": [
+   594,
+   19,
+   694,
+   69
+  ],
+  "size": [
+   100,
+   50
+  ]
+ },
+ "puddles_and_duck_02": {
+  "src": "puddles_and_duck.jpg",
+  "box": [
+   302,
+   81,
+   529,
+   332
+  ],
+  "size": [
+   227,
+   251
+  ]
+ },
+ "puddles_and_duck_03": {
+  "src": "puddles_and_duck.jpg",
+  "box": [
+   21,
+   83,
+   301,
+   334
+  ],
+  "size": [
+   280,
+   251
+  ]
+ },
+ "puddles_and_duck_04": {
+  "src": "puddles_and_duck.jpg",
+  "box": [
+   548,
+   91,
+   781,
+   312
+  ],
+  "size": [
+   233,
+   221
+  ]
+ },
+ "puddles_and_duck_05": {
+  "src": "puddles_and_duck.jpg",
+  "box": [
+   776,
+   91,
+   1009,
+   312
+  ],
+  "size": [
+   233,
+   221
+  ]
+ },
+ "puddles_and_duck_06": {
+  "src": "puddles_and_duck.jpg",
+  "box": [
+   290,
+   371,
+   531,
+   621
+  ],
+  "size": [
+   241,
+   250
+  ]
+ },
+ "puddles_and_duck_07": {
+  "src": "puddles_and_duck.jpg",
+  "box": [
+   26,
+   381,
+   295,
+   617
+  ],
+  "size": [
+   269,
+   236
+  ]
+ },
+ "puddles_and_duck_08": {
+  "src": "puddles_and_duck.jpg",
+  "box": [
+   554,
+   384,
+   780,
+   628
+  ],
+  "size": [
+   226,
+   244
+  ]
+ },
+ "puddles_and_duck_09": {
+  "src": "puddles_and_duck.jpg",
+  "box": [
+   776,
+   524,
+   1002,
+   759
+  ],
+  "size": [
+   226,
+   235
+  ]
+ },
+ "puddles_and_duck_10": {
+  "src": "puddles_and_duck.jpg",
+  "box": [
+   129,
+   670,
+   372,
+   943
+  ],
+  "size": [
+   243,
+   273
+  ]
+ },
+ "puddles_and_duck_11": {
+  "src": "puddles_and_duck.jpg",
+  "box": [
+   771,
+   783,
+   1008,
+   1010
+  ],
+  "size": [
+   237,
+   227
+  ]
+ }
+}

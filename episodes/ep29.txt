@@ -1,0 +1,97 @@
+# Porchlight 29: What Rocco Knew
+next: Lamplight
+thumb: YOU LET US
+grade: autumn
+
+== Cold open | motel | rocco, bash
+BASH sits on the bed.
+// Morning. Rocco's in the shower down the hall. Bash reaches under the bed for a shoe. His paw finds something else: Rocco's old satchel. It tips. Thick books slide out. Quantum Mechanics. Thermodynamics. Fluid Dynamics. Each stuffed with paper.
+BASH (shocked): Whoa.
+// He laughs. He picks one up to make a joke of it. He opens it. It's full of tiny, neat handwriting: all the margins, every page. Pages of equations. A pencil drawing of the town's lake, with arrows. He stops laughing.
+BASH (quietly): Rocco?
+[hold: 8]
+
+[intro]
+
+
+== The satchel | motel | bash
+[mood: tense]
+BASH sits on the floor.
+BASH carries a notebook.
+// Here's the notebook itself. Older ones under it, five, six, seven of them, gone soft at the corners. Bash isn't a reader. He reads slowly, with his finger, and his lips moving.
+BASH (quietly): Aug 12, same storm. Firefly, nine twenty-two.
+// He turns the page. The date. The year before. The year before that. He goes back and back. This wasn't one summer. It was years of work.
+BASH (quietly): Riot to the house. Went to the house. Went again.
+// He sits very still. On one page, a list. Rocco's handwriting. Bash's own name.
+BASH (quietly): Bash, practises alone. Most nights. Still losing. Don't mention.
+// He reads it twice. He closes the book. All of his body has gone slowly quiet, and it doesn't suit him.
+[hold: 8]
+
+== The fight | motel | rocco, bash, riot, pip
+[mood: tense]
+ROCCO enters right.
+RIOT enters right.
+PIP enters right.
+ROCCO (deadpan): Hot water's a rumour. What's...
+// He sees the books. The notebooks, in a neat stack. Bash sitting beside them. He stops. Nobody's ever seen him look like that.
+BASH (quietly): Who are you?
+RIOT (nervous): Hey. What's going on?
+BASH: You read physics.
+ROCCO (quietly): A bit.
+BASH: This is university stuff. I looked at the front. Between jobs, Rocco? Rude, accurate, Rocco? Never finished anything in his life?
+ROCCO (quietly): Bash.
+BASH (quietly): You knew about the calendar. You knew about the storm.
+BASH (quietly): You knew it was the same year before any of us. How long?
+ROCCO (quietly): I don't know. That's the honest...
+BASH (determined): I went into that house. I was so scared I thought I'd die. I went first. Every time.
+BASH (sad): I sat at a table with all of you and I thought we were finding out together. And you already knew.
+BASH (sad, quietly): You let us walk around in the dark, and you had a flashlight.
+// That goes in. We can see it go in. Rocco doesn't defend himself. He looks at the floor. No chips. Riot takes half a step, and Pip touches his arm, and shakes his head.
+ROCCO (quietly): I wasn't sure.
+BASH: You were sure enough to write down that I lose every night.
+// Silence. That's the one. Bash stands up. He picks up the purple coat. His paws are perfectly steady. That's worse.
+BASH (quietly): "Don't mention." Thanks for that. Really. That was kind.
+BASH exits right.
+[sfx: door]
+// The door doesn't slam. He closes it quietly.
+[hold: 8]
+
+== After | motel | rocco, riot, pip
+[mood: soft]
+RIOT (soft, point): Go after him.
+ROCCO (quietly): He's right.
+RIOT: I know he's right. Go after him.
+ROCCO sits on the bed.
+// He doesn't. He sits down on the edge of the bed. He takes a chip out of the bag. He looks at it, and puts it back. Then he looks at the notebooks. All those years of careful, quiet, clever work.
+ROCCO (quietly): I don't know how.
+PIP (quietly): Know how to what?
+ROCCO (soft): Say stuff. I know how to write it down.
+// Riot sits down next to him. He doesn't say anything. Of all people in the world, he knows.
+[hold: 7]
+
+== The archive | city archive | riot, pip, ledger
+[mood: soft]
+LEDGER carries a clipboard.
+RIOT enters left.
+PIP enters left.
+// A great quiet hall of shelves and green lamps. Rows of drawers. Snow against high windows. A tortoiseshell cat in glasses looks at them over a desk, for some time.
+LEDGER: Coats are drying on you. Don't drip on the eighteen-hundreds.
+PIP (nervous): We're looking for a workshop's records. It made games. We've got a mark.
+// He holds up the phone. She looks at the lantern. She looks at it for longer than people usually look at things. She takes off her glasses.
+LEDGER (soft): Where did you get that?
+RIOT: It's my grandfather's. Amos Vale. Maple Hollow.
+LEDGER (soft): Well. I've been sitting on that drawer for thirty-one years.
+LEDGER (soft): I always wondered if anyone was coming.
+// She gets up and walks away down the long aisle, and they follow her. She's looking for a key.
+[hold: 8]
+
+== The bridge | city street | bash
+[mood: soft]
+[fx snow]
+[fx breath]
+BASH enters left.
+BASH sits on the bench.
+// A park bench by a frozen canal. Snow settling on the purple coat. Bash sits with his big paws hanging between his knees. For once there's no one to be loud for. He reaches into his pocket. He takes out the die. It's still warm. He looks at it for a while.
+BASH (quietly): Don't mention.
+// He laughs. It's a very small one. It doesn't go anywhere. He closes his paw. A long way off, the sound of a bus. It keeps snowing.
+[hold: 8]

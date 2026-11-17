@@ -1,0 +1,111 @@
+# Porchlight 8: The Archive
+next: Training Montage
+thumb: NOTHING BUT SUNNY
+grade: summer
+
+== Cold open | archive | gus, riot, rocco, bash, pip
+GUS carries a flashlight.
+GUS (determined, present): Welcome to the archive. Before we proceed, a word about paper cuts.
+BASH: Paper cuts?
+GUS (determined): Forty-one years I've kept this basement. I've seen things. Hold your folder at arm's length. Never lick your thumb.
+GUS (determined): If the shelves start to lean, you don't run. You walk, with purpose, toward the goat.
+RIOT: You're the goat.
+GUS (nod, joke): That's why it works.
+
+[intro]
+
+
+== The system | archive | gus, riot, rocco, bash, pip
+RIOT: Okay, Gus, we need anything from the old festival. Where do you file those?
+GUS (happy): Ah, by mood.
+PIP: By... mood?
+GUS: That shelf is Wistful. Over there is Thursday Feeling. Don't go in Regret, the light's out.
+PIP (nervous): I'm going to make a list.
+// Pip takes out a pencil. In a montage of small cuts, the piles begin to line up. It's the most relaxed we've ever seen him.
+BASH carries a notebook.
+BASH (yelling): Minutes of the Parks Committee! Motion to discuss a motion!
+RIOT: Bash, you don't have to read them all out.
+BASH (yelling): Motion carried!
+GUS (happy): Marvellous stuff. That one's filed under Excitement.
+PIP (nervous): Gus, this one's a recipe.
+GUS: Comfort.
+PIP: And this one's a parking ticket?
+GUS (soft): Grief.
+PIP: Who sorted these?
+GUS (joke): Just me. I've had a very full life.
+ROCCO sits on the crate.
+ROCCO carries a notebook.
+ROCCO (deadpan): Weather log.
+RIOT: Is that useful?
+ROCCO: Don't know. It's the only thing here with pictures of the sun.
+[hold: 3]
+
+== The programs | archive | gus, riot, rocco, bash, pip
+PIP (quietly): Riot. Look.
+// One long shelf. A printed program for every summer, going back generations, in a neat row. LANTERN FESTIVAL. LANTERN FESTIVAL. LANTERN FESTIVAL. Then they just stop.
+BASH (hype): That's it! That's a hundred years of festival! On the park!
+PIP: The last one's here. Twelfth of August.
+[fx insert kind=program head=LANTERN_FESTIVAL lines=["12_August","Hosted_by_Amos_Vale","and_..."] smudge=[2] mark=true at=4 for=4]
+[json: {"fx": [{"type": "label", "text": "12 AUGUST", "at_px": [610, 240], "size": 0.5}]}]
+RIOT (soft, quietly): Hosted by Amos Vale.
+BASH: Who's that?
+RIOT (soft): My grandpa.
+PIP: There's a second name, it's smudged. And... and...
+// The back page is stained with old water. Whatever the second name was, it's gone.
+BASH: Nice. Rocco, you find anything?
+// Rocco is flipping through decades of pages. He holds the log up.
+ROCCO (deadpan): Sunny. Sunny. Hot. Sunny.
+BASH (thumbs): Nice.
+// Everyone goes back to the programs. Rocco looks at the page for much longer than anyone would need to.
+ROCCO (suspicious): ...Sunny.
+[hold: 8]
+
+== The tape | archive | gus, riot, rocco, bash, pip
+[mood: soft]
+GUS: If it's that festival you're after, there's this.
+GUS carries a tape.
+// An old reel, labelled in faded ink: Festival, 12 Aug.
+GUS (soft): I've never had the heart to play it.
+RIOT (soft): Can we?
+// Gus threads it. Hiss. Then, far away, a crowd laughing. Somebody calling a number. A big warm laugh that goes on after the others stop.
+[sfx: crowd_ooh]
+BASH (whispers): That's the whole town.
+// A low roll of thunder. A shout. The tape cuts to nothing and spins.
+[sfx: boom]
+// It's a while before anyone moves.
+GUS (soft): Well. That's as far as it goes.
+[hold: 7]
+
+== The win | archive | gus, riot, rocco, bash, pip, hal
+HAL enters left.
+HAL carries a clipboard.
+HAL (happy): Generations of it. Same ground, every year. I'd say that makes your case.
+BASH (cheer): We did it! We beat the peacock with paperwork!
+PIP (happy): It's enough for the next vote?
+HAL (nod): It's enough.
+BASH hugs PIP.
+PIP (shocked): You're lifting me.
+BASH: I know!
+BASH: Gus! You're a hero! Can I lick my thumb now?
+GUS (shocked, yelling): NEVER!
+HAL (chuckle): I'll take these to the Mayor. If you can find the Mayor.
+RIOT (happy): Good work, everyone.
+// He's smiling. He's also looking at the tape machine.
+[hold: 1]
+
+== One more time | archive | riot
+[mood: soft]
+RIOT sits on the crate.
+// Everyone has gone up. Riot is alone with the machine. He rewinds it and plays only the laugh, with his eyes closed.
+[sfx: crowd_ooh]
+RIOT (soft, whispers): Is that you?
+// It could be. It's hard to say. He rewinds it again.
+[hold: 4]
+
+== The last program | archive | pip
+[mood: tense]
+PIP enters left.
+PIP carries a phone.
+// Pip comes back to shelve the last program. He stops. All the games, all the years, and the festival's game is never named. In its place, one small drawing of a lantern.
+// He looks over his shoulder. He takes a photo of it, and doesn't tell anyone.
+[hold: 16]

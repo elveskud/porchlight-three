@@ -1,0 +1,104 @@
+{
+  "result": "PASS",
+  "checkedAt": "2026-11-13T21:03:41.136Z",
+  "references": [
+    "art/refs/cast-for-gemini/lineup.png",
+    "art/refs/side-views/side_riot.png",
+    "art/refs/side-views/side_bash.png",
+    "art/refs/side-views/side_pip.png",
+    "art/refs/side-views/side_rocco.png"
+  ],
+  "geometry": [
+    {
+      "name": "Bash",
+      "invalid": 0,
+      "skinned": 4,
+      "skins": [
+        "continuous leg",
+        "leg outline",
+        "continuous leg",
+        "leg outline"
+      ],
+      "torsoDepth": 0.5,
+      "headDepth": 0.699999988079071,
+      "legLength": 0.97
+    },
+    {
+      "name": "Pip",
+      "invalid": 0,
+      "skinned": 4,
+      "skins": [
+        "continuous leg",
+        "leg outline",
+        "continuous leg",
+        "leg outline"
+      ],
+      "torsoDepth": 0.5,
+      "headDepth": 0.699999988079071,
+      "legLength": 0.97
+    },
+    {
+      "name": "Riot",
+      "invalid": 0,
+      "skinned": 5,
+      "skins": [
+        "continuous leg",
+        "leg outline",
+        "continuous leg",
+        "leg outline",
+        "continuous tapered tail"
+      ],
+      "torsoDepth": 0.5,
+      "headDepth": 0.699999988079071,
+      "legLength": 0.97
+    },
+    {
+      "name": "Rocco",
+      "invalid": 0,
+      "skinned": 5,
+      "skins": [
+        "continuous leg",
+        "leg outline",
+        "continuous leg",
+        "leg outline",
+        "continuous tapered tail"
+      ],
+      "torsoDepth": 0.5,
+      "headDepth": 0.699999988079071,
+      "legLength": 0.97
+    }
+  ],
+  "animations": [
+    "idle",
+    "wave",
+    "cheer",
+    "laugh",
+    "nervous",
+    "shrug",
+    "facepalm",
+    "point",
+    "hop",
+    "sleep",
+    "present",
+    "yellpoint",
+    "yell",
+    "cocky",
+    "walk",
+    "waveL"
+  ],
+  "sampledFrames": 480,
+  "checks": [
+    "Four characters load offline",
+    "Slimmer torso/head geometry",
+    "Longer continuous legs",
+    "Normalized skin weights",
+    "All animation transforms and sampled deformed vertices finite",
+    "Skinned geometry stays within expected bounds",
+    "Front/quarter/side views",
+    "Individual character animation selection",
+    "Studio and lake views",
+    "Matched-camera before/after screenshots",
+    "Existing scripted scene retains full-width canvas"
+  ],
+  "errors": []
+}

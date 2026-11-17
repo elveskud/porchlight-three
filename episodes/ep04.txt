@@ -1,0 +1,153 @@
+# Porchlight 4: Not For Sale
+next: Storm Night
+thumb: BEWARE: NATURE
+grade: summer
+
+== Cold open | park | preston, marlo, mayor, riot (lifeguard), bash
+PRESTON enters right.
+MARLO enters right.
+RIOT stands at the lawn_2.
+BASH stands at the lawn_1.
+PRESTON stands at the lawn_4.
+MARLO stands at the grass_r.
+MAYOR sits on the bench.
+// A very long car. A very bright suit. A peacock steps out as though the ground should thank him.
+PRESTON (present): Ladies. Gentlemen. Ducks. Imagine... this. But more.
+MARLO carries a clipboard.
+// Marlo pulls the cloth off an easel. The whole park, covered by one enormous building.
+[fx insert kind=paper head=PRESTON_PAVILION image=/Users/lazaretchaava/Desktop/Porchlight.nosync/art/inserts/pavilion.png at=4 for=4]
+RIOT (shocked): What is that?
+PRESTON (happy): That's the Preston Pavilion. It has a fountain inside a smaller fountain.
+BASH: Where do the ducks go?
+PRESTON (joke): Level two.
+MAYOR (nervous): Well! Yes. No. Let's form a committee. Yes.
+// The Mayor nods at nobody in particular.
+MAYOR (nervous, nod): ...
+RIOT (shocked, stare): ...
+[hold: 1]
+
+[intro]
+
+
+== Operation Unbuyable | apartment | riot, rocco, bash, pip
+RIOT stands at the floor mid.
+RIOT (determined): That's my lake. That's my park. He said level two.
+PIP: There's a town meeting in two weeks.
+RIOT (hype, count): We don't have two weeks. We make the park so terrible he gives up. Operation Unbuyable.
+ROCCO (munch): I'm listening. I'm eating, but I'm listening.
+RIOT: One, a swamp smell. Two, rowdy locals. Three, a threatening sign.
+BASH: My family can be rowdy.
+PIP: You don't have to ask them to be.
+PIP (nervous): What's the swamp smell made of?
+RIOT (thumbs): That's your department.
+PIP: Why is that my department?
+RIOT: You've got the most sensitive nose.
+PIP: That's a rabbit thing. That's not a qualification.
+ROCCO: What does the sign say?
+RIOT: Something that really frightens a rich guy.
+ROCCO (chin): Leave it with me.
+// The radio on the shelf plays a soft lo-fi tune. Everyone slows down a little without noticing.
+BASH (nod): I love this one. Who even makes this?
+ROCCO (shrug): Some guy.
+// Rocco goes on chewing. He is humming it. He'll hum it for the rest of the episode.
+ROCCO (munch): ...
+BASH (soft, nod): ...
+PIP (soft, lean): ...
+RIOT (slouch): ...
+ROCCO (chuckle): ...
+[hold: 1]
+
+== The plan in action | park | riot, rocco, bash, pip, bashmom, preston, marlo, mayor
+BASHMOM enters left.
+ROCCO carries a clipboard.
+ROCCO sits at the picnic.
+MAYOR sits on the bench.
+BASHMOM stands at the lawn_5.
+BASH stands at the lawn_1.
+RIOT stands at the lawn_2.
+PIP stands at the lawn_3.
+PRESTON stands at the lawn_4.
+MARLO stands at the grass_r.
+[fx crowd row_px=[40,450,420] n=6 mood=cheer at=0.5]
+// Bash's whole loud family arrives. There are many of them. They're not acting. This is simply a picnic.
+BASHMOM (yelling, wave): BASH! SWEETIE! HAVE YOU EATEN? WHO ELSE HASN'T EATEN?
+RIOT (determined, whispers): Rowdy locals, deployed.
+// Rocco hammers in his sign. BEWARE: NATURE. A green haze drifts from Pip's bucket of old sandwiches.
+[fx insert kind=sign lines=["BEWARE:","NATURE"] size=3 at=5 for=2.5]
+ROCCO (nod): ...
+PRESTON enters right.
+MARLO enters right.
+PRESTON (shocked): What... is that smell?
+RIOT (hype): Terrible, right? Really puts you off. Bad for business.
+// Preston closes his eyes. Breathes in. A long, slow, delighted breath.
+PRESTON (happy): Authentic.
+RIOT (shocked): What?
+PRESTON (present): The noise. The stench. That sign! You can't buy rustic like this. Marlo, double the offer.
+MARLO: Doubled.
+PRESTON (happy): And who is responsible for this magnificent sign?
+ROCCO (munch): Some guy.
+PRESTON: Buy it. Buy the sign. Put it in the lobby.
+RIOT (facepalm): No. No no no. It's a warning!
+PRESTON (laugh): It's a brand!
+BASH (to riot): Should I get my family to be louder?
+RIOT (gloom): I don't think that helps.
+BASHMOM (yelling): BASH! YOUR UNCLE MADE THE GOOD POTATO SALAD!
+PRESTON (happy): Listen to that. Marlo, get her number.
+PIP (to rocco): Did we just make it worth more?
+ROCCO (munch): A little.
+MAYOR (happy): Double? Well. Goodness. Yes. No. Let me sit down.
+MAYOR (nervous, nod): ...
+PRESTON (laugh): ...
+RIOT (gloom): ...
+BASH (shrug): ...
+[hold: 1]
+
+== November | park | riot, rocco, bash, pip, hiker
+RIOT stands at the lawn_2.
+BASH stands at the lawn_1.
+PIP stands at the lawn_3.
+ROCCO stands at the lawn_4.
+HIKER stands at the grass_r.
+HIKER enters left.
+// A human. Enormous backpack, wool hat, thick gloves. Blazing sun. Everyone goes very, very polite.
+HIKER (happy, wave): Morning! Chilly for November, huh?
+RIOT (happy): Sure is!
+BASH (happy): So chilly!
+PIP (happy): Is it? I mean, yes.
+HIKER exits right.
+// He walks on. Everyone keeps smiling until he's gone. A long silence. A bee goes past.
+ROCCO (joke): ...Is it?
+// Nobody answers. Bash takes one more bite of a sandwich.
+BASH (munch): ...
+[hold: 1]
+
+== Preston alone | lake, day | preston
+[mood: soft]
+PRESTON enters right.
+// For a moment there's no one to perform for. Preston stands at the water's edge and looks at the lake as if trying to remember a word. The suit seems too big for him.
+PRESTON (soft, quietly): Hm.
+// A horn honks. He straightens up, flicks his tail, and is Preston again.
+PRESTON exits right.
+[hold: 2]
+
+== Sunset | stoop, sunset | riot, rocco
+[mood: soft]
+// The two of them, the sun going. Rocco still humming.
+RIOT sits on the step.
+ROCCO sits on the step_l.
+RIOT (soft): You know I've never wanted to be anywhere else? That park, this street.
+RIOT (soft): People always want to leave, and I just never did.
+ROCCO: Then we keep it.
+RIOT (soft): Yeah?
+ROCCO (nod): Yeah.
+// That's all. It's enough.
+[hold: 2]
+
+== The notice board | main street | marlo
+MARLO enters right.
+[sfx: tap]
+// Marlo pins up a clean white notice: PARK SALE VOTE. Under it, older paper, half torn. The corner of an old poster. A small hand-drawn lantern.
+[fx insert kind=paper head=PARK_SALE_VOTE lines=["Town_meeting_in_two_weeks."] mark=true at=3 for=4]
+// The insert shows the new notice; the lantern mark is the old poster underneath.
+MARLO exits right.
+[hold: 2]

@@ -1,0 +1,352 @@
+{
+  "result": "PASS",
+  "frames": {
+    "total": 1890,
+    "invalid": 0,
+    "speaking": 1119,
+    "offscreen": [],
+    "visemes": [
+      "X",
+      "C",
+      "B",
+      "D",
+      "A",
+      "G",
+      "E",
+      "F",
+      "H"
+    ],
+    "overlay": []
+  },
+  "seeks": [
+    {
+      "time": 2.8423356009070293,
+      "identical": true
+    },
+    {
+      "time": 6.397698412698413,
+      "identical": true
+    },
+    {
+      "time": 7.72091836734694,
+      "identical": true
+    },
+    {
+      "time": 8.88528344671202,
+      "identical": true
+    },
+    {
+      "time": 11.875521541950116,
+      "identical": true
+    },
+    {
+      "time": 15.520532879818596,
+      "identical": true
+    },
+    {
+      "time": 18.5097052154195,
+      "identical": true
+    },
+    {
+      "time": 22.001643990929708,
+      "identical": true
+    },
+    {
+      "time": 24.58656462585034,
+      "identical": true
+    },
+    {
+      "time": 27.27942176870748,
+      "identical": true
+    },
+    {
+      "time": 30.39175736961451,
+      "identical": true
+    },
+    {
+      "time": 31.95428571428571,
+      "identical": true
+    },
+    {
+      "time": 33.08842403628117,
+      "identical": true
+    },
+    {
+      "time": 34.63289115646258,
+      "identical": true
+    },
+    {
+      "time": 34.78656462585033,
+      "identical": true
+    },
+    {
+      "time": 46.704795918367346,
+      "identical": true
+    },
+    {
+      "time": 48.1858843537415,
+      "identical": true
+    },
+    {
+      "time": 50.974863945578235,
+      "identical": true
+    },
+    {
+      "time": 54.06448979591836,
+      "identical": true
+    },
+    {
+      "time": 56.07219954648525,
+      "identical": true
+    },
+    {
+      "time": 58.330102040816314,
+      "identical": true
+    },
+    {
+      "time": 60.277947845804974,
+      "identical": true
+    },
+    {
+      "time": 61.530124716553274,
+      "identical": true
+    },
+    {
+      "time": 62.42069160997731,
+      "identical": true
+    },
+    {
+      "time": 63.647879818594085,
+      "identical": true
+    },
+    {
+      "time": 65.63979591836733,
+      "identical": true
+    },
+    {
+      "time": 67.18554421768707,
+      "identical": true
+    },
+    {
+      "time": 69.41591836734693,
+      "identical": true
+    },
+    {
+      "time": 71.84486394557823,
+      "identical": true
+    },
+    {
+      "time": 74.1816439909297,
+      "identical": true
+    },
+    {
+      "time": 76.80877551020407,
+      "identical": true
+    },
+    {
+      "time": 79.32715419501133,
+      "identical": true
+    },
+    {
+      "time": 81.60969387755102,
+      "identical": true
+    },
+    {
+      "time": 83.14479591836735,
+      "identical": true
+    },
+    {
+      "time": 85.26733560090705,
+      "identical": true
+    },
+    {
+      "time": 91.52270975056689,
+      "identical": true
+    },
+    {
+      "time": 95.33448979591839,
+      "identical": true
+    },
+    {
+      "time": 97.32356009070297,
+      "identical": true
+    },
+    {
+      "time": 99.23077097505671,
+      "identical": true
+    },
+    {
+      "time": 103.47743764172336,
+      "identical": true
+    },
+    {
+      "time": 108.075,
+      "identical": true
+    },
+    {
+      "time": 109.42143990929705,
+      "identical": true
+    },
+    {
+      "time": 110.74421768707484,
+      "identical": true
+    },
+    {
+      "time": 114.88573696145126,
+      "identical": true
+    },
+    {
+      "time": 116.28465986394559,
+      "identical": true
+    },
+    {
+      "time": 116.54684807256238,
+      "identical": true
+    },
+    {
+      "time": 118.65116780045354,
+      "identical": true
+    },
+    {
+      "time": 123.20484126984127,
+      "identical": true
+    },
+    {
+      "time": 125.1548752834467,
+      "identical": true
+    },
+    {
+      "time": 127.52409297052154,
+      "identical": true
+    },
+    {
+      "time": 130.3113038548753,
+      "identical": true
+    },
+    {
+      "time": 132.981746031746,
+      "identical": true
+    },
+    {
+      "time": 137.75833333333333,
+      "identical": true
+    },
+    {
+      "time": 139.3602494331066,
+      "identical": true
+    },
+    {
+      "time": 141.12395691609981,
+      "identical": true
+    },
+    {
+      "time": 147.41073696145125,
+      "identical": true
+    },
+    {
+      "time": 151.80402494331065,
+      "identical": true
+    },
+    {
+      "time": 106.9,
+      "identical": true
+    },
+    {
+      "time": 112.71666666666668,
+      "identical": true
+    },
+    {
+      "time": 114.01666666666668,
+      "identical": true
+    },
+    {
+      "time": 151.31666666666666,
+      "identical": true
+    },
+    {
+      "time": 155.25,
+      "identical": true
+    }
+  ],
+  "visibility": [],
+  "actions": {
+    "lanternHiddenAtHall": true,
+    "doorShut": 0,
+    "doorOpen": 1.25,
+    "contactDistance": 0.010307026436624596,
+    "dieChecks": [
+      {
+        "time": 113.06666666666668,
+        "visible": true,
+        "first": "die face pips 6"
+      },
+      {
+        "time": 113.71666666666667,
+        "visible": true,
+        "first": "die face pips 6"
+      },
+      {
+        "time": 113.91666666666667,
+        "visible": true,
+        "first": "die face pips 6"
+      }
+    ],
+    "clueFirst": "die face lantern mark",
+    "drawerOpen": 1.01,
+    "drawerClosed": 0.46,
+    "lightBefore": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "lightAfter": [
+      0,
+      0,
+      0
+    ],
+    "exitGone": {
+      "bash": false,
+      "pip": false,
+      "riot": false,
+      "rocco": false
+    }
+  },
+  "art": {
+    "version": 2,
+    "forestGroups": 4068,
+    "forestOpenings": 1756,
+    "shorelineSweeps": 4,
+    "paintedPatches": 14,
+    "foregroundGroups": 8,
+    "plants": 7,
+    "softArchitecture": 198,
+    "apartmentDetails": true
+  },
+  "samples": [
+    2,
+    15,
+    31,
+    39.25,
+    47.75,
+    64.75,
+    96.75,
+    104.25,
+    109.35,
+    113.11666666666667,
+    113.91666666666667,
+    118.51666666666667,
+    124.83333333333333,
+    140.83333333333334,
+    146.66666666666666,
+    148.86666666666665,
+    150.36666666666665,
+    152.16666666666666,
+    154.7,
+    155.5
+  ],
+  "errors": [],
+  "apartmentProof": true,
+  "orbit": true,
+  "checkedAt": "2026-11-14T10:19:53.819Z",
+  "sourceHash": "8250cc69c4f6997d80478e61b66a5147f685eb7f21568c83893d6ab6b3251389"
+}

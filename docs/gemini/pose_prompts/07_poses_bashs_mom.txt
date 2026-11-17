@@ -1,0 +1,16 @@
+ATTACH: art/gemini/characters/12_bashs_mom.jpg
+SAVE AS: art/gemini/refs/poses_bashs_mom.jpg
+
+PROMPT (copy everything below):
+
+Image 1 shows Bash's mom, a big, loud, loving mother bear from a 2D cartoon series. Draw her, keeping her exact design, colours, clothes and proportions, seen from the FRONT like in image 1.
+A pose sheet, 8 poses in two rows, all the same scale, each one separate:
+1) waving a wooden spoon, laughing loudly
+2) hands on hips, "young man"
+3) a big bear hug, arms open
+4) calling out, one paw cupped by her mouth
+5) carrying a stack of plates
+6) a soft, proud smile, paws clasped
+7) pointing the spoon at someone, telling them off kindly
+8) shocked, paws on her cheeks
+Draw ONLY the character. Bold clean black outlines, flat solid colours with ONE darker shadow tone, no texture. Plain white background. NO text, NO labels, NO numbers.

@@ -1,0 +1,26 @@
+{
+  "result": "PASS",
+  "desktopPath": "/Users/lazaretchaava/Desktop/Porchlight Episode 4 - Not For Sale - Illustrated 3D (Three.js).mp4",
+  "sourcePath": "/Users/lazaretchaava/Desktop/Porchlight.nosync/comparisons/episode04/episode04_3d_illustrated.mp4",
+  "sha256": "8e9860447d4f8436a8a0244f51e311a47066cb9e6e34af06f537e7ecbc8232bc",
+  "sourceHash": "ae2b0d155aa4b7fe474807b645b52ee4b3d214fee199685a07a1a0cb2ea6eca0",
+  "duration": 194.33333333333334,
+  "frames": 4664,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "voicesReused": 54,
+  "cameraCuts": 10,
+  "reports": {
+    "browser-checks.json": "PASS",
+    "export-checks.json": "PASS",
+    "player-checks.json": "PASS",
+    "explorer-checks.json": "PASS",
+    "picture-checks.json": "PASS",
+    "framing-checks.json": "PASS"
+  },
+  "sceneHashesMatch": true,
+  "earlierEpisodesPreserved": true
+}

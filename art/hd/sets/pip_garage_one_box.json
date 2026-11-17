@@ -1,0 +1,65 @@
+{
+ "fronts": [
+  {
+   "name": "auto_01",
+   "z": 4.75,
+   "base_px": 467,
+   "bbox": [
+    450,
+    375,
+    582,
+    470
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_02",
+   "z": 4.75,
+   "base_px": 442,
+   "bbox": [
+    795,
+    350,
+    843,
+    444
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_03",
+   "z": 2.0,
+   "base_px": 152,
+   "bbox": [
+    831,
+    103,
+    931,
+    154
+   ],
+   "auto": true
+  }
+ ],
+ "clean": "pip_garage_one_box_clean",
+ "walk_lines": [
+  420,
+  480,
+  540
+ ],
+ "spots": {
+  "box": [
+   600,
+   470,
+   "stand",
+   0.4,
+   5.5
+  ]
+ },
+ "lamps": [
+  [
+   500,
+   118,
+   "#E8F0FF",
+   200,
+   0.45
+  ]
+ ],
+ "life": {}
+}

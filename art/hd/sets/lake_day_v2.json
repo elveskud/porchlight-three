@@ -1,0 +1,214 @@
+{
+ "fronts": [
+  {
+   "name": "auto_01",
+   "z": 9.2,
+   "base_px": 571,
+   "bbox": [
+    826,
+    518,
+    895,
+    571
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_02",
+   "z": 9.2,
+   "base_px": 570,
+   "bbox": [
+    914,
+    475,
+    1023,
+    571
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_03",
+   "z": 6.25,
+   "base_px": 468,
+   "bbox": [
+    596,
+    412,
+    670,
+    467
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_04",
+   "z": 6.25,
+   "base_px": 464,
+   "bbox": [
+    673,
+    416,
+    723,
+    464
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_05",
+   "z": 6.25,
+   "base_px": 463,
+   "bbox": [
+    530,
+    378,
+    586,
+    463
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_06",
+   "z": 6.25,
+   "base_px": 461,
+   "bbox": [
+    476,
+    412,
+    522,
+    461
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_07",
+   "z": 4.75,
+   "base_px": 456,
+   "bbox": [
+    254,
+    401,
+    444,
+    456
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_08",
+   "z": 4.75,
+   "base_px": 450,
+   "bbox": [
+    729,
+    395,
+    780,
+    451
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_09",
+   "z": 4.75,
+   "base_px": 445,
+   "bbox": [
+    0,
+    303,
+    93,
+    447
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_10",
+   "z": 4.75,
+   "base_px": 438,
+   "bbox": [
+    942,
+    356,
+    1023,
+    438
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_11",
+   "z": 4.75,
+   "base_px": 403,
+   "bbox": [
+    98,
+    304,
+    112,
+    405
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_12",
+   "z": 2.0,
+   "base_px": 400,
+   "bbox": [
+    124,
+    304,
+    135,
+    402
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_13",
+   "z": 2.0,
+   "base_px": 324,
+   "bbox": [
+    143,
+    257,
+    186,
+    325
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_14",
+   "z": 2.0,
+   "base_px": 286,
+   "bbox": [
+    232,
+    190,
+    257,
+    289
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_15",
+   "z": 2.0,
+   "base_px": 284,
+   "bbox": [
+    0,
+    137,
+    39,
+    286
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_16",
+   "z": 2.0,
+   "base_px": 250,
+   "bbox": [
+    30,
+    142,
+    195,
+    256
+   ],
+   "auto": true
+  },
+  {
+   "name": "auto_17",
+   "z": 2.0,
+   "base_px": 169,
+   "bbox": [
+    829,
+    27,
+    1000,
+    174
+   ],
+   "auto": true
+  }
+ ],
+ "clean": "lake_day_v2_clean",
+ "walk_lines": [
+  400,
+  460,
+  530
+ ]
+}

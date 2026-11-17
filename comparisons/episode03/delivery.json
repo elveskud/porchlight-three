@@ -1,0 +1,24 @@
+{
+  "result": "PASS",
+  "desktopPath": "/Users/lazaretchaava/Desktop/Porchlight Episode 3 - Summer Homework - Illustrated 3D (Three.js).mp4",
+  "sourcePath": "/Users/lazaretchaava/Desktop/Porchlight.nosync/comparisons/episode03/episode03_3d_illustrated.mp4",
+  "sha256": "2006f072530b3b93b65e9a8aa03c36041cbc44276545964f6a4b7d9a60aa877f",
+  "bytes": 64346479,
+  "sourceHash": "a97826baf83438940d6c566df2b8788d203c749aa0349a6d1cd761e03e589174",
+  "duration": 181.66666666666666,
+  "frames": 4360,
+  "reports": [
+    "browser-checks.json",
+    "motion-checks.json",
+    "export-checks.json",
+    "player-checks.json",
+    "explorer-checks.json",
+    "framing-checks.json"
+  ],
+  "blackFrames": {
+    "start": 179.833333,
+    "end": 181.625,
+    "reason": "Authored final fade and Friendzy closing mark",
+    "unexpectedIntervals": []
+  }
+}

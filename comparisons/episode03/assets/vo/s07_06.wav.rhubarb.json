@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "soundFile": "/Users/lazaretchaava/Desktop/Blender.nosync/videos/ep03/vo/s07_06.wav",
+    "duration": 4.53
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "A" },
+    { "start": 0.03, "end": 0.18, "value": "C" },
+    { "start": 0.18, "end": 0.39, "value": "F" },
+    { "start": 0.39, "end": 0.67, "value": "B" },
+    { "start": 0.67, "end": 0.81, "value": "C" },
+    { "start": 0.81, "end": 0.88, "value": "G" },
+    { "start": 0.88, "end": 1.02, "value": "B" },
+    { "start": 1.02, "end": 1.09, "value": "F" },
+    { "start": 1.09, "end": 1.37, "value": "B" },
+    { "start": 1.37, "end": 1.51, "value": "C" },
+    { "start": 1.51, "end": 1.57, "value": "A" },
+    { "start": 1.57, "end": 1.63, "value": "B" },
+    { "start": 1.63, "end": 1.68, "value": "A" },
+    { "start": 1.68, "end": 1.81, "value": "C" },
+    { "start": 1.81, "end": 2.02, "value": "D" },
+    { "start": 2.02, "end": 2.09, "value": "B" },
+    { "start": 2.09, "end": 2.16, "value": "C" },
+    { "start": 2.16, "end": 2.65, "value": "B" },
+    { "start": 2.65, "end": 2.79, "value": "D" },
+    { "start": 2.79, "end": 3.28, "value": "B" },
+    { "start": 3.28, "end": 3.35, "value": "C" },
+    { "start": 3.35, "end": 3.51, "value": "A" },
+    { "start": 3.51, "end": 3.68, "value": "B" },
+    { "start": 3.68, "end": 3.75, "value": "G" },
+    { "start": 3.75, "end": 3.96, "value": "B" },
+    { "start": 3.96, "end": 4.03, "value": "C" },
+    { "start": 4.03, "end": 4.10, "value": "D" },
+    { "start": 4.10, "end": 4.31, "value": "B" },
+    { "start": 4.31, "end": 4.38, "value": "E" },
+    { "start": 4.38, "end": 4.52, "value": "B" },
+    { "start": 4.52, "end": 4.53, "value": "X" }
+  ]
+}

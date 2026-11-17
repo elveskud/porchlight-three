@@ -1,0 +1,473 @@
+{
+  "result": "PASS",
+  "frames": {
+    "total": 4664,
+    "invalid": 0,
+    "speaking": 2480,
+    "offscreen": [],
+    "visemes": [
+      "X",
+      "C",
+      "B",
+      "A",
+      "E",
+      "G",
+      "F",
+      "H",
+      "D"
+    ],
+    "maxFootError": 3.580691130776755e-15,
+    "maxStanceSlide": 5.402578411571407e-15,
+    "maxVolumeError": 3.3306690738754696e-16,
+    "cuts": [
+      {
+        "time": 25.166666666666668,
+        "from": "s01",
+        "beat": "s02"
+      },
+      {
+        "time": 32.75,
+        "from": "s02",
+        "beat": "s03"
+      },
+      {
+        "time": 80.75,
+        "from": "s03",
+        "beat": "s04"
+      },
+      {
+        "time": 138.41666666666666,
+        "from": "s04",
+        "beat": "s05"
+      },
+      {
+        "time": 158.08333333333334,
+        "from": "s05",
+        "beat": "s06"
+      },
+      {
+        "time": 166.91666666666666,
+        "from": "s06",
+        "beat": "s07"
+      },
+      {
+        "time": 180.33333333333334,
+        "from": "s07",
+        "beat": "s08"
+      },
+      {
+        "time": 184.16666666666666,
+        "from": "s08",
+        "beat": "s08"
+      },
+      {
+        "time": 187.5,
+        "from": "s08",
+        "beat": "s08"
+      },
+      {
+        "time": 190.83333333333334,
+        "from": "s08",
+        "beat": "ending"
+      }
+    ]
+  },
+  "face": {
+    "blocked": [],
+    "backFacing": [],
+    "minFacing": 0.8772495453500777
+  },
+  "seeks": [
+    {
+      "time": 4.909478458049886,
+      "identical": true
+    },
+    {
+      "time": 7.939773242630386,
+      "identical": true
+    },
+    {
+      "time": 10.458968253968255,
+      "identical": true
+    },
+    {
+      "time": 13.184433106575963,
+      "identical": true
+    },
+    {
+      "time": 14.264954648526077,
+      "identical": true
+    },
+    {
+      "time": 18.22353741496599,
+      "identical": true
+    },
+    {
+      "time": 21.888684807256237,
+      "identical": true
+    },
+    {
+      "time": 23.248684807256236,
+      "identical": true
+    },
+    {
+      "time": 34.467165532879825,
+      "identical": true
+    },
+    {
+      "time": 37.21422902494332,
+      "identical": true
+    },
+    {
+      "time": 41.433979591836746,
+      "identical": true
+    },
+    {
+      "time": 45.62397959183674,
+      "identical": true
+    },
+    {
+      "time": 49.24017006802721,
+      "identical": true
+    },
+    {
+      "time": 52.4305328798186,
+      "identical": true
+    },
+    {
+      "time": 54.160249433106586,
+      "identical": true
+    },
+    {
+      "time": 55.95052154195012,
+      "identical": true
+    },
+    {
+      "time": 57.5430612244898,
+      "identical": true
+    },
+    {
+      "time": 58.961621315192744,
+      "identical": true
+    },
+    {
+      "time": 60.58218820861678,
+      "identical": true
+    },
+    {
+      "time": 62.79775510204081,
+      "identical": true
+    },
+    {
+      "time": 64.90667800453514,
+      "identical": true
+    },
+    {
+      "time": 66.82427437641722,
+      "identical": true
+    },
+    {
+      "time": 68.52807256235826,
+      "identical": true
+    },
+    {
+      "time": 70.4159297052154,
+      "identical": true
+    },
+    {
+      "time": 72.27885487528343,
+      "identical": true
+    },
+    {
+      "time": 73.43648526077097,
+      "identical": true
+    },
+    {
+      "time": 74.79648526077096,
+      "identical": true
+    },
+    {
+      "time": 76.15648526077096,
+      "identical": true
+    },
+    {
+      "time": 77.51648526077096,
+      "identical": true
+    },
+    {
+      "time": 78.87648526077096,
+      "identical": true
+    },
+    {
+      "time": 84.38379818594105,
+      "identical": true
+    },
+    {
+      "time": 87.09197278911564,
+      "identical": true
+    },
+    {
+      "time": 88.5663492063492,
+      "identical": true
+    },
+    {
+      "time": 90.04922902494332,
+      "identical": true
+    },
+    {
+      "time": 92.55448979591836,
+      "identical": true
+    },
+    {
+      "time": 96.03609977324263,
+      "identical": true
+    },
+    {
+      "time": 96.9937528344671,
+      "identical": true
+    },
+    {
+      "time": 100.38780045351473,
+      "identical": true
+    },
+    {
+      "time": 103.80185941043084,
+      "identical": true
+    },
+    {
+      "time": 105.77006802721087,
+      "identical": true
+    },
+    {
+      "time": 107.77747165532878,
+      "identical": true
+    },
+    {
+      "time": 109.62795918367345,
+      "identical": true
+    },
+    {
+      "time": 112.22770975056689,
+      "identical": true
+    },
+    {
+      "time": 113.96701814058957,
+      "identical": true
+    },
+    {
+      "time": 115.33422902494331,
+      "identical": true
+    },
+    {
+      "time": 116.80835600907028,
+      "identical": true
+    },
+    {
+      "time": 119.01447845804988,
+      "identical": true
+    },
+    {
+      "time": 121.9462358276644,
+      "identical": true
+    },
+    {
+      "time": 124.0168140589569,
+      "identical": true
+    },
+    {
+      "time": 125.16948979591835,
+      "identical": true
+    },
+    {
+      "time": 128.65846938775508,
+      "identical": true
+    },
+    {
+      "time": 132.40038548752835,
+      "identical": true
+    },
+    {
+      "time": 133.76038548752837,
+      "identical": true
+    },
+    {
+      "time": 135.12038548752838,
+      "identical": true
+    },
+    {
+      "time": 136.4803854875284,
+      "identical": true
+    },
+    {
+      "time": 144.50356009070293,
+      "identical": true
+    },
+    {
+      "time": 146.10619047619048,
+      "identical": true
+    },
+    {
+      "time": 147.7268934240363,
+      "identical": true
+    },
+    {
+      "time": 149.72914965986396,
+      "identical": true
+    },
+    {
+      "time": 154.61825396825398,
+      "identical": true
+    },
+    {
+      "time": 156.1700680272109,
+      "identical": true
+    },
+    {
+      "time": 161.2424149659864,
+      "identical": true
+    },
+    {
+      "time": 169.16897959183672,
+      "identical": true
+    },
+    {
+      "time": 172.85054421768706,
+      "identical": true
+    },
+    {
+      "time": 175.31071428571425,
+      "identical": true
+    },
+    {
+      "time": 176.54519274376418,
+      "identical": true
+    },
+    {
+      "time": 177.5019387755102,
+      "identical": true
+    },
+    {
+      "time": 0.44999999999999996,
+      "identical": true
+    },
+    {
+      "time": 0.44999999999999996,
+      "identical": true
+    },
+    {
+      "time": 81.14999999999999,
+      "identical": true
+    },
+    {
+      "time": 87.2263492063492,
+      "identical": true
+    },
+    {
+      "time": 87.2263492063492,
+      "identical": true
+    },
+    {
+      "time": 138.81666666666666,
+      "identical": true
+    },
+    {
+      "time": 150.91643990929708,
+      "identical": true
+    },
+    {
+      "time": 158.48333333333335,
+      "identical": true
+    },
+    {
+      "time": 165.21666666666667,
+      "identical": true
+    },
+    {
+      "time": 180.73333333333335,
+      "identical": true
+    },
+    {
+      "time": 188.23333333333335,
+      "identical": true
+    },
+    {
+      "time": 183.73333333333335,
+      "identical": true
+    },
+    {
+      "time": 185.13333333333335,
+      "identical": true
+    },
+    {
+      "time": 192.13333333333333,
+      "identical": true
+    }
+  ],
+  "actions": {
+    "clothBefore": true,
+    "clothAfter": false,
+    "family": 6,
+    "sign": true,
+    "bucket": true,
+    "hikerGone": true,
+    "pinError": 0.008439487924356092,
+    "noticeFirst": "vote notice",
+    "oldPoster": true,
+    "lampsBefore": [
+      1.5
+    ],
+    "lampsAfter": [
+      0
+    ],
+    "cast": [
+      "riot",
+      "rocco",
+      "bash",
+      "pip",
+      "preston",
+      "marlo",
+      "mayor",
+      "bashmom",
+      "hiker"
+    ],
+    "references": {
+      "park": "art/gemini/sets/23_park_day.jpg",
+      "apartment": "art/gemini/sets/apartment_night_v2.jpg",
+      "lake": "art/gemini/sets/lake_day_v2.jpg",
+      "lake_night": "art/gemini/sets/lake_night_v2.jpg",
+      "stoop_sunset": "art/gemini/sets/stoop_sunset_v2.jpg",
+      "stoop_night": "art/gemini/sets/stoop_night_v2.jpg",
+      "main_street": "art/gemini/sets/55_main_street_day_mailbox.jpg"
+    }
+  },
+  "samples": [
+    3,
+    12.583333333333334,
+    24.166666666666668,
+    28.166666666666668,
+    28.91666666666667,
+    31.66666666666667,
+    35.66666666666667,
+    56.708333333333336,
+    79.75,
+    83.75,
+    109.58333333333333,
+    137.41666666666666,
+    141.41666666666666,
+    148.25,
+    157.08333333333334,
+    161.08333333333334,
+    162.5,
+    165.91666666666666,
+    169.91666666666666,
+    173.625,
+    179.33333333333334,
+    183.33333333333334,
+    185.58333333333334,
+    189.83333333333334,
+    191.43333333333334,
+    193.53333333333333
+  ],
+  "errors": [],
+  "checkedAt": "2026-11-14T20:49:25.748Z"
+}
