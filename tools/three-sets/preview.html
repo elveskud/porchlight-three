@@ -1,0 +1,26 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Porchlight preview</title><style>html,body{margin:0;background:#111}</style>
+<script type="importmap">{"imports":{"three":"../../art/three/vendor/three.module.js","three/addons/":"../../art/three/vendor/addons/"}}</script></head><body><script type="module">
+// One-shot preview of a SET or a CHARACTER in the illustrated look, from several cameras. Driven by tools/three-sets/preview.cjs.
+//   ?set=<id>&cams=[{"pos":[x,y,z],"target":[x,y,z],"fov":45}, ...]
+//   ?actor=<id>&light=<set id>&cams=[...]            (the actor stands on a lawn, lit like the chosen set)
+import * as THREE from 'three';
+import {buildSet} from '../../art/three/sets/build.js';
+import {buildSetV5} from '../../art/three/sets/v5/index.js';
+import {SETS} from '../../art/three/sets/catalog.js';
+import {createIllustratedLook} from '../../art/three/illustrated/reference-v3/look.js';
+import {makeActor,applyActor,neutral} from '../../art/three/animation/v5/cast.js';
+import {registerAll} from '../../art/three/animation/v5/characters/index.js';
+import {stand} from '../../art/three/animation/v5/locomotion.js';
+const q=new URLSearchParams(location.search),W=1920,H=1080;
+const renderer=new THREE.WebGLRenderer({antialias:true,preserveDrawingBuffer:true});renderer.setSize(W,H);renderer.setPixelRatio(1);renderer.outputColorSpace=THREE.SRGBColorSpace;document.body.append(renderer.domElement);
+const scene=new THREE.Scene(),camera=new THREE.PerspectiveCamera(45,16/9,.1,600);
+const actors={},positioned={};let lightId=q.get('light')||q.get('set')||'park';
+if(q.get('set')){const id=q.get('set'),meta=SETS.find(s=>s.id===id);let root=await buildSetV5(id);if(!root){if(!meta)throw Error('unknown set '+id);root=buildSet(meta);}scene.add(root);root.traverse(o=>{if(o.userData.marker)o.visible=false;});}
+if(q.get('actor')){await registerAll();const id=q.get('actor'),r=makeActor(id);actors[id]=r;scene.add(r.root);const ground=new THREE.Mesh(new THREE.BoxGeometry(60,.2,60),new THREE.MeshStandardMaterial({color:0x87a959}));ground.position.y=-.1;scene.add(ground);
+ const p=neutral();Object.assign(p,JSON.parse(q.get('pose')||'{}'));r.root.visible=true;applyActor(r,p,0,0);stand(r,()=>0,{});positioned[id]=r;}
+const look=createIllustratedLook({scene,renderer,actors,modeled:{}});
+const cams=JSON.parse(q.get('cams')||'[{"pos":[0,3,12],"target":[0,1.5,0],"fov":45}]'),images=[];
+for(const c of cams){camera.position.set(...c.pos);camera.fov=c.fov||45;camera.lookAt(new THREE.Vector3(...c.target));camera.updateProjectionMatrix();camera.updateMatrixWorld(true);
+ scene.updateMatrixWorld(true);look.update(c.t||0,lightId,{id:'preview',start:0,end:1},null,positioned);look.render(camera);images.push(renderer.domElement.toDataURL('image/png').split(',')[1]);}
+window.__images=images;window.__ready=true;
+</script></body></html>

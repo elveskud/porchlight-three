@@ -1,0 +1,122 @@
+{
+ "popsPerFilm": {
+  "smile": 4,
+  "lids": 0,
+  "headYaw": 375,
+  "pupilX": 333
+ },
+ "maxJumpPerDrawing": {
+  "smile": 1.3,
+  "lids": 0.043270167237100726,
+  "headYaw": 0.26,
+  "pupilX": 0.04
+ },
+ "maxJumpWhere": {
+  "pupilX": {
+   "who": "riot",
+   "t": 7.333
+  },
+  "headYaw": {
+   "who": "riot",
+   "t": 7.333
+  },
+  "smile": {
+   "who": "riot",
+   "t": 119.5
+  },
+  "lids": {
+   "who": "riot",
+   "t": 167.667
+  }
+ },
+ "idleRangeRiotS04": {
+  "pelvisY": 0,
+  "pelvisX": 0,
+  "spineRotZ": 0.012,
+  "headRotY": 0.52,
+  "kneeBend": 0,
+  "footX": 0
+ },
+ "idleKneeBendRiotS04": 0.029,
+ "pathEndPop": [
+  {
+   "id": "opening-preston",
+   "pelvisJump": 0.158,
+   "footJumpL": 0.273,
+   "footJumpR": 0.162
+  },
+  {
+   "id": "opening-marlo",
+   "pelvisJump": 0.176,
+   "footJumpL": 0.261,
+   "footJumpR": 0.159
+  },
+  {
+   "id": "mom-enter",
+   "pelvisJump": 0.076,
+   "footJumpL": 0.175,
+   "footJumpR": 0.305
+  },
+  {
+   "id": "return-preston",
+   "pelvisJump": 0.163,
+   "footJumpL": 0.289,
+   "footJumpR": 0.178
+  },
+  {
+   "id": "return-marlo",
+   "pelvisJump": 0.096,
+   "footJumpL": 0.216,
+   "footJumpR": 0.156
+  },
+  {
+   "id": "hiker-enter",
+   "pelvisJump": 0.156,
+   "footJumpL": 0.192,
+   "footJumpR": 0.295
+  },
+  {
+   "id": "hiker-exit",
+   "pelvisJump": 0,
+   "footJumpL": 0,
+   "footJumpR": 0
+  },
+  {
+   "id": "preston-lake-enter",
+   "pelvisJump": 0.085,
+   "footJumpL": 0.206,
+   "footJumpR": 0.29
+  },
+  {
+   "id": "preston-lake-exit",
+   "pelvisJump": 0,
+   "footJumpL": 0,
+   "footJumpR": 0
+  },
+  {
+   "id": "marlo-board-enter",
+   "pelvisJump": 0.104,
+   "footJumpL": 0.175,
+   "footJumpR": 0.272
+  },
+  {
+   "id": "marlo-board-exit",
+   "pelvisJump": 0,
+   "footJumpL": 0,
+   "footJumpR": 0
+  },
+  {
+   "id": "marlo-stepaside",
+   "pelvisJump": 0.245,
+   "footJumpL": 0.202,
+   "footJumpR": 0.314
+  }
+ ],
+ "blinkRiotS04": {
+  "closed": 3,
+  "partial": 29,
+  "drawings": 693
+ },
+ "speechDrawings": 1098,
+ "pageMessages": []
+}

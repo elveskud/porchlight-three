@@ -1,0 +1,48 @@
+{
+  "renderer": "Three.js",
+  "version": "v5",
+  "style": {
+    "version": "reference-v3",
+    "lightingPerSet": true,
+    "boilingInk": true,
+    "paper": true,
+    "contactShadows": true,
+    "materials": 10054,
+    "twoTone": true,
+    "screenSpaceInk": true,
+    "drawnFaces": true,
+    "matte": true,
+    "foliageInstances": 5800,
+    "weakPerspective": 1,
+    "referencePalette": {
+      "ink": "#28302c",
+      "water": "#77cfd5",
+      "sand": "#efb344",
+      "grass": "#91ad58",
+      "pine": "#29714f",
+      "pineShadow": "#215439",
+      "leaf": "#63913e",
+      "sky": "#ace7fe",
+      "wall": "#ddba97",
+      "wood": "#b37d57",
+      "sofa": "#c46c41",
+      "beanbag": "#4d774e",
+      "nightSky": "#17365a",
+      "nightInk": "#151e25"
+    },
+    "animationAccents": 15,
+    "skippedMeshes": 0
+  },
+  "sourceHash": "7372c9d4578b1b4509083091435004c33fc2a30442b3ec862d87525e68199d46",
+  "duration": 197.16666666666666,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "drawingFps": 12,
+  "expectedFrames": 4732,
+  "speakingFrameChecks": 2488,
+  "elapsedSeconds": 152.183,
+  "output": "comparisons/episode04/v5/episode04_v5.mp4"
+}

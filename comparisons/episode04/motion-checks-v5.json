@@ -1,0 +1,132 @@
+{
+ "limits": {
+  "plantedSlide": 0.015,
+  "pelvisJump": 0.14,
+  "yawJump": 1.2,
+  "maxStepsPerSecond": 5.6,
+  "minIdleRangeY": 0.008,
+  "minIdleRangeX": 0.02
+ },
+ "paths": [
+  {
+   "id": "opening-preston",
+   "mode": "run",
+   "drawings": 39,
+   "worstSlide": 0.0024,
+   "worstPelvisJump": 0.1186,
+   "worstYawJump": 0.322,
+   "peakStepsPerSecond": 4
+  },
+  {
+   "id": "opening-marlo",
+   "mode": "run",
+   "drawings": 39,
+   "worstSlide": 0.002,
+   "worstPelvisJump": 0.1186,
+   "worstYawJump": 0.322,
+   "peakStepsPerSecond": 4
+  },
+  {
+   "id": "mom-enter",
+   "mode": "run",
+   "drawings": 30,
+   "worstSlide": 0.0037,
+   "worstPelvisJump": 0.1148,
+   "worstYawJump": 0.349,
+   "peakStepsPerSecond": 5.38
+  },
+  {
+   "id": "return-preston",
+   "mode": "run",
+   "drawings": 37,
+   "worstSlide": 0.0035,
+   "worstPelvisJump": 0.1046,
+   "worstYawJump": 0.354,
+   "peakStepsPerSecond": 4
+  },
+  {
+   "id": "return-marlo",
+   "mode": "run",
+   "drawings": 37,
+   "worstSlide": 0.003,
+   "worstPelvisJump": 0.1046,
+   "worstYawJump": 0.354,
+   "peakStepsPerSecond": 4
+  },
+  {
+   "id": "hiker-enter",
+   "mode": "run",
+   "drawings": 68,
+   "worstSlide": 0.0044,
+   "worstPelvisJump": 0.0939,
+   "worstYawJump": 0.382,
+   "peakStepsPerSecond": 4.22
+  },
+  {
+   "id": "hiker-exit",
+   "mode": "run",
+   "drawings": 43,
+   "worstSlide": 0.0043,
+   "worstPelvisJump": 0.1325,
+   "worstYawJump": 0.463,
+   "peakStepsPerSecond": 4.29
+  },
+  {
+   "id": "preston-lake-enter",
+   "mode": "run",
+   "drawings": 37,
+   "worstSlide": 0.0036,
+   "worstPelvisJump": 0.1126,
+   "worstYawJump": 0.42,
+   "peakStepsPerSecond": 4.21
+  },
+  {
+   "id": "preston-lake-exit",
+   "mode": "run",
+   "drawings": 28,
+   "worstSlide": 0.0036,
+   "worstPelvisJump": 0.0877,
+   "worstYawJump": 0.391,
+   "peakStepsPerSecond": 5
+  },
+  {
+   "id": "marlo-board-enter",
+   "mode": "run",
+   "drawings": 36,
+   "worstSlide": 0.0031,
+   "worstPelvisJump": 0.1175,
+   "worstYawJump": 0.966,
+   "peakStepsPerSecond": 4.44
+  },
+  {
+   "id": "marlo-board-exit",
+   "mode": "walk",
+   "drawings": 39,
+   "worstSlide": 0.0122,
+   "worstPelvisJump": 0.0554,
+   "worstYawJump": 0.476,
+   "peakStepsPerSecond": 3.2
+  },
+  {
+   "id": "marlo-stepaside",
+   "mode": "run",
+   "drawings": 22,
+   "worstSlide": 0.0028,
+   "worstPelvisJump": 0.1396,
+   "worstYawJump": 0.476,
+   "peakStepsPerSecond": 0
+  }
+ ],
+ "idle": {
+  "rangeY": 0.0159,
+  "rangeX": 0.0594,
+  "plantedSlide": 0
+ },
+ "twos": {
+  "pairs": 4,
+  "identical": 4
+ },
+ "fails": [],
+ "result": "PASS",
+ "pageMessages": []
+}

@@ -7,7 +7,15 @@
 #   python3 tools/check_scripts.py 2 3        just these
 #   python3 tools/check_scripts.py --no-md    check only
 #   python3 tools/check_scripts.py --fit      first give silent action its screen time (writes [hold] cues)
-# Timecodes use the engine's estimate (2.6 words a second). Real voices change them; the order and gaps stay.
+# Timecodes use the engine's estimate (3.1 words a second, measured on Episode 4). Real voices change them; the order and gaps stay.
+#
+# Three.js-era changes (17 Nov 2026, user decision "drop the Blender-only rules"; full list in DECISIONS.md):
+#   OFF: dead-hold and silent-hold limits, --fit hold padding, overlapping-seat and painting-pixel spot rules,
+#        "away" seats, the occluder-pass warning (all from the Blender 2.5D plate system).
+#   FIXED: sfx names come from the mixer's SOUNDS table (was: function names); faces come from animation v5 (was: Blender cast.py);
+#        sets come from art/three/sets/catalog.js (was: a stale list of 7); absolute paths in [fx] cues are reported
+#        (a path with a space broke the parser); game prompts are skipped with a notice when the Friendzy app is absent.
+#   KEPT: syntax, speakers, cues, enters and exits, one-word-line and group-laugh warnings, line length, next:, length band.
 import glob, json, os, re, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -28,7 +36,6 @@ SETS = {"hall outside": "hall_outside", "classroom": "classroom", "brook porch":
         "ranger station": "ranger_station", "town line": "town_line", "festival stage": "festival_stage",
         "city street": "city_street", "city pool": "city_pool", "city archive": "city_archive", "motel": "motel",
         "memory lake": "memory_lake", "walt porch": "walt_porch"}
-EXISTING_SETS = {"lake", "lake_night", "stoop_sunset", "stoop_night", "apartment", "hall", "car"}
 PROPS = ("die", "box", "notebook", "tape", "lantern", "photo", "letter", "crate", "clipboard", "backpack")
 NEW_PROPS = set(PROPS)
 
@@ -40,11 +47,36 @@ screenplay.PROPS = tuple(screenplay.PROPS) + PROPS
 ES.CARRY = tuple(ES.CARRY) + PROPS
 for w in CHARACTERS:
     ES.WALK_STEP[w] = 11
+# `features` (checks that an app-feature game has a real screenshot) was never copied from the Blender project: stubbed,
+# so those scripts are timed instead of stopping. Screenshots are checked when the episode is built.
+import types  # noqa: E402
+_features = types.ModuleType("features")
+_features.shot = lambda name: None
+sys.modules.setdefault("features", _features)
+# Warnings (one-word lines, group laughs) are counted per episode instead of printed one by one; --verbose lists them.
+WARNINGS = []
+ES.warn = lambda msg: WARNINGS.append(msg)
+# Blender-only staging rules, switched off here (they stay in the shared templates for the old pipeline).
+ES.check_staging = lambda ep: None      # dead holds, overlapping painting-pixel spots, 'away' seats
+ES.check_occluders = lambda ep: None    # occluder pass for painted plates
 screenplay.load = lambda path: screenplay.parse(open(path, encoding="utf-8").read(), path)  # never writes a .json here
 
 
-SOUNDS = set(re.findall(r"^def ([a-z_]+)\(", open(os.path.join(BLENDER, "audio/sfxkit.py"), encoding="utf-8").read(), re.M))
-FACES = set(re.findall(r'^\s+"([a-z_0-9]+)":', open(os.path.join(BLENDER, "characters/cast.py"), encoding="utf-8").read(), re.M))
+def _read(*parts):
+    return open(os.path.join(ROOT, *parts), encoding="utf-8").read()
+
+
+# Sound names the mixer knows (its SOUNDS table), the generated footstep/rise names, and the ones Episode 4's audio.py adds locally.
+_mix = _read("pipeline/templates/mix.py")
+SOUNDS = set(re.findall(r'"([a-z_0-9]+)":', _mix[_mix.index("SOUNDS = {"):_mix.index("def seamless")]))
+SOUNDS |= {f"step_{k}{i}" for k in ("wood", "sand", "stone") for i in range(4)} | {f"rise{k}" for k in range(1, 5)}
+SOUNDS |= {"car_horn", "rocco_hum"}   # synthesised in comparisons/episode04/source/audio.py
+# Faces and actions the Three.js performance code understands (animation v5).
+_perf = _read("art/three/animation/v5/performance.js")
+FACES = set(re.findall(r"^  ([a-z_0-9]+): \{", _perf[_perf.index("const FACES = {"):_perf.index("/** Move the pose toward a face")], re.M))
+FACES |= set(re.findall(r"'([a-z_]+)'", _perf[_perf.index("const ACTIONS = new Set(["):_perf.index("]);", _perf.index("const ACTIONS = new Set(["))]))
+# Sets that exist in the Three.js catalog.
+EXISTING_SETS = set(re.findall(r"set\('([a-z_0-9]+)'", _read("art/three/sets/catalog.js"))) | {"car"}
 
 
 def real_prompts():
@@ -194,7 +226,7 @@ def fit_holds(path):
 def timing(path):
     cfg = {"template": "episode", "format": "horizontal", "script": path}
     lines = ES.lines(cfg)
-    dur = {i: max(0.6, len(t.split()) / 2.6 + 0.3) for i, _, t in lines}
+    dur = {i: max(0.6, len(t.split()) / 3.1 + 0.3) for i, _, t in lines}
     return ES.timeline(cfg, dur), len(lines)
 
 
@@ -203,6 +235,8 @@ def main():
     write = "--no-md" not in sys.argv
     wanted = {int(a) for a in args}
     prompts = real_prompts()
+    if not prompts:
+        print(f"note: Friendzy app prompts not found at {MODELS} (set FRIENDZY_MODELS); game prompts are not checked")
     used = {"chars": {}, "sets": {}, "props": {}}
     bad = total = 0
     rows = []
@@ -212,12 +246,12 @@ def main():
             continue
         problems = []
         if "--fit" in sys.argv:
-            fit_holds(path)
+            print("note: --fit is switched off (it padded [hold] cues for the Blender 2.5D build); nothing was written")
         try:
             ep, notes = screenplay.parse(open(path, encoding="utf-8").read(), path)
             cues, _ = timing(path)
         except SystemExit as e:
-            print(f"ep{n:02d}: STOPPED: {e}")
+            print(f"ep{n:02d}: STOPPED in episodes/ep{n:02d}.txt: {e}   (open that file at the line number given, fix the script, run this check again)")
             bad += 1
             continue
         sec = (cues["END"] + 1) / 30
@@ -225,12 +259,13 @@ def main():
             problems.append(f"length {sec:.0f} s is outside 175-240 s")
         raw = open(path, encoding="utf-8").read()
         problems += [f"broken fx cue: {x[:50]}" for x in re.findall(r"^\[fx .*$", raw, re.M) if x.count("[") != x.count("]")]
+        problems += [f"absolute path in an fx cue (use a path from the project root): {x[:60]}" for x in re.findall(r"^\[fx .*=(/Users/|/home/|[A-Z]:).*$", raw, re.M)]
         problems += [f"fx options in a note: {x[:50]}" for x in re.findall(r"^// \w+=.*\]$", raw, re.M)]
         problems += [x for x in notes if not x.startswith("about ") and "(The town listens)" not in x]  # voice over: nobody's there
         for b in ep["beats"]:
             g = b.get("game") or {}
             p = g.get("prompt") or g.get("word")
-            if p and f'"{p.lower()}"' not in prompts:
+            if p and prompts and f'"{p.lower()}"' not in prompts:
                 problems.append(f"prompt isn't in the app: {p!r}")
             for snd in b.get("sfx", []):
                 if snd not in SOUNDS:
@@ -252,7 +287,14 @@ def main():
             problems.append("episode number doesn't match the file name")
         rows.append((n, ep["title"], sec))
         total += sec
-        print(f"ep{n:02d} {sec:4.0f} s  {ep['title']}" + "".join(f"\n      - {p}" for p in problems))
+        kinds = {}
+        for w in WARNINGS:
+            kinds[w.split(":")[2].strip().split(" ")[1] if "one-word" in w else "group laugh" if "group laugh" in w else "other"] = kinds.get(w.split(":")[2].strip().split(" ")[1] if "one-word" in w else "group laugh" if "group laugh" in w else "other", 0) + 1
+        note = f"   [{sum(1 for w in WARNINGS if 'one-word' in w)} one-word lines, {sum(1 for w in WARNINGS if 'group laugh' in w)} group laughs]" if WARNINGS else ""
+        if "--verbose" in sys.argv:
+            problems += [f"warning: {w}" for w in WARNINGS]
+        WARNINGS.clear()
+        print(f"ep{n:02d} {sec:4.0f} s  {ep['title']}{note}" + "".join(f"\n      - {p}" for p in problems))
         bad += bool(problems)
         if write:
             open(os.path.join(ROOT, f"scripts/ep{n:02d}.md"), "w", encoding="utf-8").write(to_markdown(path, ep, cues))

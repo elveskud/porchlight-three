@@ -30,3 +30,14 @@ voice/out/
 
 # Rendered movies
 *.mp4
+
+# Root runtime (npm install at project root)
+node_modules/
+.venv-mix/
+
+# Keep the archived full decision history
+!docs/archive/
+
+# Rebuildable soundtracks (mix.py / audio.py regenerate them; the voice recordings in assets/vo/ ARE kept)
+comparisons/*/assets/audio.wav
+comparisons/*/assets/v5/audio.wav

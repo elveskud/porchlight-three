@@ -1,0 +1,122 @@
+{
+ "popsPerFilm": {
+  "smile": 3,
+  "lids": 1,
+  "headYaw": 103,
+  "pupilX": 75
+ },
+ "maxJumpPerDrawing": {
+  "smile": 0.8185037940408463,
+  "lids": 0.11627180559948773,
+  "headYaw": 0.28130625813926546,
+  "pupilX": 0.0699337691180699
+ },
+ "maxJumpWhere": {
+  "pupilX": {
+   "who": "pip",
+   "t": 121.083
+  },
+  "headYaw": {
+   "who": "riot",
+   "t": 60.25
+  },
+  "smile": {
+   "who": "riot",
+   "t": 134.75
+  },
+  "lids": {
+   "who": "riot",
+   "t": 22.917
+  }
+ },
+ "idleRangeRiotS04": {
+  "pelvisY": 0.0159,
+  "pelvisX": 0.0874,
+  "spineRotZ": 0.0988,
+  "headRotY": 0.52,
+  "kneeBend": 0.346,
+  "footX": 0
+ },
+ "idleKneeBendRiotS04": 0.2777,
+ "pathEndPop": [
+  {
+   "id": "opening-preston",
+   "pelvisJump": 0.019,
+   "footJumpL": 0,
+   "footJumpR": 0.047
+  },
+  {
+   "id": "opening-marlo",
+   "pelvisJump": 0.015,
+   "footJumpL": 0,
+   "footJumpR": 0.047
+  },
+  {
+   "id": "mom-enter",
+   "pelvisJump": 0.014,
+   "footJumpL": 0,
+   "footJumpR": 0.061
+  },
+  {
+   "id": "return-preston",
+   "pelvisJump": 0.021,
+   "footJumpL": 0.09,
+   "footJumpR": 0
+  },
+  {
+   "id": "return-marlo",
+   "pelvisJump": 0.016,
+   "footJumpL": 0.087,
+   "footJumpR": 0
+  },
+  {
+   "id": "hiker-enter",
+   "pelvisJump": 0.029,
+   "footJumpL": 0,
+   "footJumpR": 0.129
+  },
+  {
+   "id": "hiker-exit",
+   "pelvisJump": 0,
+   "footJumpL": 0,
+   "footJumpR": 0
+  },
+  {
+   "id": "preston-lake-enter",
+   "pelvisJump": 0.008,
+   "footJumpL": 0.062,
+   "footJumpR": 0
+  },
+  {
+   "id": "preston-lake-exit",
+   "pelvisJump": 0,
+   "footJumpL": 0,
+   "footJumpR": 0
+  },
+  {
+   "id": "marlo-board-enter",
+   "pelvisJump": 0.001,
+   "footJumpL": 0.053,
+   "footJumpR": 0
+  },
+  {
+   "id": "marlo-board-exit",
+   "pelvisJump": 0,
+   "footJumpL": 0,
+   "footJumpR": 0
+  },
+  {
+   "id": "marlo-stepaside",
+   "pelvisJump": 0.028,
+   "footJumpL": 0.089,
+   "footJumpR": 0
+  }
+ ],
+ "blinkRiotS04": {
+  "closed": 0,
+  "partial": 38,
+  "drawings": 693
+ },
+ "speechDrawings": 1098,
+ "pageMessages": []
+}
