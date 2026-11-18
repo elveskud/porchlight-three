@@ -1,0 +1,1214 @@
+{
+  "episode": 4,
+  "cast": [
+    "riot",
+    "rocco",
+    "bash",
+    "pip",
+    "preston",
+    "marlo",
+    "mayor",
+    "bashmom",
+    "hiker"
+  ],
+  "preloadSets": [
+    "park",
+    "apartment",
+    "lake",
+    "lake_night",
+    "stoop_sunset",
+    "stoop_night",
+    "main_street"
+  ],
+  "beats": {
+    "s01": {
+      "set": "park",
+      "camera": {
+        "pos": [
+          2.1,
+          1.9,
+          12
+        ],
+        "target": [
+          2.1,
+          1.65,
+          2
+        ],
+        "fov": 43,
+        "flatten": 1.3,
+        "flatTarget": [
+          2.1,
+          1.55,
+          2
+        ]
+      },
+      "actors": {
+        "riot": {
+          "at": [
+            -0.9,
+            0,
+            3
+          ]
+        },
+        "bash": {
+          "at": [
+            -2.8,
+            0,
+            3
+          ]
+        },
+        "preston": {
+          "at": [
+            3.1,
+            0,
+            2.3
+          ],
+          "paths": [
+            "opening-preston"
+          ]
+        },
+        "marlo": {
+          "at": [
+            5.2,
+            0,
+            2.3
+          ],
+          "paths": [
+            "opening-marlo"
+          ]
+        },
+        "mayor": {
+          "seat": "mayor_bench"
+        }
+      },
+      "hooks": [
+        "props.s01"
+      ],
+      "firstLineAt": 3,
+      "motion": [
+        {
+          "id": "opening-preston",
+          "who": "preston",
+          "start": {
+            "beat": "s01",
+            "offset": 0.05
+          },
+          "end": {
+            "beat": "s01",
+            "offset": 2.861372485715794
+          },
+          "points": [
+            [
+              11.6,
+              0,
+              3.7
+            ],
+            [
+              6.4,
+              0,
+              3.5
+            ],
+            [
+              3.1,
+              0,
+              2.3
+            ]
+          ],
+          "width": 0.155,
+          "endYaw": 0,
+          "surface": "grass",
+          "side": "right"
+        },
+        {
+          "id": "opening-marlo",
+          "who": "marlo",
+          "start": {
+            "beat": "s01",
+            "offset": 0.05
+          },
+          "end": {
+            "beat": "s01",
+            "offset": 2.8521335422326453
+          },
+          "points": [
+            [
+              13.6,
+              0,
+              3.7
+            ],
+            [
+              7.6,
+              0,
+              3.5
+            ],
+            [
+              5.2,
+              0,
+              2.3
+            ]
+          ],
+          "width": 0.155,
+          "endYaw": 0,
+          "surface": "grass",
+          "side": "right"
+        }
+      ],
+      "closeUps": [
+        {
+          "line": "s01_01",
+          "to": "s01_01",
+          "who": "riot",
+          "dist": 4.6,
+          "pad": [
+            0.55,
+            0.8
+          ]
+        }
+      ]
+    },
+    "s02": {
+      "set": "lake",
+      "camera": {
+        "pos": [
+          1.2,
+          3.2,
+          11.5
+        ],
+        "target": [
+          -3.4,
+          3.7,
+          -16
+        ],
+        "fov": 50,
+        "flatten": false,
+        "velocity": [
+          0,
+          0,
+          -0.03
+        ]
+      },
+      "actors": {},
+      "firstLineAt": 0.6,
+      "duration": 7.5
+    },
+    "s03": {
+      "set": "apartment",
+      "camera": {
+        "pos": [
+          0.3,
+          2.35,
+          6.6
+        ],
+        "target": [
+          0,
+          1.55,
+          -1
+        ],
+        "fov": 45,
+        "flatten": false
+      },
+      "actors": {
+        "bash": {
+          "seat": "sofa_left"
+        },
+        "pip": {
+          "seat": "sofa_right"
+        },
+        "rocco": {
+          "seat": "beanbag"
+        },
+        "riot": {
+          "at": [
+            0.3,
+            0,
+            1.7
+          ]
+        }
+      },
+      "hooks": [
+        "props.s03"
+      ],
+      "firstLineAt": 0.6,
+      "closeUps": [
+        {
+          "line": "s03_16",
+          "to": "s03_17",
+          "who": "rocco",
+          "dist": 4.6,
+          "pad": [
+            0.15,
+            0.45
+          ]
+        }
+      ]
+    },
+    "s04": {
+      "set": "park",
+      "camera": {
+        "pos": [
+          0.15,
+          2.3,
+          14.8
+        ],
+        "target": [
+          0.2,
+          1.6,
+          0.6
+        ],
+        "fov": 49,
+        "flatten": 1.3,
+        "flatTarget": [
+          0.2,
+          1.7,
+          0.6
+        ]
+      },
+      "actors": {
+        "rocco": {
+          "seat": "picnic_left"
+        },
+        "bash": {
+          "at": [
+            -2.8,
+            0,
+            3
+          ]
+        },
+        "riot": {
+          "at": [
+            -0.9,
+            0,
+            3
+          ]
+        },
+        "pip": {
+          "at": [
+            1,
+            0,
+            3
+          ]
+        },
+        "mayor": {
+          "seat": "mayor_bench"
+        },
+        "bashmom": {
+          "at": [
+            -4.4,
+            0,
+            3
+          ],
+          "paths": [
+            "mom-enter"
+          ],
+          "face": "happy"
+        },
+        "preston": {
+          "at": [
+            3.1,
+            0,
+            2.3
+          ],
+          "paths": [
+            "return-preston"
+          ],
+          "showFrom": "path"
+        },
+        "marlo": {
+          "at": [
+            5.2,
+            0,
+            2.3
+          ],
+          "paths": [
+            "return-marlo"
+          ],
+          "showFrom": "path"
+        }
+      },
+      "crowd": "family",
+      "hooks": [
+        "props.s04"
+      ],
+      "firstLineAt": 1.9,
+      "pauses": {
+        "s04_04": 1.6
+      },
+      "motion": [
+        {
+          "id": "mom-enter",
+          "who": "bashmom",
+          "start": {
+            "beat": "s04",
+            "offset": 0.04999999999999716
+          },
+          "end": {
+            "beat": "s04",
+            "offset": 2.75967741935483
+          },
+          "points": [
+            [
+              -12.8,
+              0,
+              3
+            ],
+            [
+              -4.4,
+              0,
+              3
+            ]
+          ],
+          "width": 0.155,
+          "endYaw": 0,
+          "surface": "grass",
+          "side": "left"
+        },
+        {
+          "id": "return-preston",
+          "who": "preston",
+          "start": {
+            "beat": "s04",
+            "offset": 5.14913936315763
+          },
+          "end": {
+            "beat": "s04",
+            "offset": 8.476349206349198
+          },
+          "points": [
+            [
+              13.2,
+              0,
+              3.7
+            ],
+            [
+              6.4,
+              0,
+              3.5
+            ],
+            [
+              3.1,
+              0,
+              2.3
+            ]
+          ],
+          "width": 0.155,
+          "endYaw": 0,
+          "surface": "grass",
+          "side": "right"
+        },
+        {
+          "id": "return-marlo",
+          "who": "marlo",
+          "start": {
+            "beat": "s04",
+            "offset": 5.222806050759374
+          },
+          "end": {
+            "beat": "s04",
+            "offset": 8.476349206349198
+          },
+          "points": [
+            [
+              15.0,
+              0,
+              3.7
+            ],
+            [
+              7.6,
+              0,
+              3.5
+            ],
+            [
+              5.2,
+              0,
+              2.3
+            ]
+          ],
+          "width": 0.155,
+          "endYaw": 0,
+          "surface": "grass",
+          "side": "right"
+        }
+      ],
+      "closeUps": [
+        {
+          "line": "s04_12",
+          "to": "s04_12",
+          "who": "riot",
+          "dist": 4.6,
+          "pad": [
+            0.15,
+            0.45
+          ]
+        }
+      ]
+    },
+    "s05": {
+      "set": "park",
+      "camera": {
+        "pos": [
+          0.15,
+          2.3,
+          14.8
+        ],
+        "target": [
+          0.2,
+          1.6,
+          0.6
+        ],
+        "fov": 49,
+        "flatten": 1.3,
+        "flatTarget": [
+          0.2,
+          1.7,
+          0.6
+        ]
+      },
+      "actors": {
+        "bash": {
+          "at": [
+            -3,
+            0,
+            3
+          ],
+          "face": "happy"
+        },
+        "riot": {
+          "at": [
+            -1,
+            0,
+            3
+          ],
+          "face": "happy"
+        },
+        "pip": {
+          "at": [
+            1,
+            0,
+            3
+          ],
+          "face": "happy"
+        },
+        "rocco": {
+          "at": [
+            -5,
+            0,
+            3
+          ],
+          "face": "happy"
+        },
+        "hiker": {
+          "at": [
+            3.9,
+            0,
+            2.1
+          ],
+          "paths": [
+            "hiker-enter",
+            "hiker-exit"
+          ],
+          "hideAfter": "path",
+          "face": "happy"
+        }
+      },
+      "hooks": [
+        "props.s05"
+      ],
+      "firstLineAt": 6,
+      "pauses": {
+        "s05_03": 4
+      },
+      "motion": [
+        {
+          "id": "hiker-enter",
+          "who": "hiker",
+          "start": {
+            "beat": "s05",
+            "offset": 0.09999999999999432
+          },
+          "end": {
+            "beat": "s05",
+            "offset": 5.7352067890677745
+          },
+          "points": [
+            [
+              12.2,
+              0,
+              3.7
+            ],
+            [
+              3.9,
+              0,
+              2.1
+            ]
+          ],
+          "width": 0.155,
+          "endYaw": 0,
+          "surface": "grass",
+          "gait": "walk",
+          "side": "right"
+        },
+        {
+          "id": "hiker-exit",
+          "who": "hiker",
+          "start": {
+            "beat": "s05",
+            "offset": 12.999773242630425
+          },
+          "end": {
+            "beat": "s05",
+            "offset": 18.08975242618729
+          },
+          "points": [
+            [
+              3.9,
+              0,
+              2.1
+            ],
+            [
+              6.5,
+              0,
+              3.5
+            ],
+            [
+              12.2,
+              0,
+              3.5
+            ]
+          ],
+          "width": 0.155,
+          "endYaw": 1.5707963267948966,
+          "surface": "grass",
+          "gait": "walk",
+          "startYaw": 0,
+          "side": "right"
+        }
+      ],
+      "closeUps": [
+        {
+          "line": "s05_04",
+          "to": "s05_04",
+          "who": "rocco",
+          "dist": 4.6,
+          "pad": [
+            0.2,
+            0.9
+          ]
+        }
+      ]
+    },
+    "s06": {
+      "set": "lake",
+      "camera": {
+        "pos": [
+          5,
+          2.5,
+          -6.5
+        ],
+        "target": [
+          1,
+          1.35,
+          1
+        ],
+        "fov": 43,
+        "flatten": 1.3
+      },
+      "actors": {
+        "preston": {
+          "at": [
+            1.1,
+            0,
+            2.4
+          ],
+          "paths": [
+            "preston-lake-enter",
+            "preston-lake-exit"
+          ],
+          "hideAfter": "path"
+        }
+      },
+      "hooks": [
+        "props.s06"
+      ],
+      "firstLineAt": 2.6,
+      "minDuration": 9.6,
+      "motion": [
+        {
+          "id": "preston-lake-enter",
+          "who": "preston",
+          "start": {
+            "beat": "s06",
+            "offset": 0.09999999999999432
+          },
+          "end": {
+            "beat": "s06",
+            "offset": 2.5500000000000114
+          },
+          "points": [
+            [
+              3.9,
+              0,
+              2.4
+            ],
+            [
+              1.1,
+              0,
+              2.4
+            ]
+          ],
+          "width": 0.155,
+          "endYaw": 2.8415926535897933,
+          "surface": "grass",
+          "side": "right"
+        },
+        {
+          "id": "preston-lake-exit",
+          "who": "preston",
+          "start": {
+            "beat": "s06",
+            "offset": 7.116666666666646
+          },
+          "end": {
+            "beat": "s06",
+            "offset": 9.566666666666663
+          },
+          "points": [
+            [
+              1.1,
+              0,
+              2.4
+            ],
+            [
+              7.8,
+              0,
+              2.4
+            ]
+          ],
+          "width": 0.155,
+          "endYaw": 1.5707963267948966,
+          "surface": "grass",
+          "startYaw": 2.8415926535897933,
+          "side": "right"
+        }
+      ],
+      "closeUps": [
+        {
+          "line": "s06_00",
+          "to": "s06_00",
+          "who": "preston",
+          "dist": 4.6,
+          "pad": [
+            0.3,
+            1.2
+          ]
+        }
+      ]
+    },
+    "s07": {
+      "set": "stoop_sunset",
+      "camera": {
+        "pos": [
+          -0.6,
+          2.7,
+          9
+        ],
+        "target": [
+          1.4,
+          1.65,
+          -0.6
+        ],
+        "fov": 43,
+        "flatten": 1.3
+      },
+      "actors": {
+        "riot": {
+          "seat": "step_left"
+        },
+        "rocco": {
+          "seat": "step_right"
+        }
+      },
+      "firstLineAt": 0.6,
+      "closeUps": [
+        {
+          "line": "s07_01",
+          "to": "s07_01",
+          "who": "riot",
+          "dist": 4.2,
+          "pad": [
+            0.15,
+            0.45
+          ]
+        },
+        {
+          "line": "s07_02",
+          "to": "s07_02",
+          "who": "rocco",
+          "dist": 4.2,
+          "pad": [
+            0.15,
+            0.45
+          ]
+        }
+      ]
+    },
+    "s08": {
+      "set": "main_street",
+      "camera": {
+        "pos": [
+          -0.5,
+          2.4,
+          11
+        ],
+        "target": [
+          -4.1,
+          1.5,
+          4.6
+        ],
+        "fov": 44,
+        "flatten": 1.3
+      },
+      "actors": {
+        "marlo": {
+          "at": [
+            -3.15,
+            0.16,
+            5.5
+          ],
+          "hook": true
+        }
+      },
+      "hooks": [
+        "props.s08"
+      ],
+      "firstLineAt": 0.6,
+      "duration": 10.5,
+      "motion": [
+        {
+          "id": "marlo-board-enter",
+          "who": "marlo",
+          "start": {
+            "beat": "s08",
+            "offset": 0.6500000000000057
+          },
+          "end": {
+            "beat": "s08",
+            "offset": 2.1999999999999886
+          },
+          "points": [
+            [
+              -0.5,
+              0.16,
+              5.5
+            ],
+            [
+              -4.5,
+              0.16,
+              5.5
+            ]
+          ],
+          "width": 0.155,
+          "endYaw": 0,
+          "surface": "stone",
+          "side": "right"
+        },
+        {
+          "id": "marlo-board-exit",
+          "who": "marlo",
+          "start": {
+            "beat": "s08",
+            "offset": 8.26000000000002
+          },
+          "end": {
+            "beat": "s08",
+            "offset": 10.400000000000006
+          },
+          "points": [
+            [
+              -3.15,
+              0.16,
+              5.5
+            ],
+            [
+              2.2,
+              0.16,
+              5.5
+            ]
+          ],
+          "width": 0.155,
+          "endYaw": 1.5707963267948966,
+          "surface": "stone",
+          "startYaw": 0,
+          "side": "right"
+        },
+        {
+          "id": "marlo-stepaside",
+          "who": "marlo",
+          "start": {
+            "beat": "s08",
+            "offset": 3.0999999999999943
+          },
+          "end": {
+            "beat": "s08",
+            "offset": 3.6999999999999886
+          },
+          "points": [
+            [
+              -4.5,
+              0.16,
+              5.5
+            ],
+            [
+              -3.15,
+              0.16,
+              5.5
+            ]
+          ],
+          "width": 0.155,
+          "endYaw": 0,
+          "surface": "stone",
+          "startYaw": 3.141592653589793,
+          "side": "right"
+        }
+      ]
+    }
+  },
+  "ending": {
+    "set": "stoop_night",
+    "camera": {
+      "pos": [
+        2.5,
+        2.6,
+        1.8
+      ],
+      "target": [
+        3.25,
+        2.55,
+        -0.65
+      ],
+      "fov": 37,
+      "flatten": false
+    }
+  },
+  "hookModule": "./props.js",
+  "actions": {
+    "lampOff": {
+      "ending": true,
+      "offset": 1.0999999999999943
+    },
+    "noticeInsert": [
+      {
+        "beat": "s08",
+        "offset": 3.8000000000000114
+      },
+      {
+        "beat": "s08",
+        "offset": 7.099999999999994
+      }
+    ],
+    "horn": {
+      "beat": "s06",
+      "offset": 6.866666666666646
+    }
+  },
+  "fastWindows": [
+    [
+      {
+        "beat": "s01",
+        "offset": 7.579
+      },
+      {
+        "beat": "s01",
+        "offset": 8.379
+      }
+    ],
+    [
+      {
+        "beat": "s04",
+        "offset": 0.36879999999999313
+      },
+      {
+        "beat": "s04",
+        "offset": 0.568799999999996
+      }
+    ],
+    [
+      {
+        "beat": "s04",
+        "offset": 0.8175999999999988
+      },
+      {
+        "beat": "s04",
+        "offset": 1.0176000000000016
+      }
+    ],
+    [
+      {
+        "beat": "s04",
+        "offset": 1.2664000000000044
+      },
+      {
+        "beat": "s04",
+        "offset": 1.466399999999993
+      }
+    ],
+    [
+      {
+        "beat": "s04",
+        "offset": 1.7151999999999958
+      },
+      {
+        "beat": "s04",
+        "offset": 1.9151999999999987
+      }
+    ],
+    [
+      {
+        "beat": "s05",
+        "offset": 16.099733333333347
+      },
+      {
+        "beat": "s05",
+        "offset": 16.999733333333353
+      }
+    ],
+    [
+      {
+        "beat": "s06",
+        "offset": 6.866666666666646
+      },
+      {
+        "beat": "s06",
+        "offset": 7.666666666666657
+      }
+    ],
+    [
+      {
+        "beat": "s08",
+        "offset": 2.90003333333334
+      },
+      {
+        "beat": "s08",
+        "offset": 3.40003333333334
+      }
+    ],
+    [
+      {
+        "ending": true,
+        "offset": 1.0000333333333344
+      },
+      {
+        "ending": true,
+        "offset": 1.6000333333333288
+      }
+    ]
+  ],
+  "audio": {
+    "sfx": [
+      [
+        "theme_long",
+        {
+          "beat": "s02",
+          "offset": 0.14999999999999858
+        },
+        0.24
+      ],
+      [
+        "tap",
+        {
+          "beat": "s04",
+          "offset": 0.5999999999999943
+        },
+        0.12
+      ],
+      [
+        "tap",
+        {
+          "beat": "s04",
+          "offset": 1.0999999999999943
+        },
+        0.12
+      ],
+      [
+        "tap",
+        {
+          "beat": "s08",
+          "offset": 3.0
+        },
+        0.22
+      ],
+      [
+        "click",
+        {
+          "ending": true,
+          "offset": 1.0999999999999943
+        },
+        0.4
+      ],
+      [
+        "theme",
+        {
+          "ending": true,
+          "offset": 1.5
+        },
+        0.24
+      ],
+      [
+        "car_horn",
+        {
+          "beat": "s06",
+          "offset": 6.866666666666646
+        },
+        0.16
+      ],
+      [
+        "rocco_hum",
+        {
+          "beat": "s03",
+          "offset": 40.3098185941043
+        },
+        0.025
+      ],
+      [
+        "rocco_hum",
+        {
+          "beat": "s04",
+          "offset": 0.2264852607709713
+        },
+        0.025
+      ],
+      [
+        "rocco_hum",
+        {
+          "beat": "s04",
+          "offset": 8.226485260770971
+        },
+        0.025
+      ],
+      [
+        "rocco_hum",
+        {
+          "beat": "s04",
+          "offset": 16.22648526077097
+        },
+        0.025
+      ],
+      [
+        "rocco_hum",
+        {
+          "beat": "s04",
+          "offset": 24.22648526077097
+        },
+        0.025
+      ],
+      [
+        "rocco_hum",
+        {
+          "beat": "s04",
+          "offset": 32.22648526077097
+        },
+        0.025
+      ],
+      [
+        "rocco_hum",
+        {
+          "beat": "s04",
+          "offset": 40.22648526077097
+        },
+        0.025
+      ],
+      [
+        "rocco_hum",
+        {
+          "beat": "s04",
+          "offset": 48.22648526077097
+        },
+        0.025
+      ],
+      [
+        "rocco_hum",
+        {
+          "beat": "s04",
+          "offset": 56.22648526077097
+        },
+        0.025
+      ],
+      [
+        "rocco_hum",
+        {
+          "beat": "s05",
+          "offset": 6.559818594104314
+        },
+        0.025
+      ],
+      [
+        "rocco_hum",
+        {
+          "beat": "s05",
+          "offset": 14.559818594104314
+        },
+        0.025
+      ],
+      [
+        "rocco_hum",
+        {
+          "beat": "s06",
+          "offset": 2.1431519274376285
+        },
+        0.025
+      ],
+      [
+        "rocco_hum",
+        {
+          "beat": "s07",
+          "offset": 0.4764852607709713
+        },
+        0.025
+      ],
+      [
+        "rocco_hum",
+        {
+          "beat": "s07",
+          "offset": 8.476485260770971
+        },
+        0.025
+      ]
+    ],
+    "music_segments": [
+      [
+        "lofi",
+        0,
+        159.33333333333334,
+        0.085,
+        []
+      ],
+      [
+        "piano",
+        159.33333333333334,
+        197.16666666666666,
+        0.09,
+        []
+      ]
+    ],
+    "ambience": [
+      [
+        "lake",
+        0,
+        0.045,
+        33.16666666666667
+      ],
+      [
+        "lake",
+        81.25,
+        0.05,
+        87.75
+      ],
+      [
+        "street",
+        169.0,
+        0.04,
+        28.166666666666657
+      ]
+    ]
+  },
+  "timelineSource": "./source/timeline-data.json"
+}
