@@ -21,6 +21,8 @@ export const LIGHTING = {
   memory_lake_storm:{tint:[.43,.49,.65],shadowMul:[.54,.59,.81],light:[-.2,.7,-.3],distant:'#4d6171',bg:'#343d5a',night:true,notes:'32: violet storm sky, torn cloth and tipped benches'},
   car:{tint:[.98,.99,.93],shadowMul:[.71,.79,.85],light:[-.4,.65,-.7],distant:'#8ea388',bg:'#a9c9d5',inside:true,notes:'No painting: provisional neutral daylight through windscreen; needs user painting'},
   city_archive:{tint:[1,.98,.90],shadowMul:[.79,.79,.84],light:[-.35,.75,-.4],distant:'#b4bfb5',bg:'#ddd7b9',inside:true,notes:'38: diffuse daylight through tall arched windows, cream walls and oak drawers'},
+  festival_stage:{tint:[.83,.86,1],shadowMul:[.65,.68,.86],light:[-.55,.3,-.6],distant:'#718a91',bg:'#627d9c',pool:{pos:[0,2.2,1],power:.025,color:[1,.84,.58]},notes:'39: blue dusk over warm timber, festoon lights, peach horizon'},
+  festival_stage_storm:{tint:[.42,.51,.59],shadowMul:[.52,.60,.73],light:[-.3,.7,-.3],distant:'#405c68',bg:'#293e4e',night:true,notes:'40: dark teal storm, wet sand, damaged picnic benches'},
   city_pool:{tint:[.79,.91,1],shadowMul:[.65,.76,.87],light:[-.6,.7,-.3],distant:'#718e9a',bg:'#738d9c',inside:true,notes:'37: cool glass hall, slate steel trusses, turquoise water and grey bleachers'},
   gus_garage_night:{tint:[.36,.46,.61],shadowMul:[.54,.63,.83],light:[-.6,.65,.4],distant:'#3d515e',bg:'#293c50',inside:true,night:true,pool:{pos:[-2.55,1.15,.35],power:.14,color:[1,.82,.5]},notes:'29: closed doors, desk-lamp pool, deep blue-grey shelves'},
   walt_garage:{tint:[1,.97,.91],shadowMul:[.76,.72,.82],light:[-.1,.75,-.65],distant:'#a7b7a0',bg:'#b6d0d0',inside:true,notes:'26: rear garage daylight, cream plaster, grey concrete and cool mauve shadows'},

@@ -4,6 +4,7 @@
 // ../../illustrated/reference-v3/lighting.js. See docs/cards/add-a-set.md.
 export const REGISTRY = {
   city_pool: () => import('./city_pool.js'),
+  festival_stage: () => import('./festival_stage.js'),
   city_archive: () => import('./city_archive.js'),
   car: () => import('./car.js'),
   memory_lake: () => import('./memory_lake.js'),
@@ -19,6 +20,7 @@ export const VARIANTS = {
   gus_garage_night: {base:'gus_garage', options:{mood:'night'}},
   motel_night: {base:'motel', options:{mood:'night'}},
   memory_lake_storm: {base:'memory_lake', options:{mood:'storm'}},
+  festival_stage_storm: {base:'festival_stage', options:{mood:'storm'}},
   city_canal: {base:'city_street', options:{view:'canal'}},
 };
 /** Build a v5 set by id, or return null to use the existing set builder. */
