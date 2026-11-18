@@ -13,6 +13,7 @@
 const DAY = {tint: [1, .99, .97], shadowMul: [.78, .86, .94], distant: '#a5bb99', bg: '#8fd0f2'};
 export const LIGHTING = {
   gus_garage_night:{tint:[.36,.46,.61],shadowMul:[.54,.63,.83],light:[-.6,.65,.4],distant:'#3d515e',bg:'#293c50',inside:true,night:true,pool:{pos:[-2.55,1.15,.35],power:.14,color:[1,.82,.5]},notes:'29: closed doors, desk-lamp pool, deep blue-grey shelves'},
+  walt_garage:{tint:[1,.97,.91],shadowMul:[.76,.72,.82],light:[-.1,.75,-.65],distant:'#a7b7a0',bg:'#b6d0d0',inside:true,notes:'26: rear garage daylight, cream plaster, grey concrete and cool mauve shadows'},
   gus_garage: {tint:[.96,.99,1],shadowMul:[.71,.77,.84],light:[.65,.7,-.4],distant:'#9db8a8',bg:'#91cce5',inside:true,notes:'28: neutral concrete and plaster; daylight through rear and right opening'},
   park:        {...DAY, light: [-.45, .85, .35], notes: '23_park_day: high sun from the left, soft green-blue shadows under the oak'},
   lake:        {...DAY, light: [-.45, .85, .35], notes: 'lake_day_v2: same sun as the park'},
