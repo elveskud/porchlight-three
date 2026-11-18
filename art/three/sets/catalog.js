@@ -5,7 +5,9 @@ const set = (id, name, build, mood, file, episodes, note, extra = {}) => ({
   id, name, build, mood, reference: painting(file), episodes, note, ...extra,
 });
 export const SETS = [
+  set('motel_night', 'Motel Night', 'v5', 'night', '36_motel_room_night.jpg', [27,28,29], 'Alternate painting of motel.'),
   set('gus_garage_night', 'Gus Garage Night', 'v5', 'night', '29_gus_garage_night.jpg', [12,21,22,36,39], 'Alternate painting of gus_garage.'),
+  set('motel', 'City motel room', 'v5', 'day', '35_motel_room_day.jpg', [27,28,29], 'Two teal single beds, bedside lamp, snowy window and rear door.'),
   set('archive', 'Town archive basement', 'v5', 'day', '27_archive_basement.jpg', [8], 'Deep central aisle, steel shelves full of cartons and files, recorder table right.'),
   set('walt_garage', 'Walt’s garage', 'v5', 'day', '26_walt_garage_day.jpg', [7,26], 'Canoe and shelves left, wood-sided station wagon and bicycles right, open garage at rear.'),
   set('gus_garage', 'Gus’s radio garage', 'v5', 'day', '28_gus_garage_day.jpg', [12,21,22,36,39], 'Left-hand broadcast desk, microphone, reel recorders and open garage; build({mood: \'night\'}) uses painting 29.'),

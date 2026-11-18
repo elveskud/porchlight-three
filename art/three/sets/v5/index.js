@@ -3,6 +3,7 @@
 // then add ONE line to REGISTRY below, add its catalog entry in ../catalog.js (build: 'v5') and a light record in
 // ../../illustrated/reference-v3/lighting.js. See docs/cards/add-a-set.md.
 export const REGISTRY = {
+  motel: () => import('./motel.js'),
   archive: () => import('./archive.js'),
   walt_garage: () => import('./walt_garage.js'),
   gus_garage: () => import('./gus_garage.js'),
@@ -10,6 +11,7 @@ export const REGISTRY = {
 /** Alternate paintings share geometry while remaining selectable by the normal preview and episode API. */
 export const VARIANTS = {
   gus_garage_night: {base:'gus_garage', options:{mood:'night'}},
+  motel_night: {base:'motel', options:{mood:'night'}},
 };
 /** Build a v5 set by id, or return null to use the existing set builder. */
 export async function buildSetV5(id, options={}) {
