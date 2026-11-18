@@ -107,7 +107,7 @@ function drawWorld(t){
  setCamera(camera,cp,c.target,c.fov||45);
  for(const [who,a] of Object.entries(data.actors||{})){
    if(a.hook)continue;
-   let seat=a.seat&&spots[data.set]?.[a.seat];
+   let seat=(a.seat||a.spot)&&spots[data.set]?.[a.seat||a.spot];
    const pos=a.at||seat?.pos;
    if(!pos)throw Error(`${b.id}.${who}: set at or a named seat`);
    const options={...(seat||{}),...a,seat:a.seat?1:(a.seated?1:0)};
@@ -124,10 +124,11 @@ function drawWorld(t){
  if(c.flatten!==false&&!frame.skipFlatten)look.flatten(camera,V(...(c.flatTarget||c.target)),typeof c.flatten==='number'?c.flatten:1.3);
  // Close-up cuts (timeline.cuts, from prepare.py): the camera moves in on one speaker for a line and a beat, then the wide shot returns.
  let cutNow=null;{const c=(timeline.cuts||[]).find(c=>t>=c.start-EPS&&t<c.end-EPS),r=c&&positioned[c.who];if(r){scene.updateMatrixWorld(true);const target=r.head.getWorldPosition(V());target.y+=.28;const dir=camera.position.clone().sub(target);dir.y=0;if(dir.lengthSq()<1e-6)dir.set(0,0,1);dir.normalize();dir.y=.10;dir.normalize();camera.position.copy(target).addScaledVector(dir,c.dist);camera.fov=30;camera.lookAt(target);camera.updateProjectionMatrix();camera.updateMatrixWorld(true);cutNow=c;}}
+ modeled[id].userData.update?.(t);
  setFx.animate(t);
  scene.updateMatrixWorld(true);attention(positioned,timeline,t,b);
  hooks.afterAttention?.(frame);
- for(const root of [modeled.stoop_sunset,modeled.stoop_night].filter(Boolean))root.traverse(o=>{if(/bulb/.test(o.name)&&o.material)o.material.emissiveIntensity=t<timeline.actions.lampOff?1.5:0;});
+ for(const root of [modeled.stoop_sunset,modeled.stoop_night].filter(Boolean))root.traverse(o=>{if(/bulb/.test(o.name)&&o.material)o.material.emissiveIntensity=(timeline.actions.lampOn===undefined||t>=timeline.actions.lampOn)&&t<timeline.actions.lampOff?1.5:0;});
  look.update(t,id,{...b,lightOff:timeline.actions.lampOff},e,positioned);
  for(const [who,r] of Object.entries(positioned)){
   const state=states[who],base=who.startsWith('family')?'bash':who;
@@ -159,7 +160,7 @@ function renderAt(time,{draw=true,force=false}={}){
  if(draw){look.render(camera,t);ctx.globalAlpha=1;ctx.clearRect(0,0,W,H);ctx.drawImage(renderer.domElement,0,0);overlay(t,b,e,l);lastRendered=t;}else lastRendered=null;
  return lastInfo;
 }
-window.episode={timeline,scene,camera,renderer,canvas,actors,modeled,look,illustrated:look,art,referenceSets,props,renderAt,fastWindows:FAST,get info(){return lastInfo;},
+window.episode={timeline,staging,scene,camera,renderer,canvas,actors,modeled,look,illustrated:look,art,referenceSets,props,renderAt,fastWindows:FAST,get info(){return lastInfo;},
  frame(t){renderAt(t);if(lastJPEGTime!==lastRendered){lastJPEG=canvas.toDataURL('image/jpeg',.95).split(',')[1];lastJPEGTime=lastRendered;}return lastJPEG;}};
 renderAt(Number(params.get('time')||0));window.__ready=true;return window.episode;
 }

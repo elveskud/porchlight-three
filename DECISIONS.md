@@ -66,3 +66,7 @@ Where two entries disagree, the newer one wins; Blender-era entries are history,
 
 
 - **18 Nov 2026 — Technical (staging build):** isolate Part B on `staging/data-driver`; reuse the v5 frame/acting loop, move placement and cameras into staging data, and retain Episode 4 prop choreography in explicit hooks. Keep baseline Episode 4 files unchanged. Use silent WAVs and synthetic mouth cues only with `--placeholder-voices`.
+
+- **18 Nov 2026 — Technical (Episode 34 hooks):** reuse existing clipboard and painted prop primitives for the script’s clipboard, folded paper and leaf; keep deterministic cannonball choreography in episode hooks, with a motivated camera only during its silent action. No dialogue or protected module changes.
+
+- **18 Nov 2026 — Technical (staging validation):** preserve the exact Episode 4 intro set (`lake_night`) and legacy seated poses for pixel parity; record named standing spots from existing model anchors. Generic scripts retain unsupported source cues as `scriptAction` and draw them through hooks. The local model harness allows the new compiler/validator/mixer commands under its existing no-shell guard.

@@ -45,6 +45,9 @@ def validate(data,script,spots=None,hook_names=None,timeline=None):
             if a.get('seat'):
                 if not isinstance(a['seat'],str):fail(w+'.seat','replace seat with a named seat string from spots.json')
                 elif a['seat'] not in spots.get(sid,{}):fail(w+'.seat',f'replace {a["seat"]!r} with a named seat from spots.json for {sid}: {", ".join(spots.get(sid,{})) or "add a measured seat first"}')
+                elif spots[sid][a['seat']].get('kind','seat')!='seat':fail(w+'.seat',f'{a["seat"]!r} is a standing spot; use spot: "{a["seat"]}" or choose a seat')
+            elif a.get('spot'):
+                if a['spot'] not in spots.get(sid,{}):fail(w+'.spot',f'add a measured spot {a["spot"]!r} to spots.json for {sid}, or choose an existing spot')
             elif a.get('seated'):fail(w,f'add seat: "<named seat>" from spots.json for {sid}; seated actors must name a seat')
             elif not a.get('at'):fail(w,'add at: [x, y, z] or seat: "<named seat>"')
         for lid,line in lines.items():
