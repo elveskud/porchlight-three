@@ -12,6 +12,8 @@
 //   notes      what in the painting this comes from
 const DAY = {tint: [1, .99, .97], shadowMul: [.78, .86, .94], distant: '#a5bb99', bg: '#8fd0f2'};
 export const LIGHTING = {
+  gus_garage_night:{tint:[.36,.46,.61],shadowMul:[.54,.63,.83],light:[-.6,.65,.4],distant:'#3d515e',bg:'#293c50',inside:true,night:true,pool:{pos:[-2.55,1.15,.35],power:.14,color:[1,.82,.5]},notes:'29: closed doors, desk-lamp pool, deep blue-grey shelves'},
+  gus_garage: {tint:[.96,.99,1],shadowMul:[.71,.77,.84],light:[.65,.7,-.4],distant:'#9db8a8',bg:'#91cce5',inside:true,notes:'28: neutral concrete and plaster; daylight through rear and right opening'},
   park:        {...DAY, light: [-.45, .85, .35], notes: '23_park_day: high sun from the left, soft green-blue shadows under the oak'},
   lake:        {...DAY, light: [-.45, .85, .35], notes: 'lake_day_v2: same sun as the park'},
   main_street: {tint: [.98, 1, 1.02], shadowMul: [.70, .79, .96], light: [-.60, .70, .40], distant: '#9db8a8', bg: '#8fd0f2', notes: '55_main_street_day_mailbox: strong sun from the left, hard cool grey-blue shadows on the paving'},

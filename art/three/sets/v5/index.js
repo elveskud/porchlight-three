@@ -3,10 +3,15 @@
 // then add ONE line to REGISTRY below, add its catalog entry in ../catalog.js (build: 'v5') and a light record in
 // ../../illustrated/reference-v3/lighting.js. See docs/cards/add-a-set.md.
 export const REGISTRY = {
-  // gus_garage: () => import('./gus_garage.js'),
+  gus_garage: () => import('./gus_garage.js'),
 };
-/** Build a v5 set by id, or return null if it is not a v5 set (use the old buildSet then). */
-export async function buildSetV5(id) {
-  const load = REGISTRY[id]; if (!load) return null;
-  const mod = await load(); const root = mod.build(); root.name = root.name || id; return root;
+/** Alternate paintings share geometry while remaining selectable by the normal preview and episode API. */
+export const VARIANTS = {
+  gus_garage_night: {base:'gus_garage', options:{mood:'night'}},
+};
+/** Build a v5 set by id, or return null to use the existing set builder. */
+export async function buildSetV5(id, options={}) {
+  const variant=VARIANTS[id],load=REGISTRY[variant?.base||id];if(!load)return null;
+  const mod=await load(),root=mod.build({...variant?.options,...options});
+  root.name=id;root.userData.id=id;return root;
 }

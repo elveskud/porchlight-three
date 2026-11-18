@@ -5,6 +5,8 @@ const set = (id, name, build, mood, file, episodes, note, extra = {}) => ({
   id, name, build, mood, reference: painting(file), episodes, note, ...extra,
 });
 export const SETS = [
+  set('gus_garage_night', 'Gus Garage Night', 'v5', 'night', '29_gus_garage_night.jpg', [12,21,22,36,39], 'Alternate painting of gus_garage.'),
+  set('gus_garage', 'Gus’s radio garage', 'v5', 'day', '28_gus_garage_day.jpg', [12,21,22,36,39], 'Left-hand broadcast desk, microphone, reel recorders and open garage; build({mood: \'night\'}) uses painting 29.'),
   set('lake', 'Lake · summer day', 'lake', 'day', 'lake_day_v2.jpg', [1,2,4], 'Full curved shoreline, lookout and dock, wooded banks, park paths, village and church, with the old hall across the water. Reverse and side views are built.'),
   set('lake_night', 'Lake · night', 'lake', 'night', 'lake_night_v2.jpg', [1,2,3,4,5,6], 'The complete lakeside environment at night: moonlit water, wooded banks, village windows and finished reverse views.'),
   set('lake_storm', 'Lake · storm night', 'lake', 'storm', 'lake_night_v2.jpg', [5], 'Storm lighting variant of the night painting. Mrs. Brook’s distant window holds a single candle.'),
