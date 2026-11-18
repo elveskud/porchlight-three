@@ -5,6 +5,7 @@
 export const REGISTRY = {
   town_line: () => import('./town_line.js'),
   motel: () => import('./motel.js'),
+  city_street: () => import('./city_street.js'),
   archive: () => import('./archive.js'),
   walt_garage: () => import('./walt_garage.js'),
   gus_garage: () => import('./gus_garage.js'),
@@ -13,6 +14,7 @@ export const REGISTRY = {
 export const VARIANTS = {
   gus_garage_night: {base:'gus_garage', options:{mood:'night'}},
   motel_night: {base:'motel', options:{mood:'night'}},
+  city_canal: {base:'city_street', options:{view:'canal'}},
 };
 /** Build a v5 set by id, or return null to use the existing set builder. */
 export async function buildSetV5(id, options={}) {

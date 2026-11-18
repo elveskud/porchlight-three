@@ -12,6 +12,8 @@
 //   notes      what in the painting this comes from
 const DAY = {tint: [1, .99, .97], shadowMul: [.78, .86, .94], distant: '#a5bb99', bg: '#8fd0f2'};
 export const LIGHTING = {
+  city_street:{tint:[.85,.91,.96],shadowMul:[.68,.77,.88],light:[-.3,.85,.3],distant:'#899ca5',bg:'#a6b8c1',notes:'33: overcast winter street, cool snow and grey-blue shadows'},
+  city_canal:{tint:[.88,.94,.98],shadowMul:[.70,.79,.90],light:[-.4,.85,.3],distant:'#99aab1',bg:'#adbdc5',notes:'34: snowy canal promenade, pale overcast light'},
   motel:{tint:[1,.99,.93],shadowMul:[.77,.83,.86],light:[-.2,.7,-.65],distant:'#b5c5ca',bg:'#d5d8c1',inside:true,notes:'35: rear snowy window, cream walls, teal blankets, cool grey floor'},
   motel_night:{tint:[.53,.62,.73],shadowMul:[.58,.65,.84],light:[-.65,.5,.3],distant:'#394c66',bg:'#24334e',inside:true,night:true,pool:{pos:[-2.65,1,-.05],power:.18,color:[1,.84,.55]},notes:'36: bedside lamp pool and blue snowy night outside'},
   town_line:{tint:[1,.99,.94],shadowMul:[.74,.81,.87],light:[-.6,.8,.4],distant:'#99b4a2',bg:'#91d0eb',notes:'30: summer left and overcast winter right are authored in geometry colours'},
