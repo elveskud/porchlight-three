@@ -28,6 +28,7 @@ Porchlight = animated series (Riot 🦊, Rocco 🦝, Bash 🐻, Pip 🐰) in Map
 - `pipeline/gait_plan.py` footstep planner (Python writes the plan, JS plays it)
 - `art/three/illustrated/reference-v2` finished look (Ep 4 v4) · **`reference-v3`** current: `look.js`, `shaders.js`, `lighting.js` (per-set light)
 - `art/three/sets/` 3D sets (`catalog.js` = 20 sets, `reference-v2/build.js`) · `art/gemini/sets/` set paintings (govern look)
+- Skills (`.claude/skills/anim-*`): craft = principles, timing, body, faces, acting, staging, world, review · quality and physics = `anim-physics`, `anim-contact`, `anim-secondary`, `anim-impact`, `anim-locomotion`, `anim-measure`, `anim-fix-recipes`
 - `docs/ANIMATION_CHECKLIST.md` animation rules · `art/three/animation/v3/IMPROVEMENTS.md` old 100-item register (some overstated, see ISSUES.md)
 
 ## Episodes
