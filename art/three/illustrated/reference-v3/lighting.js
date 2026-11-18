@@ -17,6 +17,8 @@ export const LIGHTING = {
   motel:{tint:[1,.99,.93],shadowMul:[.77,.83,.86],light:[-.2,.7,-.65],distant:'#b5c5ca',bg:'#d5d8c1',inside:true,notes:'35: rear snowy window, cream walls, teal blankets, cool grey floor'},
   motel_night:{tint:[.53,.62,.73],shadowMul:[.58,.65,.84],light:[-.65,.5,.3],distant:'#394c66',bg:'#24334e',inside:true,night:true,pool:{pos:[-2.65,1,-.05],power:.18,color:[1,.84,.55]},notes:'36: bedside lamp pool and blue snowy night outside'},
   town_line:{tint:[1,.99,.94],shadowMul:[.74,.81,.87],light:[-.6,.8,.4],distant:'#99b4a2',bg:'#91d0eb',notes:'30: summer left and overcast winter right are authored in geometry colours'},
+  memory_lake:{tint:[1,.88,.75],shadowMul:[.74,.66,.83],light:[0,.25,-.8],distant:'#8f9f78',bg:'#f4ba80',notes:'31: low yellow sunset behind blank cloth, golden sand, cool violet shadows'},
+  memory_lake_storm:{tint:[.43,.49,.65],shadowMul:[.54,.59,.81],light:[-.2,.7,-.3],distant:'#4d6171',bg:'#343d5a',night:true,notes:'32: violet storm sky, torn cloth and tipped benches'},
   car:{tint:[.98,.99,.93],shadowMul:[.71,.79,.85],light:[-.4,.65,-.7],distant:'#8ea388',bg:'#a9c9d5',inside:true,notes:'No painting: provisional neutral daylight through windscreen; needs user painting'},
   city_archive:{tint:[1,.98,.90],shadowMul:[.79,.79,.84],light:[-.35,.75,-.4],distant:'#b4bfb5',bg:'#ddd7b9',inside:true,notes:'38: diffuse daylight through tall arched windows, cream walls and oak drawers'},
   city_pool:{tint:[.79,.91,1],shadowMul:[.65,.76,.87],light:[-.6,.7,-.3],distant:'#718e9a',bg:'#738d9c',inside:true,notes:'37: cool glass hall, slate steel trusses, turquoise water and grey bleachers'},
