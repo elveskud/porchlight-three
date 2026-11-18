@@ -164,10 +164,20 @@
             0.8
           ]
         }
-      ]
+      ],
+      "gaze": {
+        "s01_00": "riot",
+        "s01_01": "preston",
+        "s01_02": "riot",
+        "s01_03": "preston",
+        "s01_04": "riot",
+        "s01_05": "preston",
+        "s01_06": "preston",
+        "s01_07": "preston"
+      }
     },
     "s02": {
-      "set": "lake",
+      "set": "lake_night",
       "camera": {
         "pos": [
           1.2,
@@ -240,7 +250,31 @@
             0.45
           ]
         }
-      ]
+      ],
+      "gaze": {
+        "s03_00": "rocco",
+        "s03_01": "riot",
+        "s03_02": "rocco",
+        "s03_03": "riot",
+        "s03_04": "rocco",
+        "s03_05": "riot",
+        "s03_06": "riot",
+        "s03_07": "riot",
+        "s03_08": "rocco",
+        "s03_09": "riot",
+        "s03_10": "rocco",
+        "s03_11": "riot",
+        "s03_12": "riot",
+        "s03_13": "rocco",
+        "s03_14": "riot",
+        "s03_15": "riot",
+        "s03_16": "riot",
+        "s03_17": "riot",
+        "s03_18": "riot",
+        "s03_19": "riot",
+        "s03_20": "rocco",
+        "s03_21": "riot"
+      }
     },
     "s04": {
       "set": "park",
@@ -440,7 +474,34 @@
             0.45
           ]
         }
-      ]
+      ],
+      "gaze": {
+        "s04_00": "bash",
+        "s04_01": "preston",
+        "s04_02": "riot",
+        "s04_03": "riot",
+        "s04_04": "preston",
+        "s04_05": "riot",
+        "s04_06": "preston",
+        "s04_07": "riot",
+        "s04_08": "preston",
+        "s04_09": "riot",
+        "s04_10": "riot",
+        "s04_11": "riot",
+        "s04_12": "preston",
+        "s04_13": "riot",
+        "s04_14": "riot",
+        "s04_15": "preston",
+        "s04_16": "bash",
+        "s04_17": "riot",
+        "s04_18": "rocco",
+        "s04_19": "riot",
+        "s04_20": "preston",
+        "s04_21": "preston",
+        "s04_22": "riot",
+        "s04_23": "preston",
+        "s04_24": "preston"
+      }
     },
     "s05": {
       "set": "park",
@@ -594,7 +655,15 @@
             0.9
           ]
         }
-      ]
+      ],
+      "gaze": {
+        "s05_00": "bash",
+        "s05_01": "rocco",
+        "s05_02": "riot",
+        "s05_03": "riot",
+        "s05_04": "riot",
+        "s05_05": "riot"
+      }
     },
     "s06": {
       "set": "lake",
@@ -701,7 +770,10 @@
             1.2
           ]
         }
-      ]
+      ],
+      "gaze": {
+        "s06_00": "riot"
+      }
     },
     "s07": {
       "set": "stoop_sunset",
@@ -749,7 +821,14 @@
             0.45
           ]
         }
-      ]
+      ],
+      "gaze": {
+        "s07_00": "rocco",
+        "s07_01": "rocco",
+        "s07_02": "riot",
+        "s07_03": "rocco",
+        "s07_04": "riot"
+      }
     },
     "s08": {
       "set": "main_street",
