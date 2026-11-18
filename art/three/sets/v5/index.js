@@ -3,6 +3,7 @@
 // then add ONE line to REGISTRY below, add its catalog entry in ../catalog.js (build: 'v5') and a light record in
 // ../../illustrated/reference-v3/lighting.js. See docs/cards/add-a-set.md.
 export const REGISTRY = {
+  city_pool: () => import('./city_pool.js'),
   city_archive: () => import('./city_archive.js'),
   car: () => import('./car.js'),
   town_line: () => import('./town_line.js'),
