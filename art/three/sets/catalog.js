@@ -8,6 +8,7 @@ export const SETS = [
   set('city_canal', 'City Canal', 'v5', 'winter', '34_city_canal_bench.jpg', [27,29,30], 'Alternate painting of city_street.'),
   set('motel_night', 'Motel Night', 'v5', 'night', '36_motel_room_night.jpg', [27,28,29], 'Alternate painting of motel.'),
   set('gus_garage_night', 'Gus Garage Night', 'v5', 'night', '29_gus_garage_night.jpg', [12,21,22,36,39], 'Alternate painting of gus_garage.'),
+  set('city_archive', 'City archive reading room', 'v5', 'day', '38_city_archive.jpg', [29,30], 'Oak card catalogues, arched windows, reading tables and green lamps.'),
   set('car', 'Car interior — needs painting', 'v5', 'day', '26_walt_garage_day.jpg', [26,30], 'Provisional two-front-seat interior, dashboard and deterministic scrolling road; no interior painting exists.', {reference:'',needsPainting:true}),
   set('town_line', 'Town boundary', 'v5', 'day', '30_town_line.jpg', [18,26], 'Blank wooden sign between summer foliage and bare winter trees.'),
   set('motel', 'City motel room', 'v5', 'day', '35_motel_room_day.jpg', [27,28,29], 'Two teal single beds, bedside lamp, snowy window and rear door.'),
