@@ -1,0 +1,101 @@
+{
+  "sets": [
+    {
+      "id": "city_pool",
+      "meshes": 416
+    },
+    {
+      "id": "festival_stage",
+      "meshes": 604
+    },
+    {
+      "id": "city_archive",
+      "meshes": 1951
+    },
+    {
+      "id": "car",
+      "meshes": 92
+    },
+    {
+      "id": "memory_lake",
+      "meshes": 505
+    },
+    {
+      "id": "town_line",
+      "meshes": 299
+    },
+    {
+      "id": "motel",
+      "meshes": 130
+    },
+    {
+      "id": "city_street",
+      "meshes": 618
+    },
+    {
+      "id": "archive",
+      "meshes": 1971
+    },
+    {
+      "id": "walt_garage",
+      "meshes": 563
+    },
+    {
+      "id": "gus_garage",
+      "meshes": 633
+    },
+    {
+      "id": "gus_garage_night",
+      "meshes": 850
+    },
+    {
+      "id": "motel_night",
+      "meshes": 133
+    },
+    {
+      "id": "memory_lake_storm",
+      "meshes": 636
+    },
+    {
+      "id": "festival_stage_storm",
+      "meshes": 735
+    },
+    {
+      "id": "city_canal",
+      "meshes": 302
+    }
+  ],
+  "actors": [
+    {
+      "id": "walt",
+      "height": 2.807
+    },
+    {
+      "id": "hal",
+      "height": 2.691
+    },
+    {
+      "id": "bea",
+      "height": 1.447
+    },
+    {
+      "id": "pipmom",
+      "height": 2.83
+    },
+    {
+      "id": "pipdad",
+      "height": 2.929
+    },
+    {
+      "id": "ledger",
+      "height": 2.167
+    },
+    {
+      "id": "coach",
+      "height": 2.344
+    }
+  ],
+  "fails": [],
+  "result": "PASS",
+  "pageErrors": []
+}

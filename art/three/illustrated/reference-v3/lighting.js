@@ -25,6 +25,7 @@ export const LIGHTING = {
   festival_stage_storm:{tint:[.42,.51,.59],shadowMul:[.52,.60,.73],light:[-.3,.7,-.3],distant:'#405c68',bg:'#293e4e',night:true,notes:'40: dark teal storm, wet sand, damaged picnic benches'},
   city_pool:{tint:[.79,.91,1],shadowMul:[.65,.76,.87],light:[-.6,.7,-.3],distant:'#718e9a',bg:'#738d9c',inside:true,notes:'37: cool glass hall, slate steel trusses, turquoise water and grey bleachers'},
   gus_garage_night:{tint:[.36,.46,.61],shadowMul:[.54,.63,.83],light:[-.6,.65,.4],distant:'#3d515e',bg:'#293c50',inside:true,night:true,pool:{pos:[-2.55,1.15,.35],power:.14,color:[1,.82,.5]},notes:'29: closed doors, desk-lamp pool, deep blue-grey shelves'},
+
   walt_garage:{tint:[1,.97,.91],shadowMul:[.76,.72,.82],light:[-.1,.75,-.65],distant:'#a7b7a0',bg:'#b6d0d0',inside:true,notes:'26: rear garage daylight, cream plaster, grey concrete and cool mauve shadows'},
   archive:{tint:[.83,.86,.82],shadowMul:[.65,.68,.73],light:[0,.9,.2],distant:'#606968',bg:'#757d78',inside:true,pool:{pos:[0,2.5,.5],power:.06,color:[1,.94,.78]},notes:'27: low overhead lamps, grey-green storage basement, deep central aisle'},
   gus_garage: {tint:[.96,.99,1],shadowMul:[.71,.77,.84],light:[.65,.7,-.4],distant:'#9db8a8',bg:'#91cce5',inside:true,notes:'28: neutral concrete and plaster; daylight through rear and right opening'},
