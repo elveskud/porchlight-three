@@ -1,0 +1,33 @@
+{
+  "result": "PASS",
+  "scope": "Qwen3 14B starter creation, preparation and validation, independently verified browser output; not a claim of general free-form autonomous staging",
+  "model": "qwen3:14b",
+  "commands": [
+    {
+      "command": "python3 tools/init_staging.py 35",
+      "exitCode": 0
+    },
+    {
+      "command": "python3 tools/validate_staging.py comparisons/episode35/staging.json",
+      "exitCode": 0
+    },
+    {
+      "command": "python3 pipeline/prepare_episode.py comparisons/episode35/staging.json --placeholder-voices",
+      "exitCode": 0
+    },
+    {
+      "command": "python3 tools/validate_staging.py comparisons/episode35/staging.json --timeline comparisons/episode35/source/timeline-data.json",
+      "exitCode": 0
+    }
+  ],
+  "directJsonEdits": false,
+  "pixelFramesIdentical": 11,
+  "pixelFramesCompared": 11,
+  "qa": "PASS",
+  "motion": "PASS",
+  "fixtureNote": "The sparse test copy initially lacked logo images, causing the model\u2019s first motion command to time out. Supplied unchanged repository images; independent motion and full QA then passed.",
+  "validationToolsUnchanged": {
+    "tools/validate_staging.py": true,
+    "pipeline/prepare_episode.py": true
+  }
+}

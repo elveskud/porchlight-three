@@ -164,4 +164,3 @@ window.episode={timeline,staging,scene,camera,renderer,canvas,actors,modeled,loo
  frame(t){renderAt(t);if(lastJPEGTime!==lastRendered){lastJPEG=canvas.toDataURL('image/jpeg',.95).split(',')[1];lastJPEGTime=lastRendered;}return lastJPEG;}};
 renderAt(Number(params.get('time')||0));window.__ready=true;return window.episode;
 }
-

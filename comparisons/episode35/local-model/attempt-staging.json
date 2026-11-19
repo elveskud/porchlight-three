@@ -1,0 +1,238 @@
+{
+  "episode": 35,
+  "cast": [
+    "riot",
+    "rocco",
+    "bash",
+    "pip"
+  ],
+  "preloadSets": [
+    "park",
+    "apartment",
+    "lake",
+    "lake_night",
+    "stoop_sunset",
+    "stoop_night",
+    "main_street"
+  ],
+  "beats": {
+    "s01": {
+      "set": "apartment",
+      "firstLineAt": 4.5,
+      "camera": {
+        "pos": [
+          0.3,
+          2.35,
+          6.6
+        ],
+        "target": [
+          0,
+          1.55,
+          -1
+        ],
+        "fov": 45,
+        "flatten": false
+      },
+      "actors": {
+        "riot": {
+          "at": [
+            0.3,
+            0,
+            1.7
+          ]
+        },
+        "rocco": {
+          "seat": "beanbag"
+        },
+        "bash": {
+          "at": [
+            0.3,
+            0,
+            1.7
+          ]
+        }
+      },
+      "enter": [
+        {
+          "who": "riot",
+          "side": "right",
+          "to": [
+            0.3,
+            0,
+            1.7
+          ],
+          "arriveBeforeLine": "s01_00",
+          "pace": 2.1
+        }
+      ],
+      "hooks": []
+    },
+    "s02": {
+      "set": "lake_night",
+      "firstLineAt": 0.6,
+      "camera": {
+        "pos": [
+          1.2,
+          3.2,
+          11.5
+        ],
+        "target": [
+          -3.4,
+          3.7,
+          -16
+        ],
+        "fov": 50,
+        "flatten": false
+      },
+      "actors": {},
+      "duration": 7.5
+    },
+    "s03": {
+      "set": "lake",
+      "firstLineAt": 0.6,
+      "camera": {
+        "pos": [
+          5,
+          2.5,
+          -6.5
+        ],
+        "target": [
+          1,
+          1.35,
+          1
+        ],
+        "fov": 43,
+        "flatten": false
+      },
+      "actors": {
+        "riot": {
+          "at": [
+            -1.2,
+            0,
+            2.4
+          ]
+        },
+        "rocco": {
+          "at": [
+            0.0,
+            0,
+            2.4
+          ]
+        },
+        "bash": {
+          "at": [
+            1.2,
+            0,
+            2.4
+          ]
+        },
+        "pip": {
+          "at": [
+            0.0,
+            0,
+            2.4
+          ]
+        }
+      },
+      "duration": 7.5
+    },
+    "s04": {
+      "set": "main_street",
+      "firstLineAt": 0.6,
+      "camera": {
+        "pos": [
+          5,
+          2.5,
+          -6.5
+        ],
+        "target": [
+          1,
+          1.35,
+          1
+        ],
+        "fov": 43,
+        "flatten": false
+      },
+      "actors": {
+        "riot": {
+          "at": [
+            -1.2,
+            0,
+            2.4
+          ]
+        },
+        "rocco": {
+          "at": [
+            0.0,
+            0,
+            2.4
+          ]
+        },
+        "bash": {
+          "at": [
+            1.2,
+            0,
+            2.4
+          ]
+        },
+        "pip": {
+          "at": [
+            0.0,
+            0,
+            2.4
+          ]
+        }
+      },
+      "duration": 7.5
+    },
+    "s05": {
+      "set": "stoop_sunset",
+      "firstLineAt": 0.6,
+      "camera": {
+        "pos": [
+          5,
+          2.5,
+          -6.5
+        ],
+        "target": [
+          1,
+          1.35,
+          1
+        ],
+        "fov": 43,
+        "flatten": false
+      },
+      "actors": {
+        "riot": {
+          "at": [
+            -1.2,
+            0,
+            2.4
+          ]
+        },
+        "rocco": {
+          "at": [
+            0.0,
+            0,
+            2.4
+          ]
+        },
+        "bash": {
+          "at": [
+            1.2,
+            0,
+            2.4
+          ]
+        },
+        "pip": {
+          "at": [
+            0.0,
+            0,
+            2.4
+          ]
+        }
+      },
+      "duration": 7.5
+    }
+  }
+}

@@ -88,3 +88,5 @@ Where two entries disagree, the newer one wins; Blender-era entries are history,
 - **19 Nov 2026 — Technical (small-model repair):** repeated Qwen JSON edits stalled. Add a non-overwriting script-derived staging initializer (exact beats, sets and cast, distinct starter positions, shared dressing, ending camera, no dialogue duration overrides). Keep unusual prop actions in explicit hooks and require the same QA.
 
 - **19 Nov 2026 — Final Episode 34 placeholder review:** refreshed after the facing and audio fixes; SHA-256 `0a24b4bc4a8e68ae421c4000f714e45c14daeea19f54cefc508abc93be887520`. Film QA PASS; the earlier placeholder copy from this task was replaced.
+
+- **19 Nov 2026 — Local model evidence:** Qwen3 14B failed free-form authoring/patch repair, then passed the initializer/preparation/validation workflow without direct JSON edits. Independent browser QA/motion PASS; 11/11 frames match the manual Episode 35 build. Keep both failures and scoped success in the acceptance report; no general autonomous-staging claim.

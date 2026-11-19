@@ -1,0 +1,38 @@
+{
+ "seek": {
+  "frames": 60,
+  "different": 0
+ },
+ "mouths": {
+  "lines": 43,
+  "stuck": 0,
+  "late": 0,
+  "worstLagSeconds": 0.081,
+  "shapes": "ABCDEFGHX"
+ },
+ "footsteps": {
+  "checked": 0,
+  "notLandings": 0
+ },
+ "pictures": {
+  "sampled": 32,
+  "darkest": 70.5,
+  "flattest": 152
+ },
+ "cuts": {
+  "sceneChanges": 5,
+  "plannedCloseUps": 0,
+  "closeUpsSeen": 0,
+  "headsBadInCloseUps": 0,
+  "largestUnplannedCameraMove": 0
+ },
+ "speakerOutOfFrame": {
+  "drawings": 0,
+  "lines": []
+ },
+ "pops": 0,
+ "fastWindows": 1,
+ "fails": [],
+ "result": "PASS",
+ "pageMessages": []
+}

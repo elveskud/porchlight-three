@@ -1,0 +1,52 @@
+{
+  "result": "PASS",
+  "frames": 11,
+  "identical": 11,
+  "rows": [
+    {
+      "time": 0.1,
+      "identical": true
+    },
+    {
+      "time": 11.708333333333334,
+      "identical": true
+    },
+    {
+      "time": 23.51666666666667,
+      "identical": true
+    },
+    {
+      "time": 27.166666666666668,
+      "identical": true
+    },
+    {
+      "time": 31.01666666666667,
+      "identical": true
+    },
+    {
+      "time": 57.79166666666667,
+      "identical": true
+    },
+    {
+      "time": 84.76666666666667,
+      "identical": true
+    },
+    {
+      "time": 101.5,
+      "identical": true
+    },
+    {
+      "time": 118.43333333333332,
+      "identical": true
+    },
+    {
+      "time": 139,
+      "identical": true
+    },
+    {
+      "time": 163.41666666666666,
+      "identical": true
+    }
+  ],
+  "errors": []
+}
