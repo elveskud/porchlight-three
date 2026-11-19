@@ -33,6 +33,9 @@ def main():
     parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('episode',type=int);parser.add_argument('--output',type=Path);args=parser.parse_args()
     target=args.output or ROOT/f'comparisons/episode{args.episode:02}/staging.json'
     if target.exists():print(f'FAIL {target}: file exists; edit it, or choose a fresh --output path. No file was replaced.');return 1
+    expected=ROOT/f'comparisons/episode{args.episode:02}'
+    if target.resolve().parent!=expected.resolve() or target.suffix!='.json':
+        print(f'FAIL {target}: choose a JSON output inside {expected}; the initializer only writes this episode’s staging.');return 1
     data=make_staging(load_script(args.episode),json.loads((ROOT/'art/three/sets/spots.json').read_text()))
     target.parent.mkdir(parents=True,exist_ok=True);target.write_text(json.dumps(data,indent=2)+'\n')
     print(f'PASS initialized {target}: exact script beats, sets and cast. Review cameras, entrances, seating and prop hooks before rendering.')

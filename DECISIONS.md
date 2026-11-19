@@ -90,3 +90,7 @@ Where two entries disagree, the newer one wins; Blender-era entries are history,
 - **19 Nov 2026 — Final Episode 34 placeholder review:** refreshed after the facing and audio fixes; SHA-256 `0a24b4bc4a8e68ae421c4000f714e45c14daeea19f54cefc508abc93be887520`. Film QA PASS; the earlier placeholder copy from this task was replaced.
 
 - **19 Nov 2026 — Local model evidence:** Qwen3 14B failed free-form authoring/patch repair, then passed the initializer/preparation/validation workflow without direct JSON edits. Independent browser QA/motion PASS; 11/11 frames match the manual Episode 35 build. Keep both failures and scoped success in the acceptance report; no general autonomous-staging claim.
+
+- **19 Nov 2026 — Final dry-run evidence:** Qwen starter render and manual Episode 35 MP4 are byte-identical (`6d84ee751323194519f9b1dace488948f5f32397fa154bd61d15e3ff50472099`); independent film QA PASS. Preserve the failed free-form attempts and the fixture/instruction-following caveats alongside the successful starter run.
+
+- **19 Nov 2026 — Starter output scope:** confine initializer output to a JSON file in the selected episode folder, while preserving the refusal to overwrite authored files; both protections are tested.

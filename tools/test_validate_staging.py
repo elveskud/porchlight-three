@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Bad staging must produce specific, repairable errors instead of a traceback."""
-import copy,unittest
+import copy,unittest,tempfile,subprocess,sys
+from pathlib import Path
 from validate_staging import validate
 from init_staging import make_staging
 SCRIPT={'episode':34,'beats':[{'id':'s01','location':'apartment','lines':[{'who':'riot','say':'One line.'},{'who':'pip','say':'Another line.'}]}]}
@@ -29,4 +30,14 @@ class ValidatorTests(unittest.TestCase):
   data=make_staging(SCRIPT,{})
   self.assertEqual({'s01'},set(data['beats']));self.assertEqual('apartment',data['beats']['s01']['set'])
   self.assertNotIn('duration',data['beats']['s01']);self.assertEqual([],validate(data,SCRIPT,spots={},hook_names=set()))
+ def test_starter_refuses_overwrite(self):
+  with tempfile.TemporaryDirectory() as folder:
+   target=Path(folder)/'staging.json';target.write_text('authored staging')
+   result=subprocess.run([sys.executable,str(Path(__file__).with_name('init_staging.py')),'35','--output',str(target)],capture_output=True,text=True)
+   self.assertEqual(1,result.returncode);self.assertIn('No file was replaced',result.stdout);self.assertEqual('authored staging',target.read_text())
+ def test_starter_confines_output(self):
+  with tempfile.TemporaryDirectory() as folder:
+   target=Path(folder)/'staging.json'
+   result=subprocess.run([sys.executable,str(Path(__file__).with_name('init_staging.py')),'35','--output',str(target)],capture_output=True,text=True)
+   self.assertEqual(1,result.returncode);self.assertIn('only writes this episode',result.stdout);self.assertFalse(target.exists())
 if __name__=='__main__':unittest.main()
