@@ -1,0 +1,21 @@
+{
+ "limits": {
+  "plantedSlide": 0.02,
+  "pelvisJump": 0.15,
+  "yawJump": 1.2,
+  "maxStepsPerSecond": 5.6,
+  "minIdleRangeY": 0.008,
+  "minIdleRangeX": 0.02
+ },
+ "paths": [],
+ "idle": {
+  "notApplicable": "No beat holds a standing Riot for ten seconds; seated actors and paths are checked separately."
+ },
+ "twos": {
+  "pairs": 4,
+  "identical": 4
+ },
+ "fails": [],
+ "result": "PASS",
+ "pageMessages": []
+}

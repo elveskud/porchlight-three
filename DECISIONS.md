@@ -86,3 +86,5 @@ Where two entries disagree, the newer one wins; Blender-era entries are history,
 - **19 Nov 2026 — Technical (visual review):** face the Episode 34 lake group toward its reverse camera (yaw 2.75), correcting the backwards bodies visible in the contact sheet without changing the camera or story. Refresh film and stills.
 
 - **19 Nov 2026 — Technical (small-model repair):** repeated Qwen JSON edits stalled. Add a non-overwriting script-derived staging initializer (exact beats, sets and cast, distinct starter positions, shared dressing, ending camera, no dialogue duration overrides). Keep unusual prop actions in explicit hooks and require the same QA.
+
+- **19 Nov 2026 — Final Episode 34 placeholder review:** refreshed after the facing and audio fixes; SHA-256 `0a24b4bc4a8e68ae421c4000f714e45c14daeea19f54cefc508abc93be887520`. Film QA PASS; the earlier placeholder copy from this task was replaced.

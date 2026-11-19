@@ -1,0 +1,10934 @@
+{
+  "series": "Porchlight",
+  "episode": 35,
+  "title": "Last Turn",
+  "next": "Eleven",
+  "duration": 163.91666666666666,
+  "fps": 24,
+  "drawing_fps": 12,
+  "beats": [
+    {
+      "id": "s01",
+      "location": "hall",
+      "cast": {
+        "riot": null,
+        "rocco": null,
+        "bash": null,
+        "pip": null
+      },
+      "lines": [
+        {
+          "who": "riot",
+          "say": "One vote each. Play on, or leave it shut. Nobody says what they wrote. Whatever it says, that's it.",
+          "face": "soft",
+          "do": "count"
+        },
+        {
+          "who": "bash",
+          "say": "I don't want to do this.",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "I know.",
+          "face": "soft"
+        },
+        {
+          "who": "riot",
+          "say": "Play. Play. Play.",
+          "face": "soft",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "Play.",
+          "face": "soft",
+          "quiet": true
+        }
+      ],
+      "camera": "wide",
+      "chapter": "Cold open",
+      "mood": "soft",
+      "seats": {
+        "riot": "edge"
+      },
+      "hold": 240,
+      "text": "Last Turn",
+      "letterbox": true,
+      "start": 0,
+      "end": 23.416666666666668
+    },
+    {
+      "id": "s02",
+      "location": "lake_night",
+      "cast": {},
+      "lines": [],
+      "camera": "at:300,330,11.5",
+      "hold": 200,
+      "chapter": "Intro",
+      "fx": [
+        {
+          "type": "title",
+          "text": "PORCHLIGHT",
+          "at": 0.3,
+          "sub": "Maple Hollow"
+        },
+        {
+          "type": "card",
+          "text": "Episode 35: Last Turn",
+          "at": 3.6,
+          "for": 2.4
+        }
+      ],
+      "start": 23.416666666666668,
+      "end": 30.916666666666668
+    },
+    {
+      "id": "s03",
+      "location": "hall",
+      "cast": {
+        "riot": null,
+        "rocco": null,
+        "bash": null,
+        "pip": null
+      },
+      "lines": [
+        {
+          "who": "riot",
+          "say": "Thanks, Pip.",
+          "face": "soft"
+        },
+        {
+          "who": "pip",
+          "say": "Don't. Just play well.",
+          "face": "soft"
+        },
+        {
+          "who": "bash",
+          "say": "You heard the man! Who's got the die? I've got the die!",
+          "face": "determined"
+        },
+        {
+          "who": "rocco",
+          "say": "It's in your paw.",
+          "face": "deadpan"
+        },
+        {
+          "who": "bash",
+          "say": "That's how good I am.",
+          "face": "hype"
+        },
+        {
+          "who": "riot",
+          "say": "Square thirty! That's the park!",
+          "face": "hype"
+        },
+        {
+          "who": "rocco",
+          "say": "Next one's the school. Same owl.",
+          "face": "deadpan"
+        },
+        {
+          "who": "pip",
+          "say": "That card means wait a turn, not go twice. Read it again.",
+          "face": "soft"
+        },
+        {
+          "who": "bash",
+          "say": "I'm rolling. Lantern! Who's amazing?",
+          "face": "hype"
+        },
+        {
+          "who": "rocco",
+          "say": "It's always a lantern.",
+          "face": "deadpan"
+        },
+        {
+          "who": "bash",
+          "say": "And I'm always amazing!",
+          "do": "cheer"
+        },
+        {
+          "who": "riot",
+          "say": "Keep going. We're nearly round.",
+          "face": "determined"
+        },
+        {
+          "who": "pip",
+          "say": "You haven't slept.",
+          "face": "soft",
+          "to": "riot"
+        },
+        {
+          "who": "riot",
+          "say": "I have. Rule seven. Bash walks me home.",
+          "face": "happy"
+        },
+        {
+          "who": "bash",
+          "say": "Two o'clock. He complains the whole way.",
+          "do": "nod"
+        },
+        {
+          "who": "rocco",
+          "say": "Eight years he did this by himself, and now he's got a curfew.",
+          "do": "munch"
+        },
+        {
+          "who": "riot",
+          "say": "It's better. It's so much better.",
+          "do": "laugh"
+        }
+      ],
+      "camera": "wide",
+      "chapter": "Round by round",
+      "mood": "party",
+      "hold": 240,
+      "start": 30.916666666666668,
+      "end": 84.66666666666667
+    },
+    {
+      "id": "s04",
+      "location": "hall",
+      "cast": {
+        "riot": null,
+        "rocco": null,
+        "bash": null,
+        "pip": null
+      },
+      "lines": [
+        {
+          "who": "bash",
+          "say": "That's it, isn't it? That's the end.",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "Eight years.",
+          "quiet": true
+        },
+        {
+          "who": "rocco",
+          "say": "Roll it.",
+          "quiet": true
+        },
+        {
+          "who": "bash",
+          "say": "Is it... did it...",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "\"Last turn. All hands.\"",
+          "quiet": true
+        },
+        {
+          "who": "pip",
+          "say": "What's that mean?"
+        },
+        {
+          "who": "riot",
+          "say": "I don't know. It means... I don't know. Move the piece.",
+          "do": "nervous"
+        },
+        {
+          "who": "riot",
+          "say": "No. No, come on.",
+          "face": "shocked"
+        },
+        {
+          "who": "bash",
+          "say": "What's wrong with it? We did everything!",
+          "face": "scared"
+        },
+        {
+          "who": "rocco",
+          "say": "Same rules. Same seats.",
+          "face": "suspicious"
+        },
+        {
+          "who": "riot",
+          "say": "It stayed. Everything stayed. Why won't it...",
+          "face": "sad"
+        }
+      ],
+      "camera": "wide",
+      "chapter": "The last square",
+      "mood": "tense",
+      "fx": [
+        {
+          "type": "card",
+          "text": "Four nights to the festival.",
+          "at": 0.2,
+          "for": 2.0
+        }
+      ],
+      "sfx": [
+        "tap"
+      ],
+      "hold": 240,
+      "start": 84.66666666666667,
+      "end": 118.33333333333333
+    },
+    {
+      "id": "s05",
+      "location": "hall",
+      "cast": {
+        "riot": null,
+        "rocco": null,
+        "bash": null,
+        "pip": null
+      },
+      "lines": [
+        {
+          "who": "pip",
+          "say": "Riot, look at the lake.",
+          "quiet": true
+        },
+        {
+          "who": "pip",
+          "say": "There's nothing on this one.",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "So what? It's probably just lost.",
+          "do": "shrug"
+        },
+        {
+          "who": "rocco",
+          "say": "Forty years, and nothing's ever been lost off this board. Every piece comes back. Everything goes back to where it was.",
+          "quiet": true
+        },
+        {
+          "who": "rocco",
+          "say": "Except that.",
+          "quiet": true
+        },
+        {
+          "who": "rocco",
+          "say": "Something's missing. It's been missing the whole time.",
+          "quiet": true
+        },
+        {
+          "who": "bash",
+          "say": "What is it?",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "We've got four nights.",
+          "face": "sad"
+        },
+        {
+          "who": "rocco",
+          "say": "I don't know.",
+          "face": "soft"
+        },
+        {
+          "who": "rocco",
+          "say": "But I've got a lot of notebooks. And I said I'd say things out loud.",
+          "face": "soft"
+        }
+      ],
+      "camera": "wide",
+      "chapter": "The peg",
+      "mood": "soft",
+      "sfx": [
+        "boom"
+      ],
+      "hold": 240,
+      "start": 118.33333333333333,
+      "end": 159.66666666666666
+    }
+  ],
+  "events": [
+    {
+      "who": "riot",
+      "say": "One vote each. Play on, or leave it shut. Nobody says what they wrote. Whatever it says, that's it.",
+      "face": "soft",
+      "do": "count",
+      "id": "s01_00",
+      "text": "One vote each. Play on, or leave it shut. Nobody says what they wrote. Whatever it says, that's it.",
+      "beat": "s01",
+      "start": 0.6,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.3,
+          "value": "C"
+        },
+        {
+          "start": 2.3,
+          "end": 2.4,
+          "value": "D"
+        },
+        {
+          "start": 2.4,
+          "end": 2.5,
+          "value": "E"
+        },
+        {
+          "start": 2.5,
+          "end": 2.6,
+          "value": "F"
+        },
+        {
+          "start": 2.6,
+          "end": 2.7,
+          "value": "G"
+        },
+        {
+          "start": 2.7,
+          "end": 2.8,
+          "value": "H"
+        },
+        {
+          "start": 2.8,
+          "end": 2.9,
+          "value": "X"
+        },
+        {
+          "start": 2.9,
+          "end": 3.0,
+          "value": "A"
+        },
+        {
+          "start": 3.0,
+          "end": 3.1,
+          "value": "A"
+        },
+        {
+          "start": 3.1,
+          "end": 3.2,
+          "value": "B"
+        },
+        {
+          "start": 3.2,
+          "end": 3.3,
+          "value": "C"
+        },
+        {
+          "start": 3.3,
+          "end": 3.4,
+          "value": "D"
+        },
+        {
+          "start": 3.4,
+          "end": 3.5,
+          "value": "E"
+        },
+        {
+          "start": 3.5,
+          "end": 3.6,
+          "value": "F"
+        },
+        {
+          "start": 3.6,
+          "end": 3.7,
+          "value": "G"
+        },
+        {
+          "start": 3.7,
+          "end": 3.8,
+          "value": "H"
+        },
+        {
+          "start": 3.8,
+          "end": 3.9,
+          "value": "X"
+        },
+        {
+          "start": 3.9,
+          "end": 4.0,
+          "value": "A"
+        },
+        {
+          "start": 4.0,
+          "end": 4.1,
+          "value": "A"
+        },
+        {
+          "start": 4.1,
+          "end": 4.2,
+          "value": "B"
+        },
+        {
+          "start": 4.2,
+          "end": 4.3,
+          "value": "C"
+        },
+        {
+          "start": 4.3,
+          "end": 4.4,
+          "value": "D"
+        },
+        {
+          "start": 4.4,
+          "end": 4.5,
+          "value": "E"
+        },
+        {
+          "start": 4.5,
+          "end": 4.6,
+          "value": "F"
+        },
+        {
+          "start": 4.6,
+          "end": 4.7,
+          "value": "G"
+        },
+        {
+          "start": 4.7,
+          "end": 4.8,
+          "value": "H"
+        },
+        {
+          "start": 4.8,
+          "end": 4.9,
+          "value": "X"
+        },
+        {
+          "start": 4.9,
+          "end": 5.0,
+          "value": "A"
+        },
+        {
+          "start": 5.0,
+          "end": 5.1,
+          "value": "A"
+        },
+        {
+          "start": 5.1,
+          "end": 5.2,
+          "value": "B"
+        },
+        {
+          "start": 5.2,
+          "end": 5.3,
+          "value": "C"
+        },
+        {
+          "start": 5.3,
+          "end": 5.4,
+          "value": "D"
+        },
+        {
+          "start": 5.4,
+          "end": 5.5,
+          "value": "E"
+        },
+        {
+          "start": 5.5,
+          "end": 5.6,
+          "value": "F"
+        },
+        {
+          "start": 5.6,
+          "end": 5.7,
+          "value": "G"
+        },
+        {
+          "start": 5.7,
+          "end": 5.8,
+          "value": "H"
+        },
+        {
+          "start": 5.8,
+          "end": 5.9,
+          "value": "X"
+        },
+        {
+          "start": 5.9,
+          "end": 6.0,
+          "value": "A"
+        },
+        {
+          "start": 6.0,
+          "end": 6.1,
+          "value": "A"
+        },
+        {
+          "start": 6.1,
+          "end": 6.2,
+          "value": "B"
+        },
+        {
+          "start": 6.2,
+          "end": 6.3,
+          "value": "C"
+        },
+        {
+          "start": 6.3,
+          "end": 6.4,
+          "value": "D"
+        },
+        {
+          "start": 6.4,
+          "end": 6.429,
+          "value": "E"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 7.029041666666666,
+      "to": "rocco"
+    },
+    {
+      "who": "bash",
+      "say": "I don't want to do this.",
+      "quiet": true,
+      "id": "s01_01",
+      "text": "I don't want to do this.",
+      "beat": "s01",
+      "start": 7.6790416666666665,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.2355,
+          "value": "C"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 9.914541666666667,
+      "to": "riot"
+    },
+    {
+      "who": "riot",
+      "say": "I know.",
+      "face": "soft",
+      "id": "s01_02",
+      "text": "I know.",
+      "beat": "s01",
+      "start": 10.564541666666667,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 0.9452,
+          "value": "A"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 11.509708333333334,
+      "to": "rocco"
+    },
+    {
+      "who": "riot",
+      "say": "Play. Play. Play.",
+      "face": "soft",
+      "quiet": true,
+      "id": "s01_03",
+      "text": "Play. Play. Play.",
+      "beat": "s01",
+      "start": 12.159708333333334,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.2677,
+          "value": "C"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 13.427458333333334,
+      "to": "rocco"
+    },
+    {
+      "who": "riot",
+      "say": "Play.",
+      "face": "soft",
+      "quiet": true,
+      "id": "s01_04",
+      "text": "Play.",
+      "beat": "s01",
+      "start": 14.077458333333334,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.6226,
+          "value": "G"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 14.700041666666667,
+      "to": "rocco"
+    },
+    {
+      "who": "riot",
+      "say": "Thanks, Pip.",
+      "face": "soft",
+      "id": "s03_00",
+      "text": "Thanks, Pip.",
+      "beat": "s03",
+      "start": 31.51666666666667,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 0.9452,
+          "value": "A"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 32.46183333333334,
+      "to": "rocco"
+    },
+    {
+      "who": "pip",
+      "say": "Don't. Just play well.",
+      "face": "soft",
+      "id": "s03_01",
+      "text": "Don't. Just play well.",
+      "beat": "s03",
+      "start": 32.82183333333334,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.5903,
+          "value": "F"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 34.41216666666667,
+      "to": "riot"
+    },
+    {
+      "who": "bash",
+      "say": "You heard the man! Who's got the die? I've got the die!",
+      "face": "determined",
+      "id": "s03_02",
+      "text": "You heard the man! Who's got the die? I've got the die!",
+      "beat": "s03",
+      "start": 34.77216666666667,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.3,
+          "value": "C"
+        },
+        {
+          "start": 2.3,
+          "end": 2.4,
+          "value": "D"
+        },
+        {
+          "start": 2.4,
+          "end": 2.5,
+          "value": "E"
+        },
+        {
+          "start": 2.5,
+          "end": 2.6,
+          "value": "F"
+        },
+        {
+          "start": 2.6,
+          "end": 2.7,
+          "value": "G"
+        },
+        {
+          "start": 2.7,
+          "end": 2.8,
+          "value": "H"
+        },
+        {
+          "start": 2.8,
+          "end": 2.9,
+          "value": "X"
+        },
+        {
+          "start": 2.9,
+          "end": 3.0,
+          "value": "A"
+        },
+        {
+          "start": 3.0,
+          "end": 3.1,
+          "value": "A"
+        },
+        {
+          "start": 3.1,
+          "end": 3.2,
+          "value": "B"
+        },
+        {
+          "start": 3.2,
+          "end": 3.3,
+          "value": "C"
+        },
+        {
+          "start": 3.3,
+          "end": 3.4,
+          "value": "D"
+        },
+        {
+          "start": 3.4,
+          "end": 3.5,
+          "value": "E"
+        },
+        {
+          "start": 3.5,
+          "end": 3.6,
+          "value": "F"
+        },
+        {
+          "start": 3.6,
+          "end": 3.7,
+          "value": "G"
+        },
+        {
+          "start": 3.7,
+          "end": 3.8,
+          "value": "H"
+        },
+        {
+          "start": 3.8,
+          "end": 3.9,
+          "value": "X"
+        },
+        {
+          "start": 3.9,
+          "end": 4.0,
+          "value": "A"
+        },
+        {
+          "start": 4.0,
+          "end": 4.1,
+          "value": "A"
+        },
+        {
+          "start": 4.1,
+          "end": 4.171,
+          "value": "B"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 38.943125,
+      "to": "riot"
+    },
+    {
+      "who": "rocco",
+      "say": "It's in your paw.",
+      "face": "deadpan",
+      "id": "s03_03",
+      "text": "It's in your paw.",
+      "beat": "s03",
+      "start": 39.303125,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.5903,
+          "value": "F"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 40.893458333333335,
+      "to": "riot"
+    },
+    {
+      "who": "bash",
+      "say": "That's how good I am.",
+      "face": "hype",
+      "id": "s03_04",
+      "text": "That's how good I am.",
+      "beat": "s03",
+      "start": 41.253458333333334,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 1.9129,
+          "value": "A"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 43.166375,
+      "to": "riot"
+    },
+    {
+      "who": "riot",
+      "say": "Square thirty! That's the park!",
+      "face": "hype",
+      "id": "s03_05",
+      "text": "Square thirty! That's the park!",
+      "beat": "s03",
+      "start": 43.526375,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 1.9129,
+          "value": "A"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 45.43929166666667,
+      "to": "rocco"
+    },
+    {
+      "who": "rocco",
+      "say": "Next one's the school. Same owl.",
+      "face": "deadpan",
+      "id": "s03_06",
+      "text": "Next one's the school. Same owl.",
+      "beat": "s03",
+      "start": 45.79929166666667,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.2355,
+          "value": "C"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 48.03479166666667,
+      "to": "riot"
+    },
+    {
+      "who": "pip",
+      "say": "That card means wait a turn, not go twice. Read it again.",
+      "face": "soft",
+      "id": "s03_07",
+      "text": "That card means wait a turn, not go twice. Read it again.",
+      "beat": "s03",
+      "start": 48.39479166666667,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.3,
+          "value": "C"
+        },
+        {
+          "start": 2.3,
+          "end": 2.4,
+          "value": "D"
+        },
+        {
+          "start": 2.4,
+          "end": 2.5,
+          "value": "E"
+        },
+        {
+          "start": 2.5,
+          "end": 2.6,
+          "value": "F"
+        },
+        {
+          "start": 2.6,
+          "end": 2.7,
+          "value": "G"
+        },
+        {
+          "start": 2.7,
+          "end": 2.8,
+          "value": "H"
+        },
+        {
+          "start": 2.8,
+          "end": 2.9,
+          "value": "X"
+        },
+        {
+          "start": 2.9,
+          "end": 3.0,
+          "value": "A"
+        },
+        {
+          "start": 3.0,
+          "end": 3.1,
+          "value": "A"
+        },
+        {
+          "start": 3.1,
+          "end": 3.2,
+          "value": "B"
+        },
+        {
+          "start": 3.2,
+          "end": 3.3,
+          "value": "C"
+        },
+        {
+          "start": 3.3,
+          "end": 3.4,
+          "value": "D"
+        },
+        {
+          "start": 3.4,
+          "end": 3.5,
+          "value": "E"
+        },
+        {
+          "start": 3.5,
+          "end": 3.6,
+          "value": "F"
+        },
+        {
+          "start": 3.6,
+          "end": 3.7,
+          "value": "G"
+        },
+        {
+          "start": 3.7,
+          "end": 3.8,
+          "value": "H"
+        },
+        {
+          "start": 3.8,
+          "end": 3.9,
+          "value": "X"
+        },
+        {
+          "start": 3.9,
+          "end": 4.0,
+          "value": "A"
+        },
+        {
+          "start": 4.0,
+          "end": 4.1,
+          "value": "A"
+        },
+        {
+          "start": 4.1,
+          "end": 4.171,
+          "value": "B"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 52.56575,
+      "to": "riot"
+    },
+    {
+      "who": "bash",
+      "say": "I'm rolling. Lantern! Who's amazing?",
+      "face": "hype",
+      "id": "s03_08",
+      "text": "I'm rolling. Lantern! Who's amazing?",
+      "beat": "s03",
+      "start": 52.92575,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 1.9129,
+          "value": "A"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 54.83866666666667,
+      "to": "riot"
+    },
+    {
+      "who": "rocco",
+      "say": "It's always a lantern.",
+      "face": "deadpan",
+      "id": "s03_09",
+      "text": "It's always a lantern.",
+      "beat": "s03",
+      "start": 55.19866666666667,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.5903,
+          "value": "F"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 56.789,
+      "to": "riot"
+    },
+    {
+      "who": "bash",
+      "say": "And I'm always amazing!",
+      "id": "s03_10",
+      "text": "And I'm always amazing!",
+      "beat": "s03",
+      "start": 57.149,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.5903,
+          "value": "F"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "scriptAction": "cheer",
+      "do": "wave",
+      "end": 58.739333333333335,
+      "to": "riot"
+    },
+    {
+      "who": "riot",
+      "say": "Keep going. We're nearly round.",
+      "face": "determined",
+      "id": "s03_11",
+      "text": "Keep going. We're nearly round.",
+      "beat": "s03",
+      "start": 59.099333333333334,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 1.9129,
+          "value": "A"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 61.01225,
+      "to": "rocco"
+    },
+    {
+      "who": "pip",
+      "say": "You haven't slept.",
+      "face": "soft",
+      "to": "riot",
+      "id": "s03_12",
+      "text": "You haven't slept.",
+      "beat": "s03",
+      "start": 61.37225,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.2677,
+          "value": "C"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 62.64
+    },
+    {
+      "who": "riot",
+      "say": "I have. Rule seven. Bash walks me home.",
+      "face": "happy",
+      "id": "s03_13",
+      "text": "I have. Rule seven. Bash walks me home.",
+      "beat": "s03",
+      "start": 63.0,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.3,
+          "value": "C"
+        },
+        {
+          "start": 2.3,
+          "end": 2.4,
+          "value": "D"
+        },
+        {
+          "start": 2.4,
+          "end": 2.5,
+          "value": "E"
+        },
+        {
+          "start": 2.5,
+          "end": 2.6,
+          "value": "F"
+        },
+        {
+          "start": 2.6,
+          "end": 2.7,
+          "value": "G"
+        },
+        {
+          "start": 2.7,
+          "end": 2.8,
+          "value": "H"
+        },
+        {
+          "start": 2.8,
+          "end": 2.8806,
+          "value": "X"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 65.880625,
+      "to": "rocco"
+    },
+    {
+      "who": "bash",
+      "say": "Two o'clock. He complains the whole way.",
+      "do": "nod",
+      "id": "s03_14",
+      "text": "Two o'clock. He complains the whole way.",
+      "beat": "s03",
+      "start": 66.240625,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.3,
+          "value": "C"
+        },
+        {
+          "start": 2.3,
+          "end": 2.4,
+          "value": "D"
+        },
+        {
+          "start": 2.4,
+          "end": 2.5,
+          "value": "E"
+        },
+        {
+          "start": 2.5,
+          "end": 2.5581,
+          "value": "F"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 68.79870833333332,
+      "to": "riot"
+    },
+    {
+      "who": "rocco",
+      "say": "Eight years he did this by himself, and now he's got a curfew.",
+      "do": "munch",
+      "id": "s03_15",
+      "text": "Eight years he did this by himself, and now he's got a curfew.",
+      "beat": "s03",
+      "start": 69.15870833333332,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.3,
+          "value": "C"
+        },
+        {
+          "start": 2.3,
+          "end": 2.4,
+          "value": "D"
+        },
+        {
+          "start": 2.4,
+          "end": 2.5,
+          "value": "E"
+        },
+        {
+          "start": 2.5,
+          "end": 2.6,
+          "value": "F"
+        },
+        {
+          "start": 2.6,
+          "end": 2.7,
+          "value": "G"
+        },
+        {
+          "start": 2.7,
+          "end": 2.8,
+          "value": "H"
+        },
+        {
+          "start": 2.8,
+          "end": 2.9,
+          "value": "X"
+        },
+        {
+          "start": 2.9,
+          "end": 3.0,
+          "value": "A"
+        },
+        {
+          "start": 3.0,
+          "end": 3.1,
+          "value": "A"
+        },
+        {
+          "start": 3.1,
+          "end": 3.2,
+          "value": "B"
+        },
+        {
+          "start": 3.2,
+          "end": 3.3,
+          "value": "C"
+        },
+        {
+          "start": 3.3,
+          "end": 3.4,
+          "value": "D"
+        },
+        {
+          "start": 3.4,
+          "end": 3.5,
+          "value": "E"
+        },
+        {
+          "start": 3.5,
+          "end": 3.6,
+          "value": "F"
+        },
+        {
+          "start": 3.6,
+          "end": 3.7,
+          "value": "G"
+        },
+        {
+          "start": 3.7,
+          "end": 3.8,
+          "value": "H"
+        },
+        {
+          "start": 3.8,
+          "end": 3.9,
+          "value": "X"
+        },
+        {
+          "start": 3.9,
+          "end": 4.0,
+          "value": "A"
+        },
+        {
+          "start": 4.0,
+          "end": 4.1,
+          "value": "A"
+        },
+        {
+          "start": 4.1,
+          "end": 4.2,
+          "value": "B"
+        },
+        {
+          "start": 4.2,
+          "end": 4.3,
+          "value": "C"
+        },
+        {
+          "start": 4.3,
+          "end": 4.4,
+          "value": "D"
+        },
+        {
+          "start": 4.4,
+          "end": 4.4935,
+          "value": "E"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 73.65225,
+      "to": "riot"
+    },
+    {
+      "who": "riot",
+      "say": "It's better. It's so much better.",
+      "do": "laugh",
+      "id": "s03_16",
+      "text": "It's better. It's so much better.",
+      "beat": "s03",
+      "start": 74.01225,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.2355,
+          "value": "C"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 76.24775,
+      "to": "rocco"
+    },
+    {
+      "who": "bash",
+      "say": "That's it, isn't it? That's the end.",
+      "quiet": true,
+      "id": "s04_00",
+      "text": "That's it, isn't it? That's the end.",
+      "beat": "s04",
+      "start": 85.26666666666667,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.3,
+          "value": "C"
+        },
+        {
+          "start": 2.3,
+          "end": 2.4,
+          "value": "D"
+        },
+        {
+          "start": 2.4,
+          "end": 2.5,
+          "value": "E"
+        },
+        {
+          "start": 2.5,
+          "end": 2.5581,
+          "value": "F"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 87.82475,
+      "to": "riot"
+    },
+    {
+      "who": "riot",
+      "say": "Eight years.",
+      "quiet": true,
+      "id": "s04_01",
+      "text": "Eight years.",
+      "beat": "s04",
+      "start": 88.18475,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 0.9452,
+          "value": "A"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 89.12991666666666,
+      "to": "rocco"
+    },
+    {
+      "who": "rocco",
+      "say": "Roll it.",
+      "quiet": true,
+      "id": "s04_02",
+      "text": "Roll it.",
+      "beat": "s04",
+      "start": 89.48991666666666,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 0.9452,
+          "value": "A"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 90.43508333333332,
+      "to": "riot"
+    },
+    {
+      "who": "bash",
+      "say": "Is it... did it...",
+      "quiet": true,
+      "id": "s04_03",
+      "text": "Is it... did it...",
+      "beat": "s04",
+      "start": 90.79508333333332,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.5903,
+          "value": "F"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 92.38541666666666,
+      "to": "riot"
+    },
+    {
+      "who": "riot",
+      "say": "\"Last turn. All hands.\"",
+      "quiet": true,
+      "id": "s04_04",
+      "text": "\"Last turn. All hands.\"",
+      "beat": "s04",
+      "start": 92.74541666666666,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.5903,
+          "value": "F"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 94.33574999999999,
+      "to": "rocco"
+    },
+    {
+      "who": "pip",
+      "say": "What's that mean?",
+      "id": "s04_05",
+      "text": "What's that mean?",
+      "beat": "s04",
+      "start": 94.69574999999999,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.2677,
+          "value": "C"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 95.9635,
+      "to": "riot"
+    },
+    {
+      "who": "riot",
+      "say": "I don't know. It means... I don't know. Move the piece.",
+      "do": "nervous",
+      "id": "s04_06",
+      "text": "I don't know. It means... I don't know. Move the piece.",
+      "beat": "s04",
+      "start": 96.3235,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.3,
+          "value": "C"
+        },
+        {
+          "start": 2.3,
+          "end": 2.4,
+          "value": "D"
+        },
+        {
+          "start": 2.4,
+          "end": 2.5,
+          "value": "E"
+        },
+        {
+          "start": 2.5,
+          "end": 2.6,
+          "value": "F"
+        },
+        {
+          "start": 2.6,
+          "end": 2.7,
+          "value": "G"
+        },
+        {
+          "start": 2.7,
+          "end": 2.8,
+          "value": "H"
+        },
+        {
+          "start": 2.8,
+          "end": 2.9,
+          "value": "X"
+        },
+        {
+          "start": 2.9,
+          "end": 3.0,
+          "value": "A"
+        },
+        {
+          "start": 3.0,
+          "end": 3.1,
+          "value": "A"
+        },
+        {
+          "start": 3.1,
+          "end": 3.2,
+          "value": "B"
+        },
+        {
+          "start": 3.2,
+          "end": 3.3,
+          "value": "C"
+        },
+        {
+          "start": 3.3,
+          "end": 3.4,
+          "value": "D"
+        },
+        {
+          "start": 3.4,
+          "end": 3.5,
+          "value": "E"
+        },
+        {
+          "start": 3.5,
+          "end": 3.6,
+          "value": "F"
+        },
+        {
+          "start": 3.6,
+          "end": 3.7,
+          "value": "G"
+        },
+        {
+          "start": 3.7,
+          "end": 3.8,
+          "value": "H"
+        },
+        {
+          "start": 3.8,
+          "end": 3.8484,
+          "value": "X"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 100.171875,
+      "to": "rocco"
+    },
+    {
+      "who": "riot",
+      "say": "No. No, come on.",
+      "face": "shocked",
+      "id": "s04_07",
+      "text": "No. No, come on.",
+      "beat": "s04",
+      "start": 100.531875,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.5903,
+          "value": "F"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 102.12220833333333,
+      "to": "rocco"
+    },
+    {
+      "who": "bash",
+      "say": "What's wrong with it? We did everything!",
+      "face": "scared",
+      "id": "s04_08",
+      "text": "What's wrong with it? We did everything!",
+      "beat": "s04",
+      "start": 102.48220833333333,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.3,
+          "value": "C"
+        },
+        {
+          "start": 2.3,
+          "end": 2.4,
+          "value": "D"
+        },
+        {
+          "start": 2.4,
+          "end": 2.5,
+          "value": "E"
+        },
+        {
+          "start": 2.5,
+          "end": 2.5581,
+          "value": "F"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 105.04029166666666,
+      "to": "riot"
+    },
+    {
+      "who": "rocco",
+      "say": "Same rules. Same seats.",
+      "face": "suspicious",
+      "id": "s04_09",
+      "text": "Same rules. Same seats.",
+      "beat": "s04",
+      "start": 105.40029166666666,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.5903,
+          "value": "F"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 106.990625,
+      "to": "riot"
+    },
+    {
+      "who": "riot",
+      "say": "It stayed. Everything stayed. Why won't it...",
+      "face": "sad",
+      "id": "s04_10",
+      "text": "It stayed. Everything stayed. Why won't it...",
+      "beat": "s04",
+      "start": 107.350625,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.3,
+          "value": "C"
+        },
+        {
+          "start": 2.3,
+          "end": 2.4,
+          "value": "D"
+        },
+        {
+          "start": 2.4,
+          "end": 2.5,
+          "value": "E"
+        },
+        {
+          "start": 2.5,
+          "end": 2.5581,
+          "value": "F"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 109.90870833333332,
+      "to": "rocco"
+    },
+    {
+      "who": "pip",
+      "say": "Riot, look at the lake.",
+      "quiet": true,
+      "id": "s05_00",
+      "text": "Riot, look at the lake.",
+      "beat": "s05",
+      "start": 118.93333333333332,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 1.9129,
+          "value": "A"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 120.84624999999998,
+      "to": "riot"
+    },
+    {
+      "who": "pip",
+      "say": "There's nothing on this one.",
+      "quiet": true,
+      "id": "s05_01",
+      "text": "There's nothing on this one.",
+      "beat": "s05",
+      "start": 121.49624999999999,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 1.9129,
+          "value": "A"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 123.40916666666665,
+      "to": "riot"
+    },
+    {
+      "who": "riot",
+      "say": "So what? It's probably just lost.",
+      "do": "shrug",
+      "id": "s05_02",
+      "text": "So what? It's probably just lost.",
+      "beat": "s05",
+      "start": 124.05916666666666,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.2355,
+          "value": "C"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 126.29466666666666,
+      "to": "rocco"
+    },
+    {
+      "who": "rocco",
+      "say": "Forty years, and nothing's ever been lost off this board. Every piece comes back. Everything goes back to where it was.",
+      "quiet": true,
+      "id": "s05_03",
+      "text": "Forty years, and nothing's ever been lost off this board. Every piece comes back. Everything goes back to where it was.",
+      "beat": "s05",
+      "start": 126.94466666666666,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.3,
+          "value": "C"
+        },
+        {
+          "start": 2.3,
+          "end": 2.4,
+          "value": "D"
+        },
+        {
+          "start": 2.4,
+          "end": 2.5,
+          "value": "E"
+        },
+        {
+          "start": 2.5,
+          "end": 2.6,
+          "value": "F"
+        },
+        {
+          "start": 2.6,
+          "end": 2.7,
+          "value": "G"
+        },
+        {
+          "start": 2.7,
+          "end": 2.8,
+          "value": "H"
+        },
+        {
+          "start": 2.8,
+          "end": 2.9,
+          "value": "X"
+        },
+        {
+          "start": 2.9,
+          "end": 3.0,
+          "value": "A"
+        },
+        {
+          "start": 3.0,
+          "end": 3.1,
+          "value": "A"
+        },
+        {
+          "start": 3.1,
+          "end": 3.2,
+          "value": "B"
+        },
+        {
+          "start": 3.2,
+          "end": 3.3,
+          "value": "C"
+        },
+        {
+          "start": 3.3,
+          "end": 3.4,
+          "value": "D"
+        },
+        {
+          "start": 3.4,
+          "end": 3.5,
+          "value": "E"
+        },
+        {
+          "start": 3.5,
+          "end": 3.6,
+          "value": "F"
+        },
+        {
+          "start": 3.6,
+          "end": 3.7,
+          "value": "G"
+        },
+        {
+          "start": 3.7,
+          "end": 3.8,
+          "value": "H"
+        },
+        {
+          "start": 3.8,
+          "end": 3.9,
+          "value": "X"
+        },
+        {
+          "start": 3.9,
+          "end": 4.0,
+          "value": "A"
+        },
+        {
+          "start": 4.0,
+          "end": 4.1,
+          "value": "A"
+        },
+        {
+          "start": 4.1,
+          "end": 4.2,
+          "value": "B"
+        },
+        {
+          "start": 4.2,
+          "end": 4.3,
+          "value": "C"
+        },
+        {
+          "start": 4.3,
+          "end": 4.4,
+          "value": "D"
+        },
+        {
+          "start": 4.4,
+          "end": 4.5,
+          "value": "E"
+        },
+        {
+          "start": 4.5,
+          "end": 4.6,
+          "value": "F"
+        },
+        {
+          "start": 4.6,
+          "end": 4.7,
+          "value": "G"
+        },
+        {
+          "start": 4.7,
+          "end": 4.8,
+          "value": "H"
+        },
+        {
+          "start": 4.8,
+          "end": 4.9,
+          "value": "X"
+        },
+        {
+          "start": 4.9,
+          "end": 5.0,
+          "value": "A"
+        },
+        {
+          "start": 5.0,
+          "end": 5.1,
+          "value": "A"
+        },
+        {
+          "start": 5.1,
+          "end": 5.2,
+          "value": "B"
+        },
+        {
+          "start": 5.2,
+          "end": 5.3,
+          "value": "C"
+        },
+        {
+          "start": 5.3,
+          "end": 5.4,
+          "value": "D"
+        },
+        {
+          "start": 5.4,
+          "end": 5.5,
+          "value": "E"
+        },
+        {
+          "start": 5.5,
+          "end": 5.6,
+          "value": "F"
+        },
+        {
+          "start": 5.6,
+          "end": 5.7,
+          "value": "G"
+        },
+        {
+          "start": 5.7,
+          "end": 5.8,
+          "value": "H"
+        },
+        {
+          "start": 5.8,
+          "end": 5.9,
+          "value": "X"
+        },
+        {
+          "start": 5.9,
+          "end": 6.0,
+          "value": "A"
+        },
+        {
+          "start": 6.0,
+          "end": 6.1,
+          "value": "A"
+        },
+        {
+          "start": 6.1,
+          "end": 6.2,
+          "value": "B"
+        },
+        {
+          "start": 6.2,
+          "end": 6.3,
+          "value": "C"
+        },
+        {
+          "start": 6.3,
+          "end": 6.4,
+          "value": "D"
+        },
+        {
+          "start": 6.4,
+          "end": 6.5,
+          "value": "E"
+        },
+        {
+          "start": 6.5,
+          "end": 6.6,
+          "value": "F"
+        },
+        {
+          "start": 6.6,
+          "end": 6.7,
+          "value": "G"
+        },
+        {
+          "start": 6.7,
+          "end": 6.8,
+          "value": "H"
+        },
+        {
+          "start": 6.8,
+          "end": 6.9,
+          "value": "X"
+        },
+        {
+          "start": 6.9,
+          "end": 7.0,
+          "value": "A"
+        },
+        {
+          "start": 7.0,
+          "end": 7.0742,
+          "value": "A"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 134.018875,
+      "to": "riot"
+    },
+    {
+      "who": "rocco",
+      "say": "Except that.",
+      "quiet": true,
+      "id": "s05_04",
+      "text": "Except that.",
+      "beat": "s05",
+      "start": 134.668875,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 0.9452,
+          "value": "A"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 135.61404166666668,
+      "to": "riot"
+    },
+    {
+      "who": "rocco",
+      "say": "Something's missing. It's been missing the whole time.",
+      "quiet": true,
+      "id": "s05_05",
+      "text": "Something's missing. It's been missing the whole time.",
+      "beat": "s05",
+      "start": 136.26404166666669,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.3,
+          "value": "C"
+        },
+        {
+          "start": 2.3,
+          "end": 2.4,
+          "value": "D"
+        },
+        {
+          "start": 2.4,
+          "end": 2.5,
+          "value": "E"
+        },
+        {
+          "start": 2.5,
+          "end": 2.6,
+          "value": "F"
+        },
+        {
+          "start": 2.6,
+          "end": 2.7,
+          "value": "G"
+        },
+        {
+          "start": 2.7,
+          "end": 2.8,
+          "value": "H"
+        },
+        {
+          "start": 2.8,
+          "end": 2.8806,
+          "value": "X"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 139.1446666666667,
+      "to": "riot"
+    },
+    {
+      "who": "bash",
+      "say": "What is it?",
+      "quiet": true,
+      "id": "s05_06",
+      "text": "What is it?",
+      "beat": "s05",
+      "start": 139.7946666666667,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.2677,
+          "value": "C"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 141.0624166666667,
+      "to": "riot"
+    },
+    {
+      "who": "riot",
+      "say": "We've got four nights.",
+      "face": "sad",
+      "id": "s05_07",
+      "text": "We've got four nights.",
+      "beat": "s05",
+      "start": 141.7124166666667,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.5903,
+          "value": "F"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 143.30275000000003,
+      "to": "rocco"
+    },
+    {
+      "who": "rocco",
+      "say": "I don't know.",
+      "face": "soft",
+      "id": "s05_08",
+      "text": "I don't know.",
+      "beat": "s05",
+      "start": 143.95275000000004,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.2677,
+          "value": "C"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 145.22050000000004,
+      "to": "riot"
+    },
+    {
+      "who": "rocco",
+      "say": "But I've got a lot of notebooks. And I said I'd say things out loud.",
+      "face": "soft",
+      "id": "s05_09",
+      "text": "But I've got a lot of notebooks. And I said I'd say things out loud.",
+      "beat": "s05",
+      "start": 145.87050000000005,
+      "silent": false,
+      "mouthCues": [
+        {
+          "start": 0,
+          "end": 0.1,
+          "value": "A"
+        },
+        {
+          "start": 0.1,
+          "end": 0.2,
+          "value": "B"
+        },
+        {
+          "start": 0.2,
+          "end": 0.3,
+          "value": "C"
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "value": "D"
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "value": "E"
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "value": "F"
+        },
+        {
+          "start": 0.6,
+          "end": 0.7,
+          "value": "G"
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "value": "H"
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "value": "X"
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "value": "A"
+        },
+        {
+          "start": 1.0,
+          "end": 1.1,
+          "value": "A"
+        },
+        {
+          "start": 1.1,
+          "end": 1.2,
+          "value": "B"
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "value": "C"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "value": "D"
+        },
+        {
+          "start": 1.4,
+          "end": 1.5,
+          "value": "E"
+        },
+        {
+          "start": 1.5,
+          "end": 1.6,
+          "value": "F"
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "value": "G"
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "value": "H"
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "value": "X"
+        },
+        {
+          "start": 1.9,
+          "end": 2.0,
+          "value": "A"
+        },
+        {
+          "start": 2.0,
+          "end": 2.1,
+          "value": "A"
+        },
+        {
+          "start": 2.1,
+          "end": 2.2,
+          "value": "B"
+        },
+        {
+          "start": 2.2,
+          "end": 2.3,
+          "value": "C"
+        },
+        {
+          "start": 2.3,
+          "end": 2.4,
+          "value": "D"
+        },
+        {
+          "start": 2.4,
+          "end": 2.5,
+          "value": "E"
+        },
+        {
+          "start": 2.5,
+          "end": 2.6,
+          "value": "F"
+        },
+        {
+          "start": 2.6,
+          "end": 2.7,
+          "value": "G"
+        },
+        {
+          "start": 2.7,
+          "end": 2.8,
+          "value": "H"
+        },
+        {
+          "start": 2.8,
+          "end": 2.9,
+          "value": "X"
+        },
+        {
+          "start": 2.9,
+          "end": 3.0,
+          "value": "A"
+        },
+        {
+          "start": 3.0,
+          "end": 3.1,
+          "value": "A"
+        },
+        {
+          "start": 3.1,
+          "end": 3.2,
+          "value": "B"
+        },
+        {
+          "start": 3.2,
+          "end": 3.3,
+          "value": "C"
+        },
+        {
+          "start": 3.3,
+          "end": 3.4,
+          "value": "D"
+        },
+        {
+          "start": 3.4,
+          "end": 3.5,
+          "value": "E"
+        },
+        {
+          "start": 3.5,
+          "end": 3.6,
+          "value": "F"
+        },
+        {
+          "start": 3.6,
+          "end": 3.7,
+          "value": "G"
+        },
+        {
+          "start": 3.7,
+          "end": 3.8,
+          "value": "H"
+        },
+        {
+          "start": 3.8,
+          "end": 3.9,
+          "value": "X"
+        },
+        {
+          "start": 3.9,
+          "end": 4.0,
+          "value": "A"
+        },
+        {
+          "start": 4.0,
+          "end": 4.1,
+          "value": "A"
+        },
+        {
+          "start": 4.1,
+          "end": 4.2,
+          "value": "B"
+        },
+        {
+          "start": 4.2,
+          "end": 4.3,
+          "value": "C"
+        },
+        {
+          "start": 4.3,
+          "end": 4.4,
+          "value": "D"
+        },
+        {
+          "start": 4.4,
+          "end": 4.5,
+          "value": "E"
+        },
+        {
+          "start": 4.5,
+          "end": 4.6,
+          "value": "F"
+        },
+        {
+          "start": 4.6,
+          "end": 4.7,
+          "value": "G"
+        },
+        {
+          "start": 4.7,
+          "end": 4.8,
+          "value": "H"
+        },
+        {
+          "start": 4.8,
+          "end": 4.9,
+          "value": "X"
+        },
+        {
+          "start": 4.9,
+          "end": 5.0,
+          "value": "A"
+        },
+        {
+          "start": 5.0,
+          "end": 5.1,
+          "value": "A"
+        },
+        {
+          "start": 5.1,
+          "end": 5.1387,
+          "value": "B"
+        }
+      ],
+      "envelope": [
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65,
+        0.65
+      ],
+      "end": 151.0092083333334,
+      "to": "riot"
+    }
+  ],
+  "paths": [],
+  "end_start": 159.66666666666666,
+  "voices_reused": 43,
+  "source": "episodes/ep35.json",
+  "actions": {
+    "lampOff": 160.76666666666665
+  },
+  "fastWindows": [],
+  "cuts": []
+}

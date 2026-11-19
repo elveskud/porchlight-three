@@ -12973,6 +12973,7 @@
       "kind": "close",
       "dist": 4.6,
       "height": 0.62,
+      "pitch": 0.1,
       "beat": "s01"
     },
     {
@@ -12982,6 +12983,7 @@
       "kind": "close",
       "dist": 4.6,
       "height": 0.62,
+      "pitch": 0.1,
       "beat": "s03"
     },
     {
@@ -12991,6 +12993,7 @@
       "kind": "close",
       "dist": 4.6,
       "height": 0.62,
+      "pitch": 0.1,
       "beat": "s04"
     },
     {
@@ -13000,6 +13003,7 @@
       "kind": "close",
       "dist": 4.6,
       "height": 0.62,
+      "pitch": 0.1,
       "beat": "s05"
     },
     {
@@ -13009,6 +13013,7 @@
       "kind": "close",
       "dist": 4.6,
       "height": 0.62,
+      "pitch": 0.1,
       "beat": "s06"
     },
     {
@@ -13018,6 +13023,7 @@
       "kind": "close",
       "dist": 4.2,
       "height": 0.62,
+      "pitch": 0.1,
       "beat": "s07"
     },
     {
@@ -13027,6 +13033,7 @@
       "kind": "close",
       "dist": 4.2,
       "height": 0.62,
+      "pitch": 0.1,
       "beat": "s07"
     }
   ]

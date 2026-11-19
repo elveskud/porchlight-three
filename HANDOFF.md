@@ -44,3 +44,11 @@ Read order: `AGENTS.md` → `INDEX.md` → one card in `docs/cards/`. Short deci
 1. User compares `Porchlight Episode 4 - Not For Sale - v5 (Three.js).mp4` with the v4 film; decide the questions above.
 2. Then port to Episodes 1–3, or start Episode 5 on the v5 template (card `render-episode`).
 3. Voicing new lines needs `voice/SETUP.md` (about 2 GB).
+
+
+## 19 Nov 2026 — Part B staging build (staging/data-driver)
+- Added the shared v5 driver, named seats/spots, camera-edge probe, generic preparation/mixing/rendering, actionable validator, a script-derived initializer and the stage card. Episode 4 original drivers/renderers and protected modules remain unchanged.
+- Episode 4: 20/20 old/new PNG samples pixel-identical after generic preparation; motion and full QA PASS. Episode 34: placeholder build, scripted prop hooks, three cuts, all speakers framed, deterministic seeking, motion and finished-film QA PASS. Episode 35 manual card dry run: preparation, validation, motion, full QA, render and export PASS. Review sheets are in art/review/ep34 and ep35.
+- Fixed held-prop parenting across seeks, lake-group facing and AAC overshoot in generated splash audio. The generic mixer masters to -14 LUFS with measured -6 dBTP source headroom; encoded Episode 34 measures -14.62 LUFS/-3.02 dBTP. No QA limit was loosened.
+- The initial Qwen free-form staging and edit-repair attempts failed; saved under comparisons/episode35/local-model. Strengthened validation and the stage card, then added a non-overwriting initializer to remove large JSON rewrites. A starter-based Qwen smoke test is being recorded separately.
+- Both checked placeholder films were delivered to the Desktop; paths and hashes: comparisons/staging-delivery.json. These have silent placeholder voices, not final dialogue. Real voices and visual approval remain with the user.
