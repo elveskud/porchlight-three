@@ -31,7 +31,8 @@ async function filesIn(dir, keep = () => true) {
 /** Hash of every file that can change a picture or the sound. A scene clip is reused only if this is unchanged. */
 async function fingerprint() {
   const hash = crypto.createHash('sha256');
-  const files = [
+  const episodeFiles=(await fs.readdir(EP,{withFileTypes:true})).filter(e=>e.isFile()&&/\.(js|html|json)$/.test(e.name)).map(e=>path.join(EP,e.name));
+  const files = [...episodeFiles,
     ...await filesIn(path.join(ROOT, 'art/three')), ...await filesIn(SRC, f => /\.(js|py|html|cjs|json)$/.test(f) && !/timeline\.json$/.test(f)),
     ...await filesIn(path.join(ROOT, 'comparisons/episode01/source/refinements')), path.join(ROOT, 'comparisons/episode01/source/Boogaloo-Regular.ttf'),
     ...await filesIn(path.join(EP, 'assets/vo'), f => f.endsWith('.wav')), path.join(EP, 'assets/data/audio.wav'), path.join(EP, 'assets/data/cues.json'),

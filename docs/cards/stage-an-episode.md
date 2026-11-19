@@ -2,6 +2,7 @@
 Run from the project root. Do not change dialogue, canon, voice settings or finished modules.
 Read only this card, `episodes/epNN.txt`, `art/three/sets/spots.json`, and the example `comparisons/episode34/staging.json`.
 The compiler parses the text when `episodes/epNN.json` does not exist.
+Read the whole script in numbered ranges if output is truncated; list every beat and its location before editing.
 
 1. Create `comparisons/episodeNN/`, copy Episode 34's `staging.json` there, then edit it.
 2. Set `episode` to N. Include exactly the script's beat ids (`s01`, `s02`, etc.; the intro is a beat).
@@ -16,7 +17,11 @@ The compiler parses the text when `episodes/epNN.json` does not exist.
 11. Set `hookModule` to null and remove copied `hooks` unless props are needed. Custom props belong in this episode's `props.js`, never in dialogue.
 12. A props module exports `hookNames`, `actions` (functions keyed by those names), and optional `setup`, `beforeFrame`, `afterAttention`, `prepareSets`.
 13. Each hook receives `{t,b,e,l,actors,modeled,props,timeline,E,paths,put,along,camera}`. Ask for help with unusual props; don't invent story details.
-14. Keep `preloadSets` from the example if reusing its accepted set-dressing module. For a new hook module, copy its `prepareSets` export too.
+14. If QA names an unsupported script action, add top-level `moveAliases`, e.g. `{"cheer":"wave","shake":"shrug"}`; null requires a hook that draws that action. Never rewrite dialogue to fix a rig cue.
+15. Keep `preloadSets` from the example if reusing its accepted set-dressing module. For a new hook module, copy its `prepareSets` export too.
+16. Remove copied `duration` from dialogue beats; preparation must fit every spoken line. Only the silent intro has a fixed duration.
+17. Match each script location exactly; give actors distinct positions. Do not reuse the lake camera for a hall or room.
+18. Keep the example's `ending` object, including its camera and set, for the lamp and logo ending.
 
 Replace `35` below with N; all commands must succeed:
 ```sh

@@ -123,7 +123,7 @@ function drawWorld(t){
  for(const name of data.hooks||[]){if(!hooks[name])throw Error(`Unknown hook ${name}: export it from props.js`);hooks[name](frame);}
  if(c.flatten!==false&&!frame.skipFlatten)look.flatten(camera,V(...(c.flatTarget||c.target)),typeof c.flatten==='number'?c.flatten:1.3);
  // Close-up cuts (timeline.cuts, from prepare.py): the camera moves in on one speaker for a line and a beat, then the wide shot returns.
- let cutNow=null;{const c=(timeline.cuts||[]).find(c=>t>=c.start-EPS&&t<c.end-EPS),r=c&&positioned[c.who];if(r){scene.updateMatrixWorld(true);const target=r.head.getWorldPosition(V());target.y+=.28;const dir=camera.position.clone().sub(target);dir.y=0;if(dir.lengthSq()<1e-6)dir.set(0,0,1);dir.normalize();dir.y=.10;dir.normalize();camera.position.copy(target).addScaledVector(dir,c.dist);camera.fov=30;camera.lookAt(target);camera.updateProjectionMatrix();camera.updateMatrixWorld(true);cutNow=c;}}
+ let cutNow=null;{const c=(timeline.cuts||[]).find(c=>t>=c.start-EPS&&t<c.end-EPS),r=c&&positioned[c.who];if(r){scene.updateMatrixWorld(true);const target=r.head.getWorldPosition(V());target.y+=.28;const dir=camera.position.clone().sub(target);dir.y=0;if(dir.lengthSq()<1e-6)dir.set(0,0,1);dir.normalize();dir.y=c.pitch??.10;dir.normalize();camera.position.copy(target).addScaledVector(dir,c.dist);camera.fov=30;camera.lookAt(target);camera.updateProjectionMatrix();camera.updateMatrixWorld(true);cutNow=c;}}
  modeled[id].userData.update?.(t);
  setFx.animate(t);
  scene.updateMatrixWorld(true);attention(positioned,timeline,t,b);

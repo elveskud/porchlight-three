@@ -70,3 +70,9 @@ Where two entries disagree, the newer one wins; Blender-era entries are history,
 - **18 Nov 2026 — Technical (Episode 34 hooks):** reuse existing clipboard and painted prop primitives for the script’s clipboard, folded paper and leaf; keep deterministic cannonball choreography in episode hooks, with a motivated camera only during its silent action. No dialogue or protected module changes.
 
 - **18 Nov 2026 — Technical (staging validation):** preserve the exact Episode 4 intro set (`lake_night`) and legacy seated poses for pixel parity; record named standing spots from existing model anchors. Generic scripts retain unsupported source cues as `scriptAction` and draw them through hooks. The local model harness allows the new compiler/validator/mixer commands under its existing no-shell guard.
+
+- **18 Nov 2026 — Technical (Episode 34 staging):** at the final scene cut, Pip takes the step beside Riot and Rocco takes Pip's prior spot, following the written action without an in-frame teleport. Freeze reviewed prop/camera data before the final QA and render; placeholder voices remain explicitly marked. Shared set dressing lives in `art/three/episode/sets.js` instead of depending on Episode 4 source.
+
+- **19 Nov 2026 — Technical (acceptance fixes):** reset held Episode 34 prop parents and transforms before every drawing after out-of-order QA exposed retained hand attachment; reject timeline events outside their beat, preserve script set IDs, and document the Qwen card dry-run failures before publishing Part B.
+
+- **19 Nov 2026 — Technical (audio QA):** the generated splash exposed AAC true-peak overshoot despite sample limiting; add a two-pass -14 LUFS/-2 dBTP master to the new generic mixer, preserving the existing shared mixer and all QA limits.

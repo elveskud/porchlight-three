@@ -15,7 +15,8 @@ def load_script(number):
 def names():
     sets=set(re.findall(r"set\('([a-z_0-9]+)'",(ROOT/'art/three/sets/catalog.js').read_text()))
     actors={'riot','rocco','bash','pip','preston','marlo','mayor','bashmom','hiker','brook','gus','dot','owl'}
-    actors.update(re.findall(r"'([a-z_]+)'",(ROOT/'art/three/animation/v5/characters/index.js').read_text().split('export const CHARACTERS')[1].split('];')[0]))
+    registry=re.sub(r'//[^\n]*','',(ROOT/'art/three/animation/v5/characters/index.js').read_text()).split('export const CHARACTERS')[1].split('];')[0]
+    actors.update(re.findall(r"['\"]([a-z_]+)['\"]",registry))
     return sets,actors
 
 def validate(data,script,spots=None,hook_names=None,timeline=None):
@@ -28,20 +29,33 @@ def validate(data,script,spots=None,hook_names=None,timeline=None):
     if hook_names is None:hook_names=set(data.get('availableHooks',[]))
     def vector(value):return isinstance(value,list) and len(value)==3 and all(isinstance(n,(int,float)) and not isinstance(n,bool) and math.isfinite(n) for n in value)
     events={e['id']:e for e in (timeline or {}).get('events',[])}
+    ending=data.get('ending',{})
+    if not all(vector(ending.get('camera',{}).get(field)) for field in ['pos','target']):fail('ending.camera','copy ending.camera from the example, including pos and target, so the logo ending can render')
+    if ending.get('set','stoop_night') not in sets:fail('ending.set','choose a catalog set id for the logo ending, normally "stoop_night"')
     for bid,b in beats.items():
         if bid not in raw:continue
         where=f'beats.{bid}';sid=b.get('set')
         if sid not in sets:fail(where+'.set',f'replace {sid!r} with a catalog set id: {", ".join(sorted(sets))}')
+        expected=raw[bid].get('location')
+        if expected and sid!=expected:fail(where+'.set',f'set set to "{expected}" to match the script location; do not keep the copied example location')
         lines={f'{bid}_{i:02}':line for i,line in enumerate(raw[bid].get('lines',[]))}
+        for field in ['firstLineAt','tail','duration','minDuration','silentLineDuration']:
+            if field in b and (not isinstance(b[field],(int,float)) or not math.isfinite(b[field]) or b[field]<0):fail(where+'.'+field,'replace this value with a nonnegative number of seconds')
         camera=b.get('camera',{})
         for field in ['pos','target']:
             if not isinstance(camera.get(field),list) or len(camera[field])!=3 or not all(isinstance(n,(float,int)) and math.isfinite(n) for n in camera[field]):fail(where+'.camera',f'add {field}: [x, y, z] with three finite numbers')
         if not isinstance(camera.get('fov',45),(int,float)) or not 1<camera.get('fov',45)<150:fail(where+'.camera.fov','set fov to a finite angle between 1 and 150 degrees')
+        if b.get('crowd') not in [None,'family']:fail(where+'.crowd','set crowd to "family" or remove it; no other crowd preset is registered')
         staged=b.get('actors',{})
+        occupied={}
         for who,a in staged.items():
             w=where+'.actors.'+who
             if who not in actors:fail(w,f'replace {who!r} with a registered actor id')
             if 'at' in a and not vector(a['at']):fail(w+'.at','replace at with [x, y, z] containing three finite numbers')
+            if vector(a.get('at')) and not a.get('hook'):
+                key=tuple(a['at'])
+                if key in occupied:fail(w+'.at',f'move {who} to a distinct position; it currently overlaps {occupied[key]} exactly')
+                occupied[key]=who
             if a.get('seat'):
                 if not isinstance(a['seat'],str):fail(w+'.seat','replace seat with a named seat string from spots.json')
                 elif a['seat'] not in spots.get(sid,{}):fail(w+'.seat',f'replace {a["seat"]!r} with a named seat from spots.json for {sid}: {", ".join(spots.get(sid,{})) or "add a measured seat first"}')
@@ -70,6 +84,11 @@ def validate(data,script,spots=None,hook_names=None,timeline=None):
                 if m.get(key) and m[key] not in lines:fail(w+'.'+key,f'replace {m[key]!r} with a line id from {bid}: {", ".join(lines)}')
         for name in b.get('hooks',[]):
             if name not in hook_names:fail(where+'.hooks',f'export hook {name!r} from props.js and include it in hookNames, or remove it from staging')
+        if timeline:
+            timed=next((item for item in timeline.get('beats',[]) if item['id']==bid),None)
+            if timed:
+                for e in events.values():
+                    if e.get('beat')==bid and (e['start']<timed['start'] or e['end']>timed['end']):fail(where+'.duration',f'increase duration or tail so line {e["id"]} finishes before the beat ends')
         for i,c in enumerate(b.get('closeUps',[])):
             w=f'{where}.closeUps[{i}]';first=c.get('line');last=c.get('to',first);who=c.get('who')
             for key,lid in [('line',first),('to',last)]:

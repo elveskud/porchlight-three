@@ -114,7 +114,7 @@ def compile_episode(data,script,folder,placeholder=False):
             if later:end=min(end,math.floor(min(later)*12)/12)
             if earlier:start=max(start,math.ceil(max(earlier)*12)/12)
             if end-start<1.1:raise ValueError(f'{bid}.closeUps line {c["line"]}: remove this cut or extend it to a consecutive line by {who}; it is shorter than 1.1 seconds')
-            cuts.append({'start':round(start,3),'end':round(end,3),'who':who,'kind':'close','dist':c.get('dist',4.6),'height':c.get('height',.62),'beat':bid})
+            cuts.append({'start':round(start,3),'end':round(end,3),'who':who,'kind':'close','dist':c.get('dist',4.6),'height':c.get('height',.62),'pitch':c.get('pitch',.10),'beat':bid})
     actions={k:[clock(x) for x in v] if isinstance(v,list) else clock(v) for k,v in data.get('actions',{}).items()};actions.setdefault('lampOff',ending+1.1)
     fast=sorted([[clock(a),clock(b)] for a,b in data.get('fastWindows',[]) ]);merged=[]
     for a,b in fast:

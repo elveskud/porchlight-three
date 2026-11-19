@@ -1,7 +1,7 @@
 // Episode-specific prop choreography; actor positions and cameras live in staging.json.
 import * as THREE from 'three';
 import {storyProps} from './source/story-props.js';
-import {prepareEpisodeSetsV5} from './source/sets-v5.js';
+import {prepareEpisodeSetsV5} from '../../art/three/episode/sets.js';
 import {box,ball,line} from './source/props.js';
 import {hold,reachContact} from '../../art/three/animation/v3/interactions.js';
 import {lookAtObject} from '../../art/three/animation/v5/performance.js';
