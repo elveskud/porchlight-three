@@ -1,4 +1,4 @@
-# Staging as data: the plan (problem 2). Status: designed, not built (17 Nov 2026)
+# Staging as data: the plan (problem 2). Status: implemented on staging/data-driver (18 Nov 2026)
 
 **Goal.** A small model (or a person) builds an episode by filling in ONE data file from the script, not by writing Three.js. Today the staging of Episode 4 lives in `comparisons/episode04/source/episode-v5.js` (19 KB, one-line functions) and `prepare.py` (hard-coded beat offsets, paths, cuts). Every new episode means rewriting both.
 
@@ -40,8 +40,8 @@ Per beat (ids `s01`, `s02`, ... as in `episodes/epNN.json`):
 4. `docs/cards/stage-an-episode.md`: the card for the model: copy `staging.json` of Episode 4, edit per beat, run the validator, run the QA, render.
 
 ## Proof it works (acceptance, in this order)
-1. Re-express **Episode 4** in `staging.json` + `props.js`; render 20 sample frames with the new driver and compare to the delivered v5 film. They must be identical (or differ only where noted).
-2. Build **Episode 34** ("The Perfect Day": all sets and characters already exist) through it: voices (see `voice/SETUP.md`, about 40 s a line), audio, the three checks, render. The user reviews the pictures.
+1. Re-express **Episode 4** in `staging.json` + `props.js`; render 20 sample frames with the new driver and compare against the unchanged v5 driver in the same browser/GPU environment. All 20 sampled PNG frames are identical.
+2. Build **Episode 34** ("The Perfect Day": all sets and characters already exist) through it with explicitly marked placeholder voices, generated audio, QA and render. Real voices remain the user’s later step (`voice/SETUP.md`); the user reviews the pictures.
 3. **Local model test**: give Qwen3 14B (`tools/local-agent/`) `episodes/ep35.json` ("Last Turn", also needs nothing new) plus the card, and see whether it produces a `staging.json` that passes the validator and renders. Fix the card where it stumbles.
 
 ## Rough size
@@ -49,3 +49,13 @@ Driver + prepare + validator + Episode 4 port with the frame-identical check: on
 
 ## Already in place (do not rebuild)
 Footstep planner (`pipeline/gait_plan.py`), seat fitting (`seatedLegs`), cuts and QA (`tools/three-sets/verify-*.cjs`), preview tools, voices (old environment linked), task cards, the missing sets and characters (being built by the friend's cloud agent on branch `assets/cloud-build`, see `docs/FRIEND_PROMPT_BUILD_ASSETS.md`).
+
+## Implementation details (18 Nov 2026)
+- `staging.json` remains the authored input; preparation emits `source/staging-compiled.json` with resolved entrance path names and `timeline-data.json`. The generic page reads those outputs.
+- `motion` stores legacy measured paths as beat/line clock anchors for exact Episode 4 parity. New episodes use `enter` and `exit` side declarations; the compiler projects the head beyond the camera edge. `edges.cjs` independently measures the actual browser camera.
+- `spots.json` distinguishes `kind: seat` and `kind: spot`. Existing Episode 4 park/stoop seats retain their legacy leg pose (no floor field) to preserve pixels; new fitted seats specify floor.
+- `moveAliases` maps old script action vocabulary to supported moves or null when episode hooks draw the action; the original cue is retained as `scriptAction`, without changing dialogue or source scripts.
+- `actions.lampOn` is optional; Episode 4 has no value and keeps its existing lighting. An active set may expose a deterministic `userData.update(t)` callback (for scrolling car scenery).
+- Generated silent placeholders require the explicit flag on every preparation. WAV hashes distinguish them from replacement real recordings; synthetic mouth tracks are marked in the manifest.
+- `verify-episode-v5.cjs` keeps all original QA assertions with page/output arguments. `verify-motion-data.cjs` keeps the motion limits and selects a real ten-second standing beat, reporting idle QA inapplicable if every actor is seated.
+- The stage card invokes generic preparation, generated audio mixing, motion/scene QA and the full renderer; baseline drivers and renderers remain untouched.

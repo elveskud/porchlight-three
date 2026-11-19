@@ -14,7 +14,7 @@ import argparse, difflib, json, os, re, shlex, subprocess, sys, time, urllib.req
 
 PROTECTED = [r'^voice/speak\.py$', r'^BIBLE\.md$', r'^STORY_MAP\.md$', r'^docs/archive/', r'^art/three/animation/v[34]/',
              r'^art/three/illustrated/(v2|v3|reference-v1|reference-v2)/', r'^comparisons/episode0[123]/', r'^art/gemini/', r'^\.git/']
-RUN_ALLOWED = ['python3 tools/check_scripts.py', 'node tools/three-sets/', 'python3 tools/three-sets/', 'python3 comparisons/episode04/source/prepare.py',
+RUN_ALLOWED = ['python3 tools/init_staging.py', 'python3 tools/validate_staging.py ', 'python3 pipeline/prepare_episode.py ', '.venv-mix/bin/python pipeline/mix_episode.py ', 'python3 tools/test_validate_staging.py', 'python3 tools/check_scripts.py', 'node tools/three-sets/', 'python3 tools/three-sets/', 'python3 comparisons/episode04/source/prepare.py',
                '.venv-mix/bin/python comparisons/episode04/source/audio.py', 'node comparisons/episode04/source/render-v5.cjs', 'node --check ',
                'grep ', 'ls ', 'ls', 'wc ', 'head ', 'python3 -c ']
 SHELL_BITS = {';', '&&', '||', '|', '>', '>>', '<', '&', '`'}

@@ -1,0 +1,33 @@
+{
+ "limits": {
+  "plantedSlide": 0.02,
+  "pelvisJump": 0.15,
+  "yawJump": 1.2,
+  "maxStepsPerSecond": 5.6,
+  "minIdleRangeY": 0.008,
+  "minIdleRangeX": 0.02
+ },
+ "paths": [
+  {
+   "id": "s01-riot-enter-0",
+   "mode": "run",
+   "drawings": 40,
+   "worstSlide": 0.0033,
+   "worstPelvisJump": 0.1089,
+   "worstYawJump": 0.477,
+   "peakStepsPerSecond": 4.95
+  }
+ ],
+ "idle": {
+  "rangeY": 0.016,
+  "rangeX": 0.0874,
+  "plantedSlide": 0
+ },
+ "twos": {
+  "pairs": 4,
+  "identical": 4
+ },
+ "fails": [],
+ "result": "PASS",
+ "pageMessages": []
+}

@@ -1,0 +1,48 @@
+{
+  "renderer": "Three.js",
+  "version": "v5",
+  "style": {
+    "version": "reference-v3",
+    "lightingPerSet": true,
+    "boilingInk": true,
+    "paper": true,
+    "contactShadows": true,
+    "materials": 8645,
+    "twoTone": true,
+    "screenSpaceInk": true,
+    "drawnFaces": true,
+    "matte": true,
+    "foliageInstances": 5800,
+    "weakPerspective": 1,
+    "referencePalette": {
+      "ink": "#28302c",
+      "water": "#77cfd5",
+      "sand": "#efb344",
+      "grass": "#91ad58",
+      "pine": "#29714f",
+      "pineShadow": "#215439",
+      "leaf": "#63913e",
+      "sky": "#ace7fe",
+      "wall": "#ddba97",
+      "wood": "#b37d57",
+      "sofa": "#c46c41",
+      "beanbag": "#4d774e",
+      "nightSky": "#17365a",
+      "nightInk": "#151e25"
+    },
+    "animationAccents": 4,
+    "skippedMeshes": 0
+  },
+  "sourceHash": "3af59c55235a049a16e3439ed73c1668bdc74b8ae88fee3765cf7db64d87b37b",
+  "duration": 231.58333333333334,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "drawingFps": 12,
+  "expectedFrames": 5558,
+  "speakingFrameChecks": 3358,
+  "elapsedSeconds": 331.675,
+  "output": "comparisons/episode34/data-render/episode34_data.mp4"
+}

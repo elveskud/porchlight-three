@@ -1,0 +1,21 @@
+{
+  "result": "FAIL",
+  "model": "qwen3:14b",
+  "reason": "Stopped after repeated exact-text edit failures and no further validation progress. The model fixed some locations but did not finish repairing its staging. This is not a passing autonomous staging demo.",
+  "errors": [
+    "ending.camera: copy ending.camera from the example, including pos and target, so the logo ending can render",
+    "beats.s01.actors.rocco.seat: replace 'beanbag' with a named seat from spots.json for hall: table_riot, table_rocco, table_bash, table_pip, entrance, stage",
+    "beats.s01.actors.bash.at: move bash to a distinct position; it currently overlaps riot exactly",
+    "beats.s02.set: set set to \"lake_night\" to match the script location; do not keep the copied example location",
+    "beats.s03.actors.pip.at: move pip to a distinct position; it currently overlaps rocco exactly",
+    "beats.s04.set: set set to \"hall\" to match the script location; do not keep the copied example location",
+    "beats.s04.actors.pip.at: move pip to a distinct position; it currently overlaps rocco exactly",
+    "beats.s05.set: set set to \"hall\" to match the script location; do not keep the copied example location",
+    "beats.s05.actors.pip.at: move pip to a distinct position; it currently overlaps rocco exactly"
+  ],
+  "validationToolsUnchanged": {
+    "tools/validate_staging.py": true,
+    "pipeline/prepare_episode.py": true
+  },
+  "observedElapsedSecondsBeforeStop": 713
+}

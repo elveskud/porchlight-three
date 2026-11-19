@@ -1,0 +1,88 @@
+{
+  "result": "PASS",
+  "frames": 20,
+  "identical": 20,
+  "rows": [
+    {
+      "time": 0.1,
+      "identical": true
+    },
+    {
+      "time": 25.76666666666667,
+      "identical": true
+    },
+    {
+      "time": 33.26666666666667,
+      "identical": true
+    },
+    {
+      "time": 81.35,
+      "identical": true
+    },
+    {
+      "time": 139.01666666666665,
+      "identical": true
+    },
+    {
+      "time": 159.43333333333334,
+      "identical": true
+    },
+    {
+      "time": 169.1,
+      "identical": true
+    },
+    {
+      "time": 182.51666666666665,
+      "identical": true
+    },
+    {
+      "time": 12.833333333333334,
+      "identical": true
+    },
+    {
+      "time": 29.41666666666667,
+      "identical": true
+    },
+    {
+      "time": 57.208333333333336,
+      "identical": true
+    },
+    {
+      "time": 110.08333333333333,
+      "identical": true
+    },
+    {
+      "time": 149.125,
+      "identical": true
+    },
+    {
+      "time": 164.16666666666669,
+      "identical": true
+    },
+    {
+      "time": 175.70833333333331,
+      "identical": true
+    },
+    {
+      "time": 187.66666666666666,
+      "identical": true
+    },
+    {
+      "time": 8.4165,
+      "identical": true
+    },
+    {
+      "time": 73.60849999999999,
+      "identical": true
+    },
+    {
+      "time": 112.807,
+      "identical": true
+    },
+    {
+      "time": 196.66666666666666,
+      "identical": true
+    }
+  ],
+  "errors": []
+}

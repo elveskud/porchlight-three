@@ -1,0 +1,398 @@
+{
+  "series": "Porchlight",
+  "episode": 34,
+  "title": "The Perfect Day",
+  "next": "Last Turn",
+  "beats": [
+    {
+      "id": "s01",
+      "location": "apartment",
+      "cast": {
+        "riot": null,
+        "rocco": null
+      },
+      "lines": [
+        {
+          "who": "riot",
+          "say": "Morning! Get up. Big day.",
+          "face": "hype"
+        },
+        {
+          "who": "rocco",
+          "say": "What are we doing at the house?",
+          "face": "sleepy"
+        },
+        {
+          "who": "riot",
+          "say": "Nothing! No house. Forget the house. Today, we're doing the best day of the summer.",
+          "face": "hype"
+        },
+        {
+          "who": "rocco",
+          "say": "Riot.",
+          "face": "suspicious"
+        },
+        {
+          "who": "riot",
+          "say": "Every favourite thing. All of it. I've made a list!",
+          "face": "hype"
+        }
+      ],
+      "camera": "wide",
+      "chapter": "Cold open",
+      "enter": {
+        "riot": "right"
+      },
+      "hold": 150,
+      "text": "The Perfect Day",
+      "letterbox": true
+    },
+    {
+      "id": "s02",
+      "location": "lake_night",
+      "cast": {},
+      "lines": [],
+      "camera": "at:300,330,11.5",
+      "hold": 200,
+      "chapter": "Intro",
+      "fx": [
+        {
+          "type": "title",
+          "text": "PORCHLIGHT",
+          "at": 0.3,
+          "sub": "Maple Hollow"
+        },
+        {
+          "type": "card",
+          "text": "Episode 34: The Perfect Day",
+          "at": 3.6,
+          "for": 2.4
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "location": "lake",
+      "cast": {
+        "riot": "lifeguard",
+        "rocco": null,
+        "bash": null,
+        "pip": null
+      },
+      "lines": [
+        {
+          "who": "riot",
+          "say": "Item one! Cannonballs! Off the tower! Bash, you're first!",
+          "face": "hype"
+        },
+        {
+          "who": "bash",
+          "say": "...",
+          "silent": true,
+          "do": "cannonball",
+          "pause": 6
+        },
+        {
+          "who": "riot",
+          "say": "Item two! Walt's four kinds of potato, on a blanket!",
+          "face": "hype"
+        }
+      ],
+      "camera": "wide",
+      "chapter": "The list",
+      "mood": "party",
+      "carry": {
+        "riot": "clipboard"
+      },
+      "sfx": [
+        "splash"
+      ],
+      "hold": 240
+    },
+    {
+      "id": "s04",
+      "location": "stoop_sunset",
+      "cast": {
+        "riot": null,
+        "rocco": null,
+        "bash": null,
+        "pip": null
+      },
+      "lines": [
+        {
+          "who": "bash",
+          "say": "That was the best day I've ever had.",
+          "face": "soft",
+          "do": "stretch"
+        },
+        {
+          "who": "riot",
+          "say": "Yeah?",
+          "face": "soft"
+        },
+        {
+          "who": "bash",
+          "say": "Easy. Best ever. I wouldn't change a thing.",
+          "face": "happy"
+        },
+        {
+          "who": "riot",
+          "say": "Then why would we?",
+          "face": "soft"
+        },
+        {
+          "who": "bash",
+          "say": "What?"
+        },
+        {
+          "who": "riot",
+          "say": "I'm just saying. We've got it right here. All of this.",
+          "face": "soft"
+        },
+        {
+          "who": "riot",
+          "say": "We could have this tomorrow, and the day after. Every day. Forever.",
+          "face": "soft"
+        },
+        {
+          "who": "riot",
+          "say": "We don't have to finish it. Nobody's making us. We just leave the box closed.",
+          "face": "soft"
+        },
+        {
+          "who": "riot",
+          "say": "Pip stays.",
+          "face": "soft"
+        },
+        {
+          "who": "pip",
+          "say": "Riot.",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "Everyone's happy! Who's it hurting?",
+          "face": "sad",
+          "do": "shake"
+        },
+        {
+          "who": "rocco",
+          "say": "You've seen the snow.",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "I've seen the snow. I've seen what's out there, Rocco! I've seen all of it! I could have had all of it!",
+          "face": "sad"
+        }
+      ],
+      "camera": "wide",
+      "chapter": "The sun",
+      "transition": "fade",
+      "mood": "soft",
+      "seats": {
+        "riot": "step"
+      },
+      "hold": 240
+    },
+    {
+      "id": "s05",
+      "location": "stoop_sunset",
+      "cast": {
+        "riot": null,
+        "rocco": null,
+        "bash": null,
+        "pip": null
+      },
+      "lines": [
+        {
+          "who": "bash",
+          "say": "What do you mean, could have?"
+        },
+        {
+          "who": "riot",
+          "say": "Nothing. I mean...",
+          "do": "nervous"
+        },
+        {
+          "who": "pip",
+          "say": "You dropped this. I've been holding on to it.",
+          "face": "soft"
+        },
+        {
+          "who": "riot",
+          "say": "How long?",
+          "quiet": true
+        },
+        {
+          "who": "pip",
+          "say": "Since we got back. I didn't read it.",
+          "face": "soft"
+        },
+        {
+          "who": "bash",
+          "say": "What is it?"
+        },
+        {
+          "who": "riot",
+          "say": "I got a place in the city. Two and a half years ago. Full swimming scholarship.",
+          "face": "sad",
+          "quiet": true
+        },
+        {
+          "who": "bash",
+          "say": "You what?",
+          "face": "shocked"
+        },
+        {
+          "who": "riot",
+          "say": "I turned it down. I never told anyone. I told Dad I'd missed the date.",
+          "face": "sad"
+        },
+        {
+          "who": "rocco",
+          "say": "You were the fastest kid in the county.",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "You knew?",
+          "face": "shocked"
+        },
+        {
+          "who": "rocco",
+          "say": "I noticed a letter. Then no letter. I wrote it down. I should've said.",
+          "face": "deadpan"
+        },
+        {
+          "who": "riot",
+          "say": "I stayed because of you. All of you. This street.",
+          "face": "sad"
+        },
+        {
+          "who": "riot",
+          "say": "And Grandpa's game, I thought I had to... I gave it all up, to be here.",
+          "face": "sad"
+        },
+        {
+          "who": "riot",
+          "say": "And now if I finish it, this is gone too. Then what did I do it for?",
+          "face": "sad",
+          "quiet": true
+        }
+      ],
+      "camera": "wide",
+      "chapter": "The letter",
+      "mood": "soft",
+      "carry": {
+        "pip": "letter"
+      },
+      "seats": {
+        "riot": "step"
+      },
+      "hold": 240
+    },
+    {
+      "id": "s06",
+      "location": "stoop_sunset",
+      "cast": {
+        "riot": null,
+        "rocco": null,
+        "bash": null,
+        "pip": null
+      },
+      "lines": [
+        {
+          "who": "pip",
+          "say": "That's the nicest thing anyone's ever done for me.",
+          "face": "soft",
+          "do": "nod"
+        },
+        {
+          "who": "pip",
+          "say": "And I don't want it.",
+          "face": "soft"
+        },
+        {
+          "who": "pip",
+          "say": "My sister's eight, and she's never seen snow. She draws the same fireflies every year.",
+          "face": "soft"
+        },
+        {
+          "who": "pip",
+          "say": "Your dad can't remember the end of the best night of his life.",
+          "face": "soft"
+        },
+        {
+          "who": "pip",
+          "say": "There's a whole town waiting for a thing it doesn't know it's missing.",
+          "face": "soft"
+        },
+        {
+          "who": "pip",
+          "say": "It's not a bad summer, Riot. It's just stuck.",
+          "face": "soft"
+        },
+        {
+          "who": "riot",
+          "say": "You'd go.",
+          "face": "sad"
+        },
+        {
+          "who": "pip",
+          "say": "I'd go. I'd hate it. I'd miss you so much it'd change how I spent the day.",
+          "face": "soft"
+        },
+        {
+          "who": "pip",
+          "say": "Don't keep it for me.",
+          "face": "soft"
+        },
+        {
+          "who": "riot",
+          "say": "It was a really good day, though.",
+          "face": "soft",
+          "quiet": true
+        },
+        {
+          "who": "pip",
+          "say": "It was the best one.",
+          "face": "soft"
+        },
+        {
+          "who": "rocco",
+          "say": "Yeah.",
+          "quiet": true
+        },
+        {
+          "who": "bash",
+          "say": "It's still the best one. Whatever happens.",
+          "face": "soft"
+        }
+      ],
+      "camera": "wide",
+      "chapter": "Don't keep it for me",
+      "mood": "soft",
+      "fx": [
+        {
+          "type": "lamp_on",
+          "at": 1.0
+        }
+      ],
+      "hold": 240
+    }
+  ],
+  "direct": "auto",
+  "ending": "porch_light",
+  "beds": {
+    "normal": "lofi"
+  },
+  "riot_optional": true,
+  "riot_phone": true,
+  "sit": "auto",
+  "act": "auto",
+  "centre_mouth": true,
+  "face_front_all": true,
+  "thumb_text": "WE COULD JUST STAY",
+  "grade": "summer"
+}

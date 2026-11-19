@@ -1,0 +1,389 @@
+{
+  "recordings": [
+    {
+      "id": "s01_00",
+      "source": "comparisons/episode34/assets/vo/s01_00.wav",
+      "sha256": "84085e9c93dbf566e2d1a0ae0479d6ed51ccca1e90fcee4091046cbdfb80e009",
+      "start": 4.5,
+      "duration": 1.9129166666666666,
+      "placeholder": true
+    },
+    {
+      "id": "s01_01",
+      "source": "comparisons/episode34/assets/vo/s01_01.wav",
+      "sha256": "92218fc935e83d74bbc693f82694fe3728f6509980217a322885c5b45fb0e46e",
+      "start": 6.772916666666667,
+      "duration": 2.5580833333333333,
+      "placeholder": true
+    },
+    {
+      "id": "s01_02",
+      "source": "comparisons/episode34/assets/vo/s01_02.wav",
+      "sha256": "027e4ee022e6ae6992c57d9485eb877498ead4e88e3ceabc95acb5e269aa5db9",
+      "start": 9.690999999999999,
+      "duration": 5.138708333333334,
+      "placeholder": true
+    },
+    {
+      "id": "s01_03",
+      "source": "comparisons/episode34/assets/vo/s01_03.wav",
+      "sha256": "0b93c214bc94793c6441269ef763b8232897e300572f07ede1ced3d6b43c65f9",
+      "start": 15.189708333333332,
+      "duration": 0.6225833333333334,
+      "placeholder": true
+    },
+    {
+      "id": "s01_04",
+      "source": "comparisons/episode34/assets/vo/s01_04.wav",
+      "sha256": "74a792cbf5cbc73702cfe84edc6a198f1073e760aa710c1dfc4583e1812bffdd",
+      "start": 16.172291666666666,
+      "duration": 3.5257916666666667,
+      "placeholder": true
+    },
+    {
+      "id": "s03_00",
+      "source": "comparisons/episode34/assets/vo/s03_00.wav",
+      "sha256": "b4c3b6aa1410bd197b417a2803a72079807293eadb445cba19498ae9d1a77597",
+      "start": 33.18333333333333,
+      "duration": 3.2032083333333334,
+      "placeholder": true
+    },
+    {
+      "id": "s03_02",
+      "source": "comparisons/episode34/assets/vo/s03_02.wav",
+      "sha256": "74a792cbf5cbc73702cfe84edc6a198f1073e760aa710c1dfc4583e1812bffdd",
+      "start": 43.106541666666665,
+      "duration": 3.5257916666666667,
+      "placeholder": true
+    },
+    {
+      "id": "s04_00",
+      "source": "comparisons/episode34/assets/vo/s04_00.wav",
+      "sha256": "f971ce98c90a4e8b5d0f3c1aa15832cd3bdd65cb01446bb187a135bdf8f0808a",
+      "start": 55.6,
+      "duration": 2.880625,
+      "placeholder": true
+    },
+    {
+      "id": "s04_01",
+      "source": "comparisons/episode34/assets/vo/s04_01.wav",
+      "sha256": "0b93c214bc94793c6441269ef763b8232897e300572f07ede1ced3d6b43c65f9",
+      "start": 59.130625,
+      "duration": 0.6225833333333334,
+      "placeholder": true
+    },
+    {
+      "id": "s04_02",
+      "source": "comparisons/episode34/assets/vo/s04_02.wav",
+      "sha256": "f971ce98c90a4e8b5d0f3c1aa15832cd3bdd65cb01446bb187a135bdf8f0808a",
+      "start": 60.40320833333333,
+      "duration": 2.880625,
+      "placeholder": true
+    },
+    {
+      "id": "s04_03",
+      "source": "comparisons/episode34/assets/vo/s04_03.wav",
+      "sha256": "233c3aa962e746ba7b1c823afac341978298bbbc8bca6610c86c0b16163fcb21",
+      "start": 63.93383333333333,
+      "duration": 1.5903333333333334,
+      "placeholder": true
+    },
+    {
+      "id": "s04_04",
+      "source": "comparisons/episode34/assets/vo/s04_04.wav",
+      "sha256": "0b93c214bc94793c6441269ef763b8232897e300572f07ede1ced3d6b43c65f9",
+      "start": 66.17416666666666,
+      "duration": 0.6225833333333334,
+      "placeholder": true
+    },
+    {
+      "id": "s04_05",
+      "source": "comparisons/episode34/assets/vo/s04_05.wav",
+      "sha256": "79bd1d6cc1aa2c916d8618cbb509fef15a16b334203b2567a07fbff2bb5bda18",
+      "start": 67.44675000000001,
+      "duration": 3.848375,
+      "placeholder": true
+    },
+    {
+      "id": "s04_06",
+      "source": "comparisons/episode34/assets/vo/s04_06.wav",
+      "sha256": "b85b782e6299ee4d86a4cc766af0e05313264f5abe53b90f5912f573dc50a050",
+      "start": 71.94512500000002,
+      "duration": 4.170958333333333,
+      "placeholder": true
+    },
+    {
+      "id": "s04_07",
+      "source": "comparisons/episode34/assets/vo/s04_07.wav",
+      "sha256": "027e4ee022e6ae6992c57d9485eb877498ead4e88e3ceabc95acb5e269aa5db9",
+      "start": 76.76608333333336,
+      "duration": 5.138708333333334,
+      "placeholder": true
+    },
+    {
+      "id": "s04_08",
+      "source": "comparisons/episode34/assets/vo/s04_08.wav",
+      "sha256": "70ea1ced9aee49b00a28da949e3c3f9f2397000f9f9d92ee715b21062586a9e2",
+      "start": 82.55479166666669,
+      "duration": 0.9451666666666667,
+      "placeholder": true
+    },
+    {
+      "id": "s04_09",
+      "source": "comparisons/episode34/assets/vo/s04_09.wav",
+      "sha256": "0b93c214bc94793c6441269ef763b8232897e300572f07ede1ced3d6b43c65f9",
+      "start": 84.14995833333336,
+      "duration": 0.6225833333333334,
+      "placeholder": true
+    },
+    {
+      "id": "s04_10",
+      "source": "comparisons/episode34/assets/vo/s04_10.wav",
+      "sha256": "84085e9c93dbf566e2d1a0ae0479d6ed51ccca1e90fcee4091046cbdfb80e009",
+      "start": 85.4225416666667,
+      "duration": 1.9129166666666666,
+      "placeholder": true
+    },
+    {
+      "id": "s04_11",
+      "source": "comparisons/episode34/assets/vo/s04_11.wav",
+      "sha256": "233c3aa962e746ba7b1c823afac341978298bbbc8bca6610c86c0b16163fcb21",
+      "start": 87.98545833333337,
+      "duration": 1.5903333333333334,
+      "placeholder": true
+    },
+    {
+      "id": "s04_12",
+      "source": "comparisons/episode34/assets/vo/s04_12.wav",
+      "sha256": "b78092de479f30da2d30f8a519649f6dd83e561bfa525deb9720b75dbd438a8d",
+      "start": 90.22579166666671,
+      "duration": 7.396791666666667,
+      "placeholder": true
+    },
+    {
+      "id": "s05_00",
+      "source": "comparisons/episode34/assets/vo/s05_00.wav",
+      "sha256": "bbebcf8f4c4e7b5dad9d4e25a2cf9cbf05080f9d24b7ecb3e2008fb4d9fd087f",
+      "start": 106.93333333333332,
+      "duration": 2.2355,
+      "placeholder": true
+    },
+    {
+      "id": "s05_01",
+      "source": "comparisons/episode34/assets/vo/s05_01.wav",
+      "sha256": "4707375e0ec09bdc302a90893c3d5375fade622420e15d6c4af0d31332bd7a4a",
+      "start": 109.81883333333333,
+      "duration": 1.26775,
+      "placeholder": true
+    },
+    {
+      "id": "s05_02",
+      "source": "comparisons/episode34/assets/vo/s05_02.wav",
+      "sha256": "b4c3b6aa1410bd197b417a2803a72079807293eadb445cba19498ae9d1a77597",
+      "start": 111.73658333333334,
+      "duration": 3.2032083333333334,
+      "placeholder": true
+    },
+    {
+      "id": "s05_03",
+      "source": "comparisons/episode34/assets/vo/s05_03.wav",
+      "sha256": "70ea1ced9aee49b00a28da949e3c3f9f2397000f9f9d92ee715b21062586a9e2",
+      "start": 115.58979166666668,
+      "duration": 0.9451666666666667,
+      "placeholder": true
+    },
+    {
+      "id": "s05_04",
+      "source": "comparisons/episode34/assets/vo/s05_04.wav",
+      "sha256": "f971ce98c90a4e8b5d0f3c1aa15832cd3bdd65cb01446bb187a135bdf8f0808a",
+      "start": 117.18495833333336,
+      "duration": 2.880625,
+      "placeholder": true
+    },
+    {
+      "id": "s05_05",
+      "source": "comparisons/episode34/assets/vo/s05_05.wav",
+      "sha256": "4707375e0ec09bdc302a90893c3d5375fade622420e15d6c4af0d31332bd7a4a",
+      "start": 120.71558333333336,
+      "duration": 1.26775,
+      "placeholder": true
+    },
+    {
+      "id": "s05_06",
+      "source": "comparisons/episode34/assets/vo/s05_06.wav",
+      "sha256": "17c33858a30b8b9b21e2a05a1d1c4a50376f081d0540eff7e3ff7cf5de22465b",
+      "start": 122.63333333333337,
+      "duration": 5.461291666666667,
+      "placeholder": true
+    },
+    {
+      "id": "s05_07",
+      "source": "comparisons/episode34/assets/vo/s05_07.wav",
+      "sha256": "70ea1ced9aee49b00a28da949e3c3f9f2397000f9f9d92ee715b21062586a9e2",
+      "start": 128.74462500000004,
+      "duration": 0.9451666666666667,
+      "placeholder": true
+    },
+    {
+      "id": "s05_08",
+      "source": "comparisons/episode34/assets/vo/s05_08.wav",
+      "sha256": "027e4ee022e6ae6992c57d9485eb877498ead4e88e3ceabc95acb5e269aa5db9",
+      "start": 130.3397916666667,
+      "duration": 5.138708333333334,
+      "placeholder": true
+    },
+    {
+      "id": "s05_09",
+      "source": "comparisons/episode34/assets/vo/s05_09.wav",
+      "sha256": "f971ce98c90a4e8b5d0f3c1aa15832cd3bdd65cb01446bb187a135bdf8f0808a",
+      "start": 136.12850000000006,
+      "duration": 2.880625,
+      "placeholder": true
+    },
+    {
+      "id": "s05_10",
+      "source": "comparisons/episode34/assets/vo/s05_10.wav",
+      "sha256": "70ea1ced9aee49b00a28da949e3c3f9f2397000f9f9d92ee715b21062586a9e2",
+      "start": 139.65912500000007,
+      "duration": 0.9451666666666667,
+      "placeholder": true
+    },
+    {
+      "id": "s05_11",
+      "source": "comparisons/episode34/assets/vo/s05_11.wav",
+      "sha256": "e36190680af6f32d507fa55bbe9d47ed81875cb6b9fce63a0b048106b3a98696",
+      "start": 141.25429166666675,
+      "duration": 4.816125,
+      "placeholder": true
+    },
+    {
+      "id": "s05_12",
+      "source": "comparisons/episode34/assets/vo/s05_12.wav",
+      "sha256": "74a792cbf5cbc73702cfe84edc6a198f1073e760aa710c1dfc4583e1812bffdd",
+      "start": 146.72041666666675,
+      "duration": 3.5257916666666667,
+      "placeholder": true
+    },
+    {
+      "id": "s05_13",
+      "source": "comparisons/episode34/assets/vo/s05_13.wav",
+      "sha256": "17c33858a30b8b9b21e2a05a1d1c4a50376f081d0540eff7e3ff7cf5de22465b",
+      "start": 150.89620833333342,
+      "duration": 5.461291666666667,
+      "placeholder": true
+    },
+    {
+      "id": "s05_14",
+      "source": "comparisons/episode34/assets/vo/s05_14.wav",
+      "sha256": "44fcf62776c55278a80d3d74799218456549b56cd117d159304da4a602dcf49e",
+      "start": 157.00750000000008,
+      "duration": 5.783875,
+      "placeholder": true
+    },
+    {
+      "id": "s06_00",
+      "source": "comparisons/episode34/assets/vo/s06_00.wav",
+      "sha256": "b4c3b6aa1410bd197b417a2803a72079807293eadb445cba19498ae9d1a77597",
+      "start": 172.1,
+      "duration": 3.2032083333333334,
+      "placeholder": true
+    },
+    {
+      "id": "s06_01",
+      "source": "comparisons/episode34/assets/vo/s06_01.wav",
+      "sha256": "84085e9c93dbf566e2d1a0ae0479d6ed51ccca1e90fcee4091046cbdfb80e009",
+      "start": 175.95320833333332,
+      "duration": 1.9129166666666666,
+      "placeholder": true
+    },
+    {
+      "id": "s06_02",
+      "source": "comparisons/episode34/assets/vo/s06_02.wav",
+      "sha256": "027e4ee022e6ae6992c57d9485eb877498ead4e88e3ceabc95acb5e269aa5db9",
+      "start": 178.516125,
+      "duration": 5.138708333333334,
+      "placeholder": true
+    },
+    {
+      "id": "s06_03",
+      "source": "comparisons/episode34/assets/vo/s06_03.wav",
+      "sha256": "e30f90fd6d8afa3e12593b7de6be4a022edaaa8833e73de2e65fa6885a60cc4b",
+      "start": 184.30483333333333,
+      "duration": 4.493541666666666,
+      "placeholder": true
+    },
+    {
+      "id": "s06_04",
+      "source": "comparisons/episode34/assets/vo/s06_04.wav",
+      "sha256": "e30f90fd6d8afa3e12593b7de6be4a022edaaa8833e73de2e65fa6885a60cc4b",
+      "start": 189.448375,
+      "duration": 4.493541666666666,
+      "placeholder": true
+    },
+    {
+      "id": "s06_05",
+      "source": "comparisons/episode34/assets/vo/s06_05.wav",
+      "sha256": "b4c3b6aa1410bd197b417a2803a72079807293eadb445cba19498ae9d1a77597",
+      "start": 194.59191666666666,
+      "duration": 3.2032083333333334,
+      "placeholder": true
+    },
+    {
+      "id": "s06_06",
+      "source": "comparisons/episode34/assets/vo/s06_06.wav",
+      "sha256": "70ea1ced9aee49b00a28da949e3c3f9f2397000f9f9d92ee715b21062586a9e2",
+      "start": 198.445125,
+      "duration": 0.9451666666666667,
+      "placeholder": true
+    },
+    {
+      "id": "s06_07",
+      "source": "comparisons/episode34/assets/vo/s06_07.wav",
+      "sha256": "44fcf62776c55278a80d3d74799218456549b56cd117d159304da4a602dcf49e",
+      "start": 200.04029166666666,
+      "duration": 5.783875,
+      "placeholder": true
+    },
+    {
+      "id": "s06_08",
+      "source": "comparisons/episode34/assets/vo/s06_08.wav",
+      "sha256": "84085e9c93dbf566e2d1a0ae0479d6ed51ccca1e90fcee4091046cbdfb80e009",
+      "start": 206.47416666666666,
+      "duration": 1.9129166666666666,
+      "placeholder": true
+    },
+    {
+      "id": "s06_09",
+      "source": "comparisons/episode34/assets/vo/s06_09.wav",
+      "sha256": "92218fc935e83d74bbc693f82694fe3728f6509980217a322885c5b45fb0e46e",
+      "start": 209.03708333333333,
+      "duration": 2.5580833333333333,
+      "placeholder": true
+    },
+    {
+      "id": "s06_10",
+      "source": "comparisons/episode34/assets/vo/s06_10.wav",
+      "sha256": "84085e9c93dbf566e2d1a0ae0479d6ed51ccca1e90fcee4091046cbdfb80e009",
+      "start": 212.24516666666668,
+      "duration": 1.9129166666666666,
+      "placeholder": true
+    },
+    {
+      "id": "s06_11",
+      "source": "comparisons/episode34/assets/vo/s06_11.wav",
+      "sha256": "0b93c214bc94793c6441269ef763b8232897e300572f07ede1ced3d6b43c65f9",
+      "start": 214.80808333333334,
+      "duration": 0.6225833333333334,
+      "placeholder": true
+    },
+    {
+      "id": "s06_12",
+      "source": "comparisons/episode34/assets/vo/s06_12.wav",
+      "sha256": "92218fc935e83d74bbc693f82694fe3728f6509980217a322885c5b45fb0e46e",
+      "start": 216.08066666666667,
+      "duration": 2.5580833333333333,
+      "placeholder": true
+    }
+  ],
+  "placeholder": true
+}

@@ -1,0 +1,787 @@
+{
+  "apartment": {
+    "sofa_left": {
+      "pos": [
+        -2.9,
+        0.3822999999999999,
+        -1.44
+      ],
+      "yaw": 0.32,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "sofa_right": {
+      "pos": [
+        -1.5,
+        0.3822999999999999,
+        -1.44
+      ],
+      "yaw": -0.28,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "beanbag": {
+      "pos": [
+        3.1,
+        0.36,
+        0.22
+      ],
+      "yaw": -0.55,
+      "floor": 0,
+      "lean": -0.12,
+      "kind": "seat"
+    }
+  },
+  "park": {
+    "picnic_left": {
+      "pos": [
+        -6,
+        0.55,
+        3
+      ],
+      "yaw": 0,
+      "kind": "seat"
+    },
+    "mayor_bench": {
+      "pos": [
+        7.3,
+        0.55,
+        2
+      ],
+      "yaw": 0,
+      "kind": "seat"
+    }
+  },
+  "stoop_sunset": {
+    "step_left": {
+      "pos": [
+        1.25,
+        0.5,
+        -0.05
+      ],
+      "yaw": 0,
+      "kind": "seat"
+    },
+    "step_right": {
+      "pos": [
+        2.65,
+        0.5,
+        -0.05
+      ],
+      "yaw": 0,
+      "kind": "seat"
+    },
+    "group_riot": {
+      "pos": [
+        0.4,
+        0.5,
+        -0.05
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "group_rocco": {
+      "pos": [
+        1.4,
+        0.5,
+        -0.05
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "group_bash": {
+      "pos": [
+        2.4,
+        0.5,
+        -0.05
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "group_pip": {
+      "pos": [
+        3.4,
+        0.5,
+        -0.05
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    }
+  },
+  "stoop_night": {
+    "step_left": {
+      "pos": [
+        1.25,
+        0.5,
+        -0.05
+      ],
+      "yaw": 0,
+      "kind": "seat"
+    },
+    "step_right": {
+      "pos": [
+        2.65,
+        0.5,
+        -0.05
+      ],
+      "yaw": 0,
+      "kind": "seat"
+    },
+    "group_riot": {
+      "pos": [
+        0.4,
+        0.5,
+        -0.05
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "group_rocco": {
+      "pos": [
+        1.4,
+        0.5,
+        -0.05
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "group_bash": {
+      "pos": [
+        2.4,
+        0.5,
+        -0.05
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "group_pip": {
+      "pos": [
+        3.4,
+        0.5,
+        -0.05
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    }
+  },
+  "hall": {
+    "table_riot": {
+      "pos": [
+        -1.8,
+        0.38,
+        1.1
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "table_rocco": {
+      "pos": [
+        -0.6000000000000001,
+        0.38,
+        1.1
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "table_bash": {
+      "pos": [
+        0.5999999999999999,
+        0.38,
+        1.1
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "table_pip": {
+      "pos": [
+        1.7999999999999996,
+        0.38,
+        1.1
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "entrance": {
+      "pos": [
+        0,
+        0,
+        6.5
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "stage": {
+      "pos": [
+        0,
+        0.81,
+        -5
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    }
+  },
+  "lake": {
+    "tower": {
+      "pos": [
+        -6.2,
+        2.45,
+        -0.8
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "sand_rocco": {
+      "pos": [
+        -2,
+        0,
+        2
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "shore_bash": {
+      "pos": [
+        1,
+        0,
+        2.6
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "shore_pip": {
+      "pos": [
+        3,
+        0,
+        2.2
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    }
+  },
+  "lake_night": {
+    "tower": {
+      "pos": [
+        -6.2,
+        2.45,
+        -0.8
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "sand_rocco": {
+      "pos": [
+        -2,
+        0,
+        2
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "shore_bash": {
+      "pos": [
+        1,
+        0,
+        2.6
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "shore_pip": {
+      "pos": [
+        3,
+        0,
+        2.2
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    }
+  },
+  "lake_storm": {
+    "tower": {
+      "pos": [
+        -6.2,
+        2.45,
+        -0.8
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "sand_rocco": {
+      "pos": [
+        -2,
+        0,
+        2
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "shore_bash": {
+      "pos": [
+        1,
+        0,
+        2.6
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "shore_pip": {
+      "pos": [
+        3,
+        0,
+        2.2
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    }
+  },
+  "bash_home": {
+    "bed": {
+      "pos": [
+        -2.7,
+        0.93,
+        -1.5
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "desk": {
+      "pos": [
+        1.3,
+        0.55,
+        -1.55
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "floor": {
+      "pos": [
+        0,
+        0,
+        1
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    }
+  },
+  "pip_home": {
+    "bed": {
+      "pos": [
+        -2.7,
+        0.93,
+        -1.5
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "desk": {
+      "pos": [
+        1.3,
+        0.55,
+        -1.55
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "floor": {
+      "pos": [
+        0,
+        0,
+        1
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    }
+  },
+  "brook_porch": {
+    "rocker": {
+      "pos": [
+        -2.4,
+        1.18,
+        -0.4
+      ],
+      "yaw": 0,
+      "floor": 0.62,
+      "kind": "seat"
+    },
+    "porch_left": {
+      "pos": [
+        -0.6,
+        0.62,
+        1
+      ],
+      "yaw": 0,
+      "floor": 0.62,
+      "kind": "spot"
+    },
+    "porch_right": {
+      "pos": [
+        1,
+        0.62,
+        1
+      ],
+      "yaw": 0,
+      "floor": 0.62,
+      "kind": "spot"
+    }
+  },
+  "walt_porch": {
+    "rocker": {
+      "pos": [
+        -2.4,
+        1.18,
+        -0.4
+      ],
+      "yaw": 0,
+      "floor": 0.62,
+      "kind": "seat"
+    },
+    "porch_left": {
+      "pos": [
+        -0.6,
+        0.62,
+        1
+      ],
+      "yaw": 0,
+      "floor": 0.62,
+      "kind": "spot"
+    },
+    "porch_right": {
+      "pos": [
+        1,
+        0.62,
+        1
+      ],
+      "yaw": 0,
+      "floor": 0.62,
+      "kind": "spot"
+    }
+  },
+  "walt_dining": {
+    "riot": {
+      "pos": [
+        -2,
+        0.6,
+        1.65
+      ],
+      "yaw": 3.141592653589793,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "rocco": {
+      "pos": [
+        -0.1,
+        0.6,
+        1.65
+      ],
+      "yaw": 3.141592653589793,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "bash": {
+      "pos": [
+        1.8,
+        0.6,
+        1.65
+      ],
+      "yaw": 3.141592653589793,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "pip": {
+      "pos": [
+        -1.3,
+        0.6,
+        -1.65
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "walt": {
+      "pos": [
+        1.3,
+        0.6,
+        -1.65
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    }
+  },
+  "walt_dining_storm": {
+    "riot": {
+      "pos": [
+        -2,
+        0.6,
+        1.65
+      ],
+      "yaw": 3.141592653589793,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "rocco": {
+      "pos": [
+        -0.1,
+        0.6,
+        1.65
+      ],
+      "yaw": 3.141592653589793,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "bash": {
+      "pos": [
+        1.8,
+        0.6,
+        1.65
+      ],
+      "yaw": 3.141592653589793,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "pip": {
+      "pos": [
+        -1.3,
+        0.6,
+        -1.65
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "walt": {
+      "pos": [
+        1.3,
+        0.6,
+        -1.65
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    }
+  },
+  "classroom": {
+    "teacher": {
+      "pos": [
+        0,
+        0,
+        -2
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "bash_desk": {
+      "pos": [
+        -3,
+        0.6,
+        0.2
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    },
+    "pip_desk": {
+      "pos": [
+        3,
+        0.6,
+        0.2
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "seat"
+    }
+  },
+  "pip_garage": {
+    "pip": {
+      "pos": [
+        0,
+        0,
+        2.5
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    }
+  },
+  "walt_hallway": {
+    "photo_wall": {
+      "pos": [
+        1.1,
+        0,
+        -0.4
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "entrance": {
+      "pos": [
+        0,
+        0,
+        5.6
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "exit": {
+      "pos": [
+        0,
+        0,
+        -5.7
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    }
+  },
+  "hall_outside": {
+    "front_left": {
+      "pos": [
+        -2,
+        0,
+        5
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "front_right": {
+      "pos": [
+        2,
+        0,
+        5
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "door": {
+      "pos": [
+        0,
+        0.45,
+        1.4
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    }
+  },
+  "main_street": {
+    "interview": {
+      "pos": [
+        -1,
+        0,
+        4
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "notice_board": {
+      "pos": [
+        -3.2,
+        0.3,
+        5
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    }
+  },
+  "school_gym": {
+    "stage": {
+      "pos": [
+        0,
+        0.91,
+        -9
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "floor_1": {
+      "pos": [
+        -2,
+        0,
+        -5
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "floor_2": {
+      "pos": [
+        0,
+        0,
+        -5
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "floor_3": {
+      "pos": [
+        2,
+        0,
+        -5
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "floor_4": {
+      "pos": [
+        3.8,
+        0,
+        -5
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    },
+    "aisle": {
+      "pos": [
+        0,
+        0,
+        2
+      ],
+      "yaw": 0,
+      "floor": 0,
+      "kind": "spot"
+    }
+  }
+}

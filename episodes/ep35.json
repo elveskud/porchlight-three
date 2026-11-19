@@ -1,0 +1,345 @@
+{
+  "series": "Porchlight",
+  "episode": 35,
+  "title": "Last Turn",
+  "next": "Eleven",
+  "beats": [
+    {
+      "id": "s01",
+      "location": "hall",
+      "cast": {
+        "riot": null,
+        "rocco": null,
+        "bash": null,
+        "pip": null
+      },
+      "lines": [
+        {
+          "who": "riot",
+          "say": "One vote each. Play on, or leave it shut. Nobody says what they wrote. Whatever it says, that's it.",
+          "face": "soft",
+          "do": "count"
+        },
+        {
+          "who": "bash",
+          "say": "I don't want to do this.",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "I know.",
+          "face": "soft"
+        },
+        {
+          "who": "riot",
+          "say": "Play. Play. Play.",
+          "face": "soft",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "Play.",
+          "face": "soft",
+          "quiet": true
+        }
+      ],
+      "camera": "wide",
+      "chapter": "Cold open",
+      "mood": "soft",
+      "seats": {
+        "riot": "edge"
+      },
+      "hold": 240,
+      "text": "Last Turn",
+      "letterbox": true
+    },
+    {
+      "id": "s02",
+      "location": "lake_night",
+      "cast": {},
+      "lines": [],
+      "camera": "at:300,330,11.5",
+      "hold": 200,
+      "chapter": "Intro",
+      "fx": [
+        {
+          "type": "title",
+          "text": "PORCHLIGHT",
+          "at": 0.3,
+          "sub": "Maple Hollow"
+        },
+        {
+          "type": "card",
+          "text": "Episode 35: Last Turn",
+          "at": 3.6,
+          "for": 2.4
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "location": "hall",
+      "cast": {
+        "riot": null,
+        "rocco": null,
+        "bash": null,
+        "pip": null
+      },
+      "lines": [
+        {
+          "who": "riot",
+          "say": "Thanks, Pip.",
+          "face": "soft"
+        },
+        {
+          "who": "pip",
+          "say": "Don't. Just play well.",
+          "face": "soft"
+        },
+        {
+          "who": "bash",
+          "say": "You heard the man! Who's got the die? I've got the die!",
+          "face": "determined"
+        },
+        {
+          "who": "rocco",
+          "say": "It's in your paw.",
+          "face": "deadpan"
+        },
+        {
+          "who": "bash",
+          "say": "That's how good I am.",
+          "face": "hype"
+        },
+        {
+          "who": "riot",
+          "say": "Square thirty! That's the park!",
+          "face": "hype"
+        },
+        {
+          "who": "rocco",
+          "say": "Next one's the school. Same owl.",
+          "face": "deadpan"
+        },
+        {
+          "who": "pip",
+          "say": "That card means wait a turn, not go twice. Read it again.",
+          "face": "soft"
+        },
+        {
+          "who": "bash",
+          "say": "I'm rolling. Lantern! Who's amazing?",
+          "face": "hype"
+        },
+        {
+          "who": "rocco",
+          "say": "It's always a lantern.",
+          "face": "deadpan"
+        },
+        {
+          "who": "bash",
+          "say": "And I'm always amazing!",
+          "do": "cheer"
+        },
+        {
+          "who": "riot",
+          "say": "Keep going. We're nearly round.",
+          "face": "determined"
+        },
+        {
+          "who": "pip",
+          "say": "You haven't slept.",
+          "face": "soft",
+          "to": "riot"
+        },
+        {
+          "who": "riot",
+          "say": "I have. Rule seven. Bash walks me home.",
+          "face": "happy"
+        },
+        {
+          "who": "bash",
+          "say": "Two o'clock. He complains the whole way.",
+          "do": "nod"
+        },
+        {
+          "who": "rocco",
+          "say": "Eight years he did this by himself, and now he's got a curfew.",
+          "do": "munch"
+        },
+        {
+          "who": "riot",
+          "say": "It's better. It's so much better.",
+          "do": "laugh"
+        }
+      ],
+      "camera": "wide",
+      "chapter": "Round by round",
+      "mood": "party",
+      "hold": 240
+    },
+    {
+      "id": "s04",
+      "location": "hall",
+      "cast": {
+        "riot": null,
+        "rocco": null,
+        "bash": null,
+        "pip": null
+      },
+      "lines": [
+        {
+          "who": "bash",
+          "say": "That's it, isn't it? That's the end.",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "Eight years.",
+          "quiet": true
+        },
+        {
+          "who": "rocco",
+          "say": "Roll it.",
+          "quiet": true
+        },
+        {
+          "who": "bash",
+          "say": "Is it... did it...",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "\"Last turn. All hands.\"",
+          "quiet": true
+        },
+        {
+          "who": "pip",
+          "say": "What's that mean?"
+        },
+        {
+          "who": "riot",
+          "say": "I don't know. It means... I don't know. Move the piece.",
+          "do": "nervous"
+        },
+        {
+          "who": "riot",
+          "say": "No. No, come on.",
+          "face": "shocked"
+        },
+        {
+          "who": "bash",
+          "say": "What's wrong with it? We did everything!",
+          "face": "scared"
+        },
+        {
+          "who": "rocco",
+          "say": "Same rules. Same seats.",
+          "face": "suspicious"
+        },
+        {
+          "who": "riot",
+          "say": "It stayed. Everything stayed. Why won't it...",
+          "face": "sad"
+        }
+      ],
+      "camera": "wide",
+      "chapter": "The last square",
+      "mood": "tense",
+      "fx": [
+        {
+          "type": "card",
+          "text": "Four nights to the festival.",
+          "at": 0.2,
+          "for": 2.0
+        }
+      ],
+      "sfx": [
+        "tap"
+      ],
+      "hold": 240
+    },
+    {
+      "id": "s05",
+      "location": "hall",
+      "cast": {
+        "riot": null,
+        "rocco": null,
+        "bash": null,
+        "pip": null
+      },
+      "lines": [
+        {
+          "who": "pip",
+          "say": "Riot, look at the lake.",
+          "quiet": true
+        },
+        {
+          "who": "pip",
+          "say": "There's nothing on this one.",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "So what? It's probably just lost.",
+          "do": "shrug"
+        },
+        {
+          "who": "rocco",
+          "say": "Forty years, and nothing's ever been lost off this board. Every piece comes back. Everything goes back to where it was.",
+          "quiet": true
+        },
+        {
+          "who": "rocco",
+          "say": "Except that.",
+          "quiet": true
+        },
+        {
+          "who": "rocco",
+          "say": "Something's missing. It's been missing the whole time.",
+          "quiet": true
+        },
+        {
+          "who": "bash",
+          "say": "What is it?",
+          "quiet": true
+        },
+        {
+          "who": "riot",
+          "say": "We've got four nights.",
+          "face": "sad"
+        },
+        {
+          "who": "rocco",
+          "say": "I don't know.",
+          "face": "soft"
+        },
+        {
+          "who": "rocco",
+          "say": "But I've got a lot of notebooks. And I said I'd say things out loud.",
+          "face": "soft"
+        }
+      ],
+      "camera": "wide",
+      "chapter": "The peg",
+      "mood": "soft",
+      "sfx": [
+        "boom"
+      ],
+      "hold": 240
+    }
+  ],
+  "direct": "auto",
+  "ending": "porch_light",
+  "beds": {
+    "normal": "lofi"
+  },
+  "riot_optional": true,
+  "riot_phone": true,
+  "sit": "auto",
+  "act": "auto",
+  "centre_mouth": true,
+  "face_front_all": true,
+  "thumb_text": "IT WON'T MOVE",
+  "grade": "summer"
+}

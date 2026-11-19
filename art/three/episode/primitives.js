@@ -1,0 +1,30 @@
+import * as THREE from 'three';
+import {RoundedBoxGeometry} from '../../../art/three/vendor/addons/geometries/RoundedBoxGeometry.js';
+const rounded=new RoundedBoxGeometry(1,1,1,3,.045),V=(x=0,y=0,z=0)=>new THREE.Vector3(x,y,z);
+const mat=c=>new THREE.MeshStandardMaterial({color:c,roughness:1});
+export function mesh(p,n,g,c,pos=[0,0,0],scale=[1,1,1]){const o=new THREE.Mesh(g,mat(c));o.name=n;o.position.set(...pos);o.scale.set(...scale);p.add(o);return o;}
+export const box=(p,n,c,pos,size)=>mesh(p,n,rounded,c,pos,size);
+export const ball=(p,n,c,pos,size)=>mesh(p,n,new THREE.SphereGeometry(1,18,12),c,pos,size);
+export function line(p,n,c,points,r=.01){return mesh(p,n,new THREE.TubeGeometry(new THREE.CatmullRomCurve3(points.map(a=>V(...a))),20,r,6,false),c);}
+export function makeNotebook(parent){const g=new THREE.Group();g.name='Pip notebook';parent.add(g);box(g,'notebook cover',0x637b72,[0,0,0],[.94,.055,.66]);box(g,'notebook pages',0xf2e6c4,[0,.035,0],[.89,.035,.61]);
+ const canvas=document.createElement('canvas');canvas.width=1024;canvas.height=768;const ctx=canvas.getContext('2d'),texture=new THREE.CanvasTexture(canvas);texture.colorSpace=THREE.SRGBColorSpace;const page=new THREE.Mesh(new THREE.PlaneGeometry(.85,.58),new THREE.MeshBasicMaterial({map:texture}));page.name='notebook page';page.rotation.x=-Math.PI/2;page.position.y=.057;g.add(page);
+ for(let i=0;i<7;i++)mesh(g,'notebook binding',new THREE.TorusGeometry(.035,.007,5,14),0xa2a58a,[-.43,.04,-.25+i*.085],[1,1,1]).rotation.z=Math.PI/2;
+ function draw(progress=1,cross=0){ctx.fillStyle='#f2e6c8';ctx.fillRect(0,0,1024,768);ctx.fillStyle='#3d5149';ctx.textBaseline='top';ctx.font='bold 65px Georgia';ctx.fillText('MY SUMMER',70,60);ctx.font='43px Georgia';const lines=['I sit near people.','Four people on a step.','...before we'];for(let i=0;i<3;i++)ctx.fillText(i===2?lines[i].slice(0,Math.ceil(progress*lines[i].length)):lines[i],70,210+i*120);ctx.strokeStyle='#536257';ctx.lineWidth=8;ctx.lineCap='round';for(let i=0;i<4;i++){const w=Math.max(0,Math.min(1,cross*4-i));if(w){ctx.beginPath();ctx.moveTo(55,475+i*8);ctx.lineTo(55+w*340,452+i*10);ctx.stroke();}}texture.needsUpdate=true;}
+ draw();return {g,page,draw};
+}
+export function makePhone(parent){const g=new THREE.Group();g.name='interview phone';parent.add(g);box(g,'phone casing',0x293635,[0,0,0],[.24,.39,.055]);box(g,'plain phone screen',0x6e9992,[0,0,.031],[.19,.30,.01]);return g;}
+export function makeClipboard(parent){const g=new THREE.Group();g.name='teacher clipboard';parent.add(g);box(g,'clipboard backing',0x9c7950,[0,0,0],[.58,.78,.045]);box(g,'clipboard paper',0xf0e8ca,[0,.0,.029],[.49,.67,.012]);box(g,'clipboard clip',0x82846e,[0,.32,.055],[.20,.10,.045]);return g;}
+export function makePencil(parent){const g=new THREE.Group();g.name='writing pencil';parent.add(g);mesh(g,'yellow pencil',new THREE.CylinderGeometry(.018,.018,.43,8),0xd8b04f,[0,0,0]);mesh(g,'pencil tip',new THREE.ConeGeometry(.018,.065,8),0x4b5042,[0,-.245,0]).rotation.z=Math.PI;return g;}
+export function makeCup(parent){const g=new THREE.Group();g.name='Mrs Brook tea cup';parent.add(g);mesh(g,'ceramic cup',new THREE.CylinderGeometry(.16,.13,.25,20,1,true),0xe4d6b1,[0,0,0]);mesh(g,'tea surface',new THREE.CylinderGeometry(.145,.145,.012,24),0x8a613d,[0,.09,0]);mesh(g,'cup handle',new THREE.TorusGeometry(.10,.025,7,24),0xe4d6b1,[.19,0,0]);return g;}
+export function prepareSets(modeled){
+ for(const id of ['classroom','pip_home','pip_garage']){const root=modeled[id],shell=root.getObjectByName('room shell');if(!shell)continue;const floor=shell.getObjectByName('floor slab');floor.scale.z*=2;floor.scale.x*=2;floor.position.z=2;for(const name of ['back wall','left wall','right wall']){const wall=shell.getObjectByName(name);wall.scale.y*=1.5;wall.position.y*=1.5;if(name!=='back wall'){wall.scale.x*=2;wall.position.z=2;}}}
+ const classroom=modeled.classroom,desks=[];classroom.traverse(o=>{if(o.name==='student double desk')desks.push(o);if(o.name==='wood chair')o.visible=false;});desks.forEach((d,i)=>{if(i>1)d.visible=false;else d.position.set(i?1.5:-1.5,0,.8);});
+ for(const x of [-1.5,1.5]){box(classroom,'student chair seat',0xa48054,[x,.53,1.9],[.68,.10,.60]);box(classroom,'student chair back',0xa48054,[x,.98,2.16],[.68,.55,.10]);for(const dx of [-.25,.25])for(const z of [1.67,2.13])box(classroom,'student chair leg',0x755639,[x+dx,.25,z],[.07,.50,.07]);box(classroom,'student foot rail',0x866748,[x,.25,1.62],[.85,.07,.17]);}
+ for(const id of ['stoop_sunset','stoop_night']){const root=modeled[id],facade=root.getObjectByName('brick apartment facade');let index=0;facade.traverse(o=>{if(o.name==='broad stoop step'){o.scale.x=5.4;o.scale.y=.2*(index+1);o.position.y=.1*(index+1);o.scale.z=.60;index++;}if(o.name==='door landing')o.scale.x=5.4;if(o.name==='iron railing post'||o.name==='sloping iron handrail')o.position.x=o.position.x<0?-2.85:2.85;});}
+ // Rocco's relaxed outdoor seat is retained from the script.
+ const bean=new THREE.Group();bean.name='outdoor green beanbag';bean.position.set(4.35,.15,1.35);modeled.stoop_sunset.add(bean);ball(bean,'beanbag seat',0x66804e,[0,.30,0],[.8,.34,.68]);ball(bean,'beanbag back',0x718957,[0,.58,-.25],[.65,.5,.38]);
+ const brook=modeled.brook_porch;box(brook,'Mrs Brook footstool',0xa89876,[-2.4,.75,.25],[1.0,.3,.62]);brook.traverse(o=>{if(o.name==='tea cup'||o.name==='cup handle')o.visible=false;});
+ const room=modeled.pip_home;room.getObjectByName('wood chair').rotation.y=0;box(room,'dark garage glimpse',0x20333d,[4.1,1.35,-3.72],[1.05,2.6,.04]);
+ const garage=modeled.pip_garage;box(garage,'side entrance jamb',0x7d9389,[-3.25,1.4,3.6],[.18,2.8,.18]);box(garage,'side entrance jamb',0x7d9389,[-4.95,1.4,3.6],[.18,2.8,.18]);box(garage,'side entrance lintel',0x7d9389,[-4.1,2.8,3.6],[1.9,.16,.18]);const switchPlate=box(garage,'garage switch plate',0xd4d7bd,[-3.2,1.2,3.55],[.16,.24,.04]),toggle=box(switchPlate,'garage light switch',0x64766d,[0,0,.85],[.38,.38,.50]);
+ return {bean,switchPlate,toggle};
+}

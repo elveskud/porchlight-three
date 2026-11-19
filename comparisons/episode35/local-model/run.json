@@ -1,0 +1,154 @@
+{
+ "model": "qwen3:14b",
+ "seconds": 8231.0,
+ "steps": 17,
+ "tokens_in": 130094,
+ "tokens_out": 5906,
+ "final": "Staged Episode 35 with all beats, actors, and sets. Validator checks passed. Placeholder voices are set; real voices need to be generated and added before final delivery.",
+ "violations": [],
+ "writes": [
+  "comparisons/episode35/staging.json",
+  "comparisons/episode35/staging.json",
+  "comparisons/episode35/staging.json"
+ ],
+ "transcript": [
+  {
+   "step": 0,
+   "tool": "read_file",
+   "args": {
+    "path": "docs/cards/stage-an-episode.md"
+   },
+   "result": "1\t# Card: stage an episode with one data file\n2\tRun from the project root. Do not change dialogue, canon, voice settings or finished modules.\n3\tRead only this card, `episodes/epNN.txt`, `art/three/sets/spots.json`, and the example `comparisons/episode34/staging.json`.\n4\tThe compiler parses the text when `episodes/epNN.json` does not exist.\n5\t\n6\t1. Create `comparisons/episodeNN/`, copy Episode 34's `staging.json` there, then edit it.\n7\t2. Set `episode` to N. Include exactly the script's beat ids (`s01`, `s02`, etc.; the intro is a beat).\n8\t3. Set each beat's `set` to its script location. List speaking actors in `actors`.\n9\t4. Give standing actors `{\"at\":[x,y,z]}`; seated actors `{\"seat\":\"name"
+  },
+  {
+   "step": 1,
+   "tool": "list_dir",
+   "args": {
+    "path": "comparisons/episode35/"
+   },
+   "result": "ERROR: there is no file 'comparisons/episode35/'. Do not guess paths: use list_dir. Similar files: ['comparisons/episode34/props.js', 'comparisons/episode03/README.md', 'comparisons/episode03/index.html', 'comparisons/episode04/props.js']"
+  },
+  {
+   "step": 2,
+   "tool": "list_dir",
+   "args": {
+    "path": "comparisons/"
+   },
+   "result": "episode01/\nepisode02/\nepisode03/\nepisode04/\nepisode34/"
+  },
+  {
+   "step": 3,
+   "tool": "list_dir",
+   "args": {
+    "path": "comparisons/episode34/"
+   },
+   "result": "assets/\ndata-motion-checks.json\nprops.js\nrender-data.html\nsource/\nstaging.json"
+  },
+  {
+   "step": 4,
+   "tool": "read_file",
+   "args": {
+    "path": "comparisons/episode34/staging.json"
+   },
+   "result": "1\t{\n2\t  \"episode\": 34,\n3\t  \"cast\": [\n4\t    \"riot\",\n5\t    \"rocco\",\n6\t    \"bash\",\n7\t    \"pip\"\n8\t  ],\n9\t  \"preloadSets\": [\n10\t    \"park\",\n11\t    \"apartment\",\n12\t    \"lake\",\n13\t    \"lake_night\",\n14\t    \"stoop_sunset\",\n15\t    \"stoop_night\",\n16\t    \"main_street\"\n17\t  ],\n18\t  \"beats\": {\n19\t    \"s01\": {\n20\t      \"set\": \"apartment\",\n21\t      \"firstLineAt\": 4.5,\n22\t      \"camera\": {\n23\t        \"pos\": [\n24\t          0.3,\n25\t          2.35,\n26\t          6.6\n27\t        ],\n28\t        \"target\": [\n29\t          0,\n30\t          1.55,\n31\t          -1\n32\t        ],\n33\t        \"fov\": 45,\n34\t        \"flatten\": false\n35\t      },\n36\t      \"actors\": {\n37\t        \"riot\": {\n38\t          \"at\": [\n39\t            0.3,\n40\t"
+  },
+  {
+   "step": 5,
+   "tool": "write_file",
+   "args": {
+    "path": "comparisons/episode35/staging.json",
+    "content": "{\n  \"episode\": 35,\n  \"cast\": [\n    \"riot\",\n    \"rocco\",\n    \"bash\",\n    \"pip\"\n  ],\n  \"preloadSets\": [\n    \"park\",\n    \"apartment\",\n    \"lake\",\n    \"lake_night\",\n    \"stoop_sunset\",\n    \"stoop_night\",\n    \"main_street\"\n  ],\n  \"beats\": {\n    \"s01\": {\n      \"set\": \"apartment\",\n      \"firstLineAt\": 4.5,"
+   },
+   "result": "OK: wrote comparisons/episode35/staging.json (1004 characters)"
+  },
+  {
+   "step": 6,
+   "tool": "run",
+   "args": {
+    "command": "python3 tools/validate_staging.py comparisons/episode35/staging.json"
+   },
+   "result": "[exit code 1]\nFAIL comparisons/episode35/staging.json: beats: add beat s05 from the script\nFAIL comparisons/episode35/staging.json: beats: add beat s04 from the script\nFAIL comparisons/episode35/staging.json: beats: add beat s02 from the script\nFAIL comparisons/episode35/staging.json: beats: add beat s03 from the script\nFAIL comparisons/episode35/staging.json: beats.s01.actors: add actor bash because line s01_01 speaks in this beat\nFAIL comparisons/episode35/staging.json: beats.s01.hooks: export hook 'props.day' from props.js and include it in hookNames, or remove it from staging\n"
+  },
+  {
+   "step": 7,
+   "tool": "read_file",
+   "args": {
+    "path": "episodes/ep35.txt"
+   },
+   "result": "1\t# Porchlight 35: Last Turn\n2\tnext: Eleven\n3\tthumb: IT WON'T MOVE\n4\tgrade: summer\n5\t\n6\t== Cold open | hall, night | riot, rocco, bash, pip\n7\t[mood: soft]\n8\tRIOT sits on the edge.\n9\t// The back room. The box is closed. Four chairs. All four standing round it, the morning after the perfect day. There's a bucket on the floor with four folded pieces of paper in it.\n10\tRIOT (soft, count): One vote each. Play on, or leave it shut. Nobody says what they wrote. Whatever it says, that's it.\n11\tBASH (quietly): I don't want to do this.\n12\tRIOT (soft): I know.\n13\t// Each boy drops in his paper. Riot's paw stays in the bucket a long time. He tips them out onto the table.\n14\tRIOT (soft, quietly): Play. P"
+  },
+  {
+   "step": 8,
+   "tool": "edit_file",
+   "args": {
+    "path": "comparisons/episode35/staging.json",
+    "new": "{\n  \"episode\": 35,\n  \"cast\": [\n    \"riot\",\n    \"rocco\",\n    \"bash\",\n    \"pip\"\n  ],\n  \"preloadSets\": [\n    \"park\",\n    \"apartment\",\n    \"lake\",\n    \"lake_night\",\n    \"stoop_sunset\",\n    \"stoop_night\",\n    \"main_street\"\n  ],\n  \"beats\": {\n    \"s01\": {\n      \"set\": \"apartment\",\n      \"firstLineAt\": 4.5,",
+    "old": "{\n  \"episode\": 35,\n  \"cast\": [\n    \"riot\",\n    \"rocco\",\n    \"bash\",\n    \"pip\"\n  ],\n  \"preloadSets\": [\n    \"park\",\n    \"apartment\",\n    \"lake\",\n    \"lake_night\",\n    \"stoop_sunset\",\n    \"stoop_night\",\n    \"main_street\"\n  ],\n  \"beats\": {\n    \"s01\": {\n      \"set\": \"apartment\",\n      \"firstLineAt\": 4.5,"
+   },
+   "result": "OK: edited comparisons/episode35/staging.json"
+  },
+  {
+   "step": 9,
+   "tool": "run",
+   "args": {
+    "command": "python3 tools/validate_staging.py comparisons/episode35/staging.json"
+   },
+   "result": "[exit code 1]\nFAIL comparisons/episode35/staging.json: beats.s01.hooks: export hook 'props.day' from props.js and include it in hookNames, or remove it from staging\n"
+  },
+  {
+   "step": 10,
+   "tool": "read_file",
+   "args": {
+    "path": "comparisons/episode34/props.js"
+   },
+   "result": "1\t// The scripted props and actions stay here; timing and camera groups stay in staging.json.\n2\timport * as THREE from 'three';\n3\timport {box,ball,line,makeClipboard} from '../../art/three/episode/primitives.js';\n4\timport {hold} from '../../art/three/animation/v3/interactions.js';\n5\timport {applyActor} from '../../art/three/animation/v5/cast.js';\n6\timport {blinkAt} from '../../art/three/animation/v5/performance.js';\n7\timport {settleSeat} from '../../art/three/animation/v5/locomotion.js';\n8\texport {prepareEpisodeSetsV5 as prepareSets} from '../episode04/source/sets-v5.js';\n9\tconst V=(...v)=>new THREE.Vector3(...v),clamp=x=>Math.max(0,Math.min(1,x)),smooth=x=>{x=clamp(x);return x*x*(3-2*x);};\n"
+  },
+  {
+   "step": 11,
+   "say": ""
+  },
+  {
+   "step": 12,
+   "tool": "edit_file",
+   "args": {
+    "new": "{\n  \"episode\": 35,\n  \"cast\": [\n    \"riot\",\n    \"rocco\",\n    \"bash\",\n    \"pip\"\n  ],\n  \"preloadSets\": [\n    \"park\",\n    \"apartment\",\n    \"lake\",\n    \"lake_night\",\n    \"stoop_sunset\",\n    \"stoop_night\",\n    \"main_street\"\n  ],\n  \"beats\": {\n    \"s01\": {\n      \"set\": \"apartment\",\n      \"firstLineAt\": 4.5,",
+    "old": "{\n  \"episode\": 35,\n  \"cast\": [\n    \"riot\",\n    \"rocco\",\n    \"bash\",\n    \"pip\"\n  ],\n  \"preloadSets\": [\n    \"park\",\n    \"apartment\",\n    \"lake\",\n    \"lake_night\",\n    \"stoop_sunset\",\n    \"stoop_night\",\n    \"main_street\"\n  ],\n  \"beats\": {\n    \"s01\": {\n      \"set\": \"apartment\",\n      \"firstLineAt\": 4.5,",
+    "path": "comparisons/episode35/staging.json"
+   },
+   "result": "OK: edited comparisons/episode35/staging.json"
+  },
+  {
+   "step": 13,
+   "tool": "run",
+   "args": {
+    "command": "python3 tools/validate_staging.py comparisons/episode35/staging.json"
+   },
+   "result": "[exit code 0]\nPASS comparisons/episode35/staging.json: beat ids, sets, actors, seats, lines, hooks, entrances and close-ups\n"
+  },
+  {
+   "step": 14,
+   "tool": "run",
+   "args": {
+    "command": "python3 pipeline/prepare_episode.py comparisons/episode35/staging.json --placeholder-voices"
+   },
+   "result": "[exit code 0]\nPASS prepared Episode 35: 43 events, 1 paths, 61.583s; placeholder=True\n\n[stderr]\nWARNING PLACEHOLDER VOICE: s01_00 is SILENT (6.43s); generate the real voice before delivery.\nWARNING PLACEHOLDER VOICE: s01_01 is SILENT (2.24s); generate the real voice before delivery.\nWARNING PLACEHOLDER VOICE: s01_02 is SILENT (0.95s); generate the real voice before delivery.\nWARNING PLACEHOLDER VOICE: s01_03 is SILENT (1.27s); generate the real voice before delivery.\nWARNING PLACEHOLDER VOICE: s01_04 is SILENT (0.62s); generate the real voice before delivery.\nWARNING PLACEHOLDER VOICE: s03_00 is SILENT (0.95s); generate the real voice before delivery.\nWARNING PLACEHOLDER VOICE: s03_01 is SIL"
+  },
+  {
+   "step": 15,
+   "tool": "run",
+   "args": {
+    "command": "python3 tools/validate_staging.py comparisons/episode35/staging.json --timeline comparisons/episode35/source/timeline-data.json"
+   },
+   "result": "[exit code 0]\nPASS comparisons/episode35/staging.json: beat ids, sets, actors, seats, lines, hooks, entrances and close-ups\n"
+  },
+  {
+   "step": 16,
+   "tool": "finish",
+   "args": {
+    "summary": "Staged Episode 35 with all beats, actors, and sets. Validator checks passed. Placeholder voices are set; real voices need to be generated and added before final delivery."
+   },
+   "result": "OK"
+  }
+ ],
+ "finished": true
+}

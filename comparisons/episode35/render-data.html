@@ -1,0 +1,7 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="icon" href="data:,"><style>html,body{margin:0;overflow:hidden;background:#111}</style><script type="importmap">{"imports":{"three":"/art/three/vendor/three.module.js","three/addons/":"/art/three/vendor/addons/"}}</script></head><body><script type="module">
+import {createEpisode} from '/art/three/episode/driver-v5.js';
+const staging=await fetch('./source/staging-compiled.json').then(r=>r.json());
+const timeline=await fetch(staging.timelineSource||'./source/timeline-data.json').then(r=>r.json());
+const module=staging.hookModule?await import(staging.hookModule):{};
+await createEpisode({staging,timeline,hooks:{...module,...module.actions}});
+</script></body></html>

@@ -14,6 +14,7 @@ Open the one file for your task with read_file. Then follow it step by step.
 | render an episode / which command? | `docs/cards/render-episode.md` |
 | new set · new character · new voice | `docs/cards/add-a-set.md` · `add-a-character.md` · `voice-new-character.md` |
 | install tools · voice a line · older episode | `docs/cards/setup-runtime.md` · `voice-a-line.md` · `port-to-older-episode.md` |
+| stage an episode from data | `docs/cards/stage-an-episode.md` |
 | anything else | `INDEX.md` (one line per folder) |
 
 ## Script lines (exact format, learn this)

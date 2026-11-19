@@ -64,3 +64,33 @@ Where two entries disagree, the newer one wins; Blender-era entries are history,
 - **17 Nov — Delivered (revision 2):** `~/Desktop/Porchlight Episode 4 - Not For Sale - v5 revised (Three.js).mp4` (SHA-256 `9a366d4cbb9b6af1ef2b6f09d50b7e154189638967890d3dda10ea2a945077cc`). The first v5 file stays on the Desktop; v4 untouched. See `comparisons/episode04/BEFORE_AFTER.md` Revision 2.
 - **17 Nov — Cloud, repo and voices (user):** project uploaded as a PRIVATE GitHub repo `elveskud/porchlight-three` (the secret is in the bible); the user invites their friend. The friend builds the missing 11 sets and 7 characters in the cloud from `docs/FRIEND_PROMPT_BUILD_ASSETS.md` on branch `assets/cloud-build` (not merged without the user). Browser tools now also run on Linux (software WebGL). Voices use the old Blender voice environment in place via links (see `voice/SETUP.md`); verified identical output. Rebuildable mixed soundtracks (`audio.wav`) are no longer committed; the voice recordings in `assets/vo/` are.
 
+
+- **18 Nov 2026 — Technical (staging build):** isolate Part B on `staging/data-driver`; reuse the v5 frame/acting loop, move placement and cameras into staging data, and retain Episode 4 prop choreography in explicit hooks. Keep baseline Episode 4 files unchanged. Use silent WAVs and synthetic mouth cues only with `--placeholder-voices`.
+
+- **18 Nov 2026 — Technical (Episode 34 hooks):** reuse existing clipboard and painted prop primitives for the script’s clipboard, folded paper and leaf; keep deterministic cannonball choreography in episode hooks, with a motivated camera only during its silent action. No dialogue or protected module changes.
+
+- **18 Nov 2026 — Technical (staging validation):** preserve the exact Episode 4 intro set (`lake_night`) and legacy seated poses for pixel parity; record named standing spots from existing model anchors. Generic scripts retain unsupported source cues as `scriptAction` and draw them through hooks. The local model harness allows the new compiler/validator/mixer commands under its existing no-shell guard.
+
+- **18 Nov 2026 — Technical (Episode 34 staging):** at the final scene cut, Pip takes the step beside Riot and Rocco takes Pip's prior spot, following the written action without an in-frame teleport. Freeze reviewed prop/camera data before the final QA and render; placeholder voices remain explicitly marked. Shared set dressing lives in `art/three/episode/sets.js` instead of depending on Episode 4 source.
+
+- **19 Nov 2026 — Technical (acceptance fixes):** reset held Episode 34 prop parents and transforms before every drawing after out-of-order QA exposed retained hand attachment; reject timeline events outside their beat, preserve script set IDs, and document the Qwen card dry-run failures before publishing Part B.
+
+- **19 Nov 2026 — Technical (audio QA):** the generated splash exposed AAC true-peak overshoot despite sample limiting; add a two-pass -14 LUFS/-2 dBTP master to the new generic mixer, preserving the existing shared mixer and all QA limits.
+
+- **19 Nov 2026 — Technical (AAC headroom measured):** the encoded generated-noise splash still overshot a -2 dBTP source master, so use -6 dBTP source headroom while retaining -14 LUFS; verify the encoded film, not just the WAV.
+
+- **19 Nov 2026 — Placeholder review delivery:** Episode 34, `/Users/lazaretchaava/Desktop/Porchlight Episode 34 - Placeholder Review (Three.js).mp4`; SHA-256 `ff779fbb32df132ab3d30fd50bd9f3477dfc91d14a0c96f15b2dd5d3713e4c05`. Silent placeholder voices; film QA PASS; not a final voiced episode.
+
+- **19 Nov 2026 — Placeholder review delivery:** Episode 35, `/Users/lazaretchaava/Desktop/Porchlight Episode 35 - Placeholder Review (Three.js).mp4`; SHA-256 `6d84ee751323194519f9b1dace488948f5f32397fa154bd61d15e3ff50472099`. Silent placeholder voices; film QA PASS; not a final voiced episode.
+
+- **19 Nov 2026 — Technical (visual review):** face the Episode 34 lake group toward its reverse camera (yaw 2.75), correcting the backwards bodies visible in the contact sheet without changing the camera or story. Refresh film and stills.
+
+- **19 Nov 2026 — Technical (small-model repair):** repeated Qwen JSON edits stalled. Add a non-overwriting script-derived staging initializer (exact beats, sets and cast, distinct starter positions, shared dressing, ending camera, no dialogue duration overrides). Keep unusual prop actions in explicit hooks and require the same QA.
+
+- **19 Nov 2026 — Final Episode 34 placeholder review:** refreshed after the facing and audio fixes; SHA-256 `0a24b4bc4a8e68ae421c4000f714e45c14daeea19f54cefc508abc93be887520`. Film QA PASS; the earlier placeholder copy from this task was replaced.
+
+- **19 Nov 2026 — Local model evidence:** Qwen3 14B failed free-form authoring/patch repair, then passed the initializer/preparation/validation workflow without direct JSON edits. Independent browser QA/motion PASS; 11/11 frames match the manual Episode 35 build. Keep both failures and scoped success in the acceptance report; no general autonomous-staging claim.
+
+- **19 Nov 2026 — Final dry-run evidence:** Qwen starter render and manual Episode 35 MP4 are byte-identical (`6d84ee751323194519f9b1dace488948f5f32397fa154bd61d15e3ff50472099`); independent film QA PASS. Preserve the failed free-form attempts and the fixture/instruction-following caveats alongside the successful starter run.
+
+- **19 Nov 2026 — Starter output scope:** confine initializer output to a JSON file in the selected episode folder, while preserving the refusal to overwrite authored files; both protections are tested.
