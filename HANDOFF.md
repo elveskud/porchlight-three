@@ -44,3 +44,11 @@ Read order: `AGENTS.md` → `INDEX.md` → one card in `docs/cards/`. Short deci
 1. User compares `Porchlight Episode 4 - Not For Sale - v5 (Three.js).mp4` with the v4 film; decide the questions above.
 2. Then port to Episodes 1–3, or start Episode 5 on the v5 template (card `render-episode`).
 3. Voicing new lines needs `voice/SETUP.md` (about 2 GB).
+
+## 18 Nov 2026 — Part A asset build (assets/cloud-build)
+- Added all 11 requested set builders and seven character modules; registered them through v5 and added painting-specific light records. Also selectable: garage/motel night, memory/festival storm and city canal variants. Car remains labelled **needs painting**.
+- Read the supplied reference images and pose sheets. Review artifacts: `art/review/`, per-asset `compare.png`, three set views/four character views, and camera JSON for sets. See `docs/ASSET_NOTES.md` for reference observations and the weakest matches.
+- Checked: every asset/variant rendered without browser errors; v5 registry/finite geometry/base-material isolation check PASS; motion regression PASS; Episode 4 QA PASS (60 deterministic seeks, 54 mouth lines, 153 matching footstep landings, 39 pictures, seven close-ups, zero pops).
+- Full script checker ran: no missing-set errors. It still exits 1 for the previously known Episode 1/2 walk-off continuity stops and 11 short scripts accepted by the user. No scripts or checker limits were changed.
+- The cloud-backed local checkout could not fully hydrate a Git worktree. New read-only review fallback tools serve unchanged dependencies from the original checkout; no protected files were modified. Temporary sparse-worktree omissions/symlinks are not committed.
+- Visual approval remains with the user. Coach's muzzle, Ledger's patches and the simplified city exteriors need the closest review; the inherited lake-world far shore is more detailed than the memory/festival paintings.

@@ -1,0 +1,17 @@
+<!doctype html><meta charset="utf-8"><title>v5 asset registry check</title>
+<script type="importmap">{"imports":{"three":"../../art/three/vendor/three.module.js","three/addons/":"../../art/three/vendor/addons/"}}</script>
+<script type="module">
+import * as THREE from 'three';
+import {REGISTRY,VARIANTS,buildSetV5} from '../../art/three/sets/v5/index.js';
+import {SETS} from '../../art/three/sets/catalog.js';
+import {LIGHTING} from '../../art/three/illustrated/reference-v3/lighting.js';
+import {CHARACTERS,registerAll} from '../../art/three/animation/v5/characters/index.js';
+import {makeActor,applyActor,neutral} from '../../art/three/animation/v5/cast.js';
+import {disposeSet} from '../../art/three/sets/build.js';
+const fails=[],sets=[],actors=[];const assert=(p,s)=>{if(!p)fails.push(s);};
+for(const id of [...Object.keys(REGISTRY),...Object.keys(VARIANTS)]){const root=await buildSetV5(id);assert(root?.isGroup,id+': return a THREE.Group');assert(SETS.some(s=>s.id===id&&s.build==='v5'),id+': add v5 catalog entry');assert(!!LIGHTING[id],id+': add lighting record');let count=0;root.traverse(o=>{if(o.isMesh){count++;assert(!!o.name,id+': name each mesh');const a=o.geometry?.attributes?.position;if(a)for(const v of a.array)if(!Number.isFinite(v)){fails.push(id+': fix non-finite geometry');break;}}});assert(count>20,id+': set lacks geometry');sets.push({id,meshes:count});disposeSet(root);}
+const base=makeActor('riot');const colours=r=>{const a=[];r.root.traverse(o=>{if(o.material?.color)a.push(o.material.color.getHex());});return JSON.stringify(a);};const before=colours(base);
+await registerAll();for(const id of CHARACTERS){const r=makeActor(id);applyActor(r,neutral(),0,0);r.root.updateMatrixWorld(true);const bounds=new THREE.Box3().setFromObject(r.root),size=bounds.getSize(new THREE.Vector3());assert([size.x,size.y,size.z].every(Number.isFinite),id+': fix non-finite rig bounds');assert(size.y>.5&&size.y<4,id+': check actor scale');assert(r.root.userData.castId===id,id+': preserve registered actor id');assert(!!r.motion.restFeet?.L,id+': retain v5 foot contacts');actors.push({id,height:+size.y.toFixed(3)});}
+assert(colours(base)===before,'custom character recolouring changed the base cast materials');
+window.__report={sets,actors,fails,result:fails.length?'FAIL':'PASS'};window.__ready=true;
+</script>

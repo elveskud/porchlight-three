@@ -12,6 +12,23 @@
 //   notes      what in the painting this comes from
 const DAY = {tint: [1, .99, .97], shadowMul: [.78, .86, .94], distant: '#a5bb99', bg: '#8fd0f2'};
 export const LIGHTING = {
+  city_street:{tint:[.85,.91,.96],shadowMul:[.68,.77,.88],light:[-.3,.85,.3],distant:'#899ca5',bg:'#a6b8c1',notes:'33: overcast winter street, cool snow and grey-blue shadows'},
+  city_canal:{tint:[.88,.94,.98],shadowMul:[.70,.79,.90],light:[-.4,.85,.3],distant:'#99aab1',bg:'#adbdc5',notes:'34: snowy canal promenade, pale overcast light'},
+  motel:{tint:[1,.99,.93],shadowMul:[.77,.83,.86],light:[-.2,.7,-.65],distant:'#b5c5ca',bg:'#d5d8c1',inside:true,notes:'35: rear snowy window, cream walls, teal blankets, cool grey floor'},
+  motel_night:{tint:[.53,.62,.73],shadowMul:[.58,.65,.84],light:[-.65,.5,.3],distant:'#394c66',bg:'#24334e',inside:true,night:true,pool:{pos:[-2.65,1,-.05],power:.18,color:[1,.84,.55]},notes:'36: bedside lamp pool and blue snowy night outside'},
+  town_line:{tint:[1,.99,.94],shadowMul:[.74,.81,.87],light:[-.6,.8,.4],distant:'#99b4a2',bg:'#91d0eb',notes:'30: summer left and overcast winter right are authored in geometry colours'},
+  memory_lake:{tint:[1,.88,.75],shadowMul:[.74,.66,.83],light:[0,.25,-.8],distant:'#8f9f78',bg:'#f4ba80',notes:'31: low yellow sunset behind blank cloth, golden sand, cool violet shadows'},
+  memory_lake_storm:{tint:[.43,.49,.65],shadowMul:[.54,.59,.81],light:[-.2,.7,-.3],distant:'#4d6171',bg:'#343d5a',night:true,notes:'32: violet storm sky, torn cloth and tipped benches'},
+  car:{tint:[.98,.99,.93],shadowMul:[.71,.79,.85],light:[-.4,.65,-.7],distant:'#8ea388',bg:'#a9c9d5',inside:true,notes:'No painting: provisional neutral daylight through windscreen; needs user painting'},
+  city_archive:{tint:[1,.98,.90],shadowMul:[.79,.79,.84],light:[-.35,.75,-.4],distant:'#b4bfb5',bg:'#ddd7b9',inside:true,notes:'38: diffuse daylight through tall arched windows, cream walls and oak drawers'},
+  festival_stage:{tint:[.83,.86,1],shadowMul:[.65,.68,.86],light:[-.55,.3,-.6],distant:'#718a91',bg:'#627d9c',pool:{pos:[0,2.2,1],power:.025,color:[1,.84,.58]},notes:'39: blue dusk over warm timber, festoon lights, peach horizon'},
+  festival_stage_storm:{tint:[.42,.51,.59],shadowMul:[.52,.60,.73],light:[-.3,.7,-.3],distant:'#405c68',bg:'#293e4e',night:true,notes:'40: dark teal storm, wet sand, damaged picnic benches'},
+  city_pool:{tint:[.79,.91,1],shadowMul:[.65,.76,.87],light:[-.6,.7,-.3],distant:'#718e9a',bg:'#738d9c',inside:true,notes:'37: cool glass hall, slate steel trusses, turquoise water and grey bleachers'},
+  gus_garage_night:{tint:[.36,.46,.61],shadowMul:[.54,.63,.83],light:[-.6,.65,.4],distant:'#3d515e',bg:'#293c50',inside:true,night:true,pool:{pos:[-2.55,1.15,.35],power:.14,color:[1,.82,.5]},notes:'29: closed doors, desk-lamp pool, deep blue-grey shelves'},
+
+  walt_garage:{tint:[1,.97,.91],shadowMul:[.76,.72,.82],light:[-.1,.75,-.65],distant:'#a7b7a0',bg:'#b6d0d0',inside:true,notes:'26: rear garage daylight, cream plaster, grey concrete and cool mauve shadows'},
+  archive:{tint:[.83,.86,.82],shadowMul:[.65,.68,.73],light:[0,.9,.2],distant:'#606968',bg:'#757d78',inside:true,pool:{pos:[0,2.5,.5],power:.06,color:[1,.94,.78]},notes:'27: low overhead lamps, grey-green storage basement, deep central aisle'},
+  gus_garage: {tint:[.96,.99,1],shadowMul:[.71,.77,.84],light:[.65,.7,-.4],distant:'#9db8a8',bg:'#91cce5',inside:true,notes:'28: neutral concrete and plaster; daylight through rear and right opening'},
   park:        {...DAY, light: [-.45, .85, .35], notes: '23_park_day: high sun from the left, soft green-blue shadows under the oak'},
   lake:        {...DAY, light: [-.45, .85, .35], notes: 'lake_day_v2: same sun as the park'},
   main_street: {tint: [.98, 1, 1.02], shadowMul: [.70, .79, .96], light: [-.60, .70, .40], distant: '#9db8a8', bg: '#8fd0f2', notes: '55_main_street_day_mailbox: strong sun from the left, hard cool grey-blue shadows on the paving'},

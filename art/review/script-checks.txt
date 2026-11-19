@@ -1,0 +1,53 @@
+note: Friendzy app prompts not found at /Users/lazaretchaava/Desktop/Friendzy/Models (set FRIENDZY_MODELS); game prompts are not checked
+ep01: STOPPED in episodes/ep01.txt: episode: beat s11: rocco walked off at the end of beat s10 but is in this beat's cast with no entrance: drop them from "cast", or give them an "enter"   (open that file at the line number given, fix the script, run this check again)
+ep02: STOPPED in episodes/ep02.txt: episode: beat s07: riot, rocco walked off at the end of beat s06 but is in this beat's cast with no entrance: drop them from "cast", or give them an "enter"   (open that file at the line number given, fix the script, run this check again)
+ep03  183 s  Summer Homework   [4 one-word lines, 0 group laughs]
+ep04  191 s  Not For Sale   [12 one-word lines, 0 group laughs]
+ep05  202 s  Storm Night   [10 one-word lines, 0 group laughs]
+ep06  170 s  Town Meeting
+      - length 170 s is outside 175-240 s
+ep07  181 s  Garage Sale   [8 one-word lines, 0 group laughs]
+ep08  189 s  The Archive   [10 one-word lines, 0 group laughs]
+ep09  184 s  Training Montage   [12 one-word lines, 2 group laughs]
+ep10  189 s  Following Riot   [16 one-word lines, 2 group laughs]
+ep11  182 s  Totally Normal   [4 one-word lines, 4 group laughs]
+ep12  177 s  Between Jobs   [14 one-word lines, 0 group laughs]
+ep13  172 s  Firefly Night   [6 one-word lines, 0 group laughs]
+      - length 172 s is outside 175-240 s
+ep14  176 s  Only Bash Saw It   [4 one-word lines, 0 group laughs]
+ep15  162 s  Off Duty   [14 one-word lines, 0 group laughs]
+      - length 162 s is outside 175-240 s
+ep16  194 s  House Rules   [12 one-word lines, 0 group laughs]
+ep17  187 s  Open House   [4 one-word lines, 0 group laughs]
+ep18  190 s  Just a Hiker   [8 one-word lines, 0 group laughs]
+ep19  214 s  Turns   [2 one-word lines, 0 group laughs]
+ep20  179 s  The Twelfth of August   [16 one-word lines, 0 group laughs]
+ep21  210 s  Committee   [12 one-word lines, 0 group laughs]
+ep22  162 s  Some Guy   [4 one-word lines, 0 group laughs]
+      - length 162 s is outside 175-240 s
+ep23  187 s  Round One   [2 one-word lines, 4 group laughs]
+ep24  180 s  The Quiet One   [6 one-word lines, 0 group laughs]
+ep25  201 s  All Four   [4 one-word lines, 0 group laughs]
+ep26  163 s  Road Trip Mode   [2 one-word lines, 0 group laughs]
+      - length 163 s is outside 175-240 s
+ep27  161 s  Weather   [4 one-word lines, 0 group laughs]
+      - length 161 s is outside 175-240 s
+ep28  162 s  The Pool   [6 one-word lines, 2 group laughs]
+      - length 162 s is outside 175-240 s
+ep29  168 s  What Rocco Knew   [6 one-word lines, 0 group laughs]
+      - length 168 s is outside 175-240 s
+ep30  201 s  Lamplight   [8 one-word lines, 0 group laughs]
+ep31  183 s  Who Sits Where   [6 one-word lines, 0 group laughs]
+ep32  201 s  Final Offer   [8 one-word lines, 0 group laughs]
+ep33  175 s  Boxes   [4 one-word lines, 2 group laughs]
+ep34  211 s  The Perfect Day   [10 one-word lines, 0 group laughs]
+ep35  159 s  Last Turn   [2 one-word lines, 0 group laughs]
+      - length 159 s is outside 175-240 s
+ep36  169 s  Eleven   [6 one-word lines, 0 group laughs]
+      - length 169 s is outside 175-240 s
+ep37  162 s  One Small Game   [8 one-word lines, 2 group laughs]
+      - length 162 s is outside 175-240 s
+ep38  213 s  Leave It Be   [8 one-word lines, 0 group laughs]
+ep39  218 s  Twelfth of August   [2 one-word lines, 0 group laughs]
+ep40  180 s  Porch Light Off   [2 one-word lines, 0 group laughs]
+38 episodes, 116 min in all, 184 s on average; 13 with something to look at

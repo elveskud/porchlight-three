@@ -3,10 +3,29 @@
 // then add ONE line to REGISTRY below, add its catalog entry in ../catalog.js (build: 'v5') and a light record in
 // ../../illustrated/reference-v3/lighting.js. See docs/cards/add-a-set.md.
 export const REGISTRY = {
-  // gus_garage: () => import('./gus_garage.js'),
+  city_pool: () => import('./city_pool.js'),
+  festival_stage: () => import('./festival_stage.js'),
+  city_archive: () => import('./city_archive.js'),
+  car: () => import('./car.js'),
+  memory_lake: () => import('./memory_lake.js'),
+  town_line: () => import('./town_line.js'),
+  motel: () => import('./motel.js'),
+  city_street: () => import('./city_street.js'),
+  archive: () => import('./archive.js'),
+  walt_garage: () => import('./walt_garage.js'),
+  gus_garage: () => import('./gus_garage.js'),
 };
-/** Build a v5 set by id, or return null if it is not a v5 set (use the old buildSet then). */
-export async function buildSetV5(id) {
-  const load = REGISTRY[id]; if (!load) return null;
-  const mod = await load(); const root = mod.build(); root.name = root.name || id; return root;
+/** Alternate paintings share geometry while remaining selectable by the normal preview and episode API. */
+export const VARIANTS = {
+  gus_garage_night: {base:'gus_garage', options:{mood:'night'}},
+  motel_night: {base:'motel', options:{mood:'night'}},
+  memory_lake_storm: {base:'memory_lake', options:{mood:'storm'}},
+  festival_stage_storm: {base:'festival_stage', options:{mood:'storm'}},
+  city_canal: {base:'city_street', options:{view:'canal'}},
+};
+/** Build a v5 set by id, or return null to use the existing set builder. */
+export async function buildSetV5(id, options={}) {
+  const variant=VARIANTS[id],load=REGISTRY[variant?.base||id];if(!load)return null;
+  const mod=await load(),root=mod.build({...variant?.options,...options});
+  root.name=id;root.userData.id=id;return root;
 }
