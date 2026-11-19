@@ -4,7 +4,7 @@ Read only this card, `episodes/epNN.txt`, `art/three/sets/spots.json`, and the e
 The compiler parses the text when `episodes/epNN.json` does not exist.
 Read the whole script in numbered ranges if output is truncated; list every beat and its location before editing.
 
-1. Create `comparisons/episodeNN/`, copy Episode 34's `staging.json` there, then edit it.
+1. Run `python3 tools/init_staging.py N` to create `comparisons/episodeNN/staging.json` from the script. It refuses to overwrite an existing file.
 2. Set `episode` to N. Include exactly the script's beat ids (`s01`, `s02`, etc.; the intro is a beat).
 3. Set each beat's `set` to its script location. List speaking actors in `actors`.
 4. Give standing actors `{"at":[x,y,z]}`; seated actors `{"seat":"name"}` from that set in `spots.json`.
@@ -14,7 +14,7 @@ Read the whole script in numbered ranges if output is truncated; list every beat
 8. Use `firstLineAt` (seconds) to allow arrival before dialogue; `tail` allows time to leave after it.
 9. A few motivated cuts: `closeUps:[{"line":"s03_06","to":"s03_07","who":"riot"}]`; omit `to` for one line.
 10. Line ids are beat id + zero-based line index, including silent lines. Cuts must last at least 1.1 s and end before another speaker.
-11. Set `hookModule` to null and remove copied `hooks` unless props are needed. Custom props belong in this episode's `props.js`, never in dialogue.
+11. Keep the starter's shared `hookModule`. For story props use `hookModule:"./props.js"` and only that episode's hooks; never edit dialogue.
 12. A props module exports `hookNames`, `actions` (functions keyed by those names), and optional `setup`, `beforeFrame`, `afterAttention`, `prepareSets`.
 13. Each hook receives `{t,b,e,l,actors,modeled,props,timeline,E,paths,put,along,camera}`. Ask for help with unusual props; don't invent story details.
 14. If QA names an unsupported script action, add top-level `moveAliases`, e.g. `{"cheer":"wave","shake":"shrug"}`; null requires a hook that draws that action. Never rewrite dialogue to fix a rig cue.
@@ -22,6 +22,7 @@ Read the whole script in numbered ranges if output is truncated; list every beat
 16. Remove copied `duration` from dialogue beats; preparation must fit every spoken line. Only the silent intro has a fixed duration.
 17. Match each script location exactly; give actors distinct positions. Do not reuse the lake camera for a hall or room.
 18. Keep the example's `ending` object, including its camera and set, for the lamp and logo ending.
+19. If `edit_file` cannot match text, read the exact range or rewrite the complete JSON with `write_file`; do not repeat the failed edit.
 
 Replace `35` below with N; all commands must succeed:
 ```sh

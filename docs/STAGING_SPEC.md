@@ -40,8 +40,8 @@ Per beat (ids `s01`, `s02`, ... as in `episodes/epNN.json`):
 4. `docs/cards/stage-an-episode.md`: the card for the model: copy `staging.json` of Episode 4, edit per beat, run the validator, run the QA, render.
 
 ## Proof it works (acceptance, in this order)
-1. Re-express **Episode 4** in `staging.json` + `props.js`; render 20 sample frames with the new driver and compare to the delivered v5 film. They must be identical (or differ only where noted).
-2. Build **Episode 34** ("The Perfect Day": all sets and characters already exist) through it: voices (see `voice/SETUP.md`, about 40 s a line), audio, the three checks, render. The user reviews the pictures.
+1. Re-express **Episode 4** in `staging.json` + `props.js`; render 20 sample frames with the new driver and compare against the unchanged v5 driver in the same browser/GPU environment. All 20 sampled PNG frames are identical.
+2. Build **Episode 34** ("The Perfect Day": all sets and characters already exist) through it with explicitly marked placeholder voices, generated audio, QA and render. Real voices remain the user’s later step (`voice/SETUP.md`); the user reviews the pictures.
 3. **Local model test**: give Qwen3 14B (`tools/local-agent/`) `episodes/ep35.json` ("Last Turn", also needs nothing new) plus the card, and see whether it produces a `staging.json` that passes the validator and renders. Fix the card where it stumbles.
 
 ## Rough size

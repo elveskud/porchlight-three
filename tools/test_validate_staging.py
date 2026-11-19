@@ -2,6 +2,7 @@
 """Bad staging must produce specific, repairable errors instead of a traceback."""
 import copy,unittest
 from validate_staging import validate
+from init_staging import make_staging
 SCRIPT={'episode':34,'beats':[{'id':'s01','location':'apartment','lines':[{'who':'riot','say':'One line.'},{'who':'pip','say':'Another line.'}]}]}
 GOOD={'episode':34,'ending':{'camera':{'pos':[0,2,6],'target':[0,1,0]}},'beats':{'s01':{'set':'apartment','camera':{'pos':[0,2,6],'target':[0,1,0]},'actors':{'riot':{'at':[0,0,0]},'pip':{'at':[1,0,0]}}}}}
 class ValidatorTests(unittest.TestCase):
@@ -24,4 +25,8 @@ class ValidatorTests(unittest.TestCase):
  def test_missing_ending(self):
   data=copy.deepcopy(GOOD);data.pop('ending');errors=validate(data,SCRIPT,spots={},hook_names=set())
   self.assertTrue(any('copy ending.camera from the example' in e for e in errors),errors)
+ def test_starter_preserves_script_structure(self):
+  data=make_staging(SCRIPT,{})
+  self.assertEqual({'s01'},set(data['beats']));self.assertEqual('apartment',data['beats']['s01']['set'])
+  self.assertNotIn('duration',data['beats']['s01']);self.assertEqual([],validate(data,SCRIPT,spots={},hook_names=set()))
 if __name__=='__main__':unittest.main()

@@ -76,3 +76,13 @@ Where two entries disagree, the newer one wins; Blender-era entries are history,
 - **19 Nov 2026 — Technical (acceptance fixes):** reset held Episode 34 prop parents and transforms before every drawing after out-of-order QA exposed retained hand attachment; reject timeline events outside their beat, preserve script set IDs, and document the Qwen card dry-run failures before publishing Part B.
 
 - **19 Nov 2026 — Technical (audio QA):** the generated splash exposed AAC true-peak overshoot despite sample limiting; add a two-pass -14 LUFS/-2 dBTP master to the new generic mixer, preserving the existing shared mixer and all QA limits.
+
+- **19 Nov 2026 — Technical (AAC headroom measured):** the encoded generated-noise splash still overshot a -2 dBTP source master, so use -6 dBTP source headroom while retaining -14 LUFS; verify the encoded film, not just the WAV.
+
+- **19 Nov 2026 — Placeholder review delivery:** Episode 34, `/Users/lazaretchaava/Desktop/Porchlight Episode 34 - Placeholder Review (Three.js).mp4`; SHA-256 `ff779fbb32df132ab3d30fd50bd9f3477dfc91d14a0c96f15b2dd5d3713e4c05`. Silent placeholder voices; film QA PASS; not a final voiced episode.
+
+- **19 Nov 2026 — Placeholder review delivery:** Episode 35, `/Users/lazaretchaava/Desktop/Porchlight Episode 35 - Placeholder Review (Three.js).mp4`; SHA-256 `6d84ee751323194519f9b1dace488948f5f32397fa154bd61d15e3ff50472099`. Silent placeholder voices; film QA PASS; not a final voiced episode.
+
+- **19 Nov 2026 — Technical (visual review):** face the Episode 34 lake group toward its reverse camera (yaw 2.75), correcting the backwards bodies visible in the contact sheet without changing the camera or story. Refresh film and stills.
+
+- **19 Nov 2026 — Technical (small-model repair):** repeated Qwen JSON edits stalled. Add a non-overwriting script-derived staging initializer (exact beats, sets and cast, distinct starter positions, shared dressing, ending camera, no dialogue duration overrides). Keep unusual prop actions in explicit hooks and require the same QA.

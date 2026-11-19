@@ -13,10 +13,10 @@ source=shared.read_text();source=source.replace('for name, at, gain in cues.get(
 # Measure true peaks, then master with headroom before encoding the film.
 import json,re,subprocess
 audio=assets/'audio.wav'
-analysis=subprocess.run(['ffmpeg','-hide_banner','-nostats','-i',str(audio),'-af','loudnorm=I=-14:TP=-2:LRA=11:print_format=json','-f','null','-'],capture_output=True,text=True,check=True)
+analysis=subprocess.run(['ffmpeg','-hide_banner','-nostats','-i',str(audio),'-af','loudnorm=I=-14:TP=-6:LRA=11:print_format=json','-f','null','-'],capture_output=True,text=True,check=True)
 stats=json.loads(re.findall(r'\{[^{}]*"input_i"[^{}]*\}',analysis.stderr,re.S)[-1])
-normalizer='loudnorm=I=-14:TP=-2:LRA=11:'+':'.join(f'{key}={stats[value]}' for key,value in [('measured_I','input_i'),('measured_TP','input_tp'),('measured_LRA','input_lra'),('measured_thresh','input_thresh'),('offset','target_offset')])+':linear=true'
+normalizer='loudnorm=I=-14:TP=-6:LRA=11:'+':'.join(f'{key}={stats[value]}' for key,value in [('measured_I','input_i'),('measured_TP','input_tp'),('measured_LRA','input_lra'),('measured_thresh','input_thresh'),('offset','target_offset')])+':linear=true'
 master=assets/'audio-master.wav'
 subprocess.run(['ffmpeg','-hide_banner','-loglevel','error','-i',str(audio),'-af',normalizer,'-ar',str(K.SR),'-c:a','pcm_s16le','-y',str(master)],check=True)
 master.replace(audio)
-print('MASTER -14 LUFS, -2 dBTP target (AAC headroom)')
+print('MASTER -14 LUFS, -6 dBTP target (AAC headroom)')
